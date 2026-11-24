@@ -21,12 +21,12 @@ from engine import DATA  # noqa: E402
 from translit import ALIASES, converter, reader  # noqa: E402
 
 IPA = "IPA (type IPA directly)"
-BUILT = ("align_wikipron.tsv", "roman.csv", "syllables.txt")  # as translit.converter
-TARGETS = list(ALIASES) + sorted(
-    d.name for d in DATA.iterdir()
-    if d.name not in ALIASES.values() and any((d / f).exists() for f in BUILT))
-MAPS = Path(epitran.__file__).parent / "data/map"
 HIDDEN = {"cmn-Bopo", "cmn-Latn"}  # superseded by the "2" maps
+BUILT = ("align_wikipron.tsv", "roman.csv", "syllables.txt")  # as translit.converter
+SKIP = HIDDEN | set(ALIASES.values())
+TARGETS = list(ALIASES) + sorted(d.name for d in DATA.iterdir() if d.name not in SKIP
+                                 and any((d / f).exists() for f in BUILT))
+MAPS = Path(epitran.__file__).parent / "data/map"
 SOURCES = [IPA, "eng-Latn"] + sorted(p.stem for p in MAPS.glob("*.csv")
                                      if p.stem not in HIDDEN)
 
