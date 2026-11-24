@@ -26,7 +26,9 @@ TARGETS = list(ALIASES) + sorted(
     d.name for d in DATA.iterdir()
     if d.name not in ALIASES.values() and any((d / f).exists() for f in BUILT))
 MAPS = Path(epitran.__file__).parent / "data/map"
-SOURCES = [IPA, "eng-Latn"] + sorted(p.stem for p in MAPS.glob("*.csv"))
+HIDDEN = {"cmn-Bopo", "cmn-Latn"}  # superseded by the "2" maps
+SOURCES = [IPA, "eng-Latn"] + sorted(p.stem for p in MAPS.glob("*.csv")
+                                     if p.stem not in HIDDEN)
 
 
 @st.cache_resource
