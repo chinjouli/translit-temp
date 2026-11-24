@@ -1,0 +1,1636 @@
+gram	context	phones
+ا	between_consonants	a
+ا	alone	a
+ى	between_vowels	i
+ى	between_consonants	i
+ى	alone	i
+ە	between_vowels	ɛ
+ە	between_consonants	ɛ
+ە	alone	ɛ
+ت	between_vowels	t
+ت	between_consonants	t
+ت	alone	t
+ر	between_vowels	r
+ر	between_consonants	r
+ر	alone	r
+م	between_vowels	m
+م	between_consonants	m
+م	alone	m
+ل	between_vowels	l
+ل	alone	l
+ن	between_vowels	n
+ن	between_consonants	n
+ن	alone	n
+ئ	between_consonants	e
+ئ	alone	e
+ق	between_vowels	q
+ق	between_consonants	q
+ق	alone	q
+ۇ	between_vowels	u
+ۇ	between_consonants	u
+ۇ	alone	u
+ي	between_vowels	j
+ي	between_consonants	j
+ي	alone	j
+س	between_vowels	s
+س	between_consonants	s
+س	alone	s
+ك	between_vowels	k
+ك	between_consonants	k
+ك	alone	k
+پ	between_vowels	p
+پ	between_consonants	p
+پ	alone	p
+و	between_vowels	o
+و	between_consonants	o
+و	alone	o
+ب	between_vowels	b
+ب	between_consonants	b
+ب	alone	b
+د	between_vowels	d
+د	between_consonants	d
+د	alone	d
+ز	between_vowels	z
+ز	between_consonants	z
+ز	alone	z
+ې	between_vowels	e
+ې	between_consonants	e
+ې	alone	e
+ەت	between_vowels	ɛ t
+ەت	between_consonants	ɛ t
+ەت	alone	ɛ t
+ھ	between_vowels	h
+ھ	between_consonants	h
+ھ	alone	h
+ئا	between_consonants	a
+ئا	alone	a
+ىي	between_vowels	i j
+ىي	between_consonants	i j
+ىي	alone	i j
+ش	between_vowels	ʃ
+ش	between_consonants	ʃ
+ش	alone	ʃ
+مە	between_vowels	m ɛ
+مە	between_consonants	m ɛ
+مە	alone	m ɛ
+ۋ	between_vowels	w
+ۋ	between_consonants	w
+ۋ	alone	w
+لى	between_vowels	l i
+لى	alone	l i
+ما	between_consonants	m a
+ما	alone	m a
+ار	between_consonants	a r
+ار	alone	a r
+اق	between_consonants	a q
+اق	alone	a q
+ان	between_consonants	a n
+ان	alone	a n
+ئى	between_vowels	i
+ئى	between_consonants	i
+ئى	alone	i
+تە	between_vowels	t ɛ
+تە	between_consonants	t ɛ
+تە	alone	t ɛ
+ۈ	between_vowels	y
+ۈ	between_consonants	y
+ۈ	alone	y
+ج	between_vowels	d͡ʒ
+ج	between_consonants	d͡ʒ
+ج	alone	d͡ʒ
+ىل	between_vowels	i l
+ىل	alone	i l
+چ	between_vowels	t͡ʃ
+چ	between_consonants	t͡ʃ
+چ	alone	t͡ʃ
+ىر	between_vowels	i r
+ىر	between_consonants	i r
+ىر	alone	i r
+ال	alone	a l
+ەر	between_vowels	ɛ r
+ەر	between_consonants	ɛ r
+ەر	alone	ɛ r
+سى	between_vowels	s i
+سى	between_consonants	s i
+سى	alone	s i
+خ	between_vowels	χ
+خ	between_consonants	χ
+خ	alone	χ
+تى	between_vowels	t i
+تى	between_consonants	t i
+تى	alone	t i
+مۇ	between_vowels	m u
+مۇ	between_consonants	m u
+مۇ	alone	m u
+ىن	between_vowels	i n
+ىن	between_consonants	i n
+ىن	alone	i n
+ات	between_consonants	a t
+ات	alone	a t
+غ	between_vowels	ʁ
+غ	between_consonants	ʁ
+غ	alone	ʁ
+ئە	between_vowels	ɛ
+ئە	between_consonants	ɛ
+ئە	alone	ɛ
+را	between_consonants	r a
+را	alone	r a
+تا	between_consonants	t a
+تا	alone	t a
+يا	between_consonants	j a
+يا	alone	j a
+گ	between_vowels	ɡ
+گ	between_consonants	ɡ
+گ	alone	ɡ
+ىق	between_vowels	i q
+ىق	between_consonants	i q
+ىق	alone	i q
+لا	alone	l a
+ەن	between_vowels	ɛ n
+ەن	between_consonants	ɛ n
+ەن	alone	ɛ n
+رى	between_vowels	r i
+رى	between_consonants	r i
+رى	alone	r i
+يە	between_vowels	j ɛ
+يە	between_consonants	j ɛ
+يە	alone	j ɛ
+نا	between_consonants	n a
+نا	alone	n a
+ىم	between_vowels	i m
+ىم	between_consonants	i m
+ىم	alone	i m
+رە	between_vowels	r ɛ
+رە	between_consonants	r ɛ
+رە	alone	r ɛ
+ۇر	between_vowels	u r
+ۇر	between_consonants	u r
+ۇر	alone	u r
+ەك	between_vowels	ɛ k
+ەك	between_consonants	ɛ k
+ەك	alone	ɛ k
+ماق	between_vowels	m a q
+ماق	between_consonants	m a q
+ماق	alone	m a q
+مى	between_vowels	m i
+مى	between_consonants	m i
+مى	alone	m i
+ڭ	between_vowels	ŋ
+ڭ	between_consonants	ŋ
+ڭ	alone	ŋ
+ىك	between_vowels	i k
+ىك	between_consonants	i k
+ىك	alone	i k
+لە	between_vowels	l ɛ
+لە	alone	l ɛ
+نى	between_vowels	n i
+نى	between_consonants	n i
+نى	alone	n i
+ىز	between_vowels	i z
+ىز	between_consonants	i z
+ىز	alone	i z
+اپ	between_consonants	a p
+اپ	alone	a p
+ەس	between_vowels	ɛ s
+ەس	between_consonants	ɛ s
+ەس	alone	ɛ s
+كا	between_consonants	k a
+كا	alone	k a
+قا	between_consonants	q a
+قا	alone	q a
+سا	between_consonants	s a
+سا	alone	s a
+دا	between_consonants	d a
+دا	alone	d a
+ام	between_consonants	a m
+ام	alone	a m
+ىس	between_vowels	i s
+ىس	between_consonants	i s
+ىس	alone	i s
+ۆ	between_vowels	ø
+ۆ	between_consonants	ø
+ۆ	alone	ø
+اس	between_consonants	a s
+اس	alone	a s
+پا	between_consonants	p a
+پا	alone	p a
+ىيە	between_vowels	i j ɛ
+ىيە	between_consonants	i j ɛ
+ىيە	alone	i j ɛ
+پە	between_vowels	p ɛ
+پە	between_consonants	p ɛ
+پە	alone	p ɛ
+دى	between_vowels	d i
+دى	between_consonants	d i
+دى	alone	d i
+قى	between_vowels	q i
+قى	between_consonants	q i
+قى	alone	q i
+اي	between_consonants	a j
+اي	alone	a j
+ۋا	between_consonants	w a
+ۋا	alone	w a
+ۇن	between_vowels	u n
+ۇن	between_consonants	u n
+ۇن	alone	u n
+ىت	between_vowels	i t
+ىت	between_consonants	i t
+ىت	alone	i t
+نە	between_vowels	n ɛ
+نە	between_consonants	n ɛ
+نە	alone	n ɛ
+ەل	between_vowels	ɛ l
+ەل	alone	ɛ l
+بە	between_vowels	b ɛ
+بە	between_consonants	b ɛ
+بە	alone	b ɛ
+ىپ	between_vowels	i p
+ىپ	between_consonants	i p
+ىپ	alone	i p
+با	between_consonants	b a
+با	alone	b a
+اد	between_consonants	a d
+اد	alone	a d
+دە	between_vowels	d ɛ
+دە	between_consonants	d ɛ
+دە	alone	d ɛ
+بى	between_vowels	b i
+بى	between_consonants	b i
+بى	alone	b i
+لىق	between_vowels	l i q
+لىق	alone	l i q
+ھە	between_vowels	h ɛ
+ھە	between_consonants	h ɛ
+ھە	alone	h ɛ
+اھ	between_consonants	a h
+اھ	alone	a h
+كى	between_vowels	k i
+كى	between_consonants	k i
+كى	alone	k i
+ست	between_vowels	s t
+ست	between_consonants	s t
+ست	alone	s t
+كە	between_vowels	k ɛ
+كە	between_consonants	k ɛ
+كە	alone	k ɛ
+سە	between_vowels	s ɛ
+سە	between_consonants	s ɛ
+سە	alone	s ɛ
+ۇس	between_vowels	u s
+ۇس	between_consonants	u s
+ۇس	alone	u s
+زى	between_vowels	z i
+زى	between_consonants	z i
+زى	alone	z i
+ۇق	between_vowels	u q
+ۇق	between_consonants	u q
+ۇق	alone	u q
+ۇل	between_vowels	u l
+ۇل	alone	u l
+ەھ	between_vowels	ɛ h
+ەھ	between_consonants	ɛ h
+ەھ	alone	ɛ h
+از	between_consonants	a z
+از	alone	a z
+ەپ	between_vowels	ɛ p
+ەپ	between_consonants	ɛ p
+ەپ	alone	ɛ p
+چى	between_vowels	t͡ʃ i
+چى	between_consonants	t͡ʃ i
+چى	alone	t͡ʃ i
+قە	between_vowels	q ɛ
+قە	between_consonants	q ɛ
+قە	alone	q ɛ
+ەم	between_vowels	ɛ m
+ەم	between_consonants	ɛ m
+ەم	alone	ɛ m
+ۋە	between_vowels	w ɛ
+ۋە	between_consonants	w ɛ
+ۋە	alone	w ɛ
+ھا	between_consonants	h a
+ھا	alone	h a
+اۋ	between_consonants	a w
+اۋ	alone	a w
+قۇ	between_vowels	q u
+قۇ	between_consonants	q u
+قۇ	alone	q u
+ور	between_vowels	o r
+ور	between_consonants	o r
+ور	alone	o r
+زا	between_consonants	z a
+زا	alone	z a
+تو	between_vowels	t o
+تو	between_consonants	t o
+تو	alone	t o
+پى	between_vowels	p i
+پى	between_consonants	p i
+پى	alone	p i
+يى	between_vowels	j i
+يى	between_consonants	j i
+يى	alone	j i
+ۇت	between_vowels	u t
+ۇت	between_consonants	u t
+ۇت	alone	u t
+ىش	between_vowels	i ʃ
+ىش	between_consonants	i ʃ
+ىش	alone	i ʃ
+يەت	between_vowels	j ɛ t
+يەت	between_consonants	j ɛ t
+يەت	alone	j ɛ t
+ەي	between_vowels	ɛ j
+ەي	between_consonants	ɛ j
+ەي	alone	ɛ j
+ئۇ	between_vowels	u
+ئۇ	between_consonants	u
+ئۇ	alone	u
+اش	between_consonants	a ʃ
+اش	alone	a ʃ
+ەز	between_vowels	ɛ z
+ەز	between_consonants	ɛ z
+ەز	alone	ɛ z
+ئې	between_vowels	e
+ئې	between_consonants	e
+ئې	alone	e
+لۇ	between_vowels	l u
+لۇ	alone	l u
+ون	between_vowels	o n
+ون	between_consonants	o n
+ون	alone	o n
+بۇ	between_vowels	b u
+بۇ	between_consonants	b u
+بۇ	alone	b u
+ىما	between_consonants	i m a
+ىما	alone	i m a
+جا	between_consonants	d͡ʒ a
+جا	alone	d͡ʒ a
+ائ	between_consonants	a e
+ائ	alone	a e
+ھى	between_vowels	h i
+ھى	between_consonants	h i
+ھى	alone	h i
+ەب	between_vowels	ɛ b
+ەب	between_consonants	ɛ b
+ەب	alone	ɛ b
+اب	between_consonants	a b
+اب	alone	a b
+ەۋ	between_vowels	ɛ w
+ەۋ	between_consonants	ɛ w
+ەۋ	alone	ɛ w
+مەك	between_vowels	m ɛ k
+مەك	between_consonants	m ɛ k
+مەك	alone	m ɛ k
+لل	between_vowels	l l
+لل	alone	l l
+ف	between_vowels	f
+ف	between_consonants	f
+ف	alone	f
+ېت	between_vowels	e t
+ېت	between_consonants	e t
+ېت	alone	e t
+لىك	between_vowels	l i k
+لىك	alone	l i k
+ەد	between_vowels	ɛ d
+ەد	between_consonants	ɛ d
+ەد	alone	ɛ d
+سىي	between_vowels	s i j
+سىي	between_consonants	s i j
+سىي	alone	s i j
+تۇ	between_vowels	t u
+تۇ	between_consonants	t u
+تۇ	alone	t u
+شە	between_vowels	ʃ ɛ
+شە	between_consonants	ʃ ɛ
+شە	alone	ʃ ɛ
+ېر	between_vowels	e r
+ېر	between_consonants	e r
+ېر	alone	e r
+ئو	between_vowels	o
+ئو	between_consonants	o
+ئو	alone	o
+ول	between_vowels	o l
+ول	alone	o l
+ەق	between_vowels	ɛ q
+ەق	between_consonants	ɛ q
+ەق	alone	ɛ q
+ىيا	between_consonants	i j a
+ىيا	alone	i j a
+تې	between_vowels	t e
+تې	between_consonants	t e
+تې	alone	t e
+رم	between_vowels	r m
+رم	between_consonants	r m
+رم	alone	r m
+ۈر	between_vowels	y r
+ۈر	between_consonants	y r
+ۈر	alone	y r
+ارا	between_consonants	a r a
+ارا	alone	a r a
+رۇ	between_vowels	r u
+رۇ	between_consonants	r u
+رۇ	alone	r u
+مې	between_vowels	m e
+مې	between_consonants	m e
+مې	alone	m e
+ئار	between_vowels	a r
+ئار	between_consonants	a r
+ئار	alone	a r
+ىلى	between_vowels	i l i
+ىلى	between_consonants	i l i
+ىلى	alone	i l i
+شى	between_vowels	ʃ i
+شى	between_consonants	ʃ i
+شى	alone	ʃ i
+اك	between_consonants	a k
+اك	alone	a k
+ىد	between_vowels	i d
+ىد	between_consonants	i d
+ىد	alone	i d
+ۇم	between_vowels	u m
+ۇم	between_consonants	u m
+ۇم	alone	u m
+رەت	between_vowels	r ɛ t
+رەت	between_consonants	r ɛ t
+رەت	alone	r ɛ t
+وم	between_vowels	o m
+وم	between_consonants	o m
+وم	alone	o m
+زە	between_vowels	z ɛ
+زە	between_consonants	z ɛ
+زە	alone	z ɛ
+رو	between_vowels	r o
+رو	between_consonants	r o
+رو	alone	r o
+نىي	between_vowels	n i j
+نىي	between_consonants	n i j
+نىي	alone	n i j
+يۇ	between_vowels	j u
+يۇ	between_consonants	j u
+يۇ	alone	j u
+غۇ	between_vowels	ʁ u
+غۇ	between_consonants	ʁ u
+غۇ	alone	ʁ u
+ېل	between_vowels	e l
+ېل	alone	e l
+چا	between_consonants	t͡ʃ a
+چا	alone	t͡ʃ a
+ۇز	between_vowels	u z
+ۇز	between_consonants	u z
+ۇز	alone	u z
+قو	between_vowels	q o
+قو	between_consonants	q o
+قو	alone	q o
+ەش	between_vowels	ɛ ʃ
+ەش	between_consonants	ɛ ʃ
+ەش	alone	ɛ ʃ
+جى	between_vowels	d͡ʒ i
+جى	between_consonants	d͡ʒ i
+جى	alone	d͡ʒ i
+ىب	between_vowels	i b
+ىب	between_consonants	i b
+ىب	alone	i b
+ئىس	between_vowels	i s
+ئىس	between_consonants	i s
+ئىس	alone	i s
+شا	between_consonants	ʃ a
+شا	alone	ʃ a
+انا	between_consonants	a n a
+انا	alone	a n a
+جە	between_vowels	d͡ʒ ɛ
+جە	between_consonants	d͡ʒ ɛ
+جە	alone	d͡ʒ ɛ
+ىست	between_vowels	i s t
+ىست	between_consonants	i s t
+ىست	alone	i s t
+ند	between_vowels	n d
+ند	between_consonants	n d
+ند	alone	n d
+ۋى	between_vowels	w i
+ۋى	between_consonants	w i
+ۋى	alone	w i
+مەت	between_vowels	m ɛ t
+مەت	between_consonants	m ɛ t
+مەت	alone	m ɛ t
+غا	between_consonants	ʁ a
+غا	alone	ʁ a
+ارى	between_consonants	a r i
+ارى	alone	a r i
+ەخ	between_vowels	ɛ χ
+ەخ	between_consonants	ɛ χ
+ەخ	alone	ɛ χ
+اڭ	between_consonants	a ŋ
+اڭ	alone	a ŋ
+غە	between_vowels	ʁ ɛ
+غە	between_consonants	ʁ ɛ
+غە	alone	ʁ ɛ
+ئاس	between_vowels	a s
+ئاس	between_consonants	a s
+ئاس	alone	a s
+ەج	between_vowels	ɛ d͡ʒ
+ەج	between_consonants	ɛ d͡ʒ
+ەج	alone	ɛ d͡ʒ
+ائى	between_consonants	a i
+ائى	alone	a i
+پار	between_vowels	p a r
+پار	between_consonants	p a r
+پار	alone	p a r
+رىي	between_vowels	r i j
+رىي	between_consonants	r i j
+رىي	alone	r i j
+سۇ	between_vowels	s u
+سۇ	between_consonants	s u
+سۇ	alone	s u
+پۇ	between_vowels	p u
+پۇ	between_consonants	p u
+پۇ	alone	p u
+خا	between_consonants	χ a
+خا	alone	χ a
+ئەت	between_vowels	ɛ t
+ئەت	between_consonants	ɛ t
+ئەت	alone	ɛ t
+نت	between_vowels	n t
+نت	between_consonants	n t
+نت	alone	n t
+سىز	between_vowels	s i z
+سىز	between_consonants	s i z
+سىز	alone	s i z
+پت	between_vowels	p t
+پت	between_consonants	p t
+پت	alone	p t
+لەت	between_vowels	l ɛ t
+لەت	alone	l ɛ t
+ئات	between_vowels	a t
+ئات	between_consonants	a t
+ئات	alone	a t
+مەن	between_vowels	m ɛ n
+مەن	between_consonants	m ɛ n
+مەن	alone	m ɛ n
+لىي	between_vowels	l i j
+لىي	alone	l i j
+تل	between_vowels	t l
+تل	alone	t l
+گە	between_vowels	ɡ ɛ
+گە	between_consonants	ɡ ɛ
+گە	alone	ɡ ɛ
+مو	between_vowels	m o
+مو	between_consonants	m o
+مو	alone	m o
+كۈ	between_vowels	k y
+كۈ	between_consonants	k y
+كۈ	alone	k y
+الا	between_consonants	a l a
+الا	alone	a l a
+گى	between_vowels	ɡ i
+گى	between_consonants	ɡ i
+گى	alone	ɡ i
+ىرا	between_consonants	i r a
+ىرا	alone	i r a
+ېن	between_vowels	e n
+ېن	between_consonants	e n
+ېن	alone	e n
+ئال	between_vowels	a l
+ئال	alone	a l
+كو	between_vowels	k o
+كو	between_consonants	k o
+كو	alone	k o
+دۇ	between_vowels	d u
+دۇ	between_consonants	d u
+دۇ	alone	d u
+رما	between_consonants	r m a
+رما	alone	r m a
+نې	between_vowels	n e
+نې	between_consonants	n e
+نې	alone	n e
+لو	between_vowels	l o
+لو	alone	l o
+نۇ	between_vowels	n u
+نۇ	between_consonants	n u
+نۇ	alone	n u
+نچ	between_vowels	n t͡ʃ
+نچ	between_consonants	n t͡ʃ
+نچ	alone	n t͡ʃ
+ئىل	between_vowels	i l
+ئىل	alone	i l
+اۋا	between_consonants	a w a
+اۋا	alone	a w a
+پەر	between_vowels	p ɛ r
+پەر	between_consonants	p ɛ r
+پەر	alone	p ɛ r
+كۆ	between_vowels	k ø
+كۆ	between_consonants	k ø
+كۆ	alone	k ø
+مۇس	between_vowels	m u s
+مۇس	between_consonants	m u s
+مۇس	alone	m u s
+ۇي	between_vowels	u j
+ۇي	between_consonants	u j
+ۇي	alone	u j
+ۈل	between_vowels	y l
+ۈل	alone	y l
+ادى	between_consonants	a d i
+ادى	alone	a d i
+ارە	between_consonants	a r ɛ
+ارە	alone	a r ɛ
+الى	between_consonants	a l i
+الى	alone	a l i
+ران	between_vowels	r a n
+ران	between_consonants	r a n
+ران	alone	r a n
+مەر	between_vowels	m ɛ r
+مەر	between_consonants	m ɛ r
+مەر	alone	m ɛ r
+اغ	between_consonants	a ʁ
+اغ	alone	a ʁ
+تان	between_vowels	t a n
+تان	between_consonants	t a n
+تان	alone	t a n
+وپ	between_vowels	o p
+وپ	between_consonants	o p
+وپ	alone	o p
+اج	between_consonants	a d͡ʒ
+اج	alone	a d͡ʒ
+رق	between_vowels	r q
+رق	between_consonants	r q
+رق	alone	r q
+تم	between_vowels	t m
+تم	between_consonants	t m
+تم	alone	t m
+مىن	between_vowels	m i n
+مىن	between_consonants	m i n
+مىن	alone	m i n
+ەسى	between_vowels	ɛ s i
+ەسى	between_consonants	ɛ s i
+ەسى	alone	ɛ s i
+تەر	between_vowels	t ɛ r
+تەر	between_consonants	t ɛ r
+تەر	alone	t ɛ r
+اخ	between_consonants	a χ
+اخ	alone	a χ
+ەرە	between_vowels	ɛ r ɛ
+ەرە	between_consonants	ɛ r ɛ
+ەرە	alone	ɛ r ɛ
+تار	between_vowels	t a r
+تار	between_consonants	t a r
+تار	alone	t a r
+ئىن	between_vowels	i n
+ئىن	between_consonants	i n
+ئىن	alone	i n
+ېم	between_vowels	e m
+ېم	between_consonants	e m
+ېم	alone	e m
+بې	between_vowels	b e
+بې	between_consonants	b e
+بې	alone	b e
+دىي	between_vowels	d i j
+دىي	between_consonants	d i j
+دىي	alone	d i j
+مان	between_vowels	m a n
+مان	between_consonants	m a n
+مان	alone	m a n
+ىۋ	between_vowels	i w
+ىۋ	between_consonants	i w
+ىۋ	alone	i w
+ېتى	between_vowels	e t i
+ېتى	between_consonants	e t i
+ېتى	alone	e t i
+رت	between_vowels	r t
+رت	between_consonants	r t
+رت	alone	r t
+ۈك	between_vowels	y k
+ۈك	between_consonants	y k
+ۈك	alone	y k
+تىر	between_vowels	t i r
+تىر	between_consonants	t i r
+تىر	alone	t i r
+ىڭ	between_vowels	i ŋ
+ىڭ	between_consonants	i ŋ
+ىڭ	alone	i ŋ
+ئاپ	between_vowels	a p
+ئاپ	between_consonants	a p
+ئاپ	alone	a p
+لىم	between_vowels	l i m
+لىم	alone	l i m
+ۇپ	between_vowels	u p
+ۇپ	between_consonants	u p
+ۇپ	alone	u p
+نس	between_vowels	n s
+نس	between_consonants	n s
+نس	alone	n s
+ېھ	between_vowels	e h
+ېھ	between_consonants	e h
+ېھ	alone	e h
+ئۆ	between_vowels	ø
+ئۆ	between_consonants	ø
+ئۆ	alone	ø
+اھى	between_consonants	a h i
+اھى	alone	a h i
+لۇق	between_vowels	l u q
+لۇق	alone	l u q
+خى	between_vowels	χ i
+خى	between_consonants	χ i
+خى	alone	χ i
+بو	between_vowels	b o
+بو	between_consonants	b o
+بو	alone	b o
+ىرە	between_vowels	i r ɛ
+ىرە	between_consonants	i r ɛ
+ىرە	alone	i r ɛ
+پو	between_vowels	p o
+پو	between_consonants	p o
+پو	alone	p o
+يو	between_vowels	j o
+يو	between_consonants	j o
+يو	alone	j o
+اسى	between_consonants	a s i
+اسى	alone	a s i
+ېك	between_vowels	e k
+ېك	between_consonants	e k
+ېك	alone	e k
+اھا	between_consonants	a h a
+اھا	alone	a h a
+لم	between_vowels	l m
+لم	alone	l m
+تت	between_vowels	t t
+تت	between_consonants	t t
+تت	alone	t t
+تس	between_vowels	t s
+تس	between_consonants	t s
+تس	alone	t s
+تسى	between_vowels	t s i
+تسى	between_consonants	t s i
+تسى	alone	t s i
+ايا	between_consonants	a j a
+ايا	alone	a j a
+لت	between_vowels	l t
+لت	alone	l t
+وت	between_vowels	o t
+وت	between_consonants	o t
+وت	alone	o t
+اما	between_consonants	a m a
+اما	alone	a m a
+ۇھ	between_vowels	u h
+ۇھ	between_consonants	u h
+ۇھ	alone	u h
+سس	between_vowels	s s
+سس	between_consonants	s s
+سس	alone	s s
+خە	between_vowels	χ ɛ
+خە	between_consonants	χ ɛ
+خە	alone	χ ɛ
+اچ	between_consonants	a t͡ʃ
+اچ	alone	a t͡ʃ
+ازا	between_consonants	a z a
+ازا	alone	a z a
+مىل	between_vowels	m i l
+مىل	alone	m i l
+نو	between_vowels	n o
+نو	between_consonants	n o
+نو	alone	n o
+غى	between_vowels	ʁ i
+غى	between_consonants	ʁ i
+غى	alone	ʁ i
+ىج	between_vowels	i d͡ʒ
+ىج	between_consonants	i d͡ʒ
+ىج	alone	i d͡ʒ
+ېي	between_vowels	e j
+ېي	between_consonants	e j
+ېي	alone	e j
+ىكا	between_consonants	i k a
+ىكا	alone	i k a
+وي	between_vowels	o j
+وي	between_consonants	o j
+وي	alone	o j
+سل	between_vowels	s l
+سل	alone	s l
+گا	between_consonants	ɡ a
+گا	alone	ɡ a
+ىلا	between_consonants	i l a
+ىلا	alone	i l a
+مۇن	between_vowels	m u n
+مۇن	between_consonants	m u n
+مۇن	alone	m u n
+سې	between_vowels	s e
+سې	between_consonants	s e
+سې	alone	s e
+ستا	between_consonants	s t a
+ستا	alone	s t a
+ۇئ	between_vowels	u
+ۇئ	between_consonants	u e
+ۇئ	alone	u e
+اپى	between_consonants	a p i
+اپى	alone	a p i
+گۈ	between_vowels	ɡ y
+گۈ	between_consonants	ɡ y
+گۈ	alone	ɡ y
+ازى	between_consonants	a z i
+ازى	alone	a z i
+ئىش	between_vowels	i ʃ
+ئىش	between_consonants	i ʃ
+ئىش	alone	i ʃ
+بىي	between_vowels	b i j
+بىي	between_consonants	b i j
+بىي	alone	b i j
+لې	between_vowels	l e
+لې	alone	l e
+رك	between_vowels	r k
+رك	between_consonants	r k
+رك	alone	r k
+اتى	between_consonants	a t i
+اتى	alone	a t i
+ۋۇ	between_vowels	w u
+ۋۇ	between_consonants	w u
+ۋۇ	alone	w u
+زل	between_vowels	z l
+زل	alone	z l
+ئاي	between_vowels	a j
+ئاي	between_consonants	a j
+ئاي	alone	a j
+ۇد	between_vowels	u d
+ۇد	between_consonants	u d
+ۇد	alone	u d
+وس	between_vowels	o s
+وس	between_consonants	o s
+وس	alone	o s
+يان	between_vowels	j a n
+يان	between_consonants	j a n
+يان	alone	j a n
+مىي	between_vowels	m i j
+مىي	between_consonants	m i j
+مىي	alone	m i j
+ئەس	between_vowels	ɛ s
+ئەس	between_consonants	ɛ s
+ئەس	alone	ɛ s
+تۈ	between_vowels	t y
+تۈ	between_consonants	t y
+تۈ	alone	t y
+ەڭ	between_vowels	ɛ ŋ
+ەڭ	between_consonants	ɛ ŋ
+ەڭ	alone	ɛ ŋ
+انى	between_consonants	a n i
+انى	alone	a n i
+كر	between_vowels	k r
+كر	between_consonants	k r
+كر	alone	k r
+ەدە	between_vowels	ɛ d ɛ
+ەدە	between_consonants	ɛ d ɛ
+ەدە	alone	ɛ d ɛ
+ىرى	between_vowels	i r i
+ىرى	between_consonants	i r i
+ىرى	alone	i r i
+قل	between_vowels	q l
+قل	alone	q l
+يات	between_vowels	j a t
+يات	between_consonants	j a t
+يات	alone	j a t
+تلى	between_vowels	t l i
+تلى	between_consonants	t l i
+تلى	alone	t l i
+كار	between_vowels	k a r
+كار	between_consonants	k a r
+كار	alone	k a r
+بەت	between_vowels	b ɛ t
+بەت	between_consonants	b ɛ t
+بەت	alone	b ɛ t
+سىر	between_vowels	s i r
+سىر	between_consonants	s i r
+سىر	alone	s i r
+ئىپ	between_vowels	i p
+ئىپ	between_consonants	i p
+ئىپ	alone	i p
+ۋەت	between_vowels	w ɛ t
+ۋەت	between_consonants	w ɛ t
+ۋەت	alone	w ɛ t
+وق	between_vowels	o q
+وق	between_consonants	o q
+وق	alone	o q
+تىي	between_vowels	t i j
+تىي	between_consonants	t i j
+تىي	alone	t i j
+مېت	between_vowels	m e t
+مېت	between_consonants	m e t
+مېت	alone	m e t
+ئاب	between_vowels	a b
+ئاب	between_consonants	a b
+ئاب	alone	a b
+خۇ	between_vowels	χ u
+خۇ	between_consonants	χ u
+خۇ	alone	χ u
+وغ	between_vowels	o ʁ
+وغ	between_consonants	o ʁ
+وغ	alone	o ʁ
+ايە	between_consonants	a j ɛ
+ايە	alone	a j ɛ
+مۇھ	between_vowels	m u h
+مۇھ	between_consonants	m u h
+مۇھ	alone	m u h
+رب	between_vowels	r b
+رب	between_consonants	r b
+رب	alone	r b
+مەس	between_vowels	m ɛ s
+مەس	between_consonants	m ɛ s
+مەس	alone	m ɛ s
+ۇرۇ	between_vowels	u r u
+ۇرۇ	between_consonants	u r u
+ۇرۇ	alone	u r u
+جۇ	between_vowels	d͡ʒ u
+جۇ	between_consonants	d͡ʒ u
+جۇ	alone	d͡ʒ u
+مۈ	between_vowels	m y
+مۈ	between_consonants	m y
+مۈ	alone	m y
+زۇ	between_vowels	z u
+زۇ	between_consonants	z u
+زۇ	alone	z u
+لاق	between_vowels	l a q
+لاق	alone	l a q
+پىي	between_vowels	p i j
+پىي	between_consonants	p i j
+پىي	alone	p i j
+ىنا	between_consonants	i n a
+ىنا	alone	i n a
+ئاد	between_vowels	a d
+ئاد	between_consonants	a d
+ئاد	alone	a d
+خان	between_vowels	χ a n
+خان	between_consonants	χ a n
+خان	alone	χ a n
+يال	between_vowels	j a l
+يال	alone	j a l
+بر	between_vowels	b r
+بر	between_consonants	b r
+بر	alone	b r
+سان	between_vowels	s a n
+سان	between_consonants	s a n
+سان	alone	s a n
+دىم	between_vowels	d i m
+دىم	between_consonants	d i m
+دىم	alone	d i m
+داش	between_vowels	d a ʃ
+داش	between_consonants	d a ʃ
+داش	alone	d a ʃ
+للى	between_vowels	l l i
+للى	alone	l l i
+ادا	between_consonants	a d a
+ادا	alone	a d a
+ەسە	between_vowels	ɛ s ɛ
+ەسە	between_consonants	ɛ s ɛ
+ەسە	alone	ɛ s ɛ
+ىپا	between_consonants	i p a
+ىپا	alone	i p a
+ەلل	between_vowels	ɛ l l
+ەلل	alone	ɛ l l
+دد	between_vowels	d d
+دد	between_consonants	d d
+دد	alone	d d
+ىچ	between_vowels	i t͡ʃ
+ىچ	between_consonants	i t͡ʃ
+ىچ	alone	i t͡ʃ
+ستى	between_vowels	s t i
+ستى	between_consonants	s t i
+ستى	alone	s t i
+انە	between_consonants	a n ɛ
+انە	alone	a n ɛ
+مۇر	between_vowels	m u r
+مۇر	between_consonants	m u r
+مۇر	alone	m u r
+تر	between_vowels	t r
+تر	between_consonants	t r
+تر	alone	t r
+قەت	between_vowels	q ɛ t
+قەت	between_consonants	q ɛ t
+قەت	alone	q ɛ t
+الە	between_consonants	a l ɛ
+الە	alone	a l ɛ
+تما	between_consonants	t m a
+تما	alone	t m a
+رل	between_vowels	r l
+رل	alone	r l
+ير	between_vowels	j r
+ير	between_consonants	j r
+ير	alone	j r
+اسا	between_consonants	a s a
+اسا	alone	a s a
+ىنچ	between_vowels	i n t͡ʃ
+ىنچ	between_consonants	i n t͡ʃ
+ىنچ	alone	i n t͡ʃ
+نچى	between_vowels	n t͡ʃ i
+نچى	between_consonants	n t͡ʃ i
+نچى	alone	n t͡ʃ i
+ۈم	between_vowels	y m
+ۈم	between_consonants	y m
+ۈم	alone	y m
+اپا	between_consonants	a p a
+اپا	alone	a p a
+قان	between_vowels	q a n
+قان	between_consonants	q a n
+قان	alone	q a n
+تەس	between_vowels	t ɛ s
+تەس	between_consonants	t ɛ s
+تەس	alone	t ɛ s
+اتا	between_consonants	a t a
+اتا	alone	a t a
+بىر	between_vowels	b i r
+بىر	between_consonants	b i r
+بىر	alone	b i r
+سىل	between_vowels	s i l
+سىل	alone	s i l
+ەتل	between_vowels	ɛ t l
+ەتل	alone	ɛ t l
+كې	between_vowels	k e
+كې	between_consonants	k e
+كې	alone	k e
+ېلى	between_vowels	e l i
+ېلى	between_consonants	e l i
+ېلى	alone	e l i
+ۇرا	between_consonants	u r a
+ۇرا	alone	u r a
+سۈ	between_vowels	s y
+سۈ	between_consonants	s y
+سۈ	alone	s y
+رگ	between_vowels	r ɡ
+رگ	between_consonants	r ɡ
+رگ	alone	r ɡ
+ىمە	between_vowels	i m ɛ
+ىمە	between_consonants	i m ɛ
+ىمە	alone	i m ɛ
+تىل	between_vowels	t i l
+تىل	alone	t i l
+تىق	between_vowels	t i q
+تىق	between_consonants	t i q
+تىق	alone	t i q
+ۇلا	between_consonants	u l a
+ۇلا	alone	u l a
+قىل	between_vowels	q i l
+قىل	alone	q i l
+تەن	between_vowels	t ɛ n
+تەن	between_consonants	t ɛ n
+تەن	alone	t ɛ n
+يې	between_vowels	j e
+يې	between_consonants	j e
+يې	alone	j e
+مەھ	between_vowels	m ɛ h
+مەھ	between_consonants	m ɛ h
+مەھ	alone	m ɛ h
+ادە	between_consonants	a d ɛ
+ادە	alone	a d ɛ
+ىزا	between_consonants	i z a
+ىزا	alone	i z a
+لىپ	between_vowels	l i p
+لىپ	alone	l i p
+ھر	between_vowels	h r
+ھر	between_consonants	h r
+ھر	alone	h r
+راپ	between_vowels	r a p
+راپ	between_consonants	r a p
+راپ	alone	r a p
+ۇب	between_vowels	u b
+ۇب	between_consonants	u b
+ۇب	alone	u b
+رس	between_vowels	r s
+رس	between_consonants	r s
+رس	alone	r s
+بۇر	between_vowels	b u r
+بۇر	between_consonants	b u r
+بۇر	alone	b u r
+ۇست	between_vowels	u s t
+ۇست	between_consonants	u s t
+ۇست	alone	u s t
+تىن	between_vowels	t i n
+تىن	between_consonants	t i n
+تىن	alone	t i n
+ئاش	between_vowels	a ʃ
+ئاش	between_consonants	a ʃ
+ئاش	alone	a ʃ
+ەزى	between_vowels	ɛ z i
+ەزى	between_consonants	ɛ z i
+ەزى	alone	ɛ z i
+ىلە	between_vowels	i l ɛ
+ىلە	between_consonants	i l ɛ
+ىلە	alone	i l ɛ
+ەقى	between_vowels	ɛ q i
+ەقى	between_consonants	ɛ q i
+ەقى	alone	ɛ q i
+راق	between_vowels	r a q
+راق	between_consonants	r a q
+راق	alone	r a q
+ۇش	between_vowels	u ʃ
+ۇش	between_consonants	u ʃ
+ۇش	alone	u ʃ
+وز	between_vowels	o z
+وز	between_consonants	o z
+وز	alone	o z
+مۇئ	between_vowels	m u
+مۇئ	between_consonants	m u e
+مۇئ	alone	m u e
+امە	between_consonants	a m ɛ
+امە	alone	a m ɛ
+يۈ	between_vowels	j y
+يۈ	between_consonants	j y
+يۈ	alone	j y
+دو	between_vowels	d o
+دو	between_consonants	d o
+دو	alone	d o
+مال	between_vowels	m a l
+مال	alone	m a l
+ەھە	between_vowels	ɛ h ɛ
+ەھە	between_consonants	ɛ h ɛ
+ەھە	alone	ɛ h ɛ
+قىي	between_vowels	q i j
+قىي	between_consonants	q i j
+قىي	alone	q i j
+كس	between_vowels	k s
+كس	between_consonants	k s
+كس	alone	k s
+مار	between_vowels	m a r
+مار	between_consonants	m a r
+مار	alone	m a r
+مات	between_vowels	m a t
+مات	between_consonants	m a t
+مات	alone	m a t
+تىم	between_vowels	t i m
+تىم	between_consonants	t i m
+تىم	alone	t i m
+ەبى	between_vowels	ɛ b i
+ەبى	between_consonants	ɛ b i
+ەبى	alone	ɛ b i
+نج	between_vowels	n d͡ʒ
+نج	between_consonants	n d͡ʒ
+نج	alone	n d͡ʒ
+ۇنا	between_consonants	u n a
+ۇنا	alone	u n a
+رمە	between_vowels	r m ɛ
+رمە	between_consonants	r m ɛ
+رمە	alone	r m ɛ
+لات	between_vowels	l a t
+لات	alone	l a t
+نب	between_vowels	n b
+نب	between_consonants	n b
+نب	alone	n b
+پەت	between_vowels	p ɛ t
+پەت	between_consonants	p ɛ t
+پەت	alone	p ɛ t
+رۋ	between_vowels	r w
+رۋ	between_consonants	r w
+رۋ	alone	r w
+تەك	between_vowels	t ɛ k
+تەك	between_consonants	t ɛ k
+تەك	alone	t ɛ k
+ساپ	between_vowels	s a p
+ساپ	between_consonants	s a p
+ساپ	alone	s a p
+بال	between_vowels	b a l
+بال	alone	b a l
+تەھ	between_vowels	t ɛ h
+تەھ	between_consonants	t ɛ h
+تەھ	alone	t ɛ h
+قىر	between_vowels	q i r
+قىر	between_consonants	q i r
+قىر	alone	q i r
+سك	between_vowels	s k
+سك	between_consonants	s k
+سك	alone	s k
+كىر	between_vowels	k i r
+كىر	between_consonants	k i r
+كىر	alone	k i r
+للا	alone	l l a
+تور	between_vowels	t o r
+تور	between_consonants	t o r
+تور	alone	t o r
+نەت	between_vowels	n ɛ t
+نەت	between_consonants	n ɛ t
+نەت	alone	n ɛ t
+سر	between_vowels	s r
+سر	between_consonants	s r
+سر	alone	s r
+تەب	between_vowels	t ɛ b
+تەب	between_consonants	t ɛ b
+تەب	alone	t ɛ b
+كك	between_vowels	k k
+كك	between_consonants	k k
+كك	alone	k k
+نات	between_vowels	n a t
+نات	between_consonants	n a t
+نات	alone	n a t
+ومۇ	between_vowels	o m u
+ومۇ	between_consonants	o m u
+ومۇ	alone	o m u
+لد	between_vowels	l d
+لد	alone	l d
+ژ	between_vowels	ʒ
+ژ	between_consonants	ʒ
+ژ	alone	ʒ
+گۇ	between_vowels	ɡ u
+گۇ	between_consonants	ɡ u
+گۇ	alone	ɡ u
+ۇۋ	between_vowels	u w
+ۇۋ	between_consonants	u w
+ۇۋ	alone	u w
+ياق	between_vowels	j a q
+ياق	between_consonants	j a q
+ياق	alone	j a q
+ەند	between_vowels	ɛ n d
+ەند	between_consonants	ɛ n d
+ەند	alone	ɛ n d
+ۈش	between_vowels	y ʃ
+ۈش	between_consonants	y ʃ
+ۈش	alone	y ʃ
+زىي	between_vowels	z i j
+زىي	between_consonants	z i j
+زىي	alone	z i j
+رد	between_vowels	r d
+رد	between_consonants	r d
+رد	alone	r d
+خت	between_vowels	χ t
+خت	between_consonants	χ t
+خت	alone	χ t
+مل	between_vowels	m l
+مل	alone	m l
+قس	between_vowels	q s
+قس	between_consonants	q s
+قس	alone	q s
+كۇ	between_vowels	k u
+كۇ	between_consonants	k u
+كۇ	alone	k u
+كت	between_vowels	k t
+كت	between_consonants	k t
+كت	alone	k t
+ېس	between_vowels	e s
+ېس	between_consonants	e s
+ېس	alone	e s
+دەت	between_vowels	d ɛ t
+دەت	between_consonants	d ɛ t
+دەت	alone	d ɛ t
+قق	between_vowels	q q
+قق	between_consonants	q q
+قق	alone	q q
+يم	between_vowels	j m
+يم	between_consonants	j m
+يم	alone	j m
+ھال	between_vowels	h a l
+ھال	alone	h a l
+تىك	between_vowels	t i k
+تىك	between_consonants	t i k
+تىك	alone	t i k
+خو	between_vowels	χ o
+خو	between_consonants	χ o
+خو	alone	χ o
+رۋا	between_consonants	r w a
+رۋا	alone	r w a
+ئام	between_vowels	a m
+ئام	between_consonants	a m
+ئام	alone	a m
+تال	between_vowels	t a l
+تال	alone	t a l
+نسى	between_vowels	n s i
+نسى	between_consonants	n s i
+نسى	alone	n s i
+ھىر	between_vowels	h i r
+ھىر	between_consonants	h i r
+ھىر	alone	h i r
+رسى	between_vowels	r s i
+رسى	between_consonants	r s i
+رسى	alone	r s i
+كىن	between_vowels	k i n
+كىن	between_consonants	k i n
+كىن	alone	k i n
+كىل	between_vowels	k i l
+كىل	alone	k i l
+لان	between_vowels	l a n
+لان	alone	l a n
+ندى	between_vowels	n d i
+ندى	between_consonants	n d i
+ندى	alone	n d i
+يار	between_vowels	j a r
+يار	between_consonants	j a r
+يار	alone	j a r
+غر	between_vowels	ʁ r
+غر	between_consonants	ʁ r
+غر	alone	ʁ r
+پس	between_vowels	p s
+پس	between_consonants	p s
+پس	alone	p s
+ەپس	between_vowels	ɛ p s
+ەپس	between_consonants	ɛ p s
+ەپس	alone	ɛ p s
+ۋر	between_vowels	w r
+ۋر	between_consonants	w r
+ۋر	alone	w r
+ەنى	between_vowels	ɛ n i
+ەنى	between_consonants	ɛ n i
+ەنى	alone	ɛ n i
+ئىي	between_vowels	i j
+ئىي	between_consonants	i j
+ئىي	alone	i j
+وڭ	between_vowels	o ŋ
+وڭ	between_consonants	o ŋ
+وڭ	alone	o ŋ
+لار	between_vowels	l a r
+لار	alone	l a r
+ەئ	between_vowels	ɛ
+ەئ	between_consonants	ɛ e
+ەئ	alone	ɛ e
+اقا	between_consonants	a q a
+اقا	alone	a q a
+رپ	between_vowels	r p
+رپ	between_consonants	r p
+رپ	alone	r p
+ئەل	between_vowels	ɛ l
+ئەل	alone	ɛ l
+يىل	between_vowels	j i l
+يىل	alone	j i l
+تەش	between_vowels	t ɛ ʃ
+تەش	between_consonants	t ɛ ʃ
+تەش	alone	t ɛ ʃ
+نام	between_vowels	n a m
+نام	between_consonants	n a m
+نام	alone	n a m
+ىبا	between_consonants	i b a
+ىبا	alone	i b a
+ڭگ	between_vowels	ŋ ɡ
+ڭگ	between_consonants	ŋ ɡ
+ڭگ	alone	ŋ ɡ
+رغ	between_vowels	r ʁ
+رغ	between_consonants	r ʁ
+رغ	alone	r ʁ
+سىن	between_vowels	s i n
+سىن	between_consonants	s i n
+سىن	alone	s i n
+قار	between_vowels	q a r
+قار	between_consonants	q a r
+قار	alone	q a r
+ۈن	between_vowels	y n
+ۈن	between_consonants	y n
+ۈن	alone	y n
+ھې	between_vowels	h e
+ھې	between_consonants	h e
+ھې	alone	h e
+ەرى	between_vowels	ɛ r i
+ەرى	between_consonants	ɛ r i
+ەرى	alone	ɛ r i
+شت	between_vowels	ʃ t
+شت	between_consonants	ʃ t
+شت	alone	ʃ t
+ىھ	between_vowels	i h
+ىھ	between_consonants	i h
+ىھ	alone	i h
+مۇق	between_vowels	m u q
+مۇق	between_consonants	m u q
+مۇق	alone	m u q
+ۈز	between_vowels	y z
+ۈز	between_consonants	y z
+ۈز	alone	y z
+ھەم	between_vowels	h ɛ m
+ھەم	between_consonants	h ɛ m
+ھەم	alone	h ɛ m
+ايى	between_consonants	a j i
+ايى	alone	a j i
+ئاۋ	between_vowels	a w
+ئاۋ	between_consonants	a w
+ئاۋ	alone	a w
+اپت	between_consonants	a p t
+اپت	alone	a p t
+تەپ	between_vowels	t ɛ p
+تەپ	between_consonants	t ɛ p
+تەپ	alone	t ɛ p
+ستە	between_vowels	s t ɛ
+ستە	between_consonants	s t ɛ
+ستە	alone	s t ɛ
+لما	alone	l m a
+دۈ	between_vowels	d y
+دۈ	between_consonants	d y
+دۈ	alone	d y
+چە	between_vowels	t͡ʃ ɛ
+چە	between_consonants	t͡ʃ ɛ
+چە	alone	t͡ʃ ɛ
+لەن	between_vowels	l ɛ n
+لەن	alone	l ɛ n
+وب	between_vowels	o b
+وب	between_consonants	o b
+وب	alone	o b
+ئىت	between_vowels	i t
+ئىت	between_consonants	i t
+ئىت	alone	i t
+ەتت	between_vowels	ɛ t t
+ەتت	between_consonants	ɛ t t
+ەتت	alone	ɛ t t
+نبە	between_vowels	n b ɛ
+نبە	between_consonants	n b ɛ
+نبە	alone	n b ɛ
+ىنى	between_vowels	i n i
+ىنى	between_consonants	i n i
+ىنى	alone	i n i
+دەر	between_vowels	d ɛ r
+دەر	between_consonants	d ɛ r
+دەر	alone	d ɛ r
+رەك	between_vowels	r ɛ k
+رەك	between_consonants	r ɛ k
+رەك	alone	r ɛ k
+ېرى	between_vowels	e r i
+ېرى	between_consonants	e r i
+ېرى	alone	e r i
+ئىم	between_vowels	i m
+ئىم	between_consonants	i m
+ئىم	alone	i m
+ىگ	between_vowels	i ɡ
+ىگ	between_consonants	i ɡ
+ىگ	alone	i ɡ
+شۈ	between_vowels	ʃ y
+شۈ	between_consonants	ʃ y
+شۈ	alone	ʃ y
+ەلى	between_vowels	ɛ l i
+ەلى	between_consonants	ɛ l i
+ەلى	alone	ɛ l i
+اند	between_consonants	a n d
+اند	alone	a n d
+ئۇن	between_vowels	u n
+ئۇن	between_consonants	u n
+ئۇن	alone	u n
+است	between_consonants	a s t
+است	alone	a s t
+سەن	between_vowels	s ɛ n
+سەن	between_consonants	s ɛ n
+سەن	alone	s ɛ n
+ېۋ	between_vowels	e w
+ېۋ	between_consonants	e w
+ېۋ	alone	e w
+ىدا	between_consonants	i d a
+ىدا	alone	i d a
+قال	between_vowels	q a l
+قال	alone	q a l
+پر	between_vowels	p r
+پر	between_consonants	p r
+پر	alone	p r
+غۇل	between_vowels	ʁ u l
+غۇل	alone	ʁ u l
+مۇت	between_vowels	m u t
+مۇت	between_consonants	m u t
+مۇت	alone	m u t
+سسى	between_vowels	s s i
+سسى	between_consonants	s s i
+سسى	alone	s s i
+تۇر	between_vowels	t u r
+تۇر	between_consonants	t u r
+تۇر	alone	t u r
+بار	between_vowels	b a r
+بار	between_consonants	b a r
+بار	alone	b a r
+تۆ	between_vowels	t ø
+تۆ	between_consonants	t ø
+تۆ	alone	t ø
+نەپ	between_vowels	n ɛ p
+نەپ	between_consonants	n ɛ p
+نەپ	alone	n ɛ p
+ەپە	between_vowels	ɛ p ɛ
+ەپە	between_consonants	ɛ p ɛ
+ەپە	alone	ɛ p ɛ
+كەت	between_vowels	k ɛ t
+كەت	between_consonants	k ɛ t
+كەت	alone	k ɛ t
+ەۋە	between_vowels	ɛ w ɛ
+ەۋە	between_consonants	ɛ w ɛ
+ەۋە	alone	ɛ w ɛ
+گې	between_vowels	ɡ e
+گې	between_consonants	ɡ e
+گې	alone	ɡ e
+تىز	between_vowels	t i z
+تىز	between_consonants	t i z
+تىز	alone	t i z
+سم	between_vowels	s m
+سم	between_consonants	s m
+سم	alone	s m
+ۋاپ	between_vowels	w a p
+ۋاپ	between_consonants	w a p
+ۋاپ	alone	w a p
+ىلل	between_vowels	i l l
+ىلل	alone	i l l
+ئاق	between_vowels	a q
+ئاق	between_consonants	a q
+ئاق	alone	a q
+بۇل	between_vowels	b u l
+بۇل	alone	b u l
+ەدى	between_vowels	ɛ d i
+ەدى	between_consonants	ɛ d i
+ەدى	alone	ɛ d i
+گىر	between_vowels	ɡ i r
+گىر	between_consonants	ɡ i r
+گىر	alone	ɡ i r
+ەلە	between_vowels	ɛ l ɛ
+ەلە	between_consonants	ɛ l ɛ
+ەلە	alone	ɛ l ɛ
+خش	between_vowels	χ ʃ
+خش	between_consonants	χ ʃ
+خش	alone	χ ʃ
+ىكر	between_vowels	i k r
+ىكر	between_consonants	i k r
+ىكر	alone	i k r
+ۇئا	between_consonants	u a
+ۇئا	alone	u a
+ئۈ	between_vowels	y
+ئۈ	between_consonants	y
+ئۈ	alone	y
+مەد	between_vowels	m ɛ d
+مەد	between_consonants	m ɛ d
+مەد	alone	m ɛ d
+نل	between_vowels	n l
+نل	alone	n l
+ۋار	between_vowels	w a r
+ۋار	between_consonants	w a r
+ۋار	alone	w a r
+رقى	between_vowels	r q i
+رقى	between_consonants	r q i
+رقى	alone	r q i
+ېيى	between_vowels	e j i
+ېيى	between_consonants	e j i
+ېيى	alone	e j i
+ھۇ	between_vowels	h u
+ھۇ	between_consonants	h u
+ھۇ	alone	h u
+ملى	between_vowels	m l i
+ملى	between_consonants	m l i
+ملى	alone	m l i
+ئېت	between_vowels	e t
+ئېت	between_consonants	e t
+ئېت	alone	e t
+ھل	between_vowels	h l
+ھل	alone	h l
+نائ	between_vowels	n a
+نائ	between_consonants	n a e
+نائ	alone	n a e
+ئەر	between_vowels	ɛ r
+ئەر	between_consonants	ɛ r
+ئەر	alone	ɛ r
+اتو	between_consonants	a t o
+اتو	alone	a t o
+ېپ	between_vowels	e p
+ېپ	between_consonants	e p
+ېپ	alone	e p
+لاي	between_vowels	l a j
+لاي	alone	l a j
+ۇرم	between_vowels	u r m
+ۇرم	between_consonants	u r m
+ۇرم	alone	u r m
+ەكك	between_vowels	ɛ k k
+ەكك	between_consonants	ɛ k k
+ەكك	alone	ɛ k k
+ئۇي	between_vowels	u j
+ئۇي	between_consonants	u j
+ئۇي	alone	u j
+پپ	between_vowels	p p
+پپ	between_consonants	p p
+پپ	alone	p p
+ەغ	between_vowels	ɛ ʁ
+ەغ	between_consonants	ɛ ʁ
+ەغ	alone	ɛ ʁ
+ەتى	between_vowels	ɛ t i
+ەتى	between_consonants	ɛ t i
+ەتى	alone	ɛ t i
+تىپ	between_vowels	t i p
+تىپ	between_consonants	t i p
+تىپ	alone	t i p
+يل	between_vowels	j l
+يل	alone	j l
+ھىي	between_vowels	h i j
+ھىي	between_consonants	h i j
+ھىي	alone	h i j
+قلى	between_vowels	q l i
+قلى	between_consonants	q l i
+قلى	alone	q l i
+اقى	between_consonants	a q i
+اقى	alone	a q i
+دې	between_vowels	d e
+دې	between_consonants	d e
+دې	alone	d e
+رچ	between_vowels	r t͡ʃ
+رچ	between_consonants	r t͡ʃ
+رچ	alone	r t͡ʃ
+ىقە	between_vowels	i q ɛ
+ىقە	between_consonants	i q ɛ
+ىقە	alone	i q ɛ
+ەنب	between_vowels	ɛ n b
+ەنب	between_consonants	ɛ n b
+ەنب	alone	ɛ n b
+ئىر	between_vowels	i r
+ئىر	between_consonants	i r
+ئىر	alone	i r
+لتى	between_vowels	l t i
+لتى	alone	l t i
+زلى	between_vowels	z l i
+زلى	between_consonants	z l i
+زلى	alone	z l i
+شەن	between_vowels	ʃ ɛ n
+شەن	between_consonants	ʃ ɛ n
+شەن	alone	ʃ ɛ n
+وگ	between_vowels	o ɡ
+وگ	between_consonants	o ɡ
+وگ	alone	o ɡ
+وك	between_vowels	o k
+وك	between_consonants	o k
+وك	alone	o k
+فو	between_vowels	f o
+فو	between_consonants	f o
+فو	alone	f o
+ھەت	between_vowels	h ɛ t
+ھەت	between_consonants	h ɛ t
+ھەت	alone	h ɛ t
+زىن	between_vowels	z i n
+زىن	between_consonants	z i n
+زىن	alone	z i n

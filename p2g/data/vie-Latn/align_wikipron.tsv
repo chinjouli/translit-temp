@@ -1,0 +1,825 @@
+phones	letters	context	count
+n	n	V_#	726
+j	i	V_#	439
+m	m	V_#	436
+t	t	V_#	426
+ŋ	ng	V_#	382
+b	b	#_V	281
+l	l	#_V	272
+a	a	C_C	271
+m	m	#_V	255
+c	ch	#_V	253
+t	t	#_V	247
+d	đ	#_V	246
+i	i	C_V	244
+w	u	V_#	244
+k	c	#_V	227
+a	á	C_C	225
+h	h	#_V	214
+ŋ	ng	C_#	214
+n	n	#_V	212
+p	p	V_#	208
+z	r	#_V	207
+s	s	#_V	207
+w	u	C_V	207
+v	v	#_V	199
+tʰ	th	#_V	188
+z	d	#_V	184
+k	c	V_#	182
+ɲ	nh	#_V	174
+i	ư	C_V	170
+c	tr	#_V	165
+w	o	C_V	164
+w	o	V_#	160
+j	y	V_#	159
+a	ạ	C_C	152
+ə	a	V_#	146
+i	i	C_C	138
+s	x	#_V	137
+f	ph	#_V	129
+ŋ	ng	#_V	127
+a	à	C_C	123
+z	gi	#_V	117
+x	kh	#_V	116
+ɣ	g	#_V	115
+u	u	C_V	108
+i	i	C_#	106
+ə	ấ	C_C	104
+ŋ	h	C_#	100
+j	n	V_C	99
+k	c	C_#	96
+k	q	#_C	92
+a	ả	C_C	90
+a	ắ	C_C	88
+ɛ	e	C_C	88
+ə	ậ	C_C	83
+ə	â	C_C	80
+k	k	#_V	79
+ɛ	é	C_C	76
+ə	ế	V_C	76
+ə	ầ	C_C	75
+ŋ	h	V_#	62
+u	u	C_C	61
+ə	ệ	V_C	60
+o	ô	C_C	58
+n	n	V_C	55
+j	c	V_C	54
+a	ặ	C_C	54
+ɔ	o	C_C	54
+ə	ê	V_C	54
+ɔ	ó	C_C	53
+k	h	C_#	53
+o	ố	C_C	53
+u	ù	C_C	52
+a	a	C_#	50
+a	ă	C_C	50
+u	ú	C_C	48
+ə	ớ	V_C	46
+ɛ	ẹ	C_C	46
+a	ã	C_C	46
+n	n	V_V	45
+i	y	C_V	44
+e	ê	C_C	43
+h	h	#_C	43
+ə	ẩ	C_C	43
+o	ộ	C_C	43
+l	l	V_V	43
+o	ô	C_#	42
+i	í	C_C	42
+ə	ớ	C_C	41
+u	ụ	C_C	41
+ɔ	ọ	C_C	40
+ə	ơ	V_C	40
+ŋ	ngh	#_V	39
+o	o	C_C	38
+ə	ề	V_C	37
+a	a	#_C	37
+x	kh	#_C	36
+i	ứ	C_C	35
+ə	ợ	V_C	34
+a	ằ	C_C	33
+w	o	V_C	33
+t	t	C_V	33
+ə	ố	V_C	32
+k	h	V_#	32
+t	t	#_C	32
+e	ế	C_C	32
+o	ồ	C_C	31
+ə	ợ	C_C	31
+ə w	ố	C_C	31
+ə	ơ	C_C	31
+ɛ	è	C_C	30
+t	t	V_V	30
+a w	ó	C_C	30
+ɛ	e	C_#	29
+ɔ	ò	C_C	29
+ə	ẫ	C_C	29
+i	ị	C_C	28
+z	r	V_V	28
+e	ê	C_#	27
+ə	ể	V_C	27
+ə	ờ	V_C	27
+u w	ú	C_C	26
+ŋ	ng	#_C	26
+a w	ọ	C_C	26
+u w	ụ	C_C	25
+a	à	C_#	25
+tʰ	th	#_C	25
+a	ả	C_#	25
+ə	ô	V_C	25
+l	l	#_C	25
+i	ự	C_C	25
+u	u	C_#	24
+ə	ơ	C_#	24
+s	x	#_C	24
+a	á	C_#	24
+e	ệ	C_C	23
+ɛ	é	C_#	22
+l	r	C_V	22
+ɣ	gh	#_V	22
+i	ư	C_C	22
+m	m	V_V	22
+ə	ờ	C_C	22
+ɔ	o	C_#	21
+e	e	C_C	21
+ə	ồ	V_C	21
+a	ạ	C_#	20
+ɛ	è	C_#	20
+ə	ộ	V_C	20
+ə	ờ	C_#	20
+n	n	C_V	20
+ɛ	ẻ	C_#	19
+ɔ	ò	C_#	19
+ə w	ô	C_C	19
+i	ừ	C_C	18
+i	in	C_C	18
+c	ch	#_C	18
+ə w	ộ	C_C	18
+i	ì	C_#	17
+ɔ	ỏ	C_#	17
+ə	ở	C_#	17
+e	ệ	C_#	16
+k	c	V_C	16
+i	í	C_#	16
+s	x	V_V	16
+u	ủ	C_C	16
+b	b	V_V	15
+i	ị	C_#	15
+d	đ	V_V	15
+ɔ	ỏ	C_C	15
+ə	ớ	C_#	15
+ə w	ồ	C_C	15
+ɔ	ọ	C_#	15
+i	ử	C_C	15
+a	ã	C_#	15
+u	ù	C_#	14
+u	ú	C_#	14
+e	ề	C_#	14
+i	íc	C_C	14
+ɔ	ó	C_#	14
+i	ì	C_C	14
+i	y	C_#	14
+o	ô	V_#	14
+ɛ	ẻ	C_C	14
+ə	ế	C_C	14
+i	ịc	C_C	14
+e	ế	C_#	14
+o	ổ	C_#	13
+a	ẳ	C_C	13
+l	l	C_V	13
+i	ư	C_#	13
+a w	ò	C_C	13
+ɔ	õ	C_C	13
+i	ỉ	C_#	13
+e	ề	C_C	13
+p	p	#_V	13
+o	ỗ	C_#	12
+i	ứ	C_V	12
+ə	ợ	C_#	12
+o	ố	C_#	12
+l	r	V_V	12
+o	ổ	C_C	12
+a w	ỏ	C_C	12
+s	s	#_C	12
+i	ĩ	C_#	12
+w	o	#_V	12
+ə	ở	V_C	12
+ə	ễ	V_C	12
+b	b	C_V	11
+ə	ệ	C_C	11
+u	ụ	C_#	11
+a	á	#_C	11
+u	ủ	C_#	11
+z	d	#_C	11
+i	ử	C_#	11
+i	i	#_C	11
+i	ự	C_V	11
+d	đ	#_C	11
+i	ìn	C_C	11
+ə	ỡ	C_#	11
+o	ỗ	C_C	10
+i	ý	C_C	10
+u	ũ	C_#	10
+k	c	V_V	10
+s	s	V_V	10
+u	u	#_C	10
+i	ử	C_V	10
+o	ộ	C_#	10
+ɔ	õ	C_#	10
+p	p	V_V	9
+v	v	V_V	9
+i	ì	C_V	9
+o	ồ	C_#	9
+i	ư	#_V	9
+w	u	#_V	9
+ŋ	n	C_#	9
+ə	ỡ	V_C	9
+ə	ê	C_C	9
+ə	ở	C_C	9
+ɛ	ẽ	C_#	9
+i	ín	C_C	9
+t	t	V_C	9
+e	ễ	C_#	9
+ɲ	nh	#_C	9
+i	ừ	C_#	9
+l	r	#_V	8
+k	c	#_C	8
+i	ự	C_#	8
+u	ù	C_V	8
+c	tr	V_V	8
+i	ữ	C_#	8
+i	í	C_V	8
+i	y	#_V	8
+ɛ	ẹ	C_#	8
+ə w	ổ	C_C	8
+i	ỉ	C_V	8
+f	ph	C_V	7
+p	p	#_C	7
+i	ừ	C_V	7
+p	p	V_C	7
+i	ỵ	C_#	7
+d	đ	C_V	7
+i	ịn	C_C	7
+e	ể	C_#	7
+u w	ũ	C_C	7
+i	ứ	C_#	7
+i	ữ	C_V	7
+s	s	C_C	6
+i	ỉn	C_C	6
+u ə	uổ	C_C	6
+ɛ	ẽ	C_C	6
+ə	ỡ	C_C	6
+ɣ	g	V_V	6
+b	b	#_C	6
+ɛ	é	#_C	6
+w	u	V_C	6
+u w	ủ	C_C	6
+k ə	c	#_C	6
+a w	õ	C_C	6
+s	x	C_V	6
+i	ĩn	C_C	6
+u	ủ	C_V	6
+u ə	uỗ	C_C	6
+e	ê	C_V	6
+i n	i	C_C	6
+ə	ấ	#_C	6
+i	ữ	C_C	6
+o	o	C_#	6
+m	m	V_C	6
+k	k	C_V	6
+i	ĩ	C_V	5
+i ə	yễ	C_C	5
+t n	v	V_V	5
+e	ê	#_C	5
+k	k	V_V	5
+o	o	#_C	5
+i	ị	C_V	5
+i	ỳ	C_#	5
+i	ỉ	C_C	5
+u	ú	C_V	5
+f	f	#_V	5
+ɣ	g	C_V	5
+ɛ	e	#_C	5
+i	ý	C_#	5
+i	ỷ	C_#	5
+s	s	C_V	5
+m	m	C_V	5
+k	c	C_V	4
+i	y	C_C	4
+o n	ol	C_#	4
+a	ẵ	C_C	4
+u	ú	#_C	4
+k ə	c	C_C	4
+d	d	#_V	4
+h	h	V_V	4
+f	f	#_C	4
+a m	n	C_#	4
+c	tr	#_C	4
+k	k	C_#	4
+t ə	t	C_C	4
+ə	ề	C_C	4
+i	ĩ	C_C	4
+e	ể	C_C	4
+p	p	C_V	4
+ə w	ỗ	C_C	4
+j ŋ	t	V_C	4
+f	f	C_V	4
+u	u	#_V	4
+d	đ	V_C	3
+u	ũ	C_C	3
+u	ũ	C_V	3
+k a	c	#_C	3
+i	ỵ	C_C	3
+i ə	n	C_C	3
+i	i	V_C	3
+f ə	f	#_C	3
+e	e	#_C	3
+ə	â	#_C	3
+ɔ	o	#_C	3
+o	o	V_C	3
+o	ô	#_C	3
+ɔ	oó	C_C	3
+m a	m	#_C	3
+ə	ớ	#_C	3
+d	d	V_V	3
+d i	đ	#_C	3
+a	ả	#_C	3
+a	ắ	#_C	3
+m	m	#_C	3
+a	a	V_C	3
+i ə	ế	C_C	3
+a n	al	#_C	2
+s e	c	#_C	2
+h a	h	V_C	2
+s a	s	#_C	2
+i	yn	C_C	2
+ə	er	C_C	2
+u	u	V_#	2
+ɣ w	w	#_V	2
+c i	c	#_C	2
+l ə	l	C_C	2
+m v	m	V_V	2
+e	e	C_V	2
+ə	ậ	#_C	2
+o	ổ	#_C	2
+s i	s	#_C	2
+t	t	C_C	2
+n	n	#_C	2
+c u	t	#_C	2
+h a	h	C_C	2
+o n	ô	C_C	2
+i	í	#_C	2
+ɣ ə	g	#_C	2
+i	ỉ	#_C	2
+l a	l	C_C	2
+i	ỳn	C_C	2
+ɣ ə	g	V_C	2
+ə w	ố	#_C	2
+ɛ p	h	C_#	2
+v	vo	#_V	2
+ə w	ô	#_C	2
+o t	de	C_#	2
+v	v	#_C	2
+l ə	l	V_C	2
+z ə	zơ	V_#	2
+a n	a	C_C	2
+m	me	V_#	2
+z	gi	#_C	2
+j ŋ	a	V_C	2
+c i	c	C_V	2
+ɛ m	e	V_#	2
+s i	s	C_#	2
+ɔ	ó	#_C	2
+d ə	đ	V_C	2
+o	ô	V_C	2
+i	ứ	#_C	2
+u w	ú	#_C	2
+ɔ	oo	C_C	2
+c a	c	C_#	2
+w i	q	C_#	2
+l	li	#_V	2
+o	ồ	#_C	2
+a w	ó	#_C	2
+f	f	V_V	2
+w i	uỹ	C_#	2
+f o	p	C_C	2
+i	ea	C_C	2
+i	ư	#_C	2
+j	i	V_C	2
+i	ỵc	C_C	2
+i	y	#_C	2
+ə	ơ	#_C	2
+i	ị	#_C	2
+f ɔ	fo	V_C	2
+j k	ex	V_#	2
+d a	đ	#_C	2
+z ɛ	ge	#_C	2
+e	ễ	C_C	2
+f	ph	V_V	2
+ɛ m	m	#_C	2
+a	ar	C_C	2
+ə	ể	C_C	2
+o	ố	#_C	2
+a t	o	C_C	1
+ə v	ov	C_V	1
+ɛ m	m	#_V	1
+b ə	b	#_#	1
+b ə	b	#_C	1
+z ə	r	#_#	1
+i	ịc	#_C	1
+a t	ad	#_#	1
+a j	y	C_#	1
+a m	n	C_C	1
+h	h	C_C	1
+e s	ec	C_V	1
+p e	p	#_#	1
+ə	ẩ	#_#	1
+h a	hẳ	#_C	1
+ɛ	es	C_C	1
+k e	k	V_#	1
+ɛ	ẹ	#_C	1
+a	ẳ	#_C	1
+v a	v	#_C	1
+t ə	t	V_C	1
+ɛ	ẹ	#_#	1
+h ə	h	#_#	1
+ɛ	e	#_V	1
+ə	ầ	#_#	1
+a	à	#_#	1
+l	gr	#_V	1
+d a	đ	C_C	1
+e	ề	#_#	1
+ɣ	g	V_C	1
+t e	t	#_#	1
+f u	p	C_C	1
+k a	c	V_C	1
+m a	m	C_C	1
+m i	t	V_V	1
+ə n	c	V_C	1
+n a	h	C_C	1
+p i	y	C_#	1
+a	a	C_V	1
+ɛ	e	V_#	1
+z a	r	#_C	1
+o n	ol	C_C	1
+ə z	ru	C_V	1
+ə t	sh	C_#	1
+j b	ac	V_V	1
+u	eb	C_C	1
+w	oo	V_C	1
+i z	ig	C_V	1
+ɛ k	h	C_C	1
+t a	a	C_#	1
+b	pí	#_V	1
+i k	ch	C_#	1
+x u	kh	#_C	1
+w v	yl	V_V	1
+ɛ t	ve	C_C	1
+h a	h	#_C	1
+a	ặ	#_#	1
+l ə	l	V_#	1
+s ə	s	V_#	1
+b ə	p	#_C	1
+z u	j	#_C	1
+n k	u	V_V	1
+e	n	C_#	1
+a	ạ	#_#	1
+l e	re	#_C	1
+ɔ	ó	#_#	1
+o	ố	V_C	1
+ə	ờ	#_#	1
+z	r	C_V	1
+ɔ z	oz	C_V	1
+j	y	V_C	1
+i t	id	C_#	1
+i	ứ	#_V	1
+u t	us	C_#	1
+s ə	s	#_C	1
+t a	kt	C_C	1
+j	ail	V_#	1
+n	nd	V_#	1
+ɛ	é	#_#	1
+ɛ	è	#_#	1
+k	k	V_C	1
+ɛ	ẻ	#_C	1
+d e	đ	#_C	1
+m ə	m	V_#	1
+a j	in	C_C	1
+k ə	ec	C_C	1
+p	ft	V_#	1
+ə	ế	#_C	1
+e	ệ	#_#	1
+k a	k	#_#	1
+z i	zi	#_C	1
+ə	â	#_#	1
+i	ee	C_C	1
+k	co	C_V	1
+d e	d	#_#	1
+ə p	n	C_#	1
+ɣ ə	g	V_#	1
+i	ỷ	#_#	1
+t ə	t	V_#	1
+o	o	#_#	1
+ə j	ec	C_C	1
+v ə	v	#_#	1
+ɣ	g	#_C	1
+p e	p	V_V	1
+a n	i	C_#	1
+ə b	rb	C_V	1
+j	eit	V_C	1
+ə z	er	C_V	1
+i	ử	#_C	1
+u	ú	#_V	1
+o	ỗ	#_#	1
+a	ắ	#_#	1
+k i	kỳ	#_#	1
+d ə	đ	#_#	1
+i ə	i	#_C	1
+ə	ơ	#_#	1
+f	ph	#_C	1
+ɛ p	eb	C_#	1
+ɣ ɛ	ga	#_C	1
+ɛ	ẻ	#_#	1
+e	ê	#_#	1
+f ɔ	fo	C_#	1
+b ɔ	bu	C_C	1
+z	gi	V_V	1
+e	e	C_#	1
+w	ll	V_#	1
+z a	d	#_C	1
+o	oh	C_C	1
+s e	c	#_#	1
+e	ê	V_#	1
+s a	sẵ	#_C	1
+o	ô	#_#	1
+k	q	V_C	1
+b a	b	C_V	1
+f ɛ	g	C_C	1
+p h	p	V_C	1
+a t	h	C_C	1
+d ə	đ	C_C	1
+o	ộ	#_C	1
+i	ỷ	C_C	1
+p	p	C_C	1
+u	ụ	#_#	1
+u s	uc	C_V	1
+z i	gì	#_#	1
+z e	jê	#_C	1
+u	us	C_#	1
+o	ộ	#_#	1
+z e	c	V_C	1
+s u	g	V_#	1
+i	ỵ	#_#	1
+ɛ t	e	C_C	1
+s ə	sso	C_C	1
+ŋ	n	C_C	1
+ɛ n	ai	C_C	1
+ə	er	C_#	1
+a j	i	#_C	1
+a t	ad	C_#	1
+e n	ê	C_C	1
+o z	ôz	C_V	1
+ɲ	nh	V_V	1
+ə	ẩ	#_C	1
+ɔ	ọ	#_#	1
+c	tr	C_V	1
+ə	ẫ	#_#	1
+b a	b	C_C	1
+w k	ox	V_#	1
+s u	s	#_C	1
+a w	ỏ	#_C	1
+s ə	s	#_V	1
+i	y	V_C	1
+t e	t	V_#	1
+a w	ọ	#_C	1
+o	ôô	C_C	1
+s a	x	#_C	1
+h a	ho	V_C	1
+w	use	V_#	1
+z i	gì	#_C	1
+ə	ấ	#_#	1
+ɛ t	es	C_#	1
+s	sh	#_V	1
+z ə	r	V_C	1
+i	ì	#_#	1
+l a	ră	V_C	1
+b o	po	#_C	1
+a k	a	#_C	1
+o z	ôz	#_V	1
+ə j	ễn	#_C	1
+c i	c	C_C	1
+ŋ e	n	C_#	1
+u n	u	V_C	1
+k ə	kễ	#_C	1
+k	q	#_V	1
+t i	t	C_C	1
+d a	đ	V_C	1
+z	you	#_V	1
+u t	tu	C_V	1
+u p	be	C_#	1
+u	ủh	C_#	1
+o z	ôg	C_V	1
+a	ẳ	#_#	1
+k ə	k	#_C	1
+ɔ	oó	#_C	1
+a	à	#_C	1
+a	ả	#_#	1
+u	ụ	C_V	1
+a j	ve	C_#	1
+s ɛ	ce	#_C	1
+z a	gi	#_C	1
+ɛ	ẽ	#_#	1
+ɲ ɛ	x	V_#	1
+z w	re	#_V	1
+i v	vi	C_V	1
+i w	ew	C_#	1
+a	ạ	#_C	1
+i	ý	#_#	1
+n	nt	V_#	1
+k ɛ	kẽ	#_#	1
+z	dz	#_V	1
+e	ế	#_#	1
+u	u	#_#	1
+i	ỉ	#_#	1
+f	fr	#_V	1
+i	ees	C_C	1
+s i	hi	V_C	1
+b e	b	V_#	1
+a	ã	#_#	1
+u	ù	#_V	1
+ə	ề	#_C	1
+d ɔ	do	C_C	1
+a	á	#_#	1
+ə	ầ	#_C	1
+k ɔ	c	#_C	1
+n ə	o	V_C	1
+c a	c	C_C	1
+d l	dr	V_V	1
+f a	ph	#_C	1
+n	na	#_V	1
+ɛ w	il	C_#	1
+i	ư	#_#	1
+a n	a	#_C	1
+a s	ac	C_V	1
+ə	ợ	#_#	1
+w ŋ	t	V_#	1
+b a	pa	#_C	1
+o	ôr	C_C	1
+h ə	h	C_C	1
+ŋ i	y	C_#	1
+k	ck	V_#	1
+t s	ss	V_V	1
+l a	l	#_C	1
+l ə	le	C_C	1
+d ɛ	de	V_C	1
+ə	ậ	#_#	1
+u	ủ	#_C	1
+c a	tr	#_C	1
+s ə	s	V_C	1
+l i	d	V_V	1
+ə w	l	V_#	1
+w i	ũy	C_#	1
+e ə	e	C_C	1
+z u	r	#_C	1
+e o	eo	C_C	1
+ə	or	C_#	1
+d u	du	C_#	1
+b a	b	#_C	1
+a	ẵ	#_#	1
+ɔ	ỏ	#_#	1
+k e	kể	#_#	1
+ə	e	C_C	1
+s	ss	V_V	1
+o	ố	#_#	1
+i t	is	C_C	1
+ə w	ộ	#_C	1
+i ə	ê	C_C	1
+u	ủ	#_V	1
+ɛ t	es	#_C	1
+e ɲ	t	C_V	1
+z a	d	C_C	1
+m i	t	C_V	1
+ə n	g	V_C	1
+n a	p	C_C	1
+a	ằ	#_#	1
+z	r	#_C	1
+w i	es	C_C	1
+s ɔ	or	V_C	1
+i b	ea	C_V	1
+ɔ	bor	C_C	1
+ə j	a	C_C	1
+k	ekw	C_V	1
+d o	do	C_#	1
+z ə	zơ	V_C	1
+e	ể	#_#	1
+u	ù	#_#	1
+a	ă	#_C	1
+ɔ	oo	V_C	1
+u	ủ	#_#	1
+u ə	uổ	#_C	1
+v	v	C_V	1
+v a	vẳ	#_C	1
+i	ừ	#_V	1
+i	ự	#_#	1
+s	so	#_V	1
+c	ch	C_V	1
+ɔ	ò	#_#	1
+u	ú	#_#	1
+i z	yg	C_V	1
+a	a	#_#	1
+h o	h	V_C	1
+c i	c	V_C	1
+e	ễ	#_#	1
+m ə	m	#_C	1
+ə j	a	#_V	1
+a j	i	C_#	1
+d a	đẵ	#_C	1
+i	in	#_C	1
+ə	ớ	#_#	1
+s	s	V_C	1
+w ŋ	t	V_C	1
+s a	x	C_#	1
+ə w	ổ	#_C	1
+ɛ p	f	#_V	1
+a j	ve	C_C	1
+i	ừ	#_#	1
+ə	a	#_C	1
+l	pl	C_V	1
+b o	b	C_#	1
+s a	xẵ	#_C	1
+ɔ k	or	#_C	1
+ɣ	gu	#_V	1
+a	ar	C_#	1
+i	ự	#_V	1
+i	íc	#_C	1
+i	ữ	#_#	1
+i	ỉ	#_V	1
+ɛ p	w	C_#	1
+o	ồ	#_#	1
+i	ử	#_#	1
+u ɣ	oo	C_V	1
+o	gle	C_#	1
+s a	s	C_C	1
+z i	gi	#_#	1
+i	ỳ	#_#	1
+f o	p	C_#	1
+w	o	V_V	1
+v i	v	C_#	1
+p ə	pe	V_C	1
+o	ổ	#_#	1
+a t	ad	C_C	1
+k ɛ	kẽ	#_C	1
+d i	de	#_C	1
+i w	ut	C_#	1
+a	ẵ	#_C	1
+ɛ d	ed	C_V	1
+i	í	#_#	1
+i ə	ễ	C_C	1
+f a	ph	C_C	1
+ŋ	ng	C_C	1
+i s	ic	C_V	1
+b	b	C_C	1
+a	ă	#_#	1
+ə	ở	#_#	1
+i p	hi	C_C	1
+ə	per	C_#	1
+t ə	t	#_C	1
+w f	g	V_V	1
+ə n	p	C_#	1
+a p	ub	C_#	1
+f	fi	#_V	1
+a j	le	C_#	1
+z ɛ	ze	V_C	1
+i	ị	#_#	1
+e	e	V_C	1
+z i	gỉ	#_#	1
+z i	j	#_#	1
+ɔ	õ	#_#	1
+k	co	#_V	1
+ɛ	e	#_#	1
+s ə	s	C_#	1
+i	ự	#_C	1
+z a	ja	#_C	1
+a k	ar	C_C	1
+k ə	cu	#_C	1
+ŋ	ng	V_C	1
+i	i	#_V	1
+a d	a	#_V	1
+e ɛ	d	C_C	1
+b o	b	#_C	1
+t z	l	V_V	1
+ə n	d	C_C	1
+o	ôố	C_C	1
+u	ù	#_C	1
+t i	t	#_C	1
+v i	v	V_#	1
+s i	c	C_#	1
+o n	ô	V_C	1
+ɔ n	ol	C_#	1
+f e	fê	#_C	1
+i k	ix	C_#	1
+ɔ	or	C_#	1
+u w	ủ	#_C	1
+ŋ	n	V_#	1
+o	o	C_V	1
+i	ỹ	#_#	1

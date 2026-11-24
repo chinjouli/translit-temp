@@ -1,0 +1,1637 @@
+gram	context	phones
+а	between_consonants	ɑ
+а	alone	ɑ
+ы	between_vowels	ə
+ы	between_consonants	ə
+ы	alone	ə
+т	between_vowels	t
+т	between_consonants	t
+т	alone	t
+е	between_vowels	j e
+е	between_consonants	j e
+е	alone	j e
+р	between_vowels	r
+р	between_consonants	r
+р	alone	r
+қ	between_vowels	q
+қ	between_consonants	q
+қ	alone	q
+н	between_vowels	n
+н	between_consonants	n
+н	alone	n
+і	between_vowels	ɪ
+і	between_consonants	ɪ
+і	alone	ɪ
+л	between_vowels	l
+л	alone	l
+с	between_vowels	s
+с	between_consonants	s
+с	alone	s
+у	between_vowels	w
+у	between_consonants	w
+у	alone	w
+б	between_vowels	b
+б	between_consonants	b
+б	alone	b
+м	between_vowels	m
+м	between_consonants	m
+м	alone	m
+ш	between_vowels	ʃ
+ш	between_consonants	ʃ
+ш	alone	ʃ
+д	between_vowels	d
+д	between_consonants	d
+д	alone	d
+к	between_vowels	k
+к	between_consonants	k
+к	alone	k
+ж	between_vowels	ʒ
+ж	between_consonants	ʒ
+ж	alone	ʒ
+з	between_vowels	z
+з	between_consonants	z
+з	alone	z
+ан	between_consonants	ɑ n
+ан	alone	ɑ n
+й	between_vowels	j
+й	between_consonants	j
+й	alone	j
+та	between_consonants	t ɑ
+та	alone	t ɑ
+ғ	between_vowels	ʁ
+ғ	between_consonants	ʁ
+ғ	alone	ʁ
+ә	between_vowels	æ
+ә	between_consonants	æ
+ә	alone	æ
+о	between_vowels	o
+о	between_consonants	o
+о	alone	o
+ар	between_consonants	ɑ r
+ар	alone	ɑ r
+ұ	between_vowels	ʊ
+ұ	between_consonants	ʊ
+ұ	alone	ʊ
+п	between_vowels	p
+п	between_consonants	p
+п	alone	p
+қа	between_consonants	q ɑ
+қа	alone	q ɑ
+ақ	between_consonants	ɑ q
+ақ	alone	ɑ q
+ба	between_consonants	b ɑ
+ба	alone	b ɑ
+ал	alone	ɑ l
+ау	between_consonants	ɑ w
+ау	alone	ɑ w
+ү	between_vowels	ʏ
+ү	between_consonants	ʏ
+ү	alone	ʏ
+ық	between_vowels	ə q
+ық	between_consonants	ə q
+ық	alone	ə q
+ай	between_consonants	ɑ j
+ай	alone	ɑ j
+ң	between_vowels	ŋ
+ң	between_consonants	ŋ
+ң	alone	ŋ
+и	between_vowels	i j
+и	between_consonants	i j
+и	alone	i j
+ма	between_consonants	m ɑ
+ма	alone	m ɑ
+жа	between_consonants	ʒ ɑ
+жа	alone	ʒ ɑ
+да	between_consonants	d ɑ
+да	alone	d ɑ
+ат	between_consonants	ɑ t
+ат	alone	ɑ t
+ыр	between_vowels	ə r
+ыр	between_consonants	ə r
+ыр	alone	ə r
+ас	between_consonants	ɑ s
+ас	alone	ɑ s
+ға	between_consonants	ʁ ɑ
+ға	alone	ʁ ɑ
+ын	between_vowels	ə n
+ын	between_consonants	ə n
+ын	alone	ə n
+ам	between_consonants	ɑ m
+ам	alone	ɑ m
+іл	between_vowels	ɪ l
+іл	alone	ɪ l
+шы	between_vowels	ʃ ə
+шы	between_consonants	ʃ ə
+шы	alone	ʃ ə
+ін	between_vowels	ɪ n
+ін	between_consonants	ɪ n
+ін	alone	ɪ n
+ра	between_consonants	r ɑ
+ра	alone	r ɑ
+ө	between_vowels	ʏ
+ө	between_consonants	ʏ
+ө	alone	ʏ
+ла	alone	l ɑ
+ты	between_vowels	t ə
+ты	between_consonants	t ə
+ты	alone	t ə
+қы	between_vowels	q ə
+қы	between_consonants	q ə
+қы	alone	q ə
+ст	between_vowels	s t
+ст	between_consonants	s t
+ст	alone	s t
+ағ	between_consonants	ɑ ʁ
+ағ	alone	ɑ ʁ
+г	between_vowels	ɡ
+г	between_consonants	ɡ
+г	alone	ɡ
+нш	between_vowels	n ʃ
+нш	between_consonants	n ʃ
+нш	alone	n ʃ
+лы	between_vowels	l ə
+лы	alone	l ə
+на	between_consonants	n ɑ
+на	alone	n ɑ
+ік	between_vowels	ɪ k
+ік	between_consonants	ɪ k
+ік	alone	ɪ k
+ер	between_vowels	j e r
+ер	between_consonants	j e r
+ер	alone	j e r
+бе	between_vowels	b j e
+бе	between_consonants	b j e
+бе	alone	b j e
+ыз	between_vowels	ə z
+ыз	between_consonants	ə z
+ыз	alone	ə z
+ші	between_vowels	ʃ ɪ
+ші	between_consonants	ʃ ɪ
+ші	alone	ʃ ɪ
+ет	between_vowels	j e t
+ет	between_consonants	j e t
+ет	alone	j e t
+сы	between_vowels	s ə
+сы	between_consonants	s ə
+сы	alone	s ə
+же	between_vowels	ʒ j e
+же	between_consonants	ʒ j e
+же	alone	ʒ j e
+ір	between_vowels	ɪ r
+ір	between_consonants	ɪ r
+ір	alone	ɪ r
+х	between_vowels	χ
+х	between_consonants	χ
+х	alone	χ
+бі	between_vowels	b ɪ
+бі	between_consonants	b ɪ
+бі	alone	b ɪ
+ек	between_vowels	j e k
+ек	between_consonants	j e k
+ек	alone	j e k
+ыс	between_vowels	ə s
+ыс	between_consonants	ə s
+ыс	alone	ə s
+лі	between_vowels	l ɪ
+лі	alone	l ɪ
+ды	between_vowels	d ə
+ды	between_consonants	d ə
+ды	alone	d ə
+тан	between_vowels	t ɑ n
+тан	between_consonants	t ɑ n
+тан	alone	t ɑ n
+аз	between_consonants	ɑ z
+аз	alone	ɑ z
+кі	between_vowels	k ɪ
+кі	between_consonants	k ɪ
+кі	alone	k ɪ
+де	between_vowels	d j e
+де	between_consonants	d j e
+де	alone	d j e
+са	between_consonants	s ɑ
+са	alone	s ɑ
+ара	between_consonants	ɑ r ɑ
+ара	alone	ɑ r ɑ
+ту	between_vowels	t w
+ту	between_consonants	t w
+ту	alone	t w
+за	between_consonants	z ɑ
+за	alone	z ɑ
+ша	between_consonants	ʃ ɑ
+ша	alone	ʃ ɑ
+ха	between_consonants	χ ɑ
+ха	alone	χ ɑ
+тау	between_vowels	t ɑ w
+тау	between_consonants	t ɑ w
+тау	alone	t ɑ w
+ес	between_vowels	j e s
+ес	between_consonants	j e s
+ес	alone	j e s
+ғы	between_vowels	ʁ ə
+ғы	between_consonants	ʁ ə
+ғы	alone	ʁ ə
+ке	between_vowels	k j e
+ке	between_consonants	k j e
+ке	alone	k j e
+ры	between_vowels	r ə
+ры	between_consonants	r ə
+ры	alone	r ə
+ұр	between_vowels	ʊ r
+ұр	between_consonants	ʊ r
+ұр	alone	ʊ r
+па	between_consonants	p ɑ
+па	alone	p ɑ
+ста	between_consonants	s t ɑ
+ста	alone	s t ɑ
+йы	between_vowels	j ə
+йы	between_consonants	j ə
+йы	alone	j ə
+ала	between_consonants	ɑ l ɑ
+ала	alone	ɑ l ɑ
+ыш	between_vowels	ə ʃ
+ыш	between_consonants	ə ʃ
+ыш	alone	ə ʃ
+нд	between_vowels	n d
+нд	between_consonants	n d
+нд	alone	n d
+ап	between_consonants	ɑ p
+ап	alone	ɑ p
+аш	between_consonants	ɑ ʃ
+аш	alone	ɑ ʃ
+ді	between_vowels	d ɪ
+ді	between_consonants	d ɪ
+ді	alone	d ɪ
+ме	between_vowels	m j e
+ме	between_consonants	m j e
+ме	alone	m j e
+ті	between_vowels	t ɪ
+ті	between_consonants	t ɪ
+ті	alone	t ɪ
+аб	between_consonants	ɑ b
+аб	alone	ɑ b
+нші	between_vowels	n ʃ ɪ
+нші	between_consonants	n ʃ ɪ
+нші	alone	n ʃ ɪ
+ым	between_vowels	ə m
+ым	between_consonants	ə m
+ым	alone	ə m
+ел	between_vowels	j e l
+ел	alone	j e l
+рт	between_vowels	r t
+рт	between_consonants	r t
+рт	alone	r t
+ле	between_vowels	l j e
+ле	alone	l j e
+ен	between_vowels	j e n
+ен	between_consonants	j e n
+ен	alone	j e n
+мы	between_vowels	m ə
+мы	between_consonants	m ə
+мы	alone	m ə
+хан	between_vowels	χ ɑ n
+хан	between_consonants	χ ɑ n
+хан	alone	χ ɑ n
+біл	between_vowels	b ɪ l
+біл	alone	b ɪ l
+інш	between_vowels	ɪ n ʃ
+інш	between_consonants	ɪ n ʃ
+інш	alone	ɪ n ʃ
+зы	between_vowels	z ə
+зы	between_consonants	z ə
+зы	alone	z ə
+ыл	between_vowels	ə l
+ыл	alone	ə l
+ана	between_consonants	ɑ n ɑ
+ана	alone	ɑ n ɑ
+айы	between_consonants	ɑ j ə
+айы	alone	ɑ j ə
+лық	between_vowels	l ə q
+лық	alone	l ə q
+бұ	between_vowels	b ʊ
+бұ	between_consonants	b ʊ
+бұ	alone	b ʊ
+ілі	between_vowels	ɪ l ɪ
+ілі	between_consonants	ɪ l ɪ
+ілі	alone	ɪ l ɪ
+анд	between_consonants	ɑ n d
+анд	alone	ɑ n d
+әд	between_vowels	æ d
+әд	between_consonants	æ d
+әд	alone	æ d
+қт	between_vowels	q t
+қт	between_consonants	q t
+қт	alone	q t
+рі	between_vowels	r ɪ
+рі	between_consonants	r ɪ
+рі	alone	r ɪ
+қо	between_vowels	q o
+қо	between_consonants	q o
+қо	alone	q o
+уы	between_vowels	w ə
+уы	between_consonants	w ə
+уы	alone	w ə
+лу	between_vowels	l w
+лу	alone	l w
+аң	between_consonants	ɑ ŋ
+аң	alone	ɑ ŋ
+ре	between_vowels	r j e
+ре	between_consonants	r j e
+ре	alone	r j e
+ем	between_vowels	j e m
+ем	between_consonants	j e m
+ем	alone	j e m
+аза	between_consonants	ɑ z ɑ
+аза	alone	ɑ z ɑ
+ама	between_consonants	ɑ m ɑ
+ама	alone	ɑ m ɑ
+еу	between_vowels	j e w
+еу	between_consonants	j e w
+еу	alone	j e w
+із	between_vowels	ɪ z
+із	between_consonants	ɪ z
+із	alone	ɪ z
+уа	between_consonants	w ɑ
+уа	alone	w ɑ
+те	between_vowels	t j e
+те	between_consonants	t j e
+те	alone	t j e
+то	between_vowels	t o
+то	between_consonants	t o
+то	alone	t o
+іс	between_vowels	ɪ s
+іс	between_consonants	ɪ s
+іс	alone	ɪ s
+қар	between_vowels	q ɑ r
+қар	between_consonants	q ɑ r
+қар	alone	q ɑ r
+тү	between_vowels	t ʏ
+тү	between_consonants	t ʏ
+тү	alone	t ʏ
+ім	between_vowels	ɪ m
+ім	between_consonants	ɪ m
+ім	alone	ɪ m
+ру	between_vowels	r w
+ру	between_consonants	r w
+ру	alone	r w
+дық	between_vowels	d ə q
+дық	between_consonants	d ə q
+дық	alone	d ə q
+сі	between_vowels	s ɪ
+сі	between_consonants	s ɪ
+сі	alone	s ɪ
+тұ	between_vowels	t ʊ
+тұ	between_consonants	t ʊ
+тұ	alone	t ʊ
+ынш	between_vowels	ə n ʃ
+ынш	between_consonants	ə n ʃ
+ынш	alone	ə n ʃ
+әде	between_vowels	æ d j e
+әде	between_consonants	æ d j e
+әде	alone	æ d j e
+дә	between_vowels	d æ
+дә	between_consonants	d æ
+дә	alone	d æ
+се	between_vowels	s j e
+се	between_consonants	s j e
+се	alone	s j e
+гі	between_vowels	ɡ ɪ
+гі	between_consonants	ɡ ɪ
+гі	alone	ɡ ɪ
+зі	between_vowels	z ɪ
+зі	between_consonants	z ɪ
+зі	alone	z ɪ
+ор	between_vowels	o r
+ор	between_consonants	o r
+ор	alone	o r
+ие	between_vowels	i j j e
+ие	between_consonants	i j j e
+ие	alone	i j j e
+би	between_vowels	b i j
+би	between_consonants	b i j
+би	alone	b i j
+ол	between_vowels	o l
+ол	alone	o l
+қаз	between_vowels	q ɑ z
+қаз	between_consonants	q ɑ z
+қаз	alone	q ɑ z
+рм	between_vowels	r m
+рм	between_consonants	r m
+рм	alone	r m
+аты	between_consonants	ɑ t ə
+аты	alone	ɑ t ə
+дар	between_vowels	d ɑ r
+дар	between_consonants	d ɑ r
+дар	alone	d ɑ r
+рк	between_vowels	r k
+рк	between_consonants	r k
+рк	alone	r k
+зд	between_vowels	z d
+зд	between_consonants	z d
+зд	alone	z d
+қс	between_vowels	q s
+қс	between_consonants	q s
+қс	alone	q s
+нды	between_vowels	n d ə
+нды	between_consonants	n d ə
+нды	alone	n d ə
+нт	between_vowels	n t
+нт	between_consonants	n t
+нт	alone	n t
+ншы	between_vowels	n ʃ ə
+ншы	between_consonants	n ʃ ə
+ншы	alone	n ʃ ə
+ары	between_consonants	ɑ r ə
+ары	alone	ɑ r ə
+аға	between_consonants	ɑ ʁ ɑ
+аға	alone	ɑ ʁ ɑ
+қта	between_consonants	q t ɑ
+қта	alone	q t ɑ
+ауы	between_consonants	ɑ w ə
+ауы	alone	ɑ w ə
+алы	between_consonants	ɑ l ə
+алы	alone	ɑ l ə
+бай	between_vowels	b ɑ j
+бай	between_consonants	b ɑ j
+бай	alone	b ɑ j
+я	between_vowels	j ɑ
+я	between_consonants	j ɑ
+я	alone	j ɑ
+от	between_vowels	o t
+от	between_consonants	o t
+от	alone	o t
+әр	between_vowels	æ r
+әр	between_consonants	æ r
+әр	alone	æ r
+ең	between_vowels	j e ŋ
+ең	between_consonants	j e ŋ
+ең	alone	j e ŋ
+оң	between_vowels	o ŋ
+оң	between_consonants	o ŋ
+оң	alone	o ŋ
+жат	between_vowels	ʒ ɑ t
+жат	between_consonants	ʒ ɑ t
+жат	alone	ʒ ɑ t
+тыр	between_vowels	t ə r
+тыр	between_consonants	t ə r
+тыр	alone	t ə r
+ғд	between_vowels	ʁ d
+ғд	between_consonants	ʁ d
+ғд	alone	ʁ d
+ағд	between_consonants	ɑ ʁ d
+ағд	alone	ɑ ʁ d
+ғда	between_consonants	ʁ d ɑ
+ғда	alone	ʁ d ɑ
+тық	between_vowels	t ə q
+тық	between_consonants	t ə q
+тық	alone	t ə q
+ың	between_vowels	ə ŋ
+ың	between_consonants	ə ŋ
+ың	alone	ə ŋ
+нұ	between_vowels	n ʊ
+нұ	between_consonants	n ʊ
+нұ	alone	n ʊ
+йт	between_vowels	j t
+йт	between_consonants	j t
+йт	alone	j t
+әу	between_vowels	æ w
+әу	between_consonants	æ w
+әу	alone	æ w
+лт	between_vowels	l t
+лт	alone	l t
+ақт	between_consonants	ɑ q t
+ақт	alone	ɑ q t
+еб	between_vowels	j e b
+еб	between_consonants	j e b
+еб	alone	j e b
+асы	between_consonants	ɑ s ə
+асы	alone	ɑ s ə
+жо	between_vowels	ʒ o
+жо	between_consonants	ʒ o
+жо	alone	ʒ o
+ұл	between_vowels	ʊ l
+ұл	alone	ʊ l
+ну	between_vowels	n w
+ну	between_consonants	n w
+ну	alone	n w
+ған	between_vowels	ʁ ɑ n
+ған	between_consonants	ʁ ɑ n
+ған	alone	ʁ ɑ n
+бы	between_vowels	b ə
+бы	between_consonants	b ə
+бы	alone	b ə
+ей	between_vowels	j e j
+ей	between_consonants	j e j
+ей	alone	j e j
+ше	between_vowels	ʃ j e
+ше	between_consonants	ʃ j e
+ше	alone	ʃ j e
+қал	between_vowels	q ɑ l
+қал	alone	q ɑ l
+ад	between_consonants	ɑ d
+ад	alone	ɑ d
+ада	between_consonants	ɑ d ɑ
+ада	alone	ɑ d ɑ
+ызы	between_vowels	ə z ə
+ызы	between_consonants	ə z ə
+ызы	alone	ə z ə
+ыт	between_vowels	ə t
+ыт	between_consonants	ə t
+ыт	alone	ə t
+рл	between_vowels	r l
+рл	alone	r l
+бағ	between_vowels	b ɑ ʁ
+бағ	between_consonants	b ɑ ʁ
+бағ	alone	b ɑ ʁ
+лам	between_vowels	l ɑ m
+лам	alone	l ɑ m
+рма	between_consonants	r m ɑ
+рма	alone	r m ɑ
+мұ	between_vowels	m ʊ
+мұ	between_consonants	m ʊ
+мұ	alone	m ʊ
+бал	between_vowels	b ɑ l
+бал	alone	b ɑ l
+аба	between_consonants	ɑ b ɑ
+аба	alone	ɑ b ɑ
+әт	between_vowels	æ t
+әт	between_consonants	æ t
+әт	alone	æ t
+бес	between_vowels	b j e s
+бес	between_consonants	b j e s
+бес	alone	b j e s
+іт	between_vowels	ɪ t
+іт	between_consonants	ɪ t
+іт	alone	ɪ t
+айт	between_consonants	ɑ j t
+айт	alone	ɑ j t
+он	between_vowels	o n
+он	between_consonants	o n
+он	alone	o n
+ұз	between_vowels	ʊ z
+ұз	between_consonants	ʊ z
+ұз	alone	ʊ z
+рғ	between_vowels	r ʁ
+рғ	between_consonants	r ʁ
+рғ	alone	r ʁ
+ге	between_vowels	ɡ j e
+ге	between_consonants	ɡ j e
+ге	alone	ɡ j e
+лік	between_vowels	l ɪ k
+лік	alone	l ɪ k
+тә	between_vowels	t æ
+тә	between_consonants	t æ
+тә	alone	t æ
+үр	between_vowels	ʏ r
+үр	between_consonants	ʏ r
+үр	alone	ʏ r
+үл	between_vowels	ʏ l
+үл	alone	ʏ l
+кө	between_vowels	k ʏ
+кө	between_consonants	k ʏ
+кө	alone	k ʏ
+оқ	between_vowels	o q
+оқ	between_consonants	o q
+оқ	alone	o q
+йл	between_vowels	j l
+йл	alone	j l
+деб	between_vowels	d j e b
+деб	between_consonants	d j e b
+деб	alone	d j e b
+еби	between_vowels	j e b i j
+еби	between_consonants	j e b i j
+еби	alone	j e b i j
+қыз	between_vowels	q ə z
+қыз	between_consonants	q ə z
+қыз	alone	q ə z
+зақ	between_vowels	z ɑ q
+зақ	between_consonants	z ɑ q
+зақ	alone	z ɑ q
+аст	between_consonants	ɑ s t
+аст	alone	ɑ s t
+ырм	between_vowels	ə r m
+ырм	between_consonants	ə r m
+ырм	alone	ə r m
+еш	between_vowels	j e ʃ
+еш	between_consonants	j e ʃ
+еш	alone	j e ʃ
+тт	between_vowels	t t
+тт	between_consonants	t t
+тт	alone	t t
+рс	between_vowels	r s
+рс	between_consonants	r s
+рс	alone	r s
+ңд	between_vowels	ŋ d
+ңд	between_consonants	ŋ d
+ңд	alone	ŋ d
+нұр	between_vowels	n ʊ r
+нұр	between_consonants	n ʊ r
+нұр	alone	n ʊ r
+ұрт	between_vowels	ʊ r t
+ұрт	between_consonants	ʊ r t
+ұрт	alone	ʊ r t
+мә	between_vowels	m æ
+мә	between_consonants	m æ
+мә	alone	m æ
+рыш	between_vowels	r ə ʃ
+рыш	between_consonants	r ə ʃ
+рыш	alone	r ə ʃ
+ңі	between_vowels	ŋ ɪ
+ңі	between_consonants	ŋ ɪ
+ңі	alone	ŋ ɪ
+ақс	between_consonants	ɑ q s
+ақс	alone	ɑ q s
+тұр	between_vowels	t ʊ r
+тұр	between_consonants	t ʊ r
+тұр	alone	t ʊ r
+рқ	between_vowels	r q
+рқ	between_consonants	r q
+рқ	alone	r q
+қыр	between_vowels	q ə r
+қыр	between_consonants	q ə r
+қыр	alone	q ə r
+ман	between_vowels	m ɑ n
+ман	between_consonants	m ɑ n
+ман	alone	m ɑ n
+рыс	between_vowels	r ə s
+рыс	between_consonants	r ə s
+рыс	alone	r ə s
+шақ	between_vowels	ʃ ɑ q
+шақ	between_consonants	ʃ ɑ q
+шақ	alone	ʃ ɑ q
+ны	between_vowels	n ə
+ны	between_consonants	n ə
+ны	alone	n ə
+үй	between_vowels	ʏ j
+үй	between_consonants	ʏ j
+үй	alone	ʏ j
+дік	between_vowels	d ɪ k
+дік	between_consonants	d ɪ k
+дік	alone	d ɪ k
+үз	between_vowels	ʏ z
+үз	between_consonants	ʏ z
+үз	alone	ʏ z
+дәр	between_vowels	d æ r
+дәр	between_consonants	d æ r
+дәр	alone	d æ r
+әрі	between_vowels	æ r ɪ
+әрі	between_consonants	æ r ɪ
+әрі	alone	æ r ɪ
+сп	between_vowels	s p
+сп	between_consonants	s p
+сп	alone	s p
+бл	between_vowels	b l
+бл	alone	b l
+рес	between_vowels	r j e s
+рес	between_consonants	r j e s
+рес	alone	r j e s
+бар	between_vowels	b ɑ r
+бар	between_consonants	b ɑ r
+бар	alone	b ɑ r
+ни	between_vowels	n i j
+ни	between_consonants	n i j
+ни	alone	n i j
+иет	between_vowels	i j j e t
+иет	between_consonants	i j j e t
+иет	alone	i j j e t
+жу	between_vowels	ʒ w
+жу	between_consonants	ʒ w
+жу	alone	ʒ w
+дау	between_vowels	d ɑ w
+дау	between_consonants	d ɑ w
+дау	alone	d ɑ w
+бие	between_vowels	b i j j e
+бие	between_consonants	b i j j e
+бие	alone	b i j j e
+тін	between_vowels	t ɪ n
+тін	between_consonants	t ɪ n
+тін	alone	t ɪ n
+ашы	between_consonants	ɑ ʃ ə
+ашы	alone	ɑ ʃ ə
+сын	between_vowels	s ə n
+сын	between_consonants	s ə n
+сын	alone	s ə n
+лд	between_vowels	l d
+лд	alone	l d
+қса	between_consonants	q s ɑ
+қса	alone	q s ɑ
+ңғ	between_vowels	ŋ ʁ
+ңғ	between_consonants	ŋ ʁ
+ңғ	alone	ŋ ʁ
+ул	between_vowels	w l
+ул	alone	w l
+лм	between_vowels	l m
+лм	alone	l m
+не	between_vowels	n j e
+не	between_consonants	n j e
+не	alone	n j e
+уш	between_vowels	w ʃ
+уш	between_consonants	w ʃ
+уш	alone	w ʃ
+апа	between_consonants	ɑ p ɑ
+апа	alone	ɑ p ɑ
+өз	between_vowels	ʏ z
+өз	between_consonants	ʏ z
+өз	alone	ʏ z
+ұт	between_vowels	ʊ t
+ұт	between_consonants	ʊ t
+ұт	alone	ʊ t
+сү	between_vowels	s ʏ
+сү	between_consonants	s ʏ
+сү	alone	s ʏ
+лау	between_vowels	l ɑ w
+лау	alone	l ɑ w
+ота	between_consonants	o t ɑ
+ота	alone	o t ɑ
+тө	between_vowels	t ʏ
+тө	between_consonants	t ʏ
+тө	alone	t ʏ
+өк	between_vowels	ʏ k
+өк	between_consonants	ʏ k
+өк	alone	ʏ k
+мат	between_vowels	m ɑ t
+мат	between_consonants	m ɑ t
+мат	alone	m ɑ t
+тақ	between_vowels	t ɑ q
+тақ	between_consonants	t ɑ q
+тақ	alone	t ɑ q
+әй	between_vowels	æ j
+әй	between_consonants	æ j
+әй	alone	æ j
+қан	between_vowels	q ɑ n
+қан	between_consonants	q ɑ n
+қан	alone	q ɑ n
+үс	between_vowels	ʏ s
+үс	between_consonants	ʏ s
+үс	alone	ʏ s
+түс	between_vowels	t ʏ s
+түс	between_consonants	t ʏ s
+түс	alone	t ʏ s
+тік	between_vowels	t ɪ k
+тік	between_consonants	t ɪ k
+тік	alone	t ɪ k
+в	between_vowels	v
+в	between_consonants	v
+в	alone	v
+йық	between_vowels	j ə q
+йық	between_consonants	j ə q
+йық	alone	j ə q
+ғал	between_vowels	ʁ ɑ l
+ғал	alone	ʁ ɑ l
+рз	between_vowels	r z
+рз	between_consonants	r z
+рз	alone	r z
+ю	between_vowels	j u w
+ю	between_consonants	j u w
+ю	alone	j u w
+ркі	between_vowels	r k ɪ
+ркі	between_consonants	r k ɪ
+ркі	alone	r k ɪ
+сқ	between_vowels	s q
+сқ	between_consonants	s q
+сқ	alone	s q
+тас	between_vowels	t ɑ s
+тас	between_consonants	t ɑ s
+тас	alone	t ɑ s
+ск	between_vowels	s k
+ск	between_consonants	s k
+ск	alone	s k
+нә	between_vowels	n æ
+нә	between_consonants	n æ
+нә	alone	n æ
+жел	between_vowels	ʒ j e l
+жел	alone	ʒ j e l
+мыр	between_vowels	m ə r
+мыр	between_consonants	m ə r
+мыр	alone	m ə r
+мар	between_vowels	m ɑ r
+мар	between_consonants	m ɑ r
+мар	alone	m ɑ r
+жі	between_vowels	ʒ ɪ
+жі	between_consonants	ʒ ɪ
+жі	alone	ʒ ɪ
+бер	between_vowels	b j e r
+бер	between_consonants	b j e r
+бер	alone	b j e r
+бек	between_vowels	b j e k
+бек	between_consonants	b j e k
+бек	alone	b j e k
+екі	between_vowels	j e k ɪ
+екі	between_consonants	j e k ɪ
+екі	alone	j e k ɪ
+кіт	between_vowels	k ɪ t
+кіт	between_consonants	k ɪ t
+кіт	alone	k ɪ t
+дай	between_vowels	d ɑ j
+дай	between_consonants	d ɑ j
+дай	alone	d ɑ j
+рш	between_vowels	r ʃ
+рш	between_consonants	r ʃ
+рш	alone	r ʃ
+бас	between_vowels	b ɑ s
+бас	between_consonants	b ɑ s
+бас	alone	b ɑ s
+арт	between_consonants	ɑ r t
+арт	alone	ɑ r t
+ірі	between_vowels	ɪ r ɪ
+ірі	between_consonants	ɪ r ɪ
+ірі	alone	ɪ r ɪ
+аны	between_consonants	ɑ n ə
+аны	alone	ɑ n ə
+кү	between_vowels	k ʏ
+кү	between_consonants	k ʏ
+кү	alone	k ʏ
+бү	between_vowels	b ʏ
+бү	between_consonants	b ʏ
+бү	alone	b ʏ
+әл	between_vowels	æ l
+әл	alone	æ l
+ағы	between_consonants	ɑ ʁ ə
+ағы	alone	ɑ ʁ ə
+кін	between_vowels	k ɪ n
+кін	between_consonants	k ɪ n
+кін	alone	k ɪ n
+бо	between_vowels	b o
+бо	between_consonants	b o
+бо	alone	b o
+өл	between_vowels	ʏ l
+өл	alone	ʏ l
+уб	between_vowels	w b
+уб	between_consonants	w b
+уб	alone	w b
+ли	between_vowels	l i j
+ли	alone	l i j
+ка	between_consonants	k ɑ
+ка	alone	k ɑ
+әж	between_vowels	æ ʒ
+әж	between_consonants	æ ʒ
+әж	alone	æ ʒ
+еп	between_vowels	j e p
+еп	between_consonants	j e p
+еп	alone	j e p
+пт	between_vowels	p t
+пт	between_consonants	p t
+пт	alone	p t
+ілу	between_vowels	ɪ l w
+ілу	between_consonants	ɪ l w
+ілу	alone	ɪ l w
+ой	between_vowels	o j
+ой	between_consonants	o j
+ой	alone	o j
+еж	between_vowels	j e ʒ
+еж	between_consonants	j e ʒ
+еж	alone	j e ʒ
+қыш	between_vowels	q ə ʃ
+қыш	between_consonants	q ə ʃ
+қыш	alone	q ə ʃ
+сін	between_vowels	s ɪ n
+сін	between_consonants	s ɪ n
+сін	alone	s ɪ n
+жас	between_vowels	ʒ ɑ s
+жас	between_consonants	ʒ ɑ s
+жас	alone	ʒ ɑ s
+дір	between_vowels	d ɪ r
+дір	between_consonants	d ɪ r
+дір	alone	d ɪ r
+сан	between_vowels	s ɑ n
+сан	between_consonants	s ɑ n
+сан	alone	s ɑ n
+мал	between_vowels	m ɑ l
+мал	alone	m ɑ l
+пі	between_vowels	p ɪ
+пі	between_consonants	p ɪ
+пі	alone	p ɪ
+ғыз	between_vowels	ʁ ə z
+ғыз	between_consonants	ʁ ə z
+ғыз	alone	ʁ ə z
+лп	between_vowels	l p
+лп	alone	l p
+лғ	between_vowels	l ʁ
+лғ	alone	l ʁ
+алғ	between_consonants	ɑ l ʁ
+алғ	alone	ɑ l ʁ
+ушы	between_vowels	w ʃ ə
+ушы	between_consonants	w ʃ ə
+ушы	alone	w ʃ ə
+ңа	between_consonants	ŋ ɑ
+ңа	alone	ŋ ɑ
+есе	between_vowels	j e s j e
+есе	between_consonants	j e s j e
+есе	alone	j e s j e
+бұт	between_vowels	b ʊ t
+бұт	between_consonants	b ʊ t
+бұт	alone	b ʊ t
+ия	between_vowels	i j j ɑ
+ия	between_consonants	i j j ɑ
+ия	alone	i j j ɑ
+тай	between_vowels	t ɑ j
+тай	between_consonants	t ɑ j
+тай	alone	t ɑ j
+йі	between_vowels	j ɪ
+йі	between_consonants	j ɪ
+йі	alone	j ɪ
+бір	between_vowels	b ɪ r
+бір	between_consonants	b ɪ r
+бір	alone	b ɪ r
+гү	between_vowels	ɡ ʏ
+гү	between_consonants	ɡ ʏ
+гү	alone	ɡ ʏ
+ата	between_consonants	ɑ t ɑ
+ата	alone	ɑ t ɑ
+үн	between_vowels	ʏ n
+үн	between_consonants	ʏ n
+үн	alone	ʏ n
+ану	between_consonants	ɑ n w
+ану	alone	ɑ n w
+ах	between_consonants	ɑ χ
+ах	alone	ɑ χ
+қу	between_vowels	q w
+қу	between_consonants	q w
+қу	alone	q w
+алм	between_consonants	ɑ l m
+алм	alone	ɑ l m
+лма	alone	l m ɑ
+жү	between_vowels	ʒ ʏ
+жү	between_consonants	ʒ ʏ
+жү	alone	ʒ ʏ
+үзі	between_vowels	ʏ z ɪ
+үзі	between_consonants	ʏ z ɪ
+үзі	alone	ʏ z ɪ
+жет	between_vowels	ʒ j e t
+жет	between_consonants	ʒ j e t
+жет	alone	ʒ j e t
+түр	between_vowels	t ʏ r
+түр	between_consonants	t ʏ r
+түр	alone	t ʏ r
+көк	between_vowels	k ʏ k
+көк	between_consonants	k ʏ k
+көк	alone	k ʏ k
+рқа	between_consonants	r q ɑ
+рқа	alone	r q ɑ
+жең	between_vowels	ʒ j e ŋ
+жең	between_consonants	ʒ j e ŋ
+жең	alone	ʒ j e ŋ
+ғаш	between_vowels	ʁ ɑ ʃ
+ғаш	between_consonants	ʁ ɑ ʃ
+ғаш	alone	ʁ ɑ ʃ
+жаң	between_vowels	ʒ ɑ ŋ
+жаң	between_consonants	ʒ ɑ ŋ
+жаң	alone	ʒ ɑ ŋ
+амы	between_consonants	ɑ m ə
+амы	alone	ɑ m ə
+пы	between_vowels	p ə
+пы	between_consonants	p ə
+пы	alone	p ə
+дам	between_vowels	d ɑ m
+дам	between_consonants	d ɑ m
+дам	alone	d ɑ m
+зыл	between_vowels	z ə l
+зыл	alone	z ə l
+су	between_vowels	s w
+су	between_consonants	s w
+су	alone	s w
+мақ	between_vowels	m ɑ q
+мақ	between_consonants	m ɑ q
+мақ	alone	m ɑ q
+сті	between_vowels	s t ɪ
+сті	between_consonants	s t ɪ
+сті	alone	s t ɪ
+қш	between_vowels	q ʃ
+қш	between_consonants	q ʃ
+қш	alone	q ʃ
+ақш	between_consonants	ɑ q ʃ
+ақш	alone	ɑ q ʃ
+қша	between_consonants	q ʃ ɑ
+қша	alone	q ʃ ɑ
+дат	between_vowels	d ɑ t
+дат	between_consonants	d ɑ t
+дат	alone	d ɑ t
+ән	between_vowels	æ n
+ән	between_consonants	æ n
+ән	alone	æ n
+ыры	between_vowels	ə r ə
+ыры	between_consonants	ə r ə
+ыры	alone	ə r ə
+арл	alone	ɑ r l
+рла	between_consonants	r l ɑ
+рла	alone	r l ɑ
+иы	between_vowels	i j ə
+иы	between_consonants	i j ə
+иы	alone	i j ə
+лім	between_vowels	l ɪ m
+лім	alone	l ɪ m
+зе	between_vowels	z j e
+зе	between_consonants	z j e
+зе	alone	z j e
+арз	between_consonants	ɑ r z
+арз	alone	ɑ r z
+ылы	between_vowels	ə l ə
+ылы	between_consonants	ə l ə
+ылы	alone	ə l ə
+бақ	between_vowels	b ɑ q
+бақ	between_consonants	b ɑ q
+бақ	alone	b ɑ q
+кім	between_vowels	k ɪ m
+кім	between_consonants	k ɪ m
+кім	alone	k ɪ m
+ырс	between_vowels	ə r s
+ырс	between_consonants	ə r s
+ырс	alone	ə r s
+рсы	between_vowels	r s ə
+рсы	between_consonants	r s ə
+рсы	alone	r s ə
+рта	between_consonants	r t ɑ
+рта	alone	r t ɑ
+асқ	between_consonants	ɑ s q
+асқ	alone	ɑ s q
+әс	between_vowels	æ s
+әс	between_consonants	æ s
+әс	alone	æ s
+ске	between_vowels	s k j e
+ске	between_consonants	s k j e
+ске	alone	s k j e
+ти	between_vowels	t i j
+ти	between_consonants	t i j
+ти	alone	t i j
+нәт	between_vowels	n æ t
+нәт	between_consonants	n æ t
+нәт	alone	n æ t
+еле	between_vowels	j e l j e
+еле	between_consonants	j e l j e
+еле	alone	j e l j e
+леу	between_vowels	l j e w
+леу	alone	l j e w
+бұр	between_vowels	b ʊ r
+бұр	between_consonants	b ʊ r
+бұр	alone	b ʊ r
+ің	between_vowels	ɪ ŋ
+ің	between_consonants	ɪ ŋ
+ің	alone	ɪ ŋ
+лің	between_vowels	l ɪ ŋ
+лің	alone	l ɪ ŋ
+дер	between_vowels	d j e r
+дер	between_consonants	d j e r
+дер	alone	d j e r
+рат	between_vowels	r ɑ t
+рат	between_consonants	r ɑ t
+рат	alone	r ɑ t
+есі	between_vowels	j e s ɪ
+есі	between_consonants	j e s ɪ
+есі	alone	j e s ɪ
+кен	between_vowels	k j e n
+кен	between_consonants	k j e n
+кен	alone	k j e n
+ент	between_vowels	j e n t
+ент	between_consonants	j e n t
+ент	alone	j e n t
+шын	between_vowels	ʃ ə n
+шын	between_consonants	ʃ ə n
+шын	alone	ʃ ə n
+ысы	between_vowels	ə s ə
+ысы	between_consonants	ə s ə
+ысы	alone	ə s ə
+ұс	between_vowels	ʊ s
+ұс	between_consonants	ʊ s
+ұс	alone	ʊ s
+ару	between_consonants	ɑ r w
+ару	alone	ɑ r w
+мыз	between_vowels	m ə z
+мыз	between_consonants	m ə z
+мыз	alone	m ə z
+арм	between_consonants	ɑ r m
+арм	alone	ɑ r m
+алт	between_consonants	ɑ l t
+алт	alone	ɑ l t
+тын	between_vowels	t ə n
+тын	between_consonants	t ə n
+тын	alone	t ə n
+тар	between_vowels	t ɑ r
+тар	between_consonants	t ɑ r
+тар	alone	t ɑ r
+рік	between_vowels	r ɪ k
+рік	between_consonants	r ɪ k
+рік	alone	r ɪ k
+сен	between_vowels	s j e n
+сен	between_consonants	s j e n
+сен	alone	s j e n
+ғай	between_vowels	ʁ ɑ j
+ғай	between_consonants	ʁ ɑ j
+ғай	alone	ʁ ɑ j
+йын	between_vowels	j ə n
+йын	between_consonants	j ə n
+йын	alone	j ə n
+үк	between_vowels	ʏ k
+үк	between_consonants	ʏ k
+үк	alone	ʏ k
+үкі	between_vowels	ʏ k ɪ
+үкі	between_consonants	ʏ k ɪ
+үкі	alone	ʏ k ɪ
+әле	between_vowels	æ l j e
+әле	between_consonants	æ l j e
+әле	alone	æ l j e
+сыз	between_vowels	s ə z
+сыз	between_consonants	s ə z
+сыз	alone	s ə z
+пп	between_vowels	p p
+пп	between_consonants	p p
+пп	alone	p p
+ос	between_vowels	o s
+ос	between_consonants	o s
+ос	alone	o s
+рға	between_consonants	r ʁ ɑ
+рға	alone	r ʁ ɑ
+әң	between_vowels	æ ŋ
+әң	between_consonants	æ ŋ
+әң	alone	æ ŋ
+қау	between_vowels	q ɑ w
+қау	between_consonants	q ɑ w
+қау	alone	q ɑ w
+кер	between_vowels	k j e r
+кер	between_consonants	k j e r
+кер	alone	k j e r
+іг	between_vowels	ɪ ɡ
+іг	between_consonants	ɪ ɡ
+іг	alone	ɪ ɡ
+нта	between_consonants	n t ɑ
+нта	alone	n t ɑ
+бө	between_vowels	b ʏ
+бө	between_consonants	b ʏ
+бө	alone	b ʏ
+қай	between_vowels	q ɑ j
+қай	between_consonants	q ɑ j
+қай	alone	q ɑ j
+ақа	between_consonants	ɑ q ɑ
+ақа	alone	ɑ q ɑ
+пу	between_vowels	p w
+пу	between_consonants	p w
+пу	alone	p w
+ик	between_vowels	i j k
+ик	between_consonants	i j k
+ик	alone	i j k
+есп	between_vowels	j e s p
+есп	between_consonants	j e s p
+есп	alone	j e s p
+спу	between_vowels	s p w
+спу	between_consonants	s p w
+спу	alone	s p w
+пуб	between_vowels	p w b
+пуб	between_consonants	p w b
+пуб	alone	p w b
+убл	between_vowels	w b l
+убл	alone	w b l
+бли	between_vowels	b l i j
+бли	between_consonants	b l i j
+бли	alone	b l i j
+лик	between_vowels	l i j k
+лик	alone	l i j k
+ика	between_consonants	i j k ɑ
+ика	alone	i j k ɑ
+уі	between_vowels	w ɪ
+уі	between_consonants	w ɪ
+уі	alone	w ɪ
+епт	between_vowels	j e p t
+епт	between_consonants	j e p t
+епт	alone	j e p t
+рлы	between_vowels	r l ə
+рлы	between_consonants	r l ə
+рлы	alone	r l ə
+йн	between_vowels	j n
+йн	between_consonants	j n
+йн	alone	j n
+тта	between_consonants	t t ɑ
+тта	alone	t t ɑ
+үм	between_vowels	ʏ m
+үм	between_consonants	ʏ m
+үм	alone	ʏ m
+жай	between_vowels	ʒ ɑ j
+жай	between_consonants	ʒ ɑ j
+жай	alone	ʒ ɑ j
+ние	between_vowels	n i j j e
+ние	between_consonants	n i j j e
+ние	alone	n i j j e
+нда	between_consonants	n d ɑ
+нда	alone	n d ɑ
+тқ	between_vowels	t q
+тқ	between_consonants	t q
+тқ	alone	t q
+мұз	between_vowels	m ʊ z
+мұз	between_consonants	m ʊ z
+мұз	alone	m ʊ z
+тқы	between_vowels	t q ə
+тқы	between_consonants	t q ə
+тқы	alone	t q ə
+үрк	between_vowels	ʏ r k
+үрк	between_consonants	ʏ r k
+үрк	alone	ʏ r k
+уд	between_vowels	w d
+уд	between_consonants	w d
+уд	alone	w d
+аша	between_consonants	ɑ ʃ ɑ
+аша	alone	ɑ ʃ ɑ
+елу	between_vowels	j e l w
+елу	between_consonants	j e l w
+елу	alone	j e l w
+аж	between_consonants	ɑ ʒ
+аж	alone	ɑ ʒ
+ып	between_vowels	ə p
+ып	between_consonants	ə p
+ып	alone	ə p
+абы	between_consonants	ɑ b ə
+абы	alone	ɑ b ə
+тоқ	between_vowels	t o q
+тоқ	between_consonants	t o q
+тоқ	alone	t o q
+оқс	between_vowels	o q s
+оқс	between_consonants	o q s
+оқс	alone	o q s
+ед	between_vowels	j e d
+ед	between_consonants	j e d
+ед	alone	j e d
+үш	between_vowels	ʏ ʃ
+үш	between_consonants	ʏ ʃ
+үш	alone	ʏ ʃ
+айл	alone	ɑ j l
+һ	between_vowels	h
+һ	between_consonants	h
+һ	alone	h
+ғар	between_vowels	ʁ ɑ r
+ғар	between_consonants	ʁ ɑ r
+ғар	alone	ʁ ɑ r
+сар	between_vowels	s ɑ r
+сар	between_consonants	s ɑ r
+сар	alone	s ɑ r
+мет	between_vowels	m j e t
+мет	between_consonants	m j e t
+мет	alone	m j e t
+ез	between_vowels	j e z
+ез	between_consonants	j e z
+ез	alone	j e z
+қон	between_vowels	q o n
+қон	between_consonants	q o n
+қон	alone	q o n
+со	between_vowels	s o
+со	between_consonants	s o
+со	alone	s o
+зын	between_vowels	z ə n
+зын	between_consonants	z ə n
+зын	alone	z ə n
+кс	between_vowels	k s
+кс	between_consonants	k s
+кс	alone	k s
+екс	between_vowels	j e k s
+екс	between_consonants	j e k s
+екс	alone	j e k s
+ңб	between_vowels	ŋ b
+ңб	between_consonants	ŋ b
+ңб	alone	ŋ b
+лта	alone	l t ɑ
+аңб	between_consonants	ɑ ŋ b
+аңб	alone	ɑ ŋ b
+лды	between_vowels	l d ə
+лды	alone	l d ə
+кел	between_vowels	k j e l
+кел	alone	k j e l
+еше	between_vowels	j e ʃ j e
+еше	between_consonants	j e ʃ j e
+еше	alone	j e ʃ j e
+ұта	between_consonants	ʊ t ɑ
+ұта	alone	ʊ t ɑ
+қыт	between_vowels	q ə t
+қыт	between_consonants	q ə t
+қыт	alone	q ə t
+ыта	between_consonants	ə t ɑ
+ыта	alone	ə t ɑ
+ейі	between_vowels	j e j ɪ
+ейі	between_consonants	j e j ɪ
+ейі	alone	j e j ɪ
+мес	between_vowels	m j e s
+мес	between_consonants	m j e s
+мес	alone	m j e s
+ыст	between_vowels	ə s t
+ыст	between_consonants	ə s t
+ыст	alone	ə s t
+сты	between_vowels	s t ə
+сты	between_consonants	s t ə
+сты	alone	s t ə
+гүл	between_vowels	ɡ ʏ l
+гүл	alone	ɡ ʏ l
+оты	between_vowels	o t ə
+оты	between_consonants	o t ə
+оты	alone	o t ə
+ұш	between_vowels	ʊ ʃ
+ұш	between_consonants	ʊ ʃ
+ұш	alone	ʊ ʃ
+бау	between_vowels	b ɑ w
+бау	between_consonants	b ɑ w
+бау	alone	b ɑ w
+қот	between_vowels	q o t
+қот	between_consonants	q o t
+қот	alone	q o t
+ыма	between_consonants	ə m ɑ
+ыма	alone	ə m ɑ
+ауа	between_consonants	ɑ w ɑ
+ауа	alone	ɑ w ɑ
+дас	between_vowels	d ɑ s
+дас	between_consonants	d ɑ s
+дас	alone	d ɑ s
+жүз	between_vowels	ʒ ʏ z
+жүз	between_consonants	ʒ ʏ z
+жүз	alone	ʒ ʏ z
+лг	between_vowels	l ɡ
+лг	alone	l ɡ
+нс	between_vowels	n s
+нс	between_consonants	n s
+нс	alone	n s
+нст	between_vowels	n s t
+нст	between_consonants	n s t
+нст	alone	n s t
+арқ	between_consonants	ɑ r q
+арқ	alone	ɑ r q
+рғы	between_vowels	r ʁ ə
+рғы	between_consonants	r ʁ ə
+рғы	alone	r ʁ ə
+рам	between_vowels	r ɑ m
+рам	between_consonants	r ɑ m
+рам	alone	r ɑ m
+йд	between_vowels	j d
+йд	between_consonants	j d
+йд	alone	j d
+айд	between_consonants	ɑ j d
+айд	alone	ɑ j d
+ит	between_vowels	i j t
+ит	between_consonants	i j t
+ит	alone	i j t
+жар	between_vowels	ʒ ɑ r
+жар	between_consonants	ʒ ɑ r
+жар	alone	ʒ ɑ r
+пай	between_vowels	p ɑ j
+пай	between_consonants	p ɑ j
+пай	alone	p ɑ j
+жә	between_vowels	ʒ æ
+жә	between_consonants	ʒ æ
+жә	alone	ʒ æ
+рақ	between_vowels	r ɑ q
+рақ	between_consonants	r ɑ q
+рақ	alone	r ɑ q
+сө	between_vowels	s ʏ
+сө	between_consonants	s ʏ
+сө	alone	s ʏ
+там	between_vowels	t ɑ m
+там	between_consonants	t ɑ m
+там	alone	t ɑ m
+бат	between_vowels	b ɑ t
+бат	between_consonants	b ɑ t
+бат	alone	b ɑ t
+шқ	between_vowels	ʃ q
+шқ	between_consonants	ʃ q
+шқ	alone	ʃ q
+ықт	between_vowels	ə q t
+ықт	between_consonants	ə q t
+ықт	alone	ə q t
+алп	between_consonants	ɑ l p
+алп	alone	ɑ l p
+лпы	between_vowels	l p ə
+лпы	alone	l p ə
+іле	between_vowels	ɪ l j e
+іле	between_consonants	ɪ l j e
+іле	alone	ɪ l j e
+ңт	between_vowels	ŋ t
+ңт	between_consonants	ŋ t
+ңт	alone	ŋ t
+үст	between_vowels	ʏ s t
+үст	between_consonants	ʏ s t
+үст	alone	ʏ s t
+ғи	between_vowels	ʁ i j
+ғи	between_consonants	ʁ i j
+ғи	alone	ʁ i j
+тх	between_vowels	t χ
+тх	between_consonants	t χ
+тх	alone	t χ
+тха	between_consonants	t χ ɑ
+тха	alone	t χ ɑ
+кет	between_vowels	k j e t
+кет	between_consonants	k j e t
+кет	alone	k j e t
+рмы	between_vowels	r m ə
+рмы	between_consonants	r m ə
+рмы	alone	r m ə
+жи	between_vowels	ʒ i j
+жи	between_consonants	ʒ i j
+жи	alone	ʒ i j
+жиы	between_vowels	ʒ i j ə
+жиы	between_consonants	ʒ i j ə
+жиы	alone	ʒ i j ə
+иыр	between_vowels	i j ə r
+иыр	between_consonants	i j ə r
+иыр	alone	i j ə r
+ев	between_vowels	j e v
+ев	between_consonants	j e v
+ев	alone	j e v
+зу	between_vowels	z w
+зу	between_consonants	z w
+зу	alone	z w
+қыл	between_vowels	q ə l
+қыл	alone	q ə l
+лаб	between_vowels	l ɑ b
+лаб	alone	l ɑ b
+шк	between_vowels	ʃ k
+шк	between_consonants	ʃ k
+шк	alone	ʃ k
+атт	between_consonants	ɑ t t
+атт	alone	ɑ t t
+таб	between_vowels	t ɑ b
+таб	between_consonants	t ɑ b
+таб	alone	t ɑ b
+бан	between_vowels	b ɑ n
+бан	between_consonants	b ɑ n
+бан	alone	b ɑ n
+сың	between_vowels	s ə ŋ
+сың	between_consonants	s ə ŋ
+сың	alone	s ə ŋ
+ыңд	between_vowels	ə ŋ d
+ыңд	between_consonants	ə ŋ d
+ыңд	alone	ə ŋ d
+ңда	between_consonants	ŋ d ɑ
+ңда	alone	ŋ d ɑ
+сқы	between_vowels	s q ə
+сқы	between_consonants	s q ə
+сқы	alone	s q ə
+әск	between_vowels	æ s k
+әск	between_consonants	æ s k
+әск	alone	æ s k
+кеу	between_vowels	k j e w
+кеу	between_consonants	k j e w
+кеу	alone	k j e w
+иж	between_vowels	i j ʒ
+иж	between_consonants	i j ʒ
+иж	alone	i j ʒ
+әти	between_vowels	æ t i j
+әти	between_consonants	æ t i j
+әти	alone	æ t i j
+тиж	between_vowels	t i j ʒ
+тиж	between_consonants	t i j ʒ
+тиж	alone	t i j ʒ
+иже	between_vowels	i j ʒ j e
+иже	between_consonants	i j ʒ j e
+иже	alone	i j ʒ j e
+ұры	between_vowels	ʊ r ə
+ұры	between_consonants	ʊ r ə
+ұры	alone	ʊ r ə
+іңі	between_vowels	ɪ ŋ ɪ
+іңі	between_consonants	ɪ ŋ ɪ
+іңі	alone	ɪ ŋ ɪ
+ңіз	between_vowels	ŋ ɪ z
+ңіз	between_consonants	ŋ ɪ z
+ңіз	alone	ŋ ɪ z
+ізд	between_vowels	ɪ z d
+ізд	between_consonants	ɪ z d
+ізд	alone	ɪ z d
+зде	between_vowels	z d j e
+зде	between_consonants	z d j e
+зде	alone	z d j e
+іб	between_vowels	ɪ b
+іб	between_consonants	ɪ b
+іб	alone	ɪ b
+еру	between_vowels	j e r w
+еру	between_consonants	j e r w
+еру	alone	j e r w
+қст	between_vowels	q s t
+қст	between_consonants	q s t
+қст	alone	q s t
+іту	between_vowels	ɪ t w
+іту	between_consonants	ɪ t w
+іту	alone	ɪ t w
+мк	between_vowels	m k
+мк	between_consonants	m k
+мк	alone	m k
+йту	between_vowels	j t w
+йту	between_consonants	j t w
+йту	alone	j t w
+арш	between_consonants	ɑ r ʃ
+арш	alone	ɑ r ʃ
+жұ	between_vowels	ʒ ʊ
+жұ	between_consonants	ʒ ʊ
+жұ	alone	ʒ ʊ
+мыс	between_vowels	m ə s
+мыс	between_consonants	m ə s
+мыс	alone	m ə s
+іта	between_consonants	ɪ t ɑ
+іта	alone	ɪ t ɑ
+тап	between_vowels	t ɑ p
+тап	between_consonants	t ɑ p
+тап	alone	t ɑ p
+мі	between_vowels	m ɪ
+мі	between_consonants	m ɪ
+мі	alone	m ɪ
+емі	between_vowels	j e m ɪ
+емі	between_consonants	j e m ɪ
+емі	alone	j e m ɪ
+нө	between_vowels	n ʏ
+нө	between_consonants	n ʏ
+нө	alone	n ʏ
+жам	between_vowels	ʒ ɑ m
+жам	between_consonants	ʒ ɑ m
+жам	alone	ʒ ɑ m
+лты	between_vowels	l t ə
+лты	alone	l t ə
+зам	between_vowels	z ɑ m
+зам	between_consonants	z ɑ m
+зам	alone	z ɑ m
+дағ	between_vowels	d ɑ ʁ
+дағ	between_consonants	d ɑ ʁ
+дағ	alone	d ɑ ʁ
+қты	between_vowels	q t ə
+қты	between_consonants	q t ə
+қты	alone	q t ə
+сә	between_vowels	s æ
+сә	between_consonants	s æ
+сә	alone	s æ
+әб	between_vowels	æ b
+әб	between_consonants	æ b
+әб	alone	æ b
+біз	between_vowels	b ɪ z
+біз	between_consonants	b ɪ z
+біз	alone	b ɪ z
+кт	between_vowels	k t
+кт	between_consonants	k t
+кт	alone	k t
+кте	between_vowels	k t j e
+кте	between_consonants	k t j e
+кте	alone	k t j e
+теу	between_vowels	t j e w
+теу	between_consonants	t j e w
+теу	alone	t j e w
+енд	between_vowels	j e n d
+енд	between_consonants	j e n d
+енд	alone	j e n d
+әм	between_vowels	æ m
+әм	between_consonants	æ m
+әм	alone	æ m
+бап	between_vowels	b ɑ p
+бап	between_consonants	b ɑ p
+бап	alone	b ɑ p
+шп	between_vowels	ʃ p
+шп	between_consonants	ʃ p
+шп	alone	ʃ p
+дан	between_vowels	d ɑ n
+дан	between_consonants	d ɑ n
+дан	alone	d ɑ n
+шпа	between_consonants	ʃ p ɑ
+шпа	alone	ʃ p ɑ
+пан	between_vowels	p ɑ n
+пан	between_consonants	p ɑ n
+пан	alone	p ɑ n
+юн	between_vowels	j u w n
+юн	between_consonants	j u w n
+юн	alone	j u w n
+юна	between_consonants	j u w n ɑ
+юна	alone	j u w n ɑ
+нан	between_vowels	n ɑ n
+нан	between_consonants	n ɑ n
+нан	alone	n ɑ n
+йе	between_vowels	j j e
+йе	between_consonants	j j e
+йе	alone	j j e
+күй	between_vowels	k ʏ j
+күй	between_consonants	k ʏ j
+күй	alone	k ʏ j
+үйе	between_vowels	ʏ j j e
+үйе	between_consonants	ʏ j j e
+үйе	alone	ʏ j j e
+тен	between_vowels	t j e n
+тен	between_consonants	t j e n
+тен	alone	t j e n
+тек	between_vowels	t j e k
+тек	between_consonants	t j e k
+тек	alone	t j e k
+зін	between_vowels	z ɪ n
+зін	between_consonants	z ɪ n
+зін	alone	z ɪ n
+мд	between_vowels	m d
+мд	between_consonants	m d
+мд	alone	m d
+лем	between_vowels	l j e m
+лем	alone	l j e m
+ғын	between_vowels	ʁ ə n
+ғын	between_consonants	ʁ ə n
+ғын	alone	ʁ ə n
+ызд	between_vowels	ə z d
+ызд	between_consonants	ə z d
+ызд	alone	ə z d
+зды	between_vowels	z d ə
+зды	between_consonants	z d ə
+зды	alone	z d ə
+пақ	between_vowels	p ɑ q
+пақ	between_consonants	p ɑ q
+пақ	alone	p ɑ q
+үт	between_vowels	ʏ t
+үт	between_consonants	ʏ t
+үт	alone	ʏ t
+орғ	between_vowels	o r ʁ
+орғ	between_consonants	o r ʁ
+орғ	alone	o r ʁ
+қос	between_vowels	q o s
+қос	between_consonants	q o s
+қос	alone	q o s
+ңг	between_vowels	ŋ ɡ
+ңг	between_consonants	ŋ ɡ
+ңг	alone	ŋ ɡ

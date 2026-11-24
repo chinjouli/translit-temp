@@ -1,0 +1,5 @@
+% Latin readings give consonant + j for Russian palatalization (coroly = kɔʀɔlj,
+% vierno = vjɛʀno): the consonant is palatalized instead, spelled by ь or by the
+% vowel letter (король, верно; epitran reads вье as vʲe, so ье is not reachable)
+::cons:: = [bdfɡɣhklmnprstvxzʃʒʂʐɕʑθðɲŋɾʀʁ]
+j -> ʲ / ::cons::ː? _

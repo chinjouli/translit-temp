@@ -1,0 +1,180 @@
+phones	letters	context	count
+ɑ	a	C_C	89
+æ	ə	C_C	74
+ɪ	i	C_C	46
+u	u	C_C	24
+n	n	V_C	24
+y	ü	C_C	24
+r	r	V_C	23
+b	b	#_V	21
+r	r	V_V	18
+ɔ	o	C_C	18
+n	n	V_V	17
+n	n	V_#	17
+ɑ	a	#_C	17
+m	m	C_V	16
+æ	ə	C_#	15
+s	s	#_V	15
+ɯ	ı	C_C	15
+d	d	V_V	14
+l	l	C_V	14
+ɑ	a	C_#	13
+l	l	V_V	13
+m	m	V_V	13
+d	d	C_V	13
+e	e	C_C	12
+ɡ	q	#_V	12
+j	y	V_V	12
+x	q	V_#	12
+k	k	V_#	11
+m	m	#_V	11
+m	m	V_#	10
+d	d	#_V	10
+j	y	#_V	9
+t	t	V_#	9
+ɟ	g	#_V	9
+h	h	#_V	9
+ɪ	i	C_#	9
+z	z	V_#	8
+r	r	C_V	7
+ɟ	k	V_#	7
+ɟ	k	#_V	7
+b	b	V_V	7
+t	t	#_V	7
+n	n	#_V	7
+l	l	V_C	7
+æ	ə	#_C	6
+m	m	V_C	6
+r	r	V_#	6
+l	l	V_#	6
+ʃ	ş	#_V	6
+ʃ	ş	V_#	5
+ɟ	g	C_V	5
+s	s	V_V	5
+z	z	V_V	5
+ʃ	ş	V_C	5
+ʃ	ş	V_V	5
+ɯ	ı	C_#	5
+t	t	C_V	5
+d	d	V_C	5
+ɪ	i	#_C	5
+s	s	V_#	5
+ɟ	k	V_V	4
+x	x	#_V	4
+t	t	V_V	4
+j	y	V_#	4
+v	v	V_C	4
+f	f	V_V	4
+u	u	C_#	4
+p	p	#_V	3
+ɟ	g	V_V	3
+x	x	V_V	3
+e	e	#_C	3
+k	k	C_V	3
+b	b	V_C	3
+s	s	V_C	3
+v	v	V_V	3
+s	s	C_V	3
+y	ü	C_#	2
+j	y	V_C	2
+z	z	#_V	2
+t	t	V_C	2
+f	f	#_V	2
+b	b	C_V	2
+j	yy	V_V	2
+ɟ	k	C_V	2
+v	v	C_V	2
+f	f	V_#	2
+d͡ʒ	c	#_V	2
+œ	ö	C_C	2
+ɡ	q	C_V	2
+œ	ö	#_C	2
+e t͡ʃ	eç	C_V	2
+y	ü	#_C	2
+z	z	V_C	2
+r	r	C_#	2
+ʒ	j	V_#	2
+z	z	C_V	2
+h	h	V_C	2
+v	v	V_#	1
+œ	ö	#_#	1
+t	t	C_C	1
+h e	hö	#_C	1
+n	n	C_V	1
+y k	ik	C_#	1
+n ɑ	il	#_C	1
+m	ə	V_#	1
+h ɑ	hə	#_C	1
+d͡ʒ ɑ	cə	C_C	1
+r u	ri	V_#	1
+f	f	C_#	1
+x	x	C_V	1
+r	r	#_V	1
+d	d	C_#	1
+ɟ	k	V_C	1
+ɪ j	i	C_V	1
+ɔ ɣ	oğ	#_C	1
+ɔ r	oğ	C_V	1
+t	t	C_#	1
+m ɑ	mə	#_C	1
+l v	lb	V_V	1
+h	ng	V_#	1
+ɣ	ƣ	#_#	1
+œ y	ey	C_V	1
+y r	il	V_#	1
+d ɯ	d	#_C	1
+ʃ ɡ	ış	V_V	1
+ɟ	k	C_#	1
+ɔ t	od	#_#	1
+ɟ j	g	#_V	1
+e ʒ	ec	C_V	1
+d͡ʒ	c	C_V	1
+n	ng	V_V	1
+u	u	#_#	1
+ɯ	ı	C_V	1
+œ	ö	V_C	1
+d͡ʒ	c	C_#	1
+e	e	#_#	1
+ɡ	q	V_#	1
+h	h	C_V	1
+ɯ t	üt	C_V	1
+œ j	öv	C_#	1
+k ɑ	ko	#_C	1
+æ j	ək	C_#	1
+ɡ	q	C_#	1
+x	x	C_#	1
+ɣ	ğ	V_#	1
+æ x	ək	C_#	1
+z ɪ	zu	V_#	1
+t ʃ	ç	V_#	1
+ɔ t͡ʃ	oç	C_V	1
+x	x	V_C	1
+k	k	V_C	1
+ɯ	ı	#_#	1
+p	p	#_C	1
+s	s	C_C	1
+ɔ	o	#_#	1
+d͡ʒ	c	V_#	1
+d ʒ	c	V_V	1
+ɪ	i	#_#	1
+ɪ ʃ	e	#_C	1
+ʃ	şş	C_V	1
+e j	ək	C_#	1
+m æ	ma	C_#	1
+d	d	V_#	1
+r	ğ	V_V	1
+n t	nd	V_#	1
+æ ʃ	eş	C_#	1
+æ	ə	#_#	1
+d͡ʒ	c	V_V	1
+œ t͡ʃ	öç	C_C	1
+f t	vt	V_V	1
+ɡ	q	V_C	1
+ɡ	q	V_V	1
+b ɯ	bu	C_C	1
+n ɯ	nu	C_#	1
+k	k	C_#	1
+s	s	C_#	1
+k	k	V_V	1
+p	p	V_V	1
+ɔ	o	#_C	1

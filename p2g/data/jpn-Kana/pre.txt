@@ -1,0 +1,71 @@
+% Japanese loanword rules on the input IPA (then subst.csv maps the vowels and
+% consonants). Length is kept: long vowels become ー (post.txt), long consonants ッ.
+::V:: = [aeiouɪʊəɛɔæɑɒʌɐɨyøœɜɯ]
+::C:: = (?:t͡ʃ|d͡ʒ|t͡s|d͡z|[pbtdkɡfvszʃʒθðxhlɹrɾʁʀmβçɸχɣcɟqʂʐɕʑ])(?:(?!͡)[̀-ͯ])*
+% marks Japanese does not write; a source ʔ (ッ is inserted below)
+ʰ -> 0 / _
+ʔ -> 0 / _
+% nasal vowel: vowel + ン unless a nasal follows (bonjour ボンジュール)
+̃ -> ɴ / _ (?![mnŋɲ])
+̃ -> 0 / _
+% r-coloured vowels and r after a vowel: a long vowel (computer -ター, car カー)
+ɜ˞ -> aɾ / _ (?=::V::)
+ɜ˞ -> aː / _
+ə˞ -> aː / _
+ɚ -> aː / _
+ɝ -> aː / _
+ɹ -> ː / ::V:: _ (?!::V::)
+% German vocalized r: length (Mozart モーツァート)
+ɐ̯ -> 0 / ::V::ː _
+ɐ̯ -> ː / ::V:: _
+% English diphthongs ei ou -> long e o (cake ケーキ, home ホーム)
+eɪ -> eː / _
+oʊ -> oː / _
+% consonant + w = u, consonant + j before e = i (buenos ブエノス, oriental オリエンタル)
+w -> ɯ / ::C:: _
+j -> i / ::C:: _ (?=[eɛ])
+% the apical vowel after a sibilant is u (Mandarin zi ツ, si ス); elsewhere i (Russian ы)
+ɨ -> ɯ / (?:t͡s|t͡ɕ|ʈ͡ʂ|[szʂʐɕʑ]) _
+% si zi ji wu: シ ジ イ ウ (sea シー)
+s -> ʃ / _ [iɪ]
+z -> ʒ / _ [iɪ]
+j -> 0 / _ [iɪ]
+w -> 0 / _ [uʊ]
+% ッ: before a long consonant, and before an English-style final stop or ʃ after a
+% short vowel, not a diphthong's second half (cat キャット, bed ベッド, fish フィッシュ;
+% about アバウト; not b: club クラブ)
+0 -> ʔ / _ (?=(?:t͡ʃ|d͡ʒ|[pbtdkɡsʃfθ])ː)
+% doubled consonant letters too (Japanese kitte = kitte, Italian notte)
+p -> ʔ / _ (?=p)
+t -> ʔ / _ (?=t)
+k -> ʔ / _ (?=k)
+s -> ʔ / _ (?=s|ɕ)
+ɕ -> ʔ / _ (?=ɕ)
+b -> ʔ / _ (?=b)
+f -> ʔ / _ (?=f)
+d -> ʔ / _ (?=d)
+ɡ -> ʔ / _ (?=ɡ)
+0 -> ɴ / _ (?=[mn]ː)
+ː -> 0 / (?:t͡ʃ|d͡ʒ|t͡s|[pbtdkɡfvszʃʒθðxlɹrɾmn]) _
+0 -> ʔ / (?<![aeiouɑɔəɛæ])[æɛɪʌɑʊɔ] _ (?=(?:t͡ʃ|d͡ʒ|[ptdkɡʃ])#)
+0 -> ʔ / [aeiouɪʊəɛɔæɑʌ] _ (?=x|ç)
+% æ after k ɡ is ja (cat キャット, camp キャンプ)
+æ -> ja / [kɡ] _
+% nasals: ン before a consonant and word-finally; final ŋ = ング (king キング)
+ŋ -> ɴɡ / _ #
+ŋ -> ɴ / _
+n -> ɴ / _ (?!::V::|j|ʲ)
+m -> ɴ / _ (?=[pbm])
+% added vowels (never inside a letter: ç = c + cedilla, l̴ = l + tilde in NFD; the
+% consonant pattern takes marks but not the tie of t͡ʃ; NFD reorders adjacent marks,
+% so the tie is excluded by a lookahead, not by a split range): o after t d, i after t͡ʃ d͡ʒ (match マッチ), u elsewhere (milk ミルク)
+% German ch: ç takes i, x echoes a/o (ich イッヒ, Bach バッハ, noch ノッホ, Buch ブーフ)
+0 -> a / [aɑ]ʔ?x _ (?!::V::|ː)
+0 -> o / [oɔ]ʔ?x _ (?!::V::|ː)
+0 -> ɯ / [uʊ]ː?ʔ?x _ (?!::V::|ː)
+0 -> i / ç _ (?!::V::|ː|[̀-ͯ])
+0 -> o / [td](?:(?!͡)[̀-ͯ])* _ (?!::V::|͡|ː|j|w|ʲ|ʷ|[̀-ͯ])
+0 -> i / (?:t͡ʃ|d͡ʒ) _ (?!::V::|ː|ʲ|[̀-ͯ])
+0 -> ɯ / ::C:: _ (?!::V::|ː|j|w|͡|ʲ|ʷ|[̀-ͯ])
+% hu = フ
+[hx] -> ɸ / _ [ɯuʊ]

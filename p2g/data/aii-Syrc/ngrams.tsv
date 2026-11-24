@@ -1,0 +1,601 @@
+gram	context	phones
+ܐ	alone	ʔ
+ܝ	alone	j
+ܡ	alone	m
+ܘ	alone	w
+ܪ	alone	r
+ܬ	alone	t
+ܢ	alone	n
+ܠ	alone	l
+ܒ	alone	b
+ܫ	alone	ʃ
+ܕ	alone	d
+ܩ	alone	q
+ܚ	alone	ħ
+ܬܐ	alone	t ʔ
+ܦ	alone	p
+ܣ	alone	s
+ܟ	alone	k
+ܥ	alone	ʕ
+ܓ	alone	g
+ܝܐ	alone	j ʔ
+ܢܐ	alone	n ʔ
+ܛ	alone	tˤ
+ܙ	alone	z
+ܪܐ	alone	r ʔ
+ܨ	alone	sˤ
+ܘܪ	alone	w r
+ܗ	alone	h
+ܢܝ	alone	n j
+ܝܬ	alone	j t
+ܠܐ	alone	l ʔ
+ܝܢ	alone	j n
+ܘܬ	alone	w t
+ܡܐ	alone	m ʔ
+ܘܢ	alone	w n
+ܪܝ	alone	r j
+ܠܝ	alone	l j
+ܡܫ	alone	m ʃ
+ܪܘ	alone	r w
+ܘܬܐ	alone	w t ʔ
+ܝܬܐ	alone	j t ʔ
+ܒܐ	alone	b ʔ
+ܝܠ	alone	j l
+ܝܘ	alone	j w
+ܡܪ	alone	m r
+ܝܪ	alone	j r
+ܕܐ	alone	d ʔ
+ܘܠ	alone	w l
+ܐܝ	alone	ʔ j
+ܒܪ	alone	b r
+ܩܐ	alone	q ʔ
+ܡܝ	alone	m j
+ܡܢ	alone	m n
+ܫܘ	alone	ʃ w
+ܡܘ	alone	m w
+ܪܬ	alone	r t
+ܕܝ	alone	d j
+ܒܝ	alone	b j
+ܡܬ	alone	m t
+ܦܪ	alone	p r
+ܢܝܐ	alone	n j ʔ
+ܦܐ	alone	p ʔ
+ܘܡ	alone	w m
+ܒܘ	alone	b w
+ܚܘ	alone	ħ w
+ܢܘ	alone	n w
+ܩܘ	alone	q w
+ܡܚ	alone	m ħ
+ܠܘ	alone	l w
+ܫܐ	alone	ʃ ʔ
+ܟܐ	alone	k ʔ
+ܝܢܐ	alone	j n ʔ
+ܩܪ	alone	q r
+ܘܣ	alone	w s
+ܕܘ	alone	d w
+ܘܝ	alone	w j
+ܬܘ	alone	t w
+ܪܒ	alone	r b
+ܚܐ	alone	ħ ʔ
+ܣܝ	alone	s j
+ܡܣ	alone	m s
+ܬܪ	alone	t r
+ܬܝ	alone	t j
+ܝܡ	alone	j m
+ܡܠ	alone	m l
+ܪܬܐ	alone	r t ʔ
+ܣܪ	alone	s r
+ܪܓ	alone	r g
+ܓܪ	alone	g r
+ܪܢ	alone	r n
+ܡܥ	alone	m ʕ
+ܓܘ	alone	g w
+ܥܐ	alone	ʕ ʔ
+ܕܪ	alone	d r
+ܝܩ	alone	j q
+ܣܘ	alone	s w
+ܐܘ	alone	ʔ w
+ܟܝ	alone	k j
+ܘܦ	alone	w p
+ܫܬ	alone	ʃ t
+ܐܪ	alone	ʔ r
+ܘܩ	alone	w q
+ܛܐ	alone	tˤ ʔ
+ܟܘ	alone	k w
+ܡܕ	alone	m d
+ܝܕ	alone	j d
+ܘܕ	alone	w d
+ܣܐ	alone	s ʔ
+ܡܟ	alone	m k
+ܦܝ	alone	p j
+ܟܪ	alone	k r
+ܝܪܐ	alone	j r ʔ
+ܦܘ	alone	p w
+ܝܒ	alone	j b
+ܓܠ	alone	g l
+ܛܪ	alone	tˤ r
+ܫܝ	alone	ʃ j
+ܘܫ	alone	w ʃ
+ܒܠ	alone	b l
+ܡܦ	alone	m p
+ܥܬ	alone	ʕ t
+ܝܫ	alone	j ʃ
+ܪܝܐ	alone	r j ʔ
+ܚܡ	alone	ħ m
+ܘܢܐ	alone	w n ʔ
+ܠܬ	alone	l t
+ܪܡ	alone	r m
+ܪܩ	alone	r q
+ܓܐ	alone	g ʔ
+ܒܢ	alone	b n
+ܘܪܐ	alone	w r ʔ
+ܘܐ	alone	w ʔ
+ܛܝ	alone	tˤ j
+ܙܐ	alone	z ʔ
+ܫܠ	alone	ʃ l
+ܛܘ	alone	tˤ w
+ܚܝ	alone	ħ j
+ܘܟ	alone	w k
+ܡܩ	alone	m q
+ܦܠ	alone	p l
+ܥܘ	alone	ʕ w
+ܡܒ	alone	m b
+ܫܡ	alone	ʃ m
+ܘܒ	alone	w b
+ܡܙ	alone	m z
+ܓܝ	alone	g j
+ܠܦ	alone	l p
+ܚܪ	alone	ħ r
+ܬܢ	alone	t n
+ܡܨ	alone	m sˤ
+ܩܝ	alone	q j
+ܦܬ	alone	p t
+ܫܒ	alone	ʃ b
+ܥܝ	alone	ʕ j
+ܘܚ	alone	w ħ
+ܒܥ	alone	b ʕ
+ܩܠ	alone	q l
+ܫܪ	alone	ʃ r
+ܟܠ	alone	k l
+ܪܟ	alone	r k
+ܙܝ	alone	z j
+ܕܢ	alone	d n
+ܟܢ	alone	k n
+ܡܛ	alone	m tˤ
+ܪܕ	alone	r d
+ܩܢ	alone	q n
+ܢܕ	alone	n d
+ܣܡ	alone	s m
+ܘܥ	alone	w ʕ
+ܝܣ	alone	j s
+ܐܢ	alone	ʔ n
+ܚܠ	alone	ħ l
+ܚܬ	alone	ħ t
+ܐܠ	alone	ʔ l
+ܠܒ	alone	l b
+ܢܬ	alone	n t
+ܥܡ	alone	ʕ m
+ܠܡ	alone	l m
+ܪܦ	alone	r p
+ܝܠܐ	alone	j l ʔ
+ܨܘ	alone	sˤ w
+ܙܘ	alone	z w
+ܪܫ	alone	r ʃ
+ܐܡ	alone	ʔ m
+ܒܬ	alone	b t
+ܪܚ	alone	r ħ
+ܩܕ	alone	q d
+ܬܠ	alone	t l
+ܐܣ	alone	ʔ s
+ܪܥ	alone	r ʕ
+ܨܐ	alone	sˤ ʔ
+ܚܕ	alone	ħ d
+ܡܓ	alone	m g
+ܗܘ	alone	h w
+ܠܬܐ	alone	l t ʔ
+ܥܪ	alone	ʕ r
+ܝܘܬ	alone	j w t
+ܘܓ	alone	w g
+ܣܢ	alone	s n
+ܣܦ	alone	s p
+ܦܢ	alone	p n
+ܗܪ	alone	h r
+ܠܝܐ	alone	l j ʔ
+ܫܬܐ	alone	ʃ t ʔ
+ܘܙ	alone	w z
+ܟܬ	alone	k t
+ܥܠ	alone	ʕ l
+ܐܟ	alone	ʔ k
+ܓܢ	alone	g n
+ܠܢ	alone	l n
+ܘܝܐ	alone	w j ʔ
+ܪܛ	alone	r tˤ
+ܥܣ	alone	ʕ s
+ܢܝܬ	alone	n j t
+ܥܒ	alone	ʕ b
+ܝܚ	alone	j ħ
+ܥܬܐ	alone	ʕ t ʔ
+ܐܝܬ	alone	ʔ j t
+ܘܡܐ	alone	w m ʔ
+ܪܢܐ	alone	r n ʔ
+ܠܚ	alone	l ħ
+ܬܚ	alone	t ħ
+ܬܡ	alone	t m
+ܡܡ	alone	m m
+ܓܡ	alone	g m
+ܨܝ	alone	sˤ j
+ܘܪܬ	alone	w r t
+ܥܢ	alone	ʕ n
+ܪܣ	alone	r s
+ܕܥ	alone	d ʕ
+ܠܩ	alone	l q
+ܚܢ	alone	ħ n
+ܢܓ	alone	n g
+ܛܠ	alone	tˤ l
+ܬܩ	alone	t q
+ܛܢ	alone	tˤ n
+ܕܡ	alone	d m
+ܐܒ	alone	ʔ b
+ܫܥ	alone	ʃ ʕ
+ܝܩܐ	alone	j q ʔ
+ܙܪ	alone	z r
+ܝܟ	alone	j k
+ܬܒ	alone	t b
+ܘܛ	alone	w tˤ
+ܐܬ	alone	ʔ t
+ܣܛ	alone	s tˤ
+ܨܠ	alone	sˤ l
+ܡܢܐ	alone	m n ʔ
+ܛܒ	alone	tˤ b
+ܝܛ	alone	j tˤ
+ܕܠ	alone	d l
+ܘܢܝ	alone	w n j
+ܒܫ	alone	b ʃ
+ܫܢ	alone	ʃ n
+ܣܬ	alone	s t
+ܬܫ	alone	t ʃ
+ܩܬ	alone	q t
+ܗܝ	alone	h j
+ܩܛ	alone	q tˤ
+ܦܫ	alone	p ʃ
+ܫܚ	alone	ʃ ħ
+ܢܢ	alone	n n
+ܘܦܐ	alone	w p ʔ
+ܨܪ	alone	sˤ r
+ܚܙ	alone	ħ z
+ܠܕ	alone	l d
+ܥܣܪ	alone	ʕ s r
+ܒܬܐ	alone	b t ʔ
+ܝܢܝ	alone	j n j
+ܘܪܝ	alone	w r j
+ܘܠܐ	alone	w l ʔ
+ܗܒ	alone	h b
+ܡܬܐ	alone	m t ʔ
+ܕܝܐ	alone	d j ʔ
+ܢܒ	alone	n b
+ܚܒ	alone	ħ b
+ܠܓ	alone	l g
+ܟܡ	alone	k m
+ܢܛ	alone	n tˤ
+ܝܡܐ	alone	j m ʔ
+ܐܫ	alone	ʔ ʃ
+ܢܬܐ	alone	n t ʔ
+ܝܙ	alone	j z
+ܟܣ	alone	k s
+ܪܙ	alone	r z
+ܢܘܬ	alone	n w t
+ܢܦ	alone	n p
+ܝܦ	alone	j p
+ܐܝܠ	alone	ʔ j l
+ܝܘܢ	alone	j w n
+ܦܩ	alone	p q
+ܢܫ	alone	n ʃ
+ܡܝܐ	alone	m j ʔ
+ܕܒ	alone	d b
+ܚܘܪ	alone	ħ w r
+ܣܒ	alone	s b
+ܚܫ	alone	ħ ʃ
+ܒܕ	alone	b d
+ܝܥ	alone	j ʕ
+ܢܣ	alone	n s
+ܪܨ	alone	r sˤ
+ܝܓ	alone	j g
+ܡܗ	alone	m h
+ܝܕܐ	alone	j d ʔ
+ܠܥ	alone	l ʕ
+ܣܩ	alone	s q
+ܩܬܐ	alone	q t ʔ
+ܐܐ	alone	ʔ ʔ
+ܝܒܐ	alone	j b ʔ
+ܙܠ	alone	z l
+ܪܝܢ	alone	r j n
+ܗܐ	alone	h ʔ
+ܪܘܬ	alone	r w t
+ܕܩ	alone	d q
+ܦܬܐ	alone	p t ʔ
+ܦܣ	alone	p s
+ܘܩܐ	alone	w q ʔ
+ܪܗ	alone	r h
+ܒܝܐ	alone	b j ʔ
+ܟܒ	alone	k b
+ܐܦ	alone	ʔ p
+ܐܚ	alone	ʔ ħ
+ܒܒ	alone	b b
+ܙܡ	alone	z m
+ܬܢܝ	alone	t n j
+ܠܗ	alone	l h
+ܐܘܪ	alone	ʔ w r
+ܐܕ	alone	ʔ d
+ܚܬܐ	alone	ħ t ʔ
+ܩܢܐ	alone	q n ʔ
+ܪܘܢ	alone	r w n
+ܣܝܐ	alone	s j ʔ
+ܗܠ	alone	h l
+ܫܟ	alone	ʃ k
+ܓܕ	alone	g d
+ܢܚ	alone	n ħ
+ܪܝܬ	alone	r j t
+ܫܝܐ	alone	ʃ j ʔ
+ܝܫܐ	alone	j ʃ ʔ
+ܛܥ	alone	tˤ ʕ
+ܢܝܢ	alone	n j n
+ܒܩ	alone	b q
+ܠܝܬ	alone	l j t
+ܣܟ	alone	s k
+ܡܚܪ	alone	m ħ r
+ܢܩ	alone	n q
+ܝܢܘ	alone	j n w
+ܡܢܝ	alone	m n j
+ܡܚܘ	alone	m ħ w
+ܠܠ	alone	l l
+ܡܪܐ	alone	m r ʔ
+ܝܝ	alone	j j
+ܘܕܐ	alone	w d ʔ
+ܝܨ	alone	j sˤ
+ܕܝܢ	alone	d j n
+ܣܪܐ	alone	s r ʔ
+ܬܦ	alone	t p
+ܒܪܐ	alone	b r ʔ
+ܓܠܝ	alone	g l j
+ܢܪ	alone	n r
+ܕܢܐ	alone	d n ʔ
+ܒܢܐ	alone	b n ʔ
+ܫܘܪ	alone	ʃ w r
+ܙܒ	alone	z b
+ܪܒܐ	alone	r b ʔ
+ܩܦ	alone	q p
+ܥܕ	alone	ʕ d
+ܝܘܡ	alone	j w m
+ܒܛ	alone	b tˤ
+ܕܘܪ	alone	d w r
+ܡܫܬ	alone	m ʃ t
+ܘܘ	alone	w w
+ܕܟ	alone	d k
+ܩܘܪ	alone	q w r
+ܘܚܐ	alone	w ħ ʔ
+ܒܘܪ	alone	b w r
+ܐܓ	alone	ʔ g
+ܗܕ	alone	h d
+ܥܢܐ	alone	ʕ n ʔ
+ܡܫܘ	alone	m ʃ w
+ܠܛ	alone	l tˤ
+ܠܢܐ	alone	l n ʔ
+ܓܫ	alone	g ʃ
+ܬܢܐ	alone	t n ʔ
+ܡܦܪ	alone	m p r
+ܠܟ	alone	l k
+ܫܘܬ	alone	ʃ w t
+ܢܝܘ	alone	n j w
+ܝܚܐ	alone	j ħ ʔ
+ܒܨ	alone	b sˤ
+ܩܠܐ	alone	q l ʔ
+ܪܒܝ	alone	r b j
+ܕܪܐ	alone	d r ʔ
+ܟܦ	alone	k p
+ܠܝܠ	alone	l j l
+ܓܘܢ	alone	g w n
+ܣܘܪ	alone	s w r
+ܘܪܘ	alone	w r w
+ܡܠܐ	alone	m l ʔ
+ܬܘܪ	alone	t w r
+ܘܕܝ	alone	w d j
+ܣܢܐ	alone	s n ʔ
+ܩܪܐ	alone	q r ʔ
+ܬܓ	alone	t g
+ܨܦ	alone	sˤ p
+ܬܝܢ	alone	t j n
+ܒܟ	alone	b k
+ܢܘܢ	alone	n w n
+ܙܓ	alone	z g
+ܡܘܢ	alone	m w n
+ܛܪܐ	alone	tˤ r ʔ
+ܒܣ	alone	b s
+ܦܘܪ	alone	p w r
+ܠܦܐ	alone	l p ʔ
+ܒܚ	alone	b ħ
+ܝܝܐ	alone	j j ʔ
+ܡܘܪ	alone	m w r
+ܘܨ	alone	w sˤ
+ܫܩ	alone	ʃ q
+ܙܩ	alone	z q
+ܝܟܐ	alone	j k ʔ
+ܝܗ	alone	j h
+ܗܢ	alone	h n
+ܒܗ	alone	b h
+ܙܕ	alone	z d
+ܘܠܝ	alone	w l j
+ܦܢܐ	alone	p n ʔ
+ܡܪܝ	alone	m r j
+ܦܪܝ	alone	p r j
+ܡܫܚ	alone	m ʃ ħ
+ܚܢܐ	alone	ħ n ʔ
+ܟܢܐ	alone	k n ʔ
+ܢܕܐ	alone	n d ʔ
+ܣܬܐ	alone	s t ʔ
+ܩܡ	alone	q m
+ܬܪܝ	alone	t r j
+ܘܣܝ	alone	w s j
+ܒܠܐ	alone	b l ʔ
+ܝܡܝ	alone	j m j
+ܫܛ	alone	ʃ tˤ
+ܬܪܐ	alone	t r ʔ
+ܫܦ	alone	ʃ p
+ܕܫ	alone	d ʃ
+ܝܠܝ	alone	j l j
+ܘܪܕ	alone	w r d
+ܢܢܐ	alone	n n ʔ
+ܕܬ	alone	d t
+ܬܬ	alone	t t
+ܙܢ	alone	z n
+ܘܒܐ	alone	w b ʔ
+ܘܫܐ	alone	w ʃ ʔ
+ܬܝܐ	alone	t j ʔ
+ܟܕ	alone	k d
+ܓܠܐ	alone	g l ʔ
+ܙܥ	alone	z ʕ
+ܡܝܪ	alone	m j r
+ܢܟ	alone	n k
+ܥܝܢ	alone	ʕ j n
+ܩܪܝ	alone	q r j
+ܢܥ	alone	n ʕ
+ܡܫܪ	alone	m ʃ r
+ܬܥ	alone	t ʕ
+ܠܝܡ	alone	l j m
+ܩܝܐ	alone	q j ʔ
+ܦܚ	alone	p ħ
+ܦܝܐ	alone	p j ʔ
+ܫܘܥ	alone	ʃ w ʕ
+ܝܪܘ	alone	j r w
+ܪܝܫ	alone	r j ʃ
+ܓܒ	alone	g b
+ܡܠܝ	alone	m l j
+ܓܝܐ	alone	g j ʔ
+ܣܝܢ	alone	s j n
+ܒܘܠ	alone	b w l
+ܣܛܢ	alone	s tˤ n
+ܛܪܘ	alone	tˤ r w
+ܟܝܐ	alone	k j ʔ
+ܫܡܫ	alone	ʃ m ʃ
+ܒܙ	alone	b z
+ܡܬܪ	alone	m t r
+ܡܝܬ	alone	m j t
+ܪܘܣ	alone	r w s
+ܒܪܝ	alone	b r j
+ܐܙ	alone	ʔ z
+ܥܒܕ	alone	ʕ b d
+ܡܣܪ	alone	m s r
+ܠܝܘ	alone	l j w
+ܪܓܘ	alone	r g w
+ܢܕܝ	alone	n d j
+ܥܒܪ	alone	ʕ b r
+ܘܥܐ	alone	w ʕ ʔ
+ܛܡ	alone	tˤ m
+ܬܘܢ	alone	t w n
+ܚܛ	alone	ħ tˤ
+ܨܢ	alone	sˤ n
+ܥܙ	alone	ʕ z
+ܩܘܦ	alone	q w p
+ܕܬܐ	alone	d t ʔ
+ܪܟܐ	alone	r k ʔ
+ܡܩܪ	alone	m q r
+ܣܠ	alone	s l
+ܪܛܐ	alone	r tˤ ʔ
+ܝܡܢ	alone	j m n
+ܠܣ	alone	l s
+ܡܣܡ	alone	m s m
+ܥܘܪ	alone	ʕ w r
+ܚܦ	alone	ħ p
+ܪܕܐ	alone	r d ʔ
+ܡܕܝ	alone	m d j
+ܠܡܐ	alone	l m ʔ
+ܨܚ	alone	sˤ ħ
+ܡܘܙ	alone	m w z
+ܕܘܟ	alone	d w k
+ܣܚ	alone	s ħ
+ܝܠܘ	alone	j l w
+ܒܝܪ	alone	b j r
+ܘܪܢ	alone	w r n
+ܢܘܣ	alone	n w s
+ܘܢܕ	alone	w n d
+ܡܚܡ	alone	m ħ m
+ܘܟܬ	alone	w k t
+ܗܡ	alone	h m
+ܬܠܬ	alone	t l t
+ܒܢܝ	alone	b n j
+ܪܓܐ	alone	r g ʔ
+ܟܘܪ	alone	k w r
+ܩܒ	alone	q b
+ܢܨ	alone	n sˤ
+ܝܪܝ	alone	j r j
+ܪܢܝ	alone	r n j
+ܦܛ	alone	p tˤ
+ܫܓ	alone	ʃ g
+ܒܝܬ	alone	b j t
+ܦܪܐ	alone	p r ʔ
+ܛܦ	alone	tˤ p
+ܡܝܢ	alone	m j n
+ܢܕܘ	alone	n d w
+ܝܩܘ	alone	j q w
+ܡܘܕ	alone	m w d
+ܛܝܢ	alone	tˤ j n
+ܘܣܐ	alone	w s ʔ
+ܝܦܐ	alone	j p ʔ
+ܘܙܐ	alone	w z ʔ
+ܘܥܬ	alone	w ʕ t
+ܩܘܡ	alone	q w m
+ܘܠܦ	alone	w l p
+ܢܡ	alone	n m
+ܝܛܐ	alone	j tˤ ʔ
+ܡܓܪ	alone	m g r
+ܪܠ	alone	r l
+ܓܙ	alone	g z
+ܥܝܐ	alone	ʕ j ʔ
+ܒܥܐ	alone	b ʕ ʔ
+ܓܪܐ	alone	g r ʔ
+ܚܡܐ	alone	ħ m ʔ
+ܝܙܐ	alone	j z ʔ
+ܡܐܐ	alone	m ʔ ʔ
+ܦܨ	alone	p sˤ
+ܝܕܝ	alone	j d j
+ܫܠܝ	alone	ʃ l j
+ܟܬܐ	alone	k t ʔ
+ܘܣܬ	alone	w s t
+ܣܓ	alone	s g
+ܬܫܥ	alone	t ʃ ʕ
+ܓܘܪ	alone	g w r
+ܚܝܐ	alone	ħ j ʔ
+ܪܒܥ	alone	r b ʕ
+ܚܩ	alone	ħ q
+ܒܪܬ	alone	b r t
+ܛܘܢ	alone	tˤ w n
+ܣܘܟ	alone	s w k
+ܟܫ	alone	k ʃ
+ܪܐܝ	alone	r ʔ j
+ܦܟ	alone	p k
+ܫܪܝ	alone	ʃ r j
+ܒܝܥ	alone	b j ʕ
+ܘܠܬ	alone	w l t
+ܢܐܝ	alone	n ʔ j
+ܡܙܡ	alone	m z m
+ܟܠܐ	alone	k l ʔ
+ܫܒܐ	alone	ʃ b ʔ
+ܪܕܝ	alone	r d j
+ܐܨ	alone	ʔ sˤ
+ܒܘܬ	alone	b w t
+ܝܫܘ	alone	j ʃ w
+ܬܘܬ	alone	t w t
+ܒܝܢ	alone	b j n
+ܝܨܐ	alone	j sˤ ʔ
+ܪܪ	alone	r r
+ܟܟ	alone	k k
+ܩܫ	alone	q ʃ
+ܘܗ	alone	w h
+ܚܙܘ	alone	ħ z w
+ܘܝܬ	alone	w j t
+ܠܫ	alone	l ʃ
+ܛܘܪ	alone	tˤ w r
+ܚܟ	alone	ħ k
+ܬܡܢ	alone	t m n
+ܡܩܘ	alone	m q w
+ܬܠܝ	alone	t l j
+ܫܠܡ	alone	ʃ l m

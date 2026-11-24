@@ -1,0 +1,160 @@
+phones	letters	context	count
+a	a	C_C	1238
+a	a	C_#	583
+i	i	C_C	445
+i	i	C_#	383
+u	u	C_C	357
+n	n	V_C	162
+l	l	V_V	152
+l	r	V_V	147
+m	m	#_V	142
+m	m	V_V	134
+a	a	#_C	133
+n	n	V_V	117
+a	a	C_V	116
+k	k	V_V	116
+o	o	C_C	112
+k	k	#_V	111
+o	o	C_#	110
+s	s	#_V	109
+u	u	C_#	104
+ɽ	r	V_V	103
+s	s	V_V	102
+b	b	V_V	102
+t	t	#_V	99
+j	y	V_V	98
+d	d	V_V	94
+b	b	#_V	92
+t	t	V_V	89
+h	h	#_V	84
+l	l	V_C	80
+e	e	C_#	77
+w	w	V_V	72
+h	h	V_V	69
+ɡ	g	#_V	68
+ɡ	g	V_V	67
+d	d	#_V	64
+ɸ	f	V_V	62
+k	k	C_V	60
+e	e	C_C	59
+l	l	#_V	58
+w	w	C_V	56
+ɸ	f	#_V	55
+l	r	V_C	55
+n	n	V_#	49
+ʼ	s	C_V	48
+i	i	V_C	48
+t	t	C_V	47
+d	d	C_V	46
+k ʼ	ƙ	V_V	46
+m	m	V_C	45
+w	w	#_V	44
+k ʼ	ƙ	#_V	42
+z	z	#_V	40
+ʃ	sh	V_V	39
+ʃ	sh	#_V	37
+l	r	V_#	36
+i	i	#_C	36
+z	z	V_V	35
+u	u	V_C	35
+s	s	V_#	35
+m	m	V_#	35
+b	b	C_V	35
+ɽ	r	#_V	34
+j	y	C_V	33
+ɽ	r	V_C	33
+ɗ	ɗ	V_V	32
+l	l	C_V	32
+s	s	V_C	29
+n	n	#_V	28
+j	y	#_V	27
+ɡ	g	C_V	27
+z	j	#_V	26
+m	m	C_V	26
+z	j	V_V	25
+l	l	V_#	25
+t͡ʃ	c	#_V	24
+n	n	C_V	23
+d z	j	V_V	22
+d z	j	#_V	21
+i	i	V_#	21
+u	u	V_#	21
+t͡ʃ	c	C_V	21
+s	s	C_V	19
+k	k	V_C	19
+t͡ʃ	c	V_V	18
+s	t	#_C	17
+b	b	V_C	16
+j	y	V_C	16
+ɗ	ɗ	#_V	15
+h	h	C_V	14
+t s	t	#_C	14
+z	z	C_V	14
+l	r	#_V	14
+u	u	#_C	14
+z	j	C_V	13
+t	t	V_#	12
+k	k	#_C	11
+t	t	V_C	11
+d z	j	C_V	10
+l	r	C_V	10
+s	t	V_C	10
+ɸ	f	C_V	10
+k ʼ	ƙ	C_V	10
+ɡ	g	#_C	10
+ɸ	f	V_#	9
+d	d	V_C	8
+a	a	#_V	8
+p	p	#_V	8
+ɸ	f	V_C	8
+ɓ	ɓ	C_V	8
+ɓ	ɓ	V_V	8
+ɓ	ɓ	#_V	8
+t s	t	V_C	6
+o	o	#_C	6
+k	k	V_#	6
+ɡ	g	V_C	6
+k	ky	#_V	6
+z	z	V_C	6
+p	f	V_#	4
+ʼ	w	C_V	4
+ɡ	g	C_C	3
+t s	t	C_C	2
+j	ƴ	#_V	2
+p	p	V_V	2
+e	e	#_C	2
+ʃ	sh	C_V	2
+k w	ƙ	#_C	2
+k	k	C_C	2
+k w	ƙ	V_C	2
+d z	j	V_C	1
+u h	oh	C_V	1
+a d	ed	C_#	1
+a	ah	C_C	1
+ʼ t	t	C_C	1
+s ʼ	s	C_V	1
+k t	ht	V_V	1
+ɸ	ph	V_V	1
+a l	h	#_C	1
+h a	a	C_C	1
+d z	jj	V_V	1
+b	b	V_#	1
+n j	y	V_V	1
+z	j	V_C	1
+a	ah	C_#	1
+w	w	V_C	1
+o k	oƙ	C_V	1
+ɡ ɡ	g	V_V	1
+k	ky	C_V	1
+j	ʼy	#_#	1
+t͡ʃ	c	#_C	1
+ɓ ɓ	ɓɓ	V_V	1
+p p	pp	V_V	1
+a	ah	#_C	1
+d	d	V_#	1
+t͡ʃ	c	V_C	1
+k w	k	V_C	1
+j	ƴ	#_#	1
+o	o	C_V	1
+p	p	C_V	1
+ɗ	ɗ	C_V	1

@@ -1,0 +1,1616 @@
+gram	context	phones
+ა	between_consonants	ɑ
+ა	alone	ɑ
+ი	between_vowels	i
+ი	between_consonants	i
+ი	alone	i
+ე	between_vowels	ɛ
+ე	between_consonants	ɛ
+ე	alone	ɛ
+რ	between_vowels	r
+რ	between_consonants	r
+რ	alone	r
+ო	between_vowels	ɔ
+ო	between_consonants	ɔ
+ო	alone	ɔ
+ლ	between_vowels	l
+ლ	alone	l
+მ	between_vowels	m
+მ	between_consonants	m
+მ	alone	m
+ნ	between_vowels	n
+ნ	between_consonants	n
+ნ	alone	n
+ს	between_vowels	s
+ს	between_consonants	s
+ს	alone	s
+უ	between_vowels	u
+უ	between_consonants	u
+უ	alone	u
+დ	between_vowels	d
+დ	between_consonants	d
+დ	alone	d
+ბ	between_vowels	b
+ბ	between_consonants	b
+ბ	alone	b
+ვ	between_vowels	v
+ვ	between_consonants	v
+ვ	alone	v
+ტ	between_vowels	t ʼ
+ტ	between_consonants	t ʼ
+ტ	alone	t ʼ
+ლი	between_vowels	l i
+ლი	alone	l i
+კ	between_vowels	k ʼ
+კ	between_consonants	k ʼ
+კ	alone	k ʼ
+გ	between_vowels	ɡ
+გ	between_consonants	ɡ
+გ	alone	ɡ
+თ	between_vowels	tʰ
+თ	between_consonants	tʰ
+თ	alone	tʰ
+რი	between_vowels	r i
+რი	between_consonants	r i
+რი	alone	r i
+არ	between_consonants	ɑ r
+არ	alone	ɑ r
+ან	between_consonants	ɑ n
+ან	alone	ɑ n
+ებ	between_vowels	ɛ b
+ებ	between_consonants	ɛ b
+ებ	alone	ɛ b
+ხ	between_vowels	χ
+ხ	between_consonants	χ
+ხ	alone	χ
+რა	between_consonants	r ɑ
+რა	alone	r ɑ
+ად	between_consonants	ɑ d
+ად	alone	ɑ d
+ბა	between_consonants	b ɑ
+ბა	alone	b ɑ
+ც	between_vowels	t͡sʰ
+ც	between_consonants	t͡sʰ
+ც	alone	t͡sʰ
+პ	between_vowels	p ʼ
+პ	between_consonants	p ʼ
+პ	alone	p ʼ
+ნი	between_vowels	n i
+ნი	between_consonants	n i
+ნი	alone	n i
+ია	between_consonants	i ɑ
+ია	alone	i ɑ
+ურ	between_vowels	u r
+ურ	between_consonants	u r
+ურ	alone	u r
+შ	between_vowels	ʃ
+შ	between_consonants	ʃ
+შ	alone	ʃ
+ფ	between_vowels	pʰ
+ფ	between_consonants	pʰ
+ფ	alone	pʰ
+ულ	between_vowels	u l
+ულ	alone	u l
+ერ	between_vowels	ɛ r
+ერ	between_consonants	ɛ r
+ერ	alone	ɛ r
+და	between_consonants	d ɑ
+და	alone	d ɑ
+მა	between_consonants	m ɑ
+მა	alone	m ɑ
+ქ	between_vowels	kʰ
+ქ	between_consonants	kʰ
+ქ	alone	kʰ
+ტი	between_vowels	t ʼ i
+ტი	between_consonants	t ʼ i
+ტი	alone	t ʼ i
+ამ	between_consonants	ɑ m
+ამ	alone	ɑ m
+ალ	alone	ɑ l
+ზ	between_vowels	z
+ზ	between_consonants	z
+ზ	alone	z
+ლა	alone	l ɑ
+სა	between_consonants	s ɑ
+სა	alone	s ɑ
+ვი	between_vowels	v i
+ვი	between_consonants	v i
+ვი	alone	v i
+ის	between_vowels	i s
+ის	between_consonants	i s
+ის	alone	i s
+ელ	between_vowels	ɛ l
+ელ	alone	ɛ l
+ობ	between_vowels	ɔ b
+ობ	between_consonants	ɔ b
+ობ	alone	ɔ b
+რე	between_vowels	r ɛ
+რე	between_consonants	r ɛ
+რე	alone	r ɛ
+ნა	between_consonants	n ɑ
+ნა	alone	n ɑ
+ვა	between_consonants	v ɑ
+ვა	alone	v ɑ
+ავ	between_consonants	ɑ v
+ავ	alone	ɑ v
+გა	between_consonants	ɡ ɑ
+გა	alone	ɡ ɑ
+მი	between_vowels	m i
+მი	between_consonants	m i
+მი	alone	m i
+მო	between_vowels	m ɔ
+მო	between_consonants	m ɔ
+მო	alone	m ɔ
+ინ	between_vowels	i n
+ინ	between_consonants	i n
+ინ	alone	i n
+სი	between_vowels	s i
+სი	between_consonants	s i
+სი	alone	s i
+წ	between_vowels	t͡s ʼ
+წ	between_consonants	t͡s ʼ
+წ	alone	t͡s ʼ
+რო	between_vowels	r ɔ
+რო	between_consonants	r ɔ
+რო	alone	r ɔ
+ილ	between_vowels	i l
+ილ	alone	i l
+ორ	between_vowels	ɔ r
+ორ	between_consonants	ɔ r
+ორ	alone	ɔ r
+მე	between_vowels	m ɛ
+მე	between_consonants	m ɛ
+მე	alone	m ɛ
+დი	between_vowels	d i
+დი	between_consonants	d i
+დი	alone	d i
+ლო	between_vowels	l ɔ
+ლო	alone	l ɔ
+ლე	between_vowels	l ɛ
+ლე	alone	l ɛ
+ული	between_vowels	u l i
+ული	between_consonants	u l i
+ული	alone	u l i
+ბი	between_vowels	b i
+ბი	between_consonants	b i
+ბი	alone	b i
+ნე	between_vowels	n ɛ
+ნე	between_consonants	n ɛ
+ნე	alone	n ɛ
+ვე	between_vowels	v ɛ
+ვე	between_consonants	v ɛ
+ვე	alone	v ɛ
+ენ	between_vowels	ɛ n
+ენ	between_consonants	ɛ n
+ენ	alone	ɛ n
+ონ	between_vowels	ɔ n
+ონ	between_consonants	ɔ n
+ონ	alone	ɔ n
+ყ	between_vowels	q ʼ
+ყ	between_consonants	q ʼ
+ყ	alone	q ʼ
+ური	between_vowels	u r i
+ური	between_consonants	u r i
+ური	alone	u r i
+კა	between_consonants	k ʼ ɑ
+კა	alone	k ʼ ɑ
+ობა	between_consonants	ɔ b ɑ
+ობა	alone	ɔ b ɑ
+ცი	between_vowels	t͡sʰ i
+ცი	between_consonants	t͡sʰ i
+ცი	alone	t͡sʰ i
+სტ	between_vowels	s t ʼ
+სტ	between_consonants	s t ʼ
+სტ	alone	s t ʼ
+ატ	between_consonants	ɑ t ʼ
+ატ	alone	ɑ t ʼ
+დე	between_vowels	d ɛ
+დე	between_consonants	d ɛ
+დე	alone	d ɛ
+ღ	between_vowels	ʁ
+ღ	between_consonants	ʁ
+ღ	alone	ʁ
+ას	between_consonants	ɑ s
+ას	alone	ɑ s
+ანი	between_consonants	ɑ n i
+ანი	alone	ɑ n i
+ტა	between_consonants	t ʼ ɑ
+ტა	alone	t ʼ ɑ
+ება	between_consonants	ɛ b ɑ
+ება	alone	ɛ b ɑ
+ირ	between_vowels	i r
+ირ	between_consonants	i r
+ირ	alone	i r
+ელი	between_vowels	ɛ l i
+ელი	between_consonants	ɛ l i
+ელი	alone	ɛ l i
+ჩ	between_vowels	t͡ʃʰ
+ჩ	between_consonants	t͡ʃʰ
+ჩ	alone	t͡ʃʰ
+იკ	between_vowels	i k ʼ
+იკ	between_consonants	i k ʼ
+იკ	alone	i k ʼ
+კო	between_vowels	k ʼ ɔ
+კო	between_consonants	k ʼ ɔ
+კო	alone	k ʼ ɔ
+ით	between_vowels	i tʰ
+ით	between_consonants	i tʰ
+ით	alone	i tʰ
+ომ	between_vowels	ɔ m
+ომ	between_consonants	ɔ m
+ომ	alone	ɔ m
+იუ	between_vowels	i u
+იუ	between_consonants	i u
+იუ	alone	i u
+ტე	between_vowels	t ʼ ɛ
+ტე	between_consonants	t ʼ ɛ
+ტე	alone	t ʼ ɛ
+ოლ	between_vowels	ɔ l
+ოლ	alone	ɔ l
+ილი	between_vowels	i l i
+ილი	between_consonants	i l i
+ილი	alone	i l i
+ეტ	between_vowels	ɛ t ʼ
+ეტ	between_consonants	ɛ t ʼ
+ეტ	alone	ɛ t ʼ
+გი	between_vowels	ɡ i
+გი	between_consonants	ɡ i
+გი	alone	ɡ i
+თა	between_consonants	tʰ ɑ
+თა	alone	tʰ ɑ
+აც	between_consonants	ɑ t͡sʰ
+აც	alone	ɑ t͡sʰ
+ტო	between_vowels	t ʼ ɔ
+ტო	between_consonants	t ʼ ɔ
+ტო	alone	t ʼ ɔ
+ძ	between_vowels	d͡z
+ძ	between_consonants	d͡z
+ძ	alone	d͡z
+ლად	between_vowels	l ɑ d
+ლად	alone	l ɑ d
+ალი	between_consonants	ɑ l i
+ალი	alone	ɑ l i
+ნტ	between_vowels	n t ʼ
+ნტ	between_consonants	n t ʼ
+ნტ	alone	n t ʼ
+ბუ	between_vowels	b u
+ბუ	between_consonants	b u
+ბუ	alone	b u
+ერი	between_vowels	ɛ r i
+ერი	between_consonants	ɛ r i
+ერი	alone	ɛ r i
+არი	between_consonants	ɑ r i
+არი	alone	ɑ r i
+თი	between_vowels	tʰ i
+თი	between_consonants	tʰ i
+თი	alone	tʰ i
+ეს	between_vowels	ɛ s
+ეს	between_consonants	ɛ s
+ეს	alone	ɛ s
+რად	between_vowels	r ɑ d
+რად	between_consonants	r ɑ d
+რად	alone	r ɑ d
+ნო	between_vowels	n ɔ
+ნო	between_consonants	n ɔ
+ნო	alone	n ɔ
+ტუ	between_vowels	t ʼ u
+ტუ	between_consonants	t ʼ u
+ტუ	alone	t ʼ u
+ახ	between_consonants	ɑ χ
+ახ	alone	ɑ χ
+იან	between_vowels	i ɑ n
+იან	between_consonants	i ɑ n
+იან	alone	i ɑ n
+ბე	between_vowels	b ɛ
+ბე	between_consonants	b ɛ
+ბე	alone	b ɛ
+აკ	between_consonants	ɑ k ʼ
+აკ	alone	ɑ k ʼ
+ურა	between_consonants	u r ɑ
+ურა	alone	u r ɑ
+შე	between_vowels	ʃ ɛ
+შე	between_consonants	ʃ ɛ
+შე	alone	ʃ ɛ
+რუ	between_vowels	r u
+რუ	between_consonants	r u
+რუ	alone	r u
+ტრ	between_vowels	t ʼ r
+ტრ	between_consonants	t ʼ r
+ტრ	alone	t ʼ r
+ემ	between_vowels	ɛ m
+ემ	between_consonants	ɛ m
+ემ	alone	ɛ m
+ჯ	between_vowels	d͡ʒ
+ჯ	between_consonants	d͡ʒ
+ჯ	alone	d͡ʒ
+კი	between_vowels	k ʼ i
+კი	between_consonants	k ʼ i
+კი	alone	k ʼ i
+ები	between_vowels	ɛ b i
+ები	between_consonants	ɛ b i
+ები	alone	ɛ b i
+ოს	between_vowels	ɔ s
+ოს	between_consonants	ɔ s
+ოს	alone	ɔ s
+იზ	between_vowels	i z
+იზ	between_consonants	i z
+იზ	alone	i z
+ედ	between_vowels	ɛ d
+ედ	between_consonants	ɛ d
+ედ	alone	ɛ d
+ლუ	between_vowels	l u
+ლუ	alone	l u
+ევ	between_vowels	ɛ v
+ევ	between_consonants	ɛ v
+ევ	alone	ɛ v
+ეთ	between_vowels	ɛ tʰ
+ეთ	between_consonants	ɛ tʰ
+ეთ	alone	ɛ tʰ
+იმ	between_vowels	i m
+იმ	between_consonants	i m
+იმ	alone	i m
+იტ	between_vowels	i t ʼ
+იტ	between_consonants	i t ʼ
+იტ	alone	i t ʼ
+აბ	between_consonants	ɑ b
+აბ	alone	ɑ b
+კუ	between_vowels	k ʼ u
+კუ	between_consonants	k ʼ u
+კუ	alone	k ʼ u
+ოდ	between_vowels	ɔ d
+ოდ	between_consonants	ɔ d
+ოდ	alone	ɔ d
+პა	between_consonants	p ʼ ɑ
+პა	alone	p ʼ ɑ
+იდ	between_vowels	i d
+იდ	between_consonants	i d
+იდ	alone	i d
+არა	between_consonants	ɑ r ɑ
+არა	alone	ɑ r ɑ
+ნდ	between_vowels	n d
+ნდ	between_consonants	n d
+ნდ	alone	n d
+ხა	between_consonants	χ ɑ
+ხა	alone	χ ɑ
+ათ	between_consonants	ɑ tʰ
+ათ	alone	ɑ tʰ
+ფი	between_vowels	pʰ i
+ფი	between_consonants	pʰ i
+ფი	alone	pʰ i
+ხე	between_vowels	χ ɛ
+ხე	between_consonants	χ ɛ
+ხე	alone	χ ɛ
+ბს	between_vowels	b s
+ბს	between_consonants	b s
+ბს	alone	b s
+რებ	between_vowels	r ɛ b
+რებ	between_consonants	r ɛ b
+რებ	alone	r ɛ b
+აშ	between_consonants	ɑ ʃ
+აშ	alone	ɑ ʃ
+რთ	between_vowels	r tʰ
+რთ	between_consonants	r tʰ
+რთ	alone	r tʰ
+ჭ	between_vowels	t͡ʃ ʼ
+ჭ	between_consonants	t͡ʃ ʼ
+ჭ	alone	t͡ʃ ʼ
+იო	between_vowels	i ɔ
+იო	between_consonants	i ɔ
+იო	alone	i ɔ
+აგ	between_consonants	ɑ ɡ
+აგ	alone	ɑ ɡ
+უნ	between_vowels	u n
+უნ	between_consonants	u n
+უნ	alone	u n
+ზა	between_consonants	z ɑ
+ზა	alone	z ɑ
+სე	between_vowels	s ɛ
+სე	between_consonants	s ɛ
+სე	alone	s ɛ
+ნებ	between_vowels	n ɛ b
+ნებ	between_consonants	n ɛ b
+ნებ	alone	n ɛ b
+პი	between_vowels	p ʼ i
+პი	between_consonants	p ʼ i
+პი	alone	p ʼ i
+ცია	between_consonants	t͡sʰ i ɑ
+ცია	alone	t͡sʰ i ɑ
+ლებ	between_vowels	l ɛ b
+ლებ	alone	l ɛ b
+ოვ	between_vowels	ɔ v
+ოვ	between_consonants	ɔ v
+ოვ	alone	ɔ v
+ფე	between_vowels	pʰ ɛ
+ფე	between_consonants	pʰ ɛ
+ფე	alone	pʰ ɛ
+ისტ	between_vowels	i s t ʼ
+ისტ	between_consonants	i s t ʼ
+ისტ	alone	i s t ʼ
+ექ	between_vowels	ɛ kʰ
+ექ	between_consonants	ɛ kʰ
+ექ	alone	ɛ kʰ
+ულა	between_consonants	u l ɑ
+ულა	alone	u l ɑ
+ოგ	between_vowels	ɔ ɡ
+ოგ	between_consonants	ɔ ɡ
+ოგ	alone	ɔ ɡ
+აცი	between_consonants	ɑ t͡sʰ i
+აცი	alone	ɑ t͡sʰ i
+ვს	between_vowels	v s
+ვს	between_consonants	v s
+ვს	alone	v s
+შვ	between_vowels	ʃ v
+შვ	between_consonants	ʃ v
+შვ	alone	ʃ v
+ანა	between_consonants	ɑ n ɑ
+ანა	alone	ɑ n ɑ
+აი	between_consonants	ɑ i
+აი	alone	ɑ i
+გე	between_vowels	ɡ ɛ
+გე	between_consonants	ɡ ɛ
+გე	alone	ɡ ɛ
+აზ	between_consonants	ɑ z
+აზ	alone	ɑ z
+ორი	between_vowels	ɔ r i
+ორი	between_consonants	ɔ r i
+ორი	alone	ɔ r i
+თე	between_vowels	tʰ ɛ
+თე	between_consonants	tʰ ɛ
+თე	alone	tʰ ɛ
+ონი	between_vowels	ɔ n i
+ონი	between_consonants	ɔ n i
+ონი	alone	ɔ n i
+ებს	between_vowels	ɛ b s
+ებს	between_consonants	ɛ b s
+ებს	alone	ɛ b s
+ივ	between_vowels	i v
+ივ	between_consonants	i v
+ივ	alone	i v
+დო	between_vowels	d ɔ
+დო	between_consonants	d ɔ
+დო	alone	d ɔ
+რმ	between_vowels	r m
+რმ	between_consonants	r m
+რმ	alone	r m
+ბულ	between_vowels	b u l
+ბულ	alone	b u l
+იე	between_vowels	i ɛ
+იე	between_consonants	i ɛ
+იე	alone	i ɛ
+უმ	between_vowels	u m
+უმ	between_consonants	u m
+უმ	alone	u m
+ამო	between_consonants	ɑ m ɔ
+ამო	alone	ɑ m ɔ
+ბრ	between_vowels	b r
+ბრ	between_consonants	b r
+ბრ	alone	b r
+ლობ	between_vowels	l ɔ b
+ლობ	alone	l ɔ b
+აფ	between_consonants	ɑ pʰ
+აფ	alone	ɑ pʰ
+ებუ	between_vowels	ɛ b u
+ებუ	between_consonants	ɛ b u
+ებუ	alone	ɛ b u
+პო	between_vowels	p ʼ ɔ
+პო	between_consonants	p ʼ ɔ
+პო	alone	p ʼ ɔ
+ზი	between_vowels	z i
+ზი	between_consonants	z i
+ზი	alone	z i
+ვილ	between_vowels	v i l
+ვილ	alone	v i l
+ოც	between_vowels	ɔ t͡sʰ
+ოც	between_consonants	ɔ t͡sʰ
+ოც	alone	ɔ t͡sʰ
+აუ	between_consonants	ɑ u
+აუ	alone	ɑ u
+ში	between_vowels	ʃ i
+ში	between_consonants	ʃ i
+ში	alone	ʃ i
+მარ	between_vowels	m ɑ r
+მარ	between_consonants	m ɑ r
+მარ	alone	m ɑ r
+ლურ	between_vowels	l u r
+ლურ	alone	l u r
+რდ	between_vowels	r d
+რდ	between_consonants	r d
+რდ	alone	r d
+სტი	between_vowels	s t ʼ i
+სტი	between_consonants	s t ʼ i
+სტი	alone	s t ʼ i
+მუ	between_vowels	m u
+მუ	between_consonants	m u
+მუ	alone	m u
+სუ	between_vowels	s u
+სუ	between_consonants	s u
+სუ	alone	s u
+ვრ	between_vowels	v r
+ვრ	between_consonants	v r
+ვრ	alone	v r
+ამა	between_consonants	ɑ m ɑ
+ამა	alone	ɑ m ɑ
+პრ	between_vowels	p ʼ r
+პრ	between_consonants	p ʼ r
+პრ	alone	p ʼ r
+ატი	between_consonants	ɑ t ʼ i
+ატი	alone	ɑ t ʼ i
+გრ	between_vowels	ɡ r
+გრ	between_consonants	ɡ r
+გრ	alone	ɡ r
+დებ	between_vowels	d ɛ b
+დებ	between_consonants	d ɛ b
+დებ	alone	d ɛ b
+ტურ	between_vowels	t ʼ u r
+ტურ	between_consonants	t ʼ u r
+ტურ	alone	t ʼ u r
+კე	between_vowels	k ʼ ɛ
+კე	between_consonants	k ʼ ɛ
+კე	alone	k ʼ ɛ
+შვი	between_vowels	ʃ v i
+შვი	between_consonants	ʃ v i
+შვი	alone	ʃ v i
+გო	between_vowels	ɡ ɔ
+გო	between_consonants	ɡ ɔ
+გო	alone	ɡ ɔ
+აღ	between_consonants	ɑ ʁ
+აღ	alone	ɑ ʁ
+არე	between_consonants	ɑ r ɛ
+არე	alone	ɑ r ɛ
+ხი	between_vowels	χ i
+ხი	between_consonants	χ i
+ხი	alone	χ i
+აქ	between_consonants	ɑ kʰ
+აქ	alone	ɑ kʰ
+ბო	between_vowels	b ɔ
+ბო	between_consonants	b ɔ
+ბო	alone	b ɔ
+ქა	between_consonants	kʰ ɑ
+ქა	alone	kʰ ɑ
+კვ	between_vowels	k ʼ v
+კვ	between_consonants	k ʼ v
+კვ	alone	k ʼ v
+დამ	between_vowels	d ɑ m
+დამ	between_consonants	d ɑ m
+დამ	alone	d ɑ m
+ბლ	between_vowels	b l
+ბლ	alone	b l
+თხ	between_vowels	tʰ χ
+თხ	between_consonants	tʰ χ
+თხ	alone	tʰ χ
+ვლ	between_vowels	v l
+ვლ	alone	v l
+ეო	between_vowels	ɛ ɔ
+ეო	between_consonants	ɛ ɔ
+ეო	alone	ɛ ɔ
+ფა	between_consonants	pʰ ɑ
+ფა	alone	pʰ ɑ
+უს	between_vowels	u s
+უს	between_consonants	u s
+უს	alone	u s
+რტ	between_vowels	r t ʼ
+რტ	between_consonants	r t ʼ
+რტ	alone	r t ʼ
+ველ	between_vowels	v ɛ l
+ველ	alone	v ɛ l
+ჰ	between_vowels	h
+ჰ	between_consonants	h
+ჰ	alone	h
+ავს	between_consonants	ɑ v s
+ავს	alone	ɑ v s
+იურ	between_vowels	i u r
+იურ	between_consonants	i u r
+იურ	alone	i u r
+ცხ	between_vowels	t͡sʰ χ
+ცხ	between_consonants	t͡sʰ χ
+ცხ	alone	t͡sʰ χ
+ნტი	between_vowels	n t ʼ i
+ნტი	between_consonants	n t ʼ i
+ნტი	alone	n t ʼ i
+ვარ	between_vowels	v ɑ r
+ვარ	between_consonants	v ɑ r
+ვარ	alone	v ɑ r
+ნგ	between_vowels	n ɡ
+ნგ	between_consonants	n ɡ
+ნგ	alone	n ɡ
+ცე	between_vowels	t͡sʰ ɛ
+ცე	between_consonants	t͡sʰ ɛ
+ცე	alone	t͡sʰ ɛ
+რულ	between_vowels	r u l
+რულ	alone	r u l
+სო	between_vowels	s ɔ
+სო	between_consonants	s ɔ
+სო	alone	s ɔ
+ზმ	between_vowels	z m
+ზმ	between_consonants	z m
+ზმ	alone	z m
+ოტ	between_vowels	ɔ t ʼ
+ოტ	between_consonants	ɔ t ʼ
+ოტ	alone	ɔ t ʼ
+ავი	between_consonants	ɑ v i
+ავი	alone	ɑ v i
+ეტი	between_vowels	ɛ t ʼ i
+ეტი	between_consonants	ɛ t ʼ i
+ეტი	alone	ɛ t ʼ i
+ინა	between_consonants	i n ɑ
+ინა	alone	i n ɑ
+აპ	between_consonants	ɑ p ʼ
+აპ	alone	ɑ p ʼ
+აა	between_consonants	ɑ ɑ
+აა	alone	ɑ ɑ
+ქტ	between_vowels	kʰ t ʼ
+ქტ	between_consonants	kʰ t ʼ
+ქტ	alone	kʰ t ʼ
+რობ	between_vowels	r ɔ b
+რობ	between_consonants	r ɔ b
+რობ	alone	r ɔ b
+ეგ	between_vowels	ɛ ɡ
+ეგ	between_consonants	ɛ ɡ
+ეგ	alone	ɛ ɡ
+პე	between_vowels	p ʼ ɛ
+პე	between_consonants	p ʼ ɛ
+პე	alone	p ʼ ɛ
+ამე	between_consonants	ɑ m ɛ
+ამე	alone	ɑ m ɛ
+კრ	between_vowels	k ʼ r
+კრ	between_consonants	k ʼ r
+კრ	alone	k ʼ r
+იკა	between_consonants	i k ʼ ɑ
+იკა	alone	i k ʼ ɑ
+გუ	between_vowels	ɡ u
+გუ	between_consonants	ɡ u
+გუ	alone	ɡ u
+ნს	between_vowels	n s
+ნს	between_consonants	n s
+ნს	alone	n s
+ზე	between_vowels	z ɛ
+ზე	between_consonants	z ɛ
+ზე	alone	z ɛ
+ლის	between_vowels	l i s
+ლის	alone	l i s
+მეტ	between_vowels	m ɛ t ʼ
+მეტ	between_consonants	m ɛ t ʼ
+მეტ	alone	m ɛ t ʼ
+ფო	between_vowels	pʰ ɔ
+ფო	between_consonants	pʰ ɔ
+ფო	alone	pʰ ɔ
+წი	between_vowels	t͡s ʼ i
+წი	between_consonants	t͡s ʼ i
+წი	alone	t͡s ʼ i
+რია	between_consonants	r i ɑ
+რია	alone	r i ɑ
+ადა	between_consonants	ɑ d ɑ
+ადა	alone	ɑ d ɑ
+ადი	between_consonants	ɑ d i
+ადი	alone	ɑ d i
+სამ	between_vowels	s ɑ m
+სამ	between_consonants	s ɑ m
+სამ	alone	s ɑ m
+ალუ	between_consonants	ɑ l u
+ალუ	alone	ɑ l u
+ოლო	between_vowels	ɔ l ɔ
+ოლო	between_consonants	ɔ l ɔ
+ოლო	alone	ɔ l ɔ
+ეკ	between_vowels	ɛ k ʼ
+ეკ	between_consonants	ɛ k ʼ
+ეკ	alone	ɛ k ʼ
+ავა	between_consonants	ɑ v ɑ
+ავა	alone	ɑ v ɑ
+წა	between_consonants	t͡s ʼ ɑ
+წა	alone	t͡s ʼ ɑ
+ოთ	between_vowels	ɔ tʰ
+ოთ	between_consonants	ɔ tʰ
+ოთ	alone	ɔ tʰ
+რგ	between_vowels	r ɡ
+რგ	between_consonants	r ɡ
+რგ	alone	r ɡ
+ერა	between_consonants	ɛ r ɑ
+ერა	alone	ɛ r ɑ
+ოფ	between_vowels	ɔ pʰ
+ოფ	between_consonants	ɔ pʰ
+ოფ	alone	ɔ pʰ
+ალა	between_consonants	ɑ l ɑ
+ალა	alone	ɑ l ɑ
+ტიკ	between_vowels	t ʼ i k ʼ
+ტიკ	between_consonants	t ʼ i k ʼ
+ტიკ	alone	t ʼ i k ʼ
+ინი	between_vowels	i n i
+ინი	between_consonants	i n i
+ინი	alone	i n i
+ნუ	between_vowels	n u
+ნუ	between_consonants	n u
+ნუ	alone	n u
+გამ	between_vowels	ɡ ɑ m
+გამ	between_consonants	ɡ ɑ m
+გამ	alone	ɡ ɑ m
+იულ	between_vowels	i u l
+იულ	alone	i u l
+ქი	between_vowels	kʰ i
+ქი	between_consonants	kʰ i
+ქი	alone	kʰ i
+ჟ	between_vowels	ʒ
+ჟ	between_consonants	ʒ
+ჟ	alone	ʒ
+ქს	between_vowels	kʰ s
+ქს	between_consonants	kʰ s
+ქს	alone	kʰ s
+გან	between_vowels	ɡ ɑ n
+გან	between_consonants	ɡ ɑ n
+გან	alone	ɡ ɑ n
+იც	between_vowels	i t͡sʰ
+იც	between_consonants	i t͡sʰ
+იც	alone	i t͡sʰ
+თვ	between_vowels	tʰ v
+თვ	between_consonants	tʰ v
+თვ	alone	tʰ v
+შა	between_consonants	ʃ ɑ
+შა	alone	ʃ ɑ
+ვალ	between_vowels	v ɑ l
+ვალ	alone	v ɑ l
+იზმ	between_vowels	i z m
+იზმ	between_consonants	i z m
+იზმ	alone	i z m
+სკ	between_vowels	s k ʼ
+სკ	between_consonants	s k ʼ
+სკ	alone	s k ʼ
+ობი	between_vowels	ɔ b i
+ობი	between_consonants	ɔ b i
+ობი	alone	ɔ b i
+ოკ	between_vowels	ɔ k ʼ
+ოკ	between_consonants	ɔ k ʼ
+ოკ	alone	ɔ k ʼ
+ანტ	between_consonants	ɑ n t ʼ
+ანტ	alone	ɑ n t ʼ
+დუ	between_vowels	d u
+დუ	between_consonants	d u
+დუ	alone	d u
+ეუ	between_vowels	ɛ u
+ეუ	between_consonants	ɛ u
+ეუ	alone	ɛ u
+ზმი	between_vowels	z m i
+ზმი	between_consonants	z m i
+ზმი	alone	z m i
+ოგი	between_vowels	ɔ ɡ i
+ოგი	between_consonants	ɔ ɡ i
+ოგი	alone	ɔ ɡ i
+ენტ	between_vowels	ɛ n t ʼ
+ენტ	between_consonants	ɛ n t ʼ
+ენტ	alone	ɛ n t ʼ
+ვნ	between_vowels	v n
+ვნ	between_consonants	v n
+ვნ	alone	v n
+ბელ	between_vowels	b ɛ l
+ბელ	alone	b ɛ l
+იშ	between_vowels	i ʃ
+იშ	between_consonants	i ʃ
+იშ	alone	i ʃ
+ქვ	between_vowels	kʰ v
+ქვ	between_consonants	kʰ v
+ქვ	alone	kʰ v
+ცდ	between_vowels	t͡sʰ d
+ცდ	between_consonants	t͡sʰ d
+ცდ	alone	t͡sʰ d
+უა	between_consonants	u ɑ
+უა	alone	u ɑ
+ჩა	between_consonants	t͡ʃʰ ɑ
+ჩა	alone	t͡ʃʰ ɑ
+მან	between_vowels	m ɑ n
+მან	between_consonants	m ɑ n
+მან	alone	m ɑ n
+ტორ	between_vowels	t ʼ ɔ r
+ტორ	between_consonants	t ʼ ɔ r
+ტორ	alone	t ʼ ɔ r
+ხვ	between_vowels	χ v
+ხვ	between_consonants	χ v
+ხვ	alone	χ v
+ოლი	between_vowels	ɔ l i
+ოლი	between_consonants	ɔ l i
+ოლი	alone	ɔ l i
+ოპ	between_vowels	ɔ p ʼ
+ოპ	between_consonants	ɔ p ʼ
+ოპ	alone	ɔ p ʼ
+წყ	between_vowels	t͡s ʼ q ʼ
+წყ	between_consonants	t͡s ʼ q ʼ
+წყ	alone	t͡s ʼ q ʼ
+რის	between_vowels	r i s
+რის	between_consonants	r i s
+რის	alone	r i s
+დრ	between_vowels	d r
+დრ	between_consonants	d r
+დრ	alone	d r
+ფერ	between_vowels	pʰ ɛ r
+ფერ	between_consonants	pʰ ɛ r
+ფერ	alone	pʰ ɛ r
+იკუ	between_vowels	i k ʼ u
+იკუ	between_consonants	i k ʼ u
+იკუ	alone	i k ʼ u
+ლოგ	between_vowels	l ɔ ɡ
+ლოგ	alone	l ɔ ɡ
+ამი	between_consonants	ɑ m i
+ამი	alone	ɑ m i
+ხო	between_vowels	χ ɔ
+ხო	between_consonants	χ ɔ
+ხო	alone	χ ɔ
+ვან	between_vowels	v ɑ n
+ვან	between_consonants	v ɑ n
+ვან	alone	v ɑ n
+ანდ	between_consonants	ɑ n d
+ანდ	alone	ɑ n d
+თო	between_vowels	tʰ ɔ
+თო	between_consonants	tʰ ɔ
+თო	alone	tʰ ɔ
+რს	between_vowels	r s
+რს	between_consonants	r s
+რს	alone	r s
+ენი	between_vowels	ɛ n i
+ენი	between_consonants	ɛ n i
+ენი	alone	ɛ n i
+ყა	between_consonants	q ʼ ɑ
+ყა	alone	q ʼ ɑ
+ეთი	between_vowels	ɛ tʰ i
+ეთი	between_consonants	ɛ tʰ i
+ეთი	alone	ɛ tʰ i
+კონ	between_vowels	k ʼ ɔ n
+კონ	between_consonants	k ʼ ɔ n
+კონ	alone	k ʼ ɔ n
+უთ	between_vowels	u tʰ
+უთ	between_consonants	u tʰ
+უთ	alone	u tʰ
+ირი	between_vowels	i r i
+ირი	between_consonants	i r i
+ირი	alone	i r i
+აშვ	between_consonants	ɑ ʃ v
+აშვ	alone	ɑ ʃ v
+იგ	between_vowels	i ɡ
+იგ	between_consonants	i ɡ
+იგ	alone	i ɡ
+კურ	between_vowels	k ʼ u r
+კურ	between_consonants	k ʼ u r
+კურ	alone	k ʼ u r
+ტერ	between_vowels	t ʼ ɛ r
+ტერ	between_consonants	t ʼ ɛ r
+ტერ	alone	t ʼ ɛ r
+ერე	between_vowels	ɛ r ɛ
+ერე	between_consonants	ɛ r ɛ
+ერე	alone	ɛ r ɛ
+ელა	between_consonants	ɛ l ɑ
+ელა	alone	ɛ l ɑ
+ხუ	between_vowels	χ u
+ხუ	between_consonants	χ u
+ხუ	alone	χ u
+ლია	alone	l i ɑ
+ყვ	between_vowels	q ʼ v
+ყვ	between_consonants	q ʼ v
+ყვ	alone	q ʼ v
+ებე	between_vowels	ɛ b ɛ
+ებე	between_consonants	ɛ b ɛ
+ებე	alone	ɛ b ɛ
+ანე	between_consonants	ɑ n ɛ
+ანე	alone	ɑ n ɛ
+წე	between_vowels	t͡s ʼ ɛ
+წე	between_consonants	t͡s ʼ ɛ
+წე	alone	t͡s ʼ ɛ
+მოც	between_vowels	m ɔ t͡sʰ
+მოც	between_consonants	m ɔ t͡sʰ
+მოც	alone	m ɔ t͡sʰ
+ბით	between_vowels	b i tʰ
+ბით	between_consonants	b i tʰ
+ბით	alone	b i tʰ
+იფ	between_vowels	i pʰ
+იფ	between_consonants	i pʰ
+იფ	alone	i pʰ
+ეი	between_vowels	ɛ i
+ეი	between_consonants	ɛ i
+ეი	alone	ɛ i
+სპ	between_vowels	s p ʼ
+სპ	between_consonants	s p ʼ
+სპ	alone	s p ʼ
+კლ	between_vowels	k ʼ l
+კლ	alone	k ʼ l
+ცდა	between_consonants	t͡sʰ d ɑ
+ცდა	alone	t͡sʰ d ɑ
+თავ	between_vowels	tʰ ɑ v
+თავ	between_consonants	tʰ ɑ v
+თავ	alone	tʰ ɑ v
+ღე	between_vowels	ʁ ɛ
+ღე	between_consonants	ʁ ɛ
+ღე	alone	ʁ ɛ
+ელე	between_vowels	ɛ l ɛ
+ელე	between_consonants	ɛ l ɛ
+ელე	alone	ɛ l ɛ
+გვ	between_vowels	ɡ v
+გვ	between_consonants	ɡ v
+გვ	alone	ɡ v
+ალე	between_consonants	ɑ l ɛ
+ალე	alone	ɑ l ɛ
+ოცდ	between_vowels	ɔ t͡sʰ d
+ოცდ	between_consonants	ɔ t͡sʰ d
+ოცდ	alone	ɔ t͡sʰ d
+იერ	between_vowels	i ɛ r
+იერ	between_consonants	i ɛ r
+იერ	alone	i ɛ r
+იბ	between_vowels	i b
+იბ	between_consonants	i b
+იბ	alone	i b
+ტრა	between_consonants	t ʼ r ɑ
+ტრა	alone	t ʼ r ɑ
+პირ	between_vowels	p ʼ i r
+პირ	between_consonants	p ʼ i r
+პირ	alone	p ʼ i r
+ჩე	between_vowels	t͡ʃʰ ɛ
+ჩე	between_consonants	t͡ʃʰ ɛ
+ჩე	alone	t͡ʃʰ ɛ
+უდ	between_vowels	u d
+უდ	between_consonants	u d
+უდ	alone	u d
+პრო	between_vowels	p ʼ r ɔ
+პრო	between_consonants	p ʼ r ɔ
+პრო	alone	p ʼ r ɔ
+ართ	between_consonants	ɑ r tʰ
+ართ	alone	ɑ r tʰ
+ყო	between_vowels	q ʼ ɔ
+ყო	between_consonants	q ʼ ɔ
+ყო	alone	q ʼ ɔ
+ნია	between_consonants	n i ɑ
+ნია	alone	n i ɑ
+აბა	between_consonants	ɑ b ɑ
+აბა	alone	ɑ b ɑ
+რც	between_vowels	r t͡sʰ
+რც	between_consonants	r t͡sʰ
+რც	alone	r t͡sʰ
+ხმ	between_vowels	χ m
+ხმ	between_consonants	χ m
+ხმ	alone	χ m
+ზო	between_vowels	z ɔ
+ზო	between_consonants	z ɔ
+ზო	alone	z ɔ
+რავ	between_vowels	r ɑ v
+რავ	between_consonants	r ɑ v
+რავ	alone	r ɑ v
+რატ	between_vowels	r ɑ t ʼ
+რატ	between_consonants	r ɑ t ʼ
+რატ	alone	r ɑ t ʼ
+უკ	between_vowels	u k ʼ
+უკ	between_consonants	u k ʼ
+უკ	alone	u k ʼ
+ასა	between_consonants	ɑ s ɑ
+ასა	alone	ɑ s ɑ
+აწ	between_consonants	ɑ t͡s ʼ
+აწ	alone	ɑ t͡s ʼ
+სმ	between_vowels	s m
+სმ	between_consonants	s m
+სმ	alone	s m
+ომა	between_consonants	ɔ m ɑ
+ომა	alone	ɔ m ɑ
+მპ	between_vowels	m p ʼ
+მპ	between_consonants	m p ʼ
+მპ	alone	m p ʼ
+ულო	between_vowels	u l ɔ
+ულო	between_consonants	u l ɔ
+ულო	alone	u l ɔ
+გად	between_vowels	ɡ ɑ d
+გად	between_consonants	ɡ ɑ d
+გად	alone	ɡ ɑ d
+აო	between_consonants	ɑ ɔ
+აო	alone	ɑ ɔ
+იტი	between_vowels	i t ʼ i
+იტი	between_consonants	i t ʼ i
+იტი	alone	i t ʼ i
+ილო	between_vowels	i l ɔ
+ილო	between_consonants	i l ɔ
+ილო	alone	i l ɔ
+ფრ	between_vowels	pʰ r
+ფრ	between_consonants	pʰ r
+ფრ	alone	pʰ r
+ომი	between_vowels	ɔ m i
+ომი	between_consonants	ɔ m i
+ომი	alone	ɔ m i
+მბ	between_vowels	m b
+მბ	between_consonants	m b
+მბ	alone	m b
+რმა	between_consonants	r m ɑ
+რმა	alone	r m ɑ
+ილე	between_vowels	i l ɛ
+ილე	between_consonants	i l ɛ
+ილე	alone	i l ɛ
+რან	between_vowels	r ɑ n
+რან	between_consonants	r ɑ n
+რან	alone	r ɑ n
+ვერ	between_vowels	v ɛ r
+ვერ	between_consonants	v ɛ r
+ვერ	alone	v ɛ r
+ინე	between_vowels	i n ɛ
+ინე	between_consonants	i n ɛ
+ინე	alone	i n ɛ
+ვის	between_vowels	v i s
+ვის	between_consonants	v i s
+ვის	alone	v i s
+აყ	between_consonants	ɑ q ʼ
+აყ	alone	ɑ q ʼ
+ვად	between_vowels	v ɑ d
+ვად	between_consonants	v ɑ d
+ვად	alone	v ɑ d
+რვ	between_vowels	r v
+რვ	between_consonants	r v
+რვ	alone	r v
+ღვ	between_vowels	ʁ v
+ღვ	between_consonants	ʁ v
+ღვ	alone	ʁ v
+მატ	between_vowels	m ɑ t ʼ
+მატ	between_consonants	m ɑ t ʼ
+მატ	alone	m ɑ t ʼ
+იპ	between_vowels	i p ʼ
+იპ	between_consonants	i p ʼ
+იპ	alone	i p ʼ
+ებლ	between_vowels	ɛ b l
+ებლ	alone	ɛ b l
+ედი	between_vowels	ɛ d i
+ედი	between_consonants	ɛ d i
+ედი	alone	ɛ d i
+უხ	between_vowels	u χ
+უხ	between_consonants	u χ
+უხ	alone	u χ
+ატო	between_consonants	ɑ t ʼ ɔ
+ატო	alone	ɑ t ʼ ɔ
+ნობ	between_vowels	n ɔ b
+ნობ	between_consonants	n ɔ b
+ნობ	alone	n ɔ b
+ნდი	between_vowels	n d i
+ნდი	between_consonants	n d i
+ნდი	alone	n d i
+ღა	between_consonants	ʁ ɑ
+ღა	alone	ʁ ɑ
+ევა	between_consonants	ɛ v ɑ
+ევა	alone	ɛ v ɑ
+რამ	between_vowels	r ɑ m
+რამ	between_consonants	r ɑ m
+რამ	alone	r ɑ m
+ტრი	between_vowels	t ʼ r i
+ტრი	between_consonants	t ʼ r i
+ტრი	alone	t ʼ r i
+სახ	between_vowels	s ɑ χ
+სახ	between_consonants	s ɑ χ
+სახ	alone	s ɑ χ
+ნის	between_vowels	n i s
+ნის	between_consonants	n i s
+ნის	alone	n i s
+ოე	between_vowels	ɔ ɛ
+ოე	between_consonants	ɔ ɛ
+ოე	alone	ɔ ɛ
+უმი	between_vowels	u m i
+უმი	between_consonants	u m i
+უმი	alone	u m i
+ხელ	between_vowels	χ ɛ l
+ხელ	alone	χ ɛ l
+თუ	between_vowels	tʰ u
+თუ	between_consonants	tʰ u
+თუ	alone	tʰ u
+გრა	between_consonants	ɡ r ɑ
+გრა	alone	ɡ r ɑ
+რძ	between_vowels	r d͡z
+რძ	between_consonants	r d͡z
+რძ	alone	r d͡z
+შო	between_vowels	ʃ ɔ
+შო	between_consonants	ʃ ɔ
+შო	alone	ʃ ɔ
+ილა	between_consonants	i l ɑ
+ილა	alone	i l ɑ
+თმ	between_vowels	tʰ m
+თმ	between_consonants	tʰ m
+თმ	alone	tʰ m
+არდ	between_consonants	ɑ r d
+არდ	alone	ɑ r d
+უტ	between_vowels	u t ʼ
+უტ	between_consonants	u t ʼ
+უტ	alone	u t ʼ
+ასი	between_consonants	ɑ s i
+ასი	alone	ɑ s i
+ჯა	between_consonants	d͡ʒ ɑ
+ჯა	alone	d͡ʒ ɑ
+იდე	between_vowels	i d ɛ
+იდე	between_consonants	i d ɛ
+იდე	alone	i d ɛ
+ლმ	between_vowels	l m
+ლმ	alone	l m
+მენ	between_vowels	m ɛ n
+მენ	between_consonants	m ɛ n
+მენ	alone	m ɛ n
+ერო	between_vowels	ɛ r ɔ
+ერო	between_consonants	ɛ r ɔ
+ერო	alone	ɛ r ɔ
+ხლ	between_vowels	χ l
+ხლ	alone	χ l
+ტან	between_vowels	t ʼ ɑ n
+ტან	between_consonants	t ʼ ɑ n
+ტან	alone	t ʼ ɑ n
+რალ	between_vowels	r ɑ l
+რალ	alone	r ɑ l
+ოზ	between_vowels	ɔ z
+ოზ	between_consonants	ɔ z
+ოზ	alone	ɔ z
+სფ	between_vowels	s pʰ
+სფ	between_consonants	s pʰ
+სფ	alone	s pʰ
+ონა	between_consonants	ɔ n ɑ
+ონა	alone	ɔ n ɑ
+ივი	between_vowels	i v i
+ივი	between_consonants	i v i
+ივი	alone	i v i
+მრ	between_vowels	m r
+მრ	between_consonants	m r
+მრ	alone	m r
+პარ	between_vowels	p ʼ ɑ r
+პარ	between_consonants	p ʼ ɑ r
+პარ	alone	p ʼ ɑ r
+ელო	between_vowels	ɛ l ɔ
+ელო	between_consonants	ɛ l ɔ
+ელო	alone	ɛ l ɔ
+ორმ	between_vowels	ɔ r m
+ორმ	between_consonants	ɔ r m
+ორმ	alone	ɔ r m
+სტა	between_consonants	s t ʼ ɑ
+სტა	alone	s t ʼ ɑ
+ერთ	between_vowels	ɛ r tʰ
+ერთ	between_consonants	ɛ r tʰ
+ერთ	alone	ɛ r tʰ
+ეც	between_vowels	ɛ t͡sʰ
+ეც	between_consonants	ɛ t͡sʰ
+ეც	alone	ɛ t͡sʰ
+ირა	between_consonants	i r ɑ
+ირა	alone	i r ɑ
+ეხ	between_vowels	ɛ χ
+ეხ	between_consonants	ɛ χ
+ეხ	alone	ɛ χ
+იქ	between_vowels	i kʰ
+იქ	between_consonants	i kʰ
+იქ	alone	i kʰ
+სად	between_vowels	s ɑ d
+სად	between_consonants	s ɑ d
+სად	alone	s ɑ d
+გარ	between_vowels	ɡ ɑ r
+გარ	between_consonants	ɡ ɑ r
+გარ	alone	ɡ ɑ r
+ნად	between_vowels	n ɑ d
+ნად	between_consonants	n ɑ d
+ნად	alone	n ɑ d
+სტრ	between_vowels	s t ʼ r
+სტრ	between_consonants	s t ʼ r
+სტრ	alone	s t ʼ r
+ვებ	between_vowels	v ɛ b
+ვებ	between_consonants	v ɛ b
+ვებ	alone	v ɛ b
+მხ	between_vowels	m χ
+მხ	between_consonants	m χ
+მხ	alone	m χ
+ირე	between_vowels	i r ɛ
+ირე	between_consonants	i r ɛ
+ირე	alone	i r ɛ
+ფლ	between_vowels	pʰ l
+ფლ	alone	pʰ l
+ოვა	between_consonants	ɔ v ɑ
+ოვა	alone	ɔ v ɑ
+უბ	between_vowels	u b
+უბ	between_consonants	u b
+უბ	alone	u b
+ეა	between_consonants	ɛ ɑ
+ეა	alone	ɛ ɑ
+ენა	between_consonants	ɛ n ɑ
+ენა	alone	ɛ n ɑ
+ემა	between_consonants	ɛ m ɑ
+ემა	alone	ɛ m ɑ
+ისი	between_vowels	i s i
+ისი	between_consonants	i s i
+ისი	alone	i s i
+აფი	between_consonants	ɑ pʰ i
+აფი	alone	ɑ pʰ i
+ულე	between_vowels	u l ɛ
+ულე	between_consonants	u l ɛ
+ულე	alone	u l ɛ
+მდ	between_vowels	m d
+მდ	between_consonants	m d
+მდ	alone	m d
+ყი	between_vowels	q ʼ i
+ყი	between_consonants	q ʼ i
+ყი	alone	q ʼ i
+ექს	between_vowels	ɛ kʰ s
+ექს	between_consonants	ɛ kʰ s
+ექს	alone	ɛ kʰ s
+უშ	between_vowels	u ʃ
+უშ	between_consonants	u ʃ
+უშ	alone	u ʃ
+ანგ	between_consonants	ɑ n ɡ
+ანგ	alone	ɑ n ɡ
+იონ	between_vowels	i ɔ n
+იონ	between_consonants	i ɔ n
+იონ	alone	i ɔ n
+ჩი	between_vowels	t͡ʃʰ i
+ჩი	between_consonants	t͡ʃʰ i
+ჩი	alone	t͡ʃʰ i
+იზა	between_consonants	i z ɑ
+იზა	alone	i z ɑ
+იტა	between_consonants	i t ʼ ɑ
+იტა	alone	i t ʼ ɑ
+ეზ	between_vowels	ɛ z
+ეზ	between_consonants	ɛ z
+ეზ	alone	ɛ z
+ნელ	between_vowels	n ɛ l
+ნელ	alone	n ɛ l
+რკ	between_vowels	r k ʼ
+რკ	between_consonants	r k ʼ
+რკ	alone	r k ʼ
+ექტ	between_vowels	ɛ kʰ t ʼ
+ექტ	between_consonants	ɛ kʰ t ʼ
+ექტ	alone	ɛ kʰ t ʼ
+ესი	between_vowels	ɛ s i
+ესი	between_consonants	ɛ s i
+ესი	alone	ɛ s i
+რდი	between_vowels	r d i
+რდი	between_consonants	r d i
+რდი	alone	r d i
+უქ	between_vowels	u kʰ
+უქ	between_consonants	u kʰ
+უქ	alone	u kʰ
+ჭი	between_vowels	t͡ʃ ʼ i
+ჭი	between_consonants	t͡ʃ ʼ i
+ჭი	alone	t͡ʃ ʼ i
+მონ	between_vowels	m ɔ n
+მონ	between_consonants	m ɔ n
+მონ	alone	m ɔ n
+ინდ	between_vowels	i n d
+ინდ	between_consonants	i n d
+ინდ	alone	i n d
+დია	between_consonants	d i ɑ
+დია	alone	d i ɑ
+ეულ	between_vowels	ɛ u l
+ეულ	alone	ɛ u l
+სწ	between_vowels	s t͡s ʼ
+სწ	between_consonants	s t͡s ʼ
+სწ	alone	s t͡s ʼ
+ჯი	between_vowels	d͡ʒ i
+ჯი	between_consonants	d͡ʒ i
+ჯი	alone	d͡ʒ i
+ტულ	between_vowels	t ʼ u l
+ტულ	alone	t ʼ u l
+თან	between_vowels	tʰ ɑ n
+თან	between_consonants	tʰ ɑ n
+თან	alone	tʰ ɑ n
+სტუ	between_vowels	s t ʼ u
+სტუ	between_consonants	s t ʼ u
+სტუ	alone	s t ʼ u
+გულ	between_vowels	ɡ u l
+გულ	alone	ɡ u l
+დის	between_vowels	d i s
+დის	between_consonants	d i s
+დის	alone	d i s
+ეტე	between_vowels	ɛ t ʼ ɛ
+ეტე	between_consonants	ɛ t ʼ ɛ
+ეტე	alone	ɛ t ʼ ɛ
+ალო	between_consonants	ɑ l ɔ
+ალო	alone	ɑ l ɔ
+ანს	between_consonants	ɑ n s
+ანს	alone	ɑ n s
+ენე	between_vowels	ɛ n ɛ
+ენე	between_consonants	ɛ n ɛ
+ენე	alone	ɛ n ɛ
+ანო	between_consonants	ɑ n ɔ
+ანო	alone	ɑ n ɔ
+ითი	between_vowels	i tʰ i
+ითი	between_consonants	i tʰ i
+ითი	alone	i tʰ i
+ბრი	between_vowels	b r i
+ბრი	between_consonants	b r i
+ბრი	alone	b r i
+ატუ	between_consonants	ɑ t ʼ u
+ატუ	alone	ɑ t ʼ u
+ძე	between_vowels	d͡z ɛ
+ძე	between_consonants	d͡z ɛ
+ძე	alone	d͡z ɛ
+კულ	between_vowels	k ʼ u l
+კულ	alone	k ʼ u l
+ვით	between_vowels	v i tʰ
+ვით	between_consonants	v i tʰ
+ვით	alone	v i tʰ
+ნარ	between_vowels	n ɑ r
+ნარ	between_consonants	n ɑ r
+ნარ	alone	n ɑ r
+ბად	between_vowels	b ɑ d
+ბად	between_consonants	b ɑ d
+ბად	alone	b ɑ d
+არტ	between_consonants	ɑ r t ʼ
+არტ	alone	ɑ r t ʼ
+ტალ	between_vowels	t ʼ ɑ l
+ტალ	alone	t ʼ ɑ l
+კარ	between_vowels	k ʼ ɑ r
+კარ	between_consonants	k ʼ ɑ r
+კარ	alone	k ʼ ɑ r
+ცვ	between_vowels	t͡sʰ v
+ცვ	between_consonants	t͡sʰ v
+ცვ	alone	t͡sʰ v
+სხ	between_vowels	s χ
+სხ	between_consonants	s χ
+სხ	alone	s χ
+ახე	between_consonants	ɑ χ ɛ
+ახე	alone	ɑ χ ɛ
+სფე	between_vowels	s pʰ ɛ
+სფე	between_consonants	s pʰ ɛ
+სფე	alone	s pʰ ɛ
+მინ	between_vowels	m i n
+მინ	between_consonants	m i n
+მინ	alone	m i n
+ლან	between_vowels	l ɑ n
+ლან	alone	l ɑ n
+მოს	between_vowels	m ɔ s
+მოს	between_consonants	m ɔ s
+მოს	alone	m ɔ s
+ვირ	between_vowels	v i r
+ვირ	between_consonants	v i r
+ვირ	alone	v i r
+ქო	between_vowels	kʰ ɔ
+ქო	between_consonants	kʰ ɔ
+ქო	alone	kʰ ɔ
+ცა	between_consonants	t͡sʰ ɑ
+ცა	alone	t͡sʰ ɑ
+ყე	between_vowels	q ʼ ɛ
+ყე	between_consonants	q ʼ ɛ
+ყე	alone	q ʼ ɛ
+ადე	between_consonants	ɑ d ɛ
+ადე	alone	ɑ d ɛ
+ოქ	between_vowels	ɔ kʰ
+ოქ	between_consonants	ɔ kʰ
+ოქ	alone	ɔ kʰ
+უფ	between_vowels	u pʰ
+უფ	between_consonants	u pʰ
+უფ	alone	u pʰ
+ეპ	between_vowels	ɛ p ʼ
+ეპ	between_consonants	ɛ p ʼ
+ეპ	alone	ɛ p ʼ
+ჯე	between_vowels	d͡ʒ ɛ
+ჯე	between_consonants	d͡ʒ ɛ
+ჯე	alone	d͡ʒ ɛ
+მწ	between_vowels	m t͡s ʼ
+მწ	between_consonants	m t͡s ʼ
+მწ	alone	m t͡s ʼ
+რბ	between_vowels	r b
+რბ	between_consonants	r b
+რბ	alone	r b
+ბარ	between_vowels	b ɑ r
+ბარ	between_consonants	b ɑ r
+ბარ	alone	b ɑ r
+ეშ	between_vowels	ɛ ʃ
+ეშ	between_consonants	ɛ ʃ
+ეშ	alone	ɛ ʃ
+ესა	between_consonants	ɛ s ɑ
+ესა	alone	ɛ s ɑ
+გია	between_consonants	ɡ i ɑ
+გია	alone	ɡ i ɑ
+რჩ	between_vowels	r t͡ʃʰ
+რჩ	between_consonants	r t͡ʃʰ
+რჩ	alone	r t͡ʃʰ
+აე	between_consonants	ɑ ɛ
+აე	alone	ɑ ɛ
+იწ	between_vowels	i t͡s ʼ
+იწ	between_consonants	i t͡s ʼ
+იწ	alone	i t͡s ʼ
+ავე	between_consonants	ɑ v ɛ
+ავე	alone	ɑ v ɛ
+ცო	between_vowels	t͡sʰ ɔ
+ცო	between_consonants	t͡sʰ ɔ
+ცო	alone	t͡sʰ ɔ
+რმო	between_vowels	r m ɔ
+რმო	between_consonants	r m ɔ
+რმო	alone	r m ɔ
+ქარ	between_vowels	kʰ ɑ r
+ქარ	between_consonants	kʰ ɑ r
+ქარ	alone	kʰ ɑ r
+ეფ	between_vowels	ɛ pʰ
+ეფ	between_consonants	ɛ pʰ
+ეფ	alone	ɛ pʰ
+დარ	between_vowels	d ɑ r
+დარ	between_consonants	d ɑ r
+დარ	alone	d ɑ r
+იცი	between_vowels	i t͡sʰ i
+იცი	between_consonants	i t͡sʰ i
+იცი	alone	i t͡sʰ i
+რქ	between_vowels	r kʰ
+რქ	between_consonants	r kʰ
+რქ	alone	r kʰ
+ძი	between_vowels	d͡z i
+ძი	between_consonants	d͡z i
+ძი	alone	d͡z i
+მომ	between_vowels	m ɔ m
+მომ	between_consonants	m ɔ m
+მომ	alone	m ɔ m
+რაფ	between_vowels	r ɑ pʰ
+რაფ	between_consonants	r ɑ pʰ
+რაფ	alone	r ɑ pʰ
+სიმ	between_vowels	s i m
+სიმ	between_consonants	s i m
+სიმ	alone	s i m
+ოსი	between_vowels	ɔ s i
+ოსი	between_consonants	ɔ s i
+ოსი	alone	ɔ s i
+უსი	between_vowels	u s i
+უსი	between_consonants	u s i
+უსი	alone	u s i
+ლიზ	between_vowels	l i z
+ლიზ	alone	l i z
+მთ	between_vowels	m tʰ
+მთ	between_consonants	m tʰ
+მთ	alone	m tʰ
+იდი	between_vowels	i d i
+იდი	between_consonants	i d i
+იდი	alone	i d i
+არო	between_consonants	ɑ r ɔ
+არო	alone	ɑ r ɔ
+დგ	between_vowels	d ɡ
+დგ	between_consonants	d ɡ
+დგ	alone	d ɡ
+არმ	between_consonants	ɑ r m
+არმ	alone	ɑ r m
+ბლა	between_consonants	b l ɑ
+ბლა	alone	b l ɑ
+ოი	between_vowels	ɔ i
+ოი	between_consonants	ɔ i
+ოი	alone	ɔ i
+ნდა	between_consonants	n d ɑ
+ნდა	alone	n d ɑ
+ხრ	between_vowels	χ r
+ხრ	between_consonants	χ r
+ხრ	alone	χ r
+კან	between_vowels	k ʼ ɑ n
+კან	between_consonants	k ʼ ɑ n
+კან	alone	k ʼ ɑ n
+ხარ	between_vowels	χ ɑ r
+ხარ	between_consonants	χ ɑ r
+ხარ	alone	χ ɑ r
+ტყ	between_vowels	t ʼ q ʼ
+ტყ	between_consonants	t ʼ q ʼ
+ტყ	alone	t ʼ q ʼ
+ედა	between_consonants	ɛ d ɑ
+ედა	alone	ɛ d ɑ
+სებ	between_vowels	s ɛ b
+სებ	between_consonants	s ɛ b
+სებ	alone	s ɛ b
+ავლ	alone	ɑ v l
+ვიდ	between_vowels	v i d
+ვიდ	between_consonants	v i d
+ვიდ	alone	v i d
+ბის	between_vowels	b i s
+ბის	between_consonants	b i s
+ბის	alone	b i s
+რტი	between_vowels	r t ʼ i
+რტი	between_consonants	r t ʼ i
+რტი	alone	r t ʼ i
+დაუ	between_vowels	d ɑ u
+დაუ	between_consonants	d ɑ u
+დაუ	alone	d ɑ u
+უნი	between_vowels	u n i
+უნი	between_consonants	u n i
+უნი	alone	u n i
+ტრო	between_vowels	t ʼ r ɔ
+ტრო	between_consonants	t ʼ r ɔ
+ტრო	alone	t ʼ r ɔ
+კომ	between_vowels	k ʼ ɔ m
+კომ	between_consonants	k ʼ ɔ m
+კომ	alone	k ʼ ɔ m
+თვი	between_vowels	tʰ v i
+თვი	between_consonants	tʰ v i
+თვი	alone	tʰ v i
+ვდ	between_vowels	v d
+ვდ	between_consonants	v d
+ვდ	alone	v d
+ნალ	between_vowels	n ɑ l
+ნალ	alone	n ɑ l
+ფუ	between_vowels	pʰ u
+ფუ	between_consonants	pʰ u
+ფუ	alone	pʰ u
+ტარ	between_vowels	t ʼ ɑ r
+ტარ	between_consonants	t ʼ ɑ r
+ტარ	alone	t ʼ ɑ r
+იუმ	between_vowels	i u m
+იუმ	between_consonants	i u m
+იუმ	alone	i u m
+ატე	between_consonants	ɑ t ʼ ɛ
+ატე	alone	ɑ t ʼ ɛ
+რომ	between_vowels	r ɔ m
+რომ	between_consonants	r ɔ m
+რომ	alone	r ɔ m
+ქც	between_vowels	kʰ t͡sʰ
+ქც	between_consonants	kʰ t͡sʰ
+ქც	alone	kʰ t͡sʰ
+ლტ	between_vowels	l t ʼ
+ლტ	alone	l t ʼ
+ბია	between_consonants	b i ɑ
+ბია	alone	b i ɑ
+უზ	between_vowels	u z
+უზ	between_consonants	u z
+უზ	alone	u z
+რეს	between_vowels	r ɛ s
+რეს	between_consonants	r ɛ s
+რეს	alone	r ɛ s
+ნკ	between_vowels	n k ʼ
+ნკ	between_consonants	n k ʼ
+ნკ	alone	n k ʼ
+დავ	between_vowels	d ɑ v
+დავ	between_consonants	d ɑ v
+დავ	alone	d ɑ v
+ორა	between_consonants	ɔ r ɑ
+ორა	alone	ɔ r ɑ
+ნც	between_vowels	n t͡sʰ
+ნც	between_consonants	n t͡sʰ
+ნც	alone	n t͡sʰ
+იკო	between_vowels	i k ʼ ɔ
+იკო	between_consonants	i k ʼ ɔ
+იკო	alone	i k ʼ ɔ
+მის	between_vowels	m i s
+მის	between_consonants	m i s
+მის	alone	m i s
+ქე	between_vowels	kʰ ɛ
+ქე	between_consonants	kʰ ɛ
+ქე	alone	kʰ ɛ
+ემო	between_vowels	ɛ m ɔ
+ემო	between_consonants	ɛ m ɔ
+ემო	alone	ɛ m ɔ
+ონე	between_vowels	ɔ n ɛ
+ონე	between_consonants	ɔ n ɛ
+ონე	alone	ɔ n ɛ
+პუ	between_vowels	p ʼ u
+პუ	between_consonants	p ʼ u
+პუ	alone	p ʼ u
+იხ	between_vowels	i χ
+იხ	between_consonants	i χ
+იხ	alone	i χ
+აჩ	between_consonants	ɑ t͡ʃʰ
+აჩ	alone	ɑ t͡ʃʰ
+პერ	between_vowels	p ʼ ɛ r
+პერ	between_consonants	p ʼ ɛ r
+პერ	alone	p ʼ ɛ r
+ოთხ	between_vowels	ɔ tʰ χ
+ოთხ	between_consonants	ɔ tʰ χ
+ოთხ	alone	ɔ tʰ χ
+ქტი	between_vowels	kʰ t ʼ i
+ქტი	between_consonants	kʰ t ʼ i
+ქტი	alone	kʰ t ʼ i
+ვენ	between_vowels	v ɛ n
+ვენ	between_consonants	v ɛ n
+ვენ	alone	v ɛ n
+სია	between_consonants	s i ɑ
+სია	alone	s i ɑ
+რნ	between_vowels	r n
+რნ	between_consonants	r n
+რნ	alone	r n
+ვნე	between_vowels	v n ɛ
+ვნე	between_consonants	v n ɛ
+ვნე	alone	v n ɛ
+ქვე	between_vowels	kʰ v ɛ
+ქვე	between_consonants	kʰ v ɛ
+ქვე	alone	kʰ v ɛ
+მს	between_vowels	m s
+მს	between_consonants	m s
+მს	alone	m s
+იმი	between_vowels	i m i
+იმი	between_consonants	i m i
+იმი	alone	i m i
+ოფი	between_vowels	ɔ pʰ i
+ოფი	between_consonants	ɔ pʰ i
+ოფი	alone	ɔ pʰ i
+დას	between_vowels	d ɑ s
+დას	between_consonants	d ɑ s
+დას	alone	d ɑ s
+პოლ	between_vowels	p ʼ ɔ l
+პოლ	alone	p ʼ ɔ l
+კალ	between_vowels	k ʼ ɑ l
+კალ	alone	k ʼ ɑ l
+წინ	between_vowels	t͡s ʼ i n
+წინ	between_consonants	t͡s ʼ i n
+წინ	alone	t͡s ʼ i n
+შუ	between_vowels	ʃ u
+შუ	between_consonants	ʃ u
+შუ	alone	ʃ u
+არგ	between_consonants	ɑ r ɡ
+არგ	alone	ɑ r ɡ
+მერ	between_vowels	m ɛ r
+მერ	between_consonants	m ɛ r
+მერ	alone	m ɛ r
+იალ	between_vowels	i ɑ l
+იალ	alone	i ɑ l

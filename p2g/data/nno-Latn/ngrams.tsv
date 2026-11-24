@@ -1,0 +1,601 @@
+gram	context	phones
+e	alone	ɛ
+a	alone	ɑ
+r	alone	r
+n	alone	n
+s	alone	s
+k	alone	k
+t	alone	t
+l	alone	l
+i	alone	iː
+d	alone	d
+o	alone	u
+g	alone	g
+v	alone	v
+m	alone	m
+u	alone	ʉː
+j	alone	j
+b	alone	b
+f	alone	f
+h	alone	h
+en	alone	ɛː n
+er	alone	æː r
+y	alone	yː
+ø	alone	ø
+in	alone	iː n
+p	alone	p
+an	alone	ɑː n
+le	alone	l ɛ
+ar	alone	ɑː r
+re	alone	r ɛ
+te	alone	t ɛ
+sk	alone	s k
+ei	alone	ɛ ɪː
+å	alone	o
+st	alone	s t
+or	alone	uː r
+je	alone	j ɛ
+el	alone	ɛː l
+de	alone	d ɛ
+ng	alone	ŋ
+nd	alone	n d
+ra	alone	r ɑ
+kj	alone	ç
+ve	alone	v ɛ
+al	alone	ɑː l
+ke	alone	k ɛ
+ta	alone	t ɑ
+nn	alone	n
+ne	alone	n ɛ
+ka	alone	k ɑ
+la	alone	l ɑ
+rd	alone	r d
+is	alone	iː s
+et	alone	ɛː t
+da	alone	d ɑ
+ri	alone	r iː
+vi	alone	v iː
+ik	alone	iː k
+ge	alone	g ɛ
+va	alone	v ɑ
+tt	alone	t
+se	alone	s ɛ
+na	alone	n ɑ
+ll	alone	l
+kk	alone	k k
+il	alone	iː l
+eg	alone	ɛː g
+ma	alone	m ɑ
+me	alone	m ɛ
+ja	alone	j ɑ
+au	alone	œ ʊː
+ing	alone	iː ŋ
+un	alone	ʉː n
+he	alone	h ɛ
+ek	alone	ɛː k
+ol	alone	uː l
+it	alone	iː t
+kje	alone	ç ɛ
+ro	alone	r u
+tr	alone	t r
+on	alone	uː n
+es	alone	ɛː s
+ha	alone	h ɑ
+sa	alone	s ɑ
+li	alone	l iː
+and	alone	ɑ n d
+id	alone	iː d
+dr	alone	d r
+ak	alone	ɑː k
+ko	alone	k u
+jo	alone	j u
+at	alone	ɑː t
+ga	alone	g ɑ
+as	alone	ɑː s
+ti	alone	t iː
+kv	alone	k v
+jø	alone	j ø
+ki	alone	ç iː
+æ	alone	æ
+ni	alone	n iː
+gj	alone	ʝ
+ør	alone	øː r
+gr	alone	g r
+ns	alone	n s
+ot	alone	uː t
+rn	alone	r n
+be	alone	b ɛ
+br	alone	b r
+leg	alone	l ɛː g
+rk	alone	r k
+ld	alone	l d
+øy	alone	œ ʏː
+sj	alone	ʃ
+fo	alone	f u
+us	alone	ʉː s
+nt	alone	n t
+ag	alone	ɑː g
+am	alone	ɑː m
+om	alone	uː m
+to	alone	t u
+pe	alone	p ɛ
+sl	alone	s l
+ru	alone	r ʉː
+ord	alone	u r d
+lo	alone	l u
+ad	alone	ɑː d
+os	alone	uː s
+skj	alone	ʃ
+rs	alone	r s
+inn	alone	i n
+kr	alone	k r
+bo	alone	b u
+ut	alone	ʉː t
+im	alone	iː m
+yr	alone	yː r
+ss	alone	s s
+so	alone	s u
+ein	alone	ɛ ɪː n
+sv	alone	s v
+ug	alone	ʉː g
+ver	alone	v æː r
+gje	alone	ʝ ɛ
+ok	alone	uː k
+mo	alone	m u
+ste	alone	s t ɛ
+em	alone	ɛː m
+ud	alone	ʉː d
+di	alone	d iː
+od	alone	uː d
+si	alone	s iː
+no	alone	n u
+kt	alone	k t
+ur	alone	ʉː r
+nde	alone	n d ɛ
+ks	alone	k s
+fr	alone	f r
+fa	alone	f ɑ
+gg	alone	g g
+ten	alone	t ɛː n
+rt	alone	r t
+bl	alone	b l
+ig	alone	iː
+ho	alone	h u
+ed	alone	ɛː d
+uk	alone	ʉː k
+ba	alone	b ɑ
+av	alone	ɑː v
+iv	alone	iː v
+der	alone	d æː r
+ele	alone	ɛː l ɛ
+ter	alone	t æː r
+sp	alone	s p
+rg	alone	r g
+jen	alone	j ɛː n
+sta	alone	s t ɑ
+ov	alone	uː v
+nk	alone	n k
+ls	alone	l s
+um	alone	ʉː m
+lan	alone	l ɑː n
+ku	alone	k ʉː
+lv	alone	l v
+ul	alone	ʉː l
+ren	alone	r ɛː n
+fl	alone	f l
+jer	alone	j æː r
+lk	alone	l k
+sy	alone	s yː
+tte	alone	t ɛ
+kke	alone	k k ɛ
+rø	alone	r ø
+kn	alone	k n
+lt	alone	l t
+yk	alone	yː k
+sm	alone	s m
+mi	alone	m iː
+yn	alone	yː n
+pa	alone	p ɑ
+kja	alone	ç ɑ
+fe	alone	f ɛ
+mm	alone	m
+ann	alone	ɑ n
+lei	alone	l ɛ ɪː
+ds	alone	d s
+ett	alone	ɛ t
+bi	alone	b iː
+tu	alone	t ʉː
+fi	alone	f iː
+kl	alone	k l
+lu	alone	l ʉː
+ts	alone	t s
+ær	alone	æː r
+rei	alone	r ɛ ɪː
+vik	alone	v iː k
+ska	alone	s k ɑ
+all	alone	ɑ l
+for	alone	f uː r
+gl	alone	g l
+tan	alone	t ɑː n
+ev	alone	ɛː v
+sø	alone	s ø
+ir	alone	iː r
+eit	alone	ɛ ɪː t
+hei	alone	h ɛ ɪː
+ill	alone	i l
+dra	alone	d r ɑ
+lj	alone	l j
+ski	alone	ʃ iː
+dal	alone	d ɑː l
+ard	alone	ɑ r d
+ekk	alone	ɛ k k
+ju	alone	j ʉː
+rå	alone	r o
+yg	alone	yː g
+hu	alone	h ʉː
+ap	alone	ɑː p
+bu	alone	b ʉː
+dd	alone	dː
+len	alone	l ɛː n
+enn	alone	ɛ n
+ai	alone	ɑ iː
+jor	alone	j uː r
+mu	alone	m ʉː
+ist	alone	i s t
+ål	alone	oː l
+år	alone	oː r
+ly	alone	l yː
+und	alone	ʉ n d
+tj	alone	ç
+era	alone	æː r ɑ
+ran	alone	r ɑː n
+kve	alone	k v ɛ
+åt	alone	oː t
+rr	alone	r
+jel	alone	j ɛː l
+fj	alone	f j
+lle	alone	l ɛ
+og	alone	uː g
+nne	alone	n ɛ
+du	alone	d ʉː
+ry	alone	r yː
+vo	alone	v u
+var	alone	v ɑː r
+gi	alone	j iː
+rin	alone	r iː n
+fu	alone	f ʉː
+pp	alone	p
+man	alone	m ɑː n
+ske	alone	s k ɛ
+mar	alone	m ɑː r
+lin	alone	l iː n
+gu	alone	g ʉː
+op	alone	uː p
+tre	alone	t r ɛ
+jør	alone	j øː r
+kar	alone	k ɑː r
+ken	alone	k ɛː n
+nge	alone	ŋ ɛ
+ang	alone	ɑː ŋ
+rl	alone	r l
+kvi	alone	k v iː
+erd	alone	æ r d
+eis	alone	ɛ ɪː s
+øn	alone	øː n
+su	alone	s ʉː
+tor	alone	t uː r
+ind	alone	i n d
+ia	alone	i ɑ
+end	alone	ɛ n d
+tek	alone	t ɛː k
+sle	alone	s l ɛ
+ft	alone	f t
+rm	alone	r m
+str	alone	s t r
+øl	alone	øː l
+rda	alone	r d ɑ
+ite	alone	iː t ɛ
+yl	alone	yː l
+ell	alone	ɛ l
+bj	alone	b j
+do	alone	d u
+ikk	alone	i k k
+ast	alone	ɑ s t
+ep	alone	ɛː p
+kri	alone	k r iː
+ys	alone	yː s
+van	alone	v ɑː n
+ent	alone	ɛ n t
+c	alone	c
+nor	alone	n uː r
+eim	alone	ɛ ɪː m
+nin	alone	n iː n
+vin	alone	v iː n
+øk	alone	øː k
+dan	alone	d ɑː n
+må	alone	m o
+vel	alone	v ɛː l
+val	alone	v ɑː l
+gei	alone	j ɛ ɪː
+sn	alone	s n
+let	alone	l ɛː t
+her	alone	h æː r
+skr	alone	s k r
+est	alone	ɛ s t
+eb	alone	ɛː b
+ors	alone	u r s
+nar	alone	n ɑː r
+bre	alone	b r ɛ
+ald	alone	ɑ l d
+gn	alone	g n
+att	alone	ɑ t
+isk	alone	i s k
+ika	alone	iː k ɑ
+fø	alone	f ø
+bjø	alone	b j ø
+ere	alone	æː r ɛ
+go	alone	g u
+ern	alone	æ r n
+tn	alone	t n
+rde	alone	r d ɛ
+tro	alone	t r u
+ip	alone	iː p
+hal	alone	h ɑː l
+jon	alone	j uː n
+vit	alone	v iː t
+sen	alone	s ɛː n
+nj	alone	n j
+ark	alone	ɑ r k
+tra	alone	t r ɑ
+ky	alone	ç yː
+ans	alone	ɑ n s
+ms	alone	m s
+ker	alone	k æː r
+ine	alone	iː n ɛ
+vå	alone	v o
+tei	alone	t ɛ ɪː
+eik	alone	ɛ ɪː k
+eid	alone	ɛ ɪː d
+nes	alone	n ɛː s
+kka	alone	k k ɑ
+mor	alone	m uː r
+nl	alone	n l
+eng	alone	ɛː ŋ
+unn	alone	ʉ n
+gri	alone	g r iː
+vis	alone	v iː s
+ott	alone	u t
+kjø	alone	ç ø
+rsk	alone	r s k
+eir	alone	ɛ ɪː r
+kel	alone	k ɛː l
+ød	alone	øː d
+po	alone	p u
+jå	alone	j o
+dy	alone	d yː
+kva	alone	k v ɑ
+ndr	alone	n d r
+of	alone	uː f
+aud	alone	œ ʊː d
+rle	alone	r l ɛ
+mme	alone	m ɛ
+dø	alone	d ø
+ån	alone	oː n
+by	alone	b yː
+run	alone	r ʉː n
+svi	alone	s v iː
+rau	alone	r œ ʊː
+kin	alone	ç iː n
+ort	alone	u r t
+eks	alone	ɛ k s
+men	alone	m ɛː n
+sto	alone	s t u
+my	alone	m yː
+eil	alone	ɛ ɪː l
+ime	alone	iː m ɛ
+dre	alone	d r ɛ
+akk	alone	ɑ k k
+lø	alone	l ø
+arn	alone	ɑ r n
+sjo	alone	ʃ u
+ret	alone	r ɛː t
+hi	alone	h iː
+gd	alone	g d
+tta	alone	t ɑ
+erg	alone	æ r g
+erk	alone	æ r k
+ber	alone	b æː r
+ven	alone	v ɛː n
+kkj	alone	k ç
+ny	alone	n yː
+nsk	alone	n s k
+rot	alone	r uː t
+ml	alone	m l
+sol	alone	s uː l
+lå	alone	l o
+rj	alone	r j
+ner	alone	n æː r
+tl	alone	t l
+dri	alone	d r iː
+oll	alone	u l
+sme	alone	s m ɛ
+ers	alone	æ r s
+rik	alone	r iː k
+les	alone	l ɛː s
+gs	alone	g s
+kon	alone	k uː n
+mel	alone	m ɛː l
+ant	alone	ɑ n t
+ger	alone	g æː r
+gre	alone	g r ɛ
+ty	alone	t yː
+sve	alone	s v ɛ
+nda	alone	n d ɑ
+sam	alone	s ɑː m
+sli	alone	s l iː
+lg	alone	l g
+mei	alone	m ɛ ɪː
+net	alone	n ɛː t
+rne	alone	r n ɛ
+lau	alone	l œ ʊː
+ong	alone	uː ŋ
+ung	alone	uː ŋ
+del	alone	d ɛː l
+orn	alone	u r n
+enk	alone	ɛ n k
+err	alone	æ r
+hel	alone	h ɛː l
+rek	alone	r ɛː k
+dv	alone	d v
+ab	alone	ɑː b
+ike	alone	iː k ɛ
+lde	alone	l d ɛ
+bor	alone	b uː r
+øre	alone	øː r ɛ
+itt	alone	i t
+akt	alone	ɑ k t
+kor	alone	k uː r
+oi	alone	u iː
+ide	alone	iː d ɛ
+yt	alone	yː t
+ue	alone	ʉ ɛ
+læ	alone	l æ
+rkj	alone	r ç
+fjo	alone	f j u
+yd	alone	yː d
+øg	alone	øː g
+sel	alone	s ɛː l
+mål	alone	m oː l
+tv	alone	t v
+ukk	alone	ʉ k k
+ita	alone	iː t ɑ
+uv	alone	ʉː v
+den	alone	d ɛː n
+bø	alone	b ø
+set	alone	s ɛː t
+nf	alone	n f
+spe	alone	s p ɛ
+fin	alone	f iː n
+nna	alone	n ɑ
+rv	alone	r v
+nø	alone	n ø
+gar	alone	g ɑː r
+vil	alone	v iː l
+ye	alone	y ɛ
+har	alone	h ɑː r
+kla	alone	k l ɑ
+hå	alone	h o
+egg	alone	ɛ g g
+åd	alone	oː d
+opp	alone	u p
+okk	alone	u k k
+pen	alone	p ɛː n
+tad	alone	t ɑː d
+dj	alone	j
+øt	alone	øː t
+ate	alone	ɑː t ɛ
+ove	alone	uː v ɛ
+ida	alone	iː d ɑ
+gja	alone	ʝ ɑ
+tå	alone	t o
+pi	alone	p iː
+lke	alone	l k ɛ
+ros	alone	r uː s
+far	alone	f ɑː r
+ekt	alone	ɛ k t
+syn	alone	s yː n
+kei	alone	ç ɛ ɪː
+ain	alone	ɑ iː n
+gen	alone	g ɛː n
+hø	alone	h ø
+ef	alone	ɛː f
+pl	alone	p l
+ron	alone	r uː n
+ane	alone	ɑː n ɛ
+ene	alone	ɛː n ɛ
+mb	alone	m b
+rb	alone	r b
+bei	alone	b ɛ ɪː
+nte	alone	n t ɛ
+åk	alone	oː k
+mn	alone	m n
+kst	alone	k s t
+ørn	alone	ø r n
+ås	alone	oː s
+aug	alone	œ ʊː g
+ins	alone	i n s
+kap	alone	k ɑː p
+sje	alone	ʃ ɛ
+ile	alone	iː l ɛ
+olk	alone	u l k
+gra	alone	g r ɑ
+vek	alone	v ɛː k
+til	alone	t iː l
+aus	alone	œ ʊː s
+ore	alone	uː r ɛ
+san	alone	s ɑː n
+rke	alone	r k ɛ
+ild	alone	i l d
+ale	alone	ɑː l ɛ
+gle	alone	g l ɛ
+ust	alone	ʉ s t
+hj	alone	j
+tar	alone	t ɑː r
+ie	alone	i ɛ
+før	alone	f øː r
+nle	alone	n l ɛ
+dyr	alone	d yː r
+ake	alone	ɑː k ɛ
+per	alone	p æː r
+art	alone	ɑ r t
+pu	alone	p ʉː
+lag	alone	l ɑː g
+jøl	alone	j øː l
+int	alone	i n t
+fer	alone	f æː r
+eld	alone	ɛ l d
+mt	alone	m t
+oss	alone	u s s
+ob	alone	uː b
+bb	alone	b b
+ris	alone	r iː s
+då	alone	d o
+tel	alone	t ɛː l
+nv	alone	n v
+lb	alone	l b
+res	alone	r ɛː s
+if	alone	iː f
+vak	alone	v ɑː k
+ass	alone	ɑ s s
+sko	alone	s k u
+rol	alone	r uː l
+sar	alone	s ɑː r
+els	alone	ɛ l s
+fy	alone	f yː
+bro	alone	b r u
+ff	alone	f
+mj	alone	m j
+uf	alone	ʉː f
+dm	alone	d m
+omm	alone	u m
+age	alone	ɑː g ɛ
+røy	alone	r œ ʏː
+ost	alone	u s t
+ote	alone	uː t ɛ
+ras	alone	r ɑː s
+mus	alone	m ʉː s
+ps	alone	p s
+åg	alone	oː g
+rre	alone	r ɛ
+utt	alone	ʉ t
+min	alone	m iː n
+bar	alone	b ɑː r
+eri	alone	æː r iː
+nis	alone	n iː s
+lar	alone	l ɑː r
+ngj	alone	ɲ ʝ
+ygg	alone	y g g
+org	alone	u r g
+rid	alone	r iː d
+rev	alone	r ɛː v
+kal	alone	k ɑː l

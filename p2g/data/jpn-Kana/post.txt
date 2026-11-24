@@ -1,0 +1,7 @@
+% A kana repeating the previous kana's vowel is ー (ケエキ -> ケーキ). Rules run on
+% NFD text, where ガ = カ + ゙ and パ = ハ + ゚: match the plain kana, then the mark.
+ア -> ー / [アカサタナハマヤラワャァ][゙゚]? _
+イ -> ー / [イキシチニヒミリィ][゙゚]? _
+ウ -> ー / [ウクスツヌフムユルュゥ][゙゚]? _
+エ -> ー / [エケセテネヘメレェ][゙゚]? _
+オ -> ー / [オコソトノホモヨロョォ][゙゚]? _

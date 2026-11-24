@@ -1,0 +1,15 @@
+# Mandarin: toneless syllables separated by spaces
+separator = " "
+max_span = 6  # most input phones one syllable may cover
+
+[cost]
+insert = 0.5  # add a syllable phone
+delete = 1.0  # drop an input phone
+syllable = 0.1  # per syllable: fewer syllables win ties
+glide = 0.1   # high vowel <-> its glide (ㄅㄧㄢ piɛn ~ pjɛn)
+
+[epenthetic]  # cheaper vowels to add: 特 te, 斯 si
+"ɤ" = 0.3
+"ə" = 0.3
+"ɨ" = 0.3
+"w" = 0.2  # rounding a vowel can carry: boy -> bo yi (bo = pwɔ)

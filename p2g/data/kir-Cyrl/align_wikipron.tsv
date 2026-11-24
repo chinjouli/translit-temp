@@ -1,0 +1,194 @@
+phones	letters	context	count
+ɑ	а	C_C	258
+i	и	C_C	137
+ɯ	ы	C_C	132
+u	у	C_C	87
+y	ү	C_C	85
+k	к	#_V	84
+e	е	C_C	80
+k	к	V_#	78
+r	р	V_C	76
+l	л	V_V	73
+t͡ʃ	ч	C_V	64
+n	н	V_#	62
+r	р	V_V	58
+o	о	C_C	56
+t	т	#_V	56
+d	д	C_V	54
+b	б	#_V	54
+n	н	V_C	53
+l	л	V_C	50
+ɑ	а	#_C	50
+ɑ	а	C_#	49
+d͡ʒ	ж	#_V	44
+t	т	C_V	43
+k	к	C_V	42
+ø	ө	C_C	42
+l	л	V_#	37
+s	с	#_V	36
+j	й	V_C	30
+m	м	V_V	29
+d	д	#_V	28
+m	м	#_V	28
+m	м	C_V	26
+k	к	V_V	26
+m	м	V_C	25
+z	з	V_C	25
+k	к	V_C	25
+r	р	V_#	25
+t	т	V_V	25
+e	э	#_C	25
+b	б	C_V	23
+z	з	V_#	22
+n	н	V_V	22
+t	т	V_#	21
+v	б	V_V	20
+i	и	#_C	20
+j	й	V_#	19
+i	и	C_#	19
+m	м	V_#	19
+ø	ө	#_C	18
+u	уу	C_#	17
+e	е	C_#	17
+y	үү	C_#	17
+ʃ	ш	V_#	17
+ɯ	ы	C_#	17
+s	с	V_C	17
+z	з	V_V	16
+ʃ	ш	V_V	15
+t	т	V_C	14
+o	о	#_C	14
+d	д	V_V	14
+t͡ʃ	ч	V_V	14
+y	ү	C_#	14
+ɡ	г	C_V	14
+j ɑ	я	V_C	13
+ɡ	г	V_V	13
+r	г	V_V	13
+b	б	V_V	12
+t͡ʃ	ч	V_#	12
+n	н	#_V	11
+n	н	C_V	11
+s	с	C_V	11
+ʃ	ш	V_C	11
+r	р	C_V	11
+ɑ	аа	C_C	11
+l	л	C_V	11
+u	у	#_C	10
+y	ү	#_C	10
+ø	ө	C_#	10
+p	п	V_#	10
+j	й	V_V	10
+o	оо	C_C	9
+u	уу	C_C	9
+t͡ʃ	ч	#_V	9
+ʃ	ш	#_V	9
+ŋ	ң	V_V	9
+u	у	C_#	9
+d͡ʒ	ж	C_V	8
+ŋ	ң	V_C	8
+r	г	C_V	8
+s	с	V_#	8
+p	п	#_V	7
+ŋ	ң	V_#	7
+t	т	C_#	7
+p	п	V_C	6
+y	үү	C_C	6
+ɡ	г	#_V	6
+s	с	V_V	6
+o	о	C_#	5
+l	л	#_V	5
+j ɑ	я	V_#	5
+s	с	C_C	5
+d͡ʒ	ж	V_V	5
+ɯ	ы	#_C	4
+p	п	C_V	4
+k	к	C_#	4
+k	к	C_C	4
+z	з	#_V	4
+o	оо	#_C	3
+ʃ	ш	C_V	3
+j u	ю	V_C	3
+ɑ	аа	#_C	3
+ø	өө	C_#	3
+ɡ	г	C_C	3
+f	ф	#_C	3
+ø	өө	C_C	3
+j ɑ	я	C_C	2
+o	оо	C_#	2
+ɡ	г	#_C	2
+t ʃ	ч	C_V	2
+s	с	#_C	2
+o v	ов	C_V	2
+ɑ	а	C_V	2
+j e	е	V_C	2
+t	т	C_C	2
+z	з	C_V	2
+t͡ʃ	ч	V_C	2
+r	р	#_V	1
+u k	ух	C_#	1
+o f	ов	C_#	1
+ŋ	ң	#_#	1
+d z	ж	#_V	1
+r k	рг	V_#	1
+ɡ	г	#_#	1
+j e	е	#_#	1
+k	к	#_#	1
+n	н	C_C	1
+ɡ	г	C_#	1
+u v	ч	#_V	1
+d z	ж	C_V	1
+u	у	C_V	1
+u	у	V_#	1
+d	д	#_#	1
+s s	зс	V_V	1
+b	б	V_C	1
+b	б	V_#	1
+u	уу	#_C	1
+u	туу	C_#	1
+r	г	V_C	1
+i	и	C_V	1
+o	о	V_#	1
+t͡ʃ	ч	C_C	1
+v s	вс	V_#	1
+e	ээ	C_#	1
+o	ё	#_#	1
+y s	с	C_C	1
+i	и	V_C	1
+u	б	V_V	1
+ɑ	а	V_#	1
+ʃ t͡ʃ	хч	V_V	1
+ɑ	аа	C_#	1
+d͡ʒ	ж	#_#	1
+e	ээ	C_C	1
+ɯ k	ых	C_V	1
+s	сс	V_V	1
+f	ф	C_#	1
+ɯ ʃ	ых	C_#	1
+e s	с	C_C	1
+o f	ов	C_C	1
+s t͡ʃ	зч	V_V	1
+t	туу	V_#	1
+j u	юу	V_#	1
+p	п	V_V	1
+f	ф	V_V	1
+b	б	#_C	1
+t ʃ	ч	V_V	1
+i s	из	C_#	1
+t ʃ	ч	V_C	1
+ʃ e	хе	C_C	1
+b	б	#_#	1
+t͡s u	цу	C_C	1
+b	б	C_C	1
+ɑ	а	#_#	1
+u	у	#_V	1
+u	у	V_C	1
+t ʃ	оч	V_#	1
+j o	ёо	V_#	1
+j e	е	V_#	1
+s	с	C_#	1
+v	в	#_#	1
+u	уу	#_#	1
+p u	ф	#_C	1
+y	ү	#_#	1
+ɡ e	ке	#_C	1

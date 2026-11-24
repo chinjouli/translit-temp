@@ -1,0 +1,1595 @@
+gram	context	phones
+i	between_consonants	i
+i	alone	i
+a	between_vowels	a
+a	between_consonants	a
+a	alone	a
+u	between_vowels	u
+u	between_consonants	u
+u	alone	u
+n	between_vowels	n
+n	between_consonants	n
+n	alone	n
+o	between_vowels	ɔ
+o	between_consonants	ɔ
+o	alone	ɔ
+l	between_vowels	l
+l	alone	l
+h	between_vowels	h
+h	alone	h
+e	between_vowels	ɛ
+e	between_consonants	ɛ
+e	alone	ɛ
+m	between_vowels	m
+m	between_consonants	m
+m	alone	m
+s	between_vowels	s
+s	between_consonants	s
+s	alone	s
+k	between_vowels	k
+k	between_consonants	k
+k	alone	k
+b	between_vowels	ɓ
+b	between_consonants	ɓ
+b	alone	ɓ
+t	between_vowels	t
+t	between_consonants	t
+t	alone	t
+in	between_consonants	i n
+in	alone	i n
+um	between_vowels	u m
+um	between_consonants	u m
+um	alone	u m
+g	between_vowels	ɡ̤
+g	between_consonants	ɡ̤
+g	alone	ɡ̤
+w	between_vowels	w
+w	between_consonants	w
+w	alone	w
+is	between_consonants	i s
+is	alone	i s
+si	between_consonants	s i
+si	alone	s i
+q	between_vowels	k ǃ
+q	between_consonants	k ǃ
+q	alone	k ǃ
+ng	between_vowels	n ɡ̤
+ng	between_consonants	n ɡ̤
+ng	alone	n ɡ̤
+la	between_vowels	l a
+la	alone	l a
+z	between_vowels	z̤
+z	between_consonants	z̤
+z	alone	z̤
+p	between_vowels	p
+p	between_consonants	p
+p	alone	p
+d	between_vowels	d̤
+d	alone	d̤
+y	between_vowels	j
+y	between_consonants	j
+y	alone	j
+ha	between_vowels	h a
+ha	alone	h a
+an	between_vowels	a n
+an	between_consonants	a n
+an	alone	a n
+isi	between_consonants	i s i
+isi	alone	i s i
+lo	between_vowels	l ɔ
+lo	alone	l ɔ
+th	between_vowels	tʰ
+th	between_consonants	tʰ
+th	alone	tʰ
+c	between_vowels	k ǀ
+c	between_consonants	k ǀ
+c	alone	k ǀ
+ho	between_vowels	h ɔ
+ho	alone	h ɔ
+im	between_consonants	i m
+im	alone	i m
+nt	between_vowels	n t
+nt	between_consonants	n t
+nt	alone	n t
+wa	between_vowels	w a
+wa	between_consonants	w a
+wa	alone	w a
+al	between_vowels	a l
+al	alone	a l
+le	between_vowels	l ɛ
+le	alone	l ɛ
+ul	between_vowels	u l
+ul	alone	u l
+x	between_vowels	k ǁ
+x	between_consonants	k ǁ
+x	alone	k ǁ
+nd	between_vowels	n d̤
+nd	alone	n d̤
+el	between_vowels	ɛ l
+el	alone	ɛ l
+mb	between_vowels	m ɓ
+mb	between_consonants	m ɓ
+mb	alone	m ɓ
+ph	between_vowels	pʰ
+ph	between_consonants	pʰ
+ph	alone	pʰ
+ub	between_vowels	u ɓ
+ub	between_consonants	u ɓ
+ub	alone	u ɓ
+ba	between_vowels	ɓ a
+ba	between_consonants	ɓ a
+ba	alone	ɓ a
+we	between_vowels	w ɛ
+we	between_consonants	w ɛ
+we	alone	w ɛ
+un	between_vowels	u n
+un	between_consonants	u n
+un	alone	u n
+sh	between_vowels	ʃ
+sh	between_consonants	ʃ
+sh	alone	ʃ
+am	between_vowels	a m
+am	between_consonants	a m
+am	alone	a m
+ing	between_consonants	i n ɡ̤
+ing	alone	i n ɡ̤
+hu	between_vowels	h u
+hu	alone	h u
+li	alone	l i
+zi	between_consonants	z̤ i
+zi	alone	z̤ i
+ka	between_vowels	k a
+ka	between_consonants	k a
+ka	alone	k a
+he	between_vowels	h ɛ
+he	alone	h ɛ
+uk	between_vowels	u k
+uk	between_consonants	u k
+uk	alone	u k
+ku	between_vowels	k u
+ku	between_consonants	k u
+ku	alone	k u
+it	between_consonants	i t
+it	alone	i t
+il	alone	i l
+ya	between_vowels	j a
+ya	between_consonants	j a
+ya	alone	j a
+nk	between_vowels	n k
+nk	between_consonants	n k
+nk	alone	n k
+int	between_consonants	i n t
+int	alone	i n t
+bu	between_vowels	ɓ u
+bu	between_consonants	ɓ u
+bu	alone	ɓ u
+f	between_vowels	f
+f	between_consonants	f
+f	alone	f
+r	between_vowels	r
+r	between_consonants	r
+r	alone	r
+on	between_vowels	ɔ n
+on	between_consonants	ɔ n
+on	alone	ɔ n
+bo	between_vowels	ɓ ɔ
+bo	between_consonants	ɓ ɔ
+bo	alone	ɓ ɔ
+ma	between_vowels	m a
+ma	between_consonants	m a
+ma	alone	m a
+ol	between_vowels	ɔ l
+ol	alone	ɔ l
+ik	between_consonants	i k
+ik	alone	i k
+gq	between_vowels	ɡ̤ ǃ̤
+gq	between_consonants	ɡ̤ ǃ̤
+gq	alone	ɡ̤ ǃ̤
+ala	between_vowels	a l a
+ala	between_consonants	a l a
+ala	alone	a l a
+hi	alone	h i
+lu	between_vowels	l u
+lu	alone	l u
+kh	between_vowels	kʰ
+kh	between_consonants	kʰ
+kh	alone	kʰ
+ib	between_consonants	i ɓ
+ib	alone	i ɓ
+ts	between_vowels	t͡s
+ts	between_consonants	t͡s
+ts	alone	t͡s
+hl	between_vowels	ɬ
+hl	alone	ɬ
+mp	between_vowels	m p
+mp	between_consonants	m p
+mp	alone	m p
+ink	between_consonants	i n k
+ink	alone	i n k
+ga	between_vowels	ɡ̤ a
+ga	between_consonants	ɡ̤ a
+ga	alone	ɡ̤ a
+na	between_vowels	n a
+na	between_consonants	n a
+na	alone	n a
+ny	between_vowels	ɲ
+ny	between_consonants	ɲ
+ny	alone	ɲ
+ko	between_vowels	k ɔ
+ko	between_consonants	k ɔ
+ko	alone	k ɔ
+go	between_vowels	ɡ̤ ɔ
+go	between_consonants	ɡ̤ ɔ
+go	alone	ɡ̤ ɔ
+ig	between_consonants	i ɡ̤
+ig	alone	i ɡ̤
+ubu	between_vowels	u ɓ u
+ubu	between_consonants	u ɓ u
+ubu	alone	u ɓ u
+az	between_vowels	a z̤
+az	between_consonants	a z̤
+az	alone	a z̤
+uku	between_vowels	u k u
+uku	between_consonants	u k u
+uku	alone	u k u
+en	between_vowels	ɛ n
+en	between_consonants	ɛ n
+en	alone	ɛ n
+bh	between_vowels	b̤
+bh	between_consonants	b̤
+bh	alone	b̤
+ab	between_vowels	a ɓ
+ab	between_consonants	a ɓ
+ab	alone	a ɓ
+so	between_vowels	s ɔ
+so	between_consonants	s ɔ
+so	alone	s ɔ
+qa	between_vowels	k ǃ a
+qa	between_consonants	k ǃ a
+qa	alone	k ǃ a
+ip	between_consonants	i p
+ip	alone	i p
+ek	between_vowels	ɛ k
+ek	between_consonants	ɛ k
+ek	alone	ɛ k
+us	between_vowels	u s
+us	between_consonants	u s
+us	alone	u s
+rh	between_vowels	x
+rh	between_consonants	x
+rh	alone	x
+mn	between_vowels	m n
+mn	between_consonants	m n
+mn	alone	m n
+ty	between_vowels	tʲ
+ty	between_consonants	tʲ
+ty	alone	tʲ
+da	between_vowels	d̤ a
+da	between_consonants	d̤ a
+da	alone	d̤ a
+ne	between_vowels	n ɛ
+ne	between_consonants	n ɛ
+ne	alone	n ɛ
+v	between_vowels	v̤
+v	between_consonants	v̤
+v	alone	v̤
+za	between_vowels	z̤ a
+za	between_consonants	z̤ a
+za	alone	z̤ a
+sa	between_vowels	s a
+sa	between_consonants	s a
+sa	alone	s a
+nga	between_vowels	n ɡ̤ a
+nga	between_consonants	n ɡ̤ a
+nga	alone	n ɡ̤ a
+ni	between_consonants	n i
+ni	alone	n i
+umn	between_vowels	u m n
+umn	between_consonants	u m n
+umn	alone	u m n
+tha	between_vowels	tʰ a
+tha	between_consonants	tʰ a
+tha	alone	tʰ a
+bi	between_consonants	ɓ i
+bi	alone	ɓ i
+gc	between_vowels	ɡ̤ ǀ̤
+gc	between_consonants	ɡ̤ ǀ̤
+gc	alone	ɡ̤ ǀ̤
+at	between_vowels	a t
+at	between_consonants	a t
+at	alone	a t
+xa	between_vowels	k ǁ a
+xa	between_consonants	k ǁ a
+xa	alone	k ǁ a
+olo	between_vowels	ɔ l ɔ
+olo	between_consonants	ɔ l ɔ
+olo	alone	ɔ l ɔ
+ak	between_vowels	a k
+ak	between_consonants	a k
+ak	alone	a k
+ut	between_vowels	u t
+ut	between_consonants	u t
+ut	alone	u t
+es	between_vowels	ɛ s
+es	between_consonants	ɛ s
+es	alone	ɛ s
+fu	between_vowels	f u
+fu	between_consonants	f u
+fu	alone	f u
+yi	between_consonants	j i
+yi	alone	j i
+dl	between_vowels	ɮ
+dl	alone	ɮ
+pha	between_vowels	pʰ a
+pha	between_consonants	pʰ a
+pha	alone	pʰ a
+and	between_vowels	a n d̤
+and	alone	a n d̤
+ngo	between_vowels	n ɡ̤ ɔ
+ngo	between_consonants	n ɡ̤ ɔ
+ngo	alone	n ɡ̤ ɔ
+ok	between_vowels	ɔ k
+ok	between_consonants	ɔ k
+ok	alone	ɔ k
+umb	between_vowels	u m ɓ
+umb	between_consonants	u m ɓ
+umb	alone	u m ɓ
+hw	between_vowels	h w
+hw	alone	h w
+ulu	between_vowels	u l u
+ulu	between_consonants	u l u
+ulu	alone	u l u
+gx	between_vowels	ɡ̤ ǁ̤
+gx	between_consonants	ɡ̤ ǁ̤
+gx	alone	ɡ̤ ǁ̤
+imp	between_consonants	i m p
+imp	alone	i m p
+lw	between_vowels	l w
+lw	alone	l w
+tsh	between_vowels	t͡ʃ
+tsh	between_consonants	t͡ʃ
+tsh	alone	t͡ʃ
+mo	between_vowels	m ɔ
+mo	between_consonants	m ɔ
+mo	alone	m ɔ
+ca	between_vowels	k ǀ a
+ca	between_consonants	k ǀ a
+ca	alone	k ǀ a
+iz	between_consonants	i z̤
+iz	alone	i z̤
+nts	between_vowels	n t͡s
+nts	between_consonants	n t͡s
+nts	alone	n t͡s
+be	between_vowels	ɓ ɛ
+be	between_consonants	ɓ ɛ
+be	alone	ɓ ɛ
+ind	alone	i n d̤
+iny	between_consonants	i ɲ
+iny	alone	i ɲ
+xo	between_vowels	k ǁ ɔ
+xo	between_consonants	k ǁ ɔ
+xo	alone	k ǁ ɔ
+nq	between_vowels	ŋ ǃ
+nq	between_consonants	ŋ ǃ
+nq	alone	ŋ ǃ
+nya	between_vowels	ɲ a
+nya	between_consonants	ɲ a
+nya	alone	ɲ a
+ane	between_vowels	a n ɛ
+ane	between_consonants	a n ɛ
+ane	alone	a n ɛ
+ngq	between_vowels	ŋ̤ ǃ̤
+ngq	between_consonants	ŋ̤ ǃ̤
+ngq	alone	ŋ̤ ǃ̤
+ndl	between_vowels	n ɮ
+ndl	alone	n ɮ
+ela	between_vowels	ɛ l a
+ela	between_consonants	ɛ l a
+ela	alone	ɛ l a
+me	between_vowels	m ɛ
+me	between_consonants	m ɛ
+me	alone	m ɛ
+qo	between_vowels	k ǃ ɔ
+qo	between_consonants	k ǃ ɔ
+qo	alone	k ǃ ɔ
+ith	between_consonants	i tʰ
+ith	alone	i tʰ
+hla	between_vowels	ɬ a
+hla	alone	ɬ a
+ili	between_consonants	i l i
+ili	alone	i l i
+ele	between_vowels	ɛ l ɛ
+ele	between_consonants	ɛ l ɛ
+ele	alone	ɛ l ɛ
+phe	between_vowels	pʰ ɛ
+phe	between_consonants	pʰ ɛ
+phe	alone	pʰ ɛ
+rha	between_vowels	x a
+rha	between_consonants	x a
+rha	alone	x a
+aw	between_vowels	a w
+aw	between_consonants	a w
+aw	alone	a w
+om	between_vowels	ɔ m
+om	between_consonants	ɔ m
+om	alone	ɔ m
+azi	between_consonants	a z̤ i
+azi	alone	a z̤ i
+ob	between_vowels	ɔ ɓ
+ob	between_consonants	ɔ ɓ
+ob	alone	ɔ ɓ
+iso	between_consonants	i s ɔ
+iso	alone	i s ɔ
+ngc	between_vowels	ŋ̤ ǀ̤
+ngc	between_consonants	ŋ̤ ǀ̤
+ngc	alone	ŋ̤ ǀ̤
+ath	between_vowels	a tʰ
+ath	between_consonants	a tʰ
+ath	alone	a tʰ
+mbo	between_vowels	m ɓ ɔ
+mbo	between_consonants	m ɓ ɔ
+mbo	alone	m ɓ ɔ
+mh	between_vowels	m̤
+mh	between_consonants	m̤
+mh	alone	m̤
+mf	between_vowels	m f
+mf	between_consonants	m f
+mf	alone	m f
+ibh	between_consonants	i b̤
+ibh	alone	i b̤
+han	between_vowels	h a n
+han	alone	h a n
+ama	between_vowels	a m a
+ama	between_consonants	a m a
+ama	alone	a m a
+wan	between_vowels	w a n
+wan	between_consonants	w a n
+wan	alone	w a n
+ana	between_vowels	a n a
+ana	between_consonants	a n a
+ana	alone	a n a
+j	between_vowels	d͡ʒ̤
+j	between_consonants	d͡ʒ̤
+j	alone	d͡ʒ̤
+aba	between_vowels	a ɓ a
+aba	between_consonants	a ɓ a
+aba	alone	a ɓ a
+mba	between_vowels	m ɓ a
+mba	between_consonants	m ɓ a
+mba	alone	m ɓ a
+imb	between_consonants	i m ɓ
+imb	alone	i m ɓ
+qe	between_vowels	k ǃ ɛ
+qe	between_consonants	k ǃ ɛ
+qe	alone	k ǃ ɛ
+vu	between_vowels	v̤ u
+vu	between_consonants	v̤ u
+vu	alone	v̤ u
+thi	between_consonants	tʰ i
+thi	alone	tʰ i
+thu	between_vowels	tʰ u
+thu	between_consonants	tʰ u
+thu	alone	tʰ u
+qh	between_vowels	k ǃʰ
+qh	between_consonants	k ǃʰ
+qh	alone	k ǃʰ
+ay	between_vowels	a j
+ay	between_consonants	a j
+ay	alone	a j
+iph	between_consonants	i pʰ
+iph	alone	i pʰ
+ez	between_vowels	ɛ z̤
+ez	between_consonants	ɛ z̤
+ez	alone	ɛ z̤
+uth	between_vowels	u tʰ
+uth	between_consonants	u tʰ
+uth	alone	u tʰ
+ang	between_vowels	a n ɡ̤
+ang	between_consonants	a n ɡ̤
+ang	alone	a n ɡ̤
+gu	between_vowels	ɡ̤ u
+gu	between_consonants	ɡ̤ u
+gu	alone	ɡ̤ u
+eb	between_vowels	ɛ ɓ
+eb	between_consonants	ɛ ɓ
+eb	alone	ɛ ɓ
+ti	between_consonants	t i
+ti	alone	t i
+iq	between_consonants	i k ǃ
+iq	alone	i k ǃ
+os	between_vowels	ɔ s
+os	between_consonants	ɔ s
+os	alone	ɔ s
+mt	between_vowels	m t
+mt	between_consonants	m t
+mt	alone	m t
+do	between_vowels	d̤ ɔ
+do	between_consonants	d̤ ɔ
+do	alone	d̤ ɔ
+to	between_vowels	t ɔ
+to	between_consonants	t ɔ
+to	alone	t ɔ
+elo	between_vowels	ɛ l ɔ
+elo	between_consonants	ɛ l ɔ
+elo	alone	ɛ l ɔ
+qu	between_vowels	k ǃ u
+qu	between_consonants	k ǃ u
+qu	alone	k ǃ u
+ong	between_vowels	ɔ n ɡ̤
+ong	between_consonants	ɔ n ɡ̤
+ong	alone	ɔ n ɡ̤
+ir	between_consonants	i r
+ir	alone	i r
+qw	between_vowels	k ǃ w
+qw	between_consonants	k ǃ w
+qw	alone	k ǃ w
+ki	between_consonants	k i
+ki	alone	k i
+sik	between_vowels	s i k
+sik	between_consonants	s i k
+sik	alone	s i k
+ic	between_consonants	i k ǀ
+ic	alone	i k ǀ
+khu	between_vowels	kʰ u
+khu	between_consonants	kʰ u
+khu	alone	kʰ u
+yo	between_vowels	j ɔ
+yo	between_consonants	j ɔ
+yo	alone	j ɔ
+ot	between_vowels	ɔ t
+ot	between_consonants	ɔ t
+ot	alone	ɔ t
+pu	between_vowels	p u
+pu	between_consonants	p u
+pu	alone	p u
+mpu	between_vowels	m p u
+mpu	between_consonants	m p u
+mpu	alone	m p u
+aka	between_vowels	a k a
+aka	between_consonants	a k a
+aka	alone	a k a
+nda	between_vowels	n d̤ a
+nda	between_consonants	n d̤ a
+nda	alone	n d̤ a
+zo	between_vowels	z̤ ɔ
+zo	between_consonants	z̤ ɔ
+zo	alone	z̤ ɔ
+sit	between_vowels	s i t
+sit	between_consonants	s i t
+sit	alone	s i t
+umt	between_vowels	u m t
+umt	between_consonants	u m t
+umt	alone	u m t
+ih	alone	i h
+ikh	between_consonants	i kʰ
+ikh	alone	i kʰ
+em	between_vowels	ɛ m
+em	between_consonants	ɛ m
+em	alone	ɛ m
+ngx	between_vowels	ŋ̤ ǁ̤
+ngx	between_consonants	ŋ̤ ǁ̤
+ngx	alone	ŋ̤ ǁ̤
+lan	between_vowels	l a n
+lan	alone	l a n
+irh	between_consonants	i x
+irh	alone	i x
+amb	between_vowels	a m ɓ
+amb	between_consonants	a m ɓ
+amb	alone	a m ɓ
+ml	between_vowels	m l
+ml	alone	m l
+di	between_consonants	d̤ i
+di	alone	d̤ i
+id	alone	i d̤
+ile	between_consonants	i l ɛ
+ile	alone	i l ɛ
+ap	between_vowels	a p
+ap	between_consonants	a p
+ap	alone	a p
+ulw	between_vowels	u l w
+ulw	between_consonants	u l w
+ulw	alone	u l w
+sha	between_vowels	ʃ a
+sha	between_consonants	ʃ a
+sha	alone	ʃ a
+pho	between_vowels	pʰ ɔ
+pho	between_consonants	pʰ ɔ
+pho	alone	pʰ ɔ
+mth	between_vowels	m tʰ
+mth	between_consonants	m tʰ
+mth	alone	m tʰ
+nz	between_vowels	n z̤
+nz	between_consonants	n z̤
+nz	alone	n z̤
+mhl	between_vowels	m̤ l
+mhl	alone	m̤ l
+uml	between_vowels	u m l
+uml	alone	u m l
+mq	between_vowels	m k ǃ
+mq	between_consonants	m k ǃ
+mq	alone	m k ǃ
+umq	between_vowels	u m k ǃ
+umq	between_consonants	u m k ǃ
+umq	alone	u m k ǃ
+shi	between_consonants	ʃ i
+shi	alone	ʃ i
+tho	between_vowels	tʰ ɔ
+tho	between_consonants	tʰ ɔ
+tho	alone	tʰ ɔ
+et	between_vowels	ɛ t
+et	between_consonants	ɛ t
+et	alone	ɛ t
+ix	between_consonants	i k ǁ
+ix	alone	i k ǁ
+isa	between_consonants	i s a
+isa	alone	i s a
+hul	between_vowels	h u l
+hul	alone	h u l
+du	between_vowels	d̤ u
+du	between_consonants	d̤ u
+du	alone	d̤ u
+ung	between_vowels	u n ɡ̤
+ung	between_consonants	u n ɡ̤
+ung	alone	u n ɡ̤
+sib	between_vowels	s i ɓ
+sib	between_consonants	s i ɓ
+sib	alone	s i ɓ
+tl	between_vowels	t l
+tl	alone	t l
+ntl	between_vowels	n t l
+ntl	alone	n t l
+alo	between_vowels	a l ɔ
+alo	between_consonants	a l ɔ
+alo	alone	a l ɔ
+tya	between_vowels	tʲ a
+tya	between_consonants	tʲ a
+tya	alone	tʲ a
+mbi	between_consonants	m ɓ i
+mbi	alone	m ɓ i
+ula	between_vowels	u l a
+ula	between_consonants	u l a
+ula	alone	u l a
+cw	between_vowels	k ǀ w
+cw	between_consonants	k ǀ w
+cw	alone	k ǀ w
+wal	between_vowels	w a l
+wal	alone	w a l
+no	between_vowels	n ɔ
+no	between_consonants	n ɔ
+no	alone	n ɔ
+lwa	between_vowels	l w a
+lwa	alone	l w a
+umh	between_vowels	u m̤
+umh	between_consonants	u m̤
+umh	alone	u m̤
+hwa	between_vowels	h w a
+hwa	alone	h w a
+umf	between_vowels	u m f
+umf	between_consonants	u m f
+umf	alone	u m f
+se	between_vowels	s ɛ
+se	between_consonants	s ɛ
+se	alone	s ɛ
+lek	between_vowels	l ɛ k
+lek	alone	l ɛ k
+wu	between_vowels	w u
+wu	between_consonants	w u
+wu	alone	w u
+ms	between_vowels	m s
+ms	between_consonants	m s
+ms	alone	m s
+ta	between_vowels	t a
+ta	between_consonants	t a
+ta	alone	t a
+ci	between_consonants	k ǀ i
+ci	alone	k ǀ i
+mi	between_consonants	m i
+mi	alone	m i
+shu	between_vowels	ʃ u
+shu	between_consonants	ʃ u
+shu	alone	ʃ u
+mk	between_vowels	m k
+mk	between_consonants	m k
+mk	alone	m k
+uba	between_vowels	u ɓ a
+uba	between_consonants	u ɓ a
+uba	alone	u ɓ a
+ye	between_vowels	j ɛ
+ye	between_consonants	j ɛ
+ye	alone	j ɛ
+bho	between_vowels	b̤ ɔ
+bho	between_consonants	b̤ ɔ
+bho	alone	b̤ ɔ
+ika	between_consonants	i k a
+ika	alone	i k a
+qi	between_consonants	k ǃ i
+qi	alone	k ǃ i
+mg	between_vowels	m ɡ̤
+mg	between_consonants	m ɡ̤
+mg	alone	m ɡ̤
+umg	between_vowels	u m ɡ̤
+umg	between_consonants	u m ɡ̤
+umg	alone	u m ɡ̤
+mv	between_vowels	m v̤
+mv	between_consonants	m v̤
+mv	alone	m v̤
+mvu	between_vowels	m v̤ u
+mvu	between_consonants	m v̤ u
+mvu	alone	m v̤ u
+pe	between_vowels	p ɛ
+pe	between_consonants	p ɛ
+pe	alone	p ɛ
+co	between_vowels	k ǀ ɔ
+co	between_consonants	k ǀ ɔ
+co	alone	k ǀ ɔ
+as	between_vowels	a s
+as	between_consonants	a s
+as	alone	a s
+sil	between_vowels	s i l
+sil	alone	s i l
+uma	between_vowels	u m a
+uma	between_consonants	u m a
+uma	alone	u m a
+mz	between_vowels	m z̤
+mz	between_consonants	m z̤
+mz	alone	m z̤
+umz	between_vowels	u m z̤
+umz	between_consonants	u m z̤
+umz	alone	u m z̤
+uq	between_vowels	u k ǃ
+uq	between_consonants	u k ǃ
+uq	alone	u k ǃ
+pa	between_vowels	p a
+pa	between_consonants	p a
+pa	alone	p a
+esh	between_vowels	ɛ ʃ
+esh	between_consonants	ɛ ʃ
+esh	alone	ɛ ʃ
+ke	between_vowels	k ɛ
+ke	between_consonants	k ɛ
+ke	alone	k ɛ
+bha	between_vowels	b̤ a
+bha	between_consonants	b̤ a
+bha	alone	b̤ a
+aph	between_vowels	a pʰ
+aph	between_consonants	a pʰ
+aph	alone	a pʰ
+dle	between_vowels	ɮ ɛ
+dle	between_consonants	ɮ ɛ
+dle	alone	ɮ ɛ
+dla	between_vowels	ɮ a
+dla	between_consonants	ɮ a
+dla	alone	ɮ a
+hwe	between_vowels	h w ɛ
+hwe	alone	h w ɛ
+eki	between_consonants	ɛ k i
+eki	alone	ɛ k i
+esi	between_consonants	ɛ s i
+esi	alone	ɛ s i
+lal	between_vowels	l a l
+lal	alone	l a l
+nc	between_vowels	ŋ ǀ
+nc	between_consonants	ŋ ǀ
+nc	alone	ŋ ǀ
+gqi	between_consonants	ɡ̤ ǃ̤ i
+gqi	alone	ɡ̤ ǃ̤ i
+uh	between_vowels	u h
+uh	alone	u h
+oz	between_vowels	ɔ z̤
+oz	between_consonants	ɔ z̤
+oz	alone	ɔ z̤
+gw	between_vowels	ɡ̤ w
+gw	between_consonants	ɡ̤ w
+gw	alone	ɡ̤ w
+usi	between_consonants	u s i
+usi	alone	u s i
+iba	between_consonants	i ɓ a
+iba	alone	i ɓ a
+ham	between_vowels	h a m
+ham	alone	h a m
+und	between_vowels	u n d̤
+und	alone	u n d̤
+su	between_vowels	s u
+su	between_consonants	s u
+su	alone	s u
+xe	between_vowels	k ǁ ɛ
+xe	between_consonants	k ǁ ɛ
+xe	alone	k ǁ ɛ
+ulo	between_vowels	u l ɔ
+ulo	between_consonants	u l ɔ
+ulo	alone	u l ɔ
+ndo	between_vowels	n d̤ ɔ
+ndo	between_consonants	n d̤ ɔ
+ndo	alone	n d̤ ɔ
+ihl	alone	i ɬ
+nku	between_vowels	n k u
+nku	between_consonants	n k u
+nku	alone	n k u
+ina	between_consonants	i n a
+ina	alone	i n a
+gxa	between_vowels	ɡ̤ ǁ̤ a
+gxa	between_consonants	ɡ̤ ǁ̤ a
+gxa	alone	ɡ̤ ǁ̤ a
+ud	between_vowels	u d̤
+ud	alone	u d̤
+ad	between_vowels	a d̤
+ad	alone	a d̤
+kc	between_vowels	k k ǀ
+kc	between_consonants	k k ǀ
+kc	alone	k k ǀ
+nkc	between_vowels	ŋ̰ ǀ̰
+nkc	between_consonants	ŋ̰ ǀ̰
+nkc	alone	ŋ̰ ǀ̰
+nto	between_vowels	n t ɔ
+nto	between_consonants	n t ɔ
+nto	alone	n t ɔ
+inq	between_consonants	i ŋ ǃ
+inq	alone	i ŋ ǃ
+wi	between_consonants	w i
+wi	alone	w i
+nj	between_vowels	n d͡ʒ̤
+nj	between_consonants	n d͡ʒ̤
+nj	alone	n d͡ʒ̤
+sho	between_vowels	ʃ ɔ
+sho	between_consonants	ʃ ɔ
+sho	alone	ʃ ɔ
+eth	between_vowels	ɛ tʰ
+eth	between_consonants	ɛ tʰ
+eth	alone	ɛ tʰ
+sin	between_vowels	s i n
+sin	between_consonants	s i n
+sin	alone	s i n
+ums	between_vowels	u m s
+ums	between_consonants	u m s
+ums	alone	u m s
+fa	between_vowels	f a
+fa	between_consonants	f a
+fa	alone	f a
+ze	between_vowels	z̤ ɛ
+ze	between_consonants	z̤ ɛ
+ze	alone	z̤ ɛ
+hay	between_vowels	h a j
+hay	alone	h a j
+ayi	between_consonants	a j i
+ayi	alone	a j i
+ce	between_vowels	k ǀ ɛ
+ce	between_consonants	k ǀ ɛ
+ce	alone	k ǀ ɛ
+ep	between_vowels	ɛ p
+ep	between_consonants	ɛ p
+ep	alone	ɛ p
+eph	between_vowels	ɛ pʰ
+eph	between_consonants	ɛ pʰ
+eph	alone	ɛ pʰ
+khw	between_vowels	kʰ w
+khw	between_consonants	kʰ w
+khw	alone	kʰ w
+nyo	between_vowels	ɲ ɔ
+nyo	between_consonants	ɲ ɔ
+nyo	alone	ɲ ɔ
+gxo	between_vowels	ɡ̤ ǁ̤ ɔ
+gxo	between_consonants	ɡ̤ ǁ̤ ɔ
+gxo	alone	ɡ̤ ǁ̤ ɔ
+mkh	between_vowels	m kʰ
+mkh	between_consonants	m kʰ
+mkh	alone	m kʰ
+ngu	between_vowels	n ɡ̤ u
+ngu	between_consonants	n ɡ̤ u
+ngu	alone	n ɡ̤ u
+ump	between_vowels	u m p
+ump	between_consonants	u m p
+ump	alone	u m p
+lwe	between_vowels	l w ɛ
+lwe	alone	l w ɛ
+hol	between_vowels	h ɔ l
+hol	alone	h ɔ l
+uhl	between_vowels	u ɬ
+uhl	alone	u ɬ
+ug	between_vowels	u ɡ̤
+ug	between_consonants	u ɡ̤
+ug	alone	u ɡ̤
+osi	between_consonants	ɔ s i
+osi	alone	ɔ s i
+tsi	between_consonants	t͡s i
+tsi	alone	t͡s i
+ity	between_consonants	i tʲ
+ity	alone	i tʲ
+wen	between_vowels	w ɛ n
+wen	between_consonants	w ɛ n
+wen	alone	w ɛ n
+aza	between_vowels	a z̤ a
+aza	between_consonants	a z̤ a
+aza	alone	a z̤ a
+hat	between_vowels	h a t
+hat	alone	h a t
+kun	between_vowels	k u n
+kun	between_consonants	k u n
+kun	alone	k u n
+ge	between_vowels	ɡ̤ ɛ
+ge	between_consonants	ɡ̤ ɛ
+ge	alone	ɡ̤ ɛ
+nx	between_vowels	ŋ ǁ
+nx	between_consonants	ŋ ǁ
+nx	alone	ŋ ǁ
+uz	between_vowels	u z̤
+uz	between_consonants	u z̤
+uz	alone	u z̤
+zw	between_vowels	z̤ w
+zw	between_consonants	z̤ w
+zw	alone	z̤ w
+iko	between_consonants	i k ɔ
+iko	alone	i k ɔ
+gqu	between_vowels	ɡ̤ ǃ̤ u
+gqu	between_consonants	ɡ̤ ǃ̤ u
+gqu	alone	ɡ̤ ǃ̤ u
+mfu	between_vowels	m f u
+mfu	between_consonants	m f u
+mfu	alone	m f u
+if	between_consonants	i f
+if	alone	i f
+umk	between_vowels	u m k
+umk	between_consonants	u m k
+umk	alone	u m k
+gco	between_vowels	ɡ̤ ǀ̤ ɔ
+gco	between_consonants	ɡ̤ ǀ̤ ɔ
+gco	alone	ɡ̤ ǀ̤ ɔ
+lel	between_vowels	l ɛ l
+lel	alone	l ɛ l
+uc	between_vowels	u k ǀ
+uc	between_consonants	u k ǀ
+uc	alone	u k ǀ
+izi	between_consonants	i z̤ i
+izi	alone	i z̤ i
+oko	between_vowels	ɔ k ɔ
+oko	between_consonants	ɔ k ɔ
+oko	alone	ɔ k ɔ
+awu	between_vowels	a w u
+awu	between_consonants	a w u
+awu	alone	a w u
+bon	between_vowels	ɓ ɔ n
+bon	between_consonants	ɓ ɔ n
+bon	alone	ɓ ɔ n
+ush	between_vowels	u ʃ
+ush	between_consonants	u ʃ
+ush	alone	u ʃ
+ish	between_consonants	i ʃ
+ish	alone	i ʃ
+oli	between_consonants	ɔ l i
+oli	alone	ɔ l i
+sip	between_vowels	s i p
+sip	between_consonants	s i p
+sip	alone	s i p
+hin	between_vowels	h i n
+hin	alone	h i n
+ukh	between_vowels	u kʰ
+ukh	between_consonants	u kʰ
+ukh	alone	u kʰ
+ndu	between_vowels	n d̤ u
+ndu	between_consonants	n d̤ u
+ndu	alone	n d̤ u
+tla	between_vowels	t l a
+tla	between_consonants	t l a
+tla	alone	t l a
+cu	between_vowels	k ǀ u
+cu	between_consonants	k ǀ u
+cu	alone	k ǀ u
+umo	between_vowels	u m ɔ
+umo	between_consonants	u m ɔ
+umo	alone	u m ɔ
+eli	between_consonants	ɛ l i
+eli	alone	ɛ l i
+kaz	between_vowels	k a z̤
+kaz	between_consonants	k a z̤
+kaz	alone	k a z̤
+ban	between_vowels	ɓ a n
+ban	between_consonants	ɓ a n
+ban	alone	ɓ a n
+ey	between_vowels	ɛ j
+ey	between_consonants	ɛ j
+ey	alone	ɛ j
+iti	between_consonants	i t i
+iti	alone	i t i
+cwa	between_vowels	k ǀ w a
+cwa	between_consonants	k ǀ w a
+cwa	alone	k ǀ w a
+mpe	between_vowels	m p ɛ
+mpe	between_consonants	m p ɛ
+mpe	alone	m p ɛ
+nzi	between_consonants	n z̤ i
+nzi	alone	n z̤ i
+nko	between_vowels	n k ɔ
+nko	between_consonants	n k ɔ
+nko	alone	n k ɔ
+op	between_vowels	ɔ p
+op	between_consonants	ɔ p
+op	alone	ɔ p
+nu	between_vowels	n u
+nu	between_consonants	n u
+nu	alone	n u
+yan	between_vowels	j a n
+yan	between_consonants	j a n
+yan	alone	j a n
+the	between_vowels	tʰ ɛ
+the	between_consonants	tʰ ɛ
+the	alone	tʰ ɛ
+bel	between_vowels	ɓ ɛ l
+bel	alone	ɓ ɛ l
+ali	between_consonants	a l i
+ali	alone	a l i
+mlo	between_vowels	m l ɔ
+mlo	between_consonants	m l ɔ
+mlo	alone	m l ɔ
+zu	between_vowels	z̤ u
+zu	between_consonants	z̤ u
+zu	alone	z̤ u
+uli	between_consonants	u l i
+uli	alone	u l i
+fun	between_vowels	f u n
+fun	between_consonants	f u n
+fun	alone	f u n
+ise	between_consonants	i s ɛ
+ise	alone	i s ɛ
+eka	between_vowels	ɛ k a
+eka	between_consonants	ɛ k a
+eka	alone	ɛ k a
+obo	between_vowels	ɔ ɓ ɔ
+obo	between_consonants	ɔ ɓ ɔ
+obo	alone	ɔ ɓ ɔ
+hlo	between_vowels	ɬ ɔ
+hlo	alone	ɬ ɔ
+ilo	between_consonants	i l ɔ
+ilo	alone	i l ɔ
+kq	between_vowels	k k ǃ
+kq	between_consonants	k k ǃ
+kq	alone	k k ǃ
+nkq	between_vowels	ŋ̰ ǃ̰
+nkq	between_consonants	ŋ̰ ǃ̰
+nkq	alone	ŋ̰ ǃ̰
+uy	between_vowels	u j
+uy	between_consonants	u j
+uy	alone	u j
+te	between_vowels	t ɛ
+te	between_consonants	t ɛ
+te	alone	t ɛ
+qes	between_vowels	k ǃ ɛ s
+qes	between_consonants	k ǃ ɛ s
+qes	alone	k ǃ ɛ s
+siq	between_vowels	s i k ǃ
+siq	between_consonants	s i k ǃ
+siq	alone	s i k ǃ
+ita	between_consonants	i t a
+ita	alone	i t a
+qal	between_vowels	k ǃ a l
+qal	alone	k ǃ a l
+ch	between_vowels	k ǀʰ
+ch	between_consonants	k ǀʰ
+ch	alone	k ǀʰ
+kr	between_vowels	k͡x
+kr	between_consonants	k͡x
+kr	alone	k͡x
+ani	between_consonants	a n i
+ani	alone	a n i
+po	between_vowels	p ɔ
+po	between_consonants	p ɔ
+po	alone	p ɔ
+lis	between_vowels	l i s
+lis	alone	l i s
+ini	between_consonants	i n i
+ini	alone	i n i
+bun	between_vowels	ɓ u n
+bun	between_consonants	ɓ u n
+bun	alone	ɓ u n
+mph	between_vowels	m pʰ
+mph	between_consonants	m pʰ
+mph	alone	m pʰ
+mel	between_vowels	m ɛ l
+mel	alone	m ɛ l
+mnq	between_vowels	m ŋ ǃ
+mnq	between_consonants	m ŋ ǃ
+mnq	alone	m ŋ ǃ
+uny	between_vowels	u ɲ
+uny	between_consonants	u ɲ
+uny	alone	u ɲ
+yam	between_vowels	j a m
+yam	between_consonants	j a m
+yam	alone	j a m
+ley	between_vowels	l ɛ j
+ley	alone	l ɛ j
+sis	between_vowels	s i s
+sis	between_consonants	s i s
+sis	alone	s i s
+up	between_vowels	u p
+up	between_consonants	u p
+up	alone	u p
+uph	between_vowels	u pʰ
+uph	between_consonants	u pʰ
+uph	alone	u pʰ
+gcw	between_vowels	ɡ̤ ǀ̤ w
+gcw	between_consonants	ɡ̤ ǀ̤ w
+gcw	alone	ɡ̤ ǀ̤ w
+oph	between_vowels	ɔ pʰ
+oph	between_consonants	ɔ pʰ
+oph	alone	ɔ pʰ
+imi	between_consonants	i m i
+imi	alone	i m i
+nge	between_vowels	n ɡ̤ ɛ
+nge	between_consonants	n ɡ̤ ɛ
+nge	alone	n ɡ̤ ɛ
+pi	between_consonants	p i
+pi	alone	p i
+dy	between_vowels	dʲ
+dy	between_consonants	dʲ
+dy	alone	dʲ
+ima	between_consonants	i m a
+ima	alone	i m a
+yh	between_vowels	j̤
+yh	between_consonants	j̤
+yh	alone	j̤
+rho	between_vowels	x ɔ
+rho	between_consonants	x ɔ
+rho	alone	x ɔ
+tyi	between_consonants	tʲ i
+tyi	alone	tʲ i
+lok	between_vowels	l ɔ k
+lok	alone	l ɔ k
+nka	between_vowels	n k a
+nka	between_consonants	n k a
+nka	alone	n k a
+bul	between_vowels	ɓ u l
+bul	alone	ɓ u l
+kca	between_vowels	k k ǀ a
+kca	between_consonants	k k ǀ a
+kca	alone	k k ǀ a
+nqa	between_vowels	ŋ ǃ a
+nqa	between_consonants	ŋ ǃ a
+nqa	alone	ŋ ǃ a
+gca	between_vowels	ɡ̤ ǀ̤ a
+gca	between_consonants	ɡ̤ ǀ̤ a
+gca	alone	ɡ̤ ǀ̤ a
+mbu	between_vowels	m ɓ u
+mbu	between_consonants	m ɓ u
+mbu	alone	m ɓ u
+gqw	between_vowels	ɡ̤ ǃ̤ w
+gqw	between_consonants	ɡ̤ ǃ̤ w
+gqw	alone	ɡ̤ ǃ̤ w
+sig	between_vowels	s i ɡ̤
+sig	between_consonants	s i ɡ̤
+sig	alone	s i ɡ̤
+igu	between_consonants	i ɡ̤ u
+igu	alone	i ɡ̤ u
+qha	between_vowels	k ǃʰ a
+qha	between_consonants	k ǃʰ a
+qha	alone	k ǃʰ a
+ndi	between_consonants	n d̤ i
+ndi	alone	n d̤ i
+iqh	between_consonants	i k ǃʰ
+iqh	alone	i k ǃʰ
+gqo	between_vowels	ɡ̤ ǃ̤ ɔ
+gqo	between_consonants	ɡ̤ ǃ̤ ɔ
+gqo	alone	ɡ̤ ǃ̤ ɔ
+ame	between_vowels	a m ɛ
+ame	between_consonants	a m ɛ
+ame	alone	a m ɛ
+eko	between_vowels	ɛ k ɔ
+eko	between_consonants	ɛ k ɔ
+eko	alone	ɛ k ɔ
+kul	between_vowels	k u l
+kul	alone	k u l
+ngw	between_vowels	n ɡ̤ w
+ngw	between_consonants	n ɡ̤ w
+ngw	alone	n ɡ̤ w
+iga	between_consonants	i ɡ̤ a
+iga	alone	i ɡ̤ a
+bus	between_vowels	ɓ u s
+bus	between_consonants	ɓ u s
+bus	alone	ɓ u s
+khe	between_vowels	kʰ ɛ
+khe	between_consonants	kʰ ɛ
+khe	alone	kʰ ɛ
+hep	between_vowels	h ɛ p
+hep	alone	h ɛ p
+oni	between_consonants	ɔ n i
+oni	alone	ɔ n i
+ar	between_vowels	a r
+ar	between_consonants	a r
+ar	alone	a r
+ebe	between_vowels	ɛ ɓ ɛ
+ebe	between_consonants	ɛ ɓ ɛ
+ebe	alone	ɛ ɓ ɛ
+hle	between_vowels	ɬ ɛ
+hle	alone	ɬ ɛ
+ume	between_vowels	u m ɛ
+ume	between_consonants	u m ɛ
+ume	alone	u m ɛ
+het	between_vowels	h ɛ t
+het	alone	h ɛ t
+kw	between_vowels	k w
+kw	between_consonants	k w
+kw	alone	k w
+nte	between_vowels	n t ɛ
+nte	between_consonants	n t ɛ
+nte	alone	n t ɛ
+gi	between_consonants	ɡ̤ i
+gi	alone	ɡ̤ i
+qwa	between_vowels	k ǃ w a
+qwa	between_consonants	k ǃ w a
+qwa	alone	k ǃ w a
+siz	between_vowels	s i z̤
+siz	between_consonants	s i z̤
+siz	alone	s i z̤
+gqa	between_vowels	ɡ̤ ǃ̤ a
+gqa	between_consonants	ɡ̤ ǃ̤ a
+gqa	alone	ɡ̤ ǃ̤ a
+san	between_vowels	s a n
+san	between_consonants	s a n
+san	alone	s a n
+re	between_vowels	r ɛ
+re	between_consonants	r ɛ
+re	alone	r ɛ
+hon	between_vowels	h ɔ n
+hon	alone	h ɔ n
+imf	between_consonants	i m f
+imf	alone	i m f
+iv	between_consonants	i v̤
+iv	alone	i v̤
+uno	between_vowels	u n ɔ
+uno	between_consonants	u n ɔ
+uno	alone	u n ɔ
+igq	between_consonants	i ɡ̤ ǃ̤
+igq	alone	i ɡ̤ ǃ̤
+zwe	between_vowels	z̤ w ɛ
+zwe	between_consonants	z̤ w ɛ
+zwe	alone	z̤ w ɛ
+mbe	between_vowels	m ɓ ɛ
+mbe	between_consonants	m ɓ ɛ
+mbe	alone	m ɓ ɛ
+ja	between_vowels	d͡ʒ̤ a
+ja	between_consonants	d͡ʒ̤ a
+ja	alone	d͡ʒ̤ a
+qwe	between_vowels	k ǃ w ɛ
+qwe	between_consonants	k ǃ w ɛ
+qwe	alone	k ǃ w ɛ
+hum	between_vowels	h u m
+hum	alone	h u m
+ur	between_vowels	u r
+ur	between_consonants	u r
+ur	alone	u r
+urh	between_vowels	u x
+urh	between_consonants	u x
+urh	alone	u x
+mnt	between_vowels	m n t
+mnt	between_consonants	m n t
+mnt	alone	m n t
+ezi	between_consonants	ɛ z̤ i
+ezi	alone	ɛ z̤ i
+tu	between_vowels	t u
+tu	between_consonants	t u
+tu	alone	t u
+oth	between_vowels	ɔ tʰ
+oth	between_consonants	ɔ tʰ
+oth	alone	ɔ tʰ
+wo	between_vowels	w ɔ
+wo	between_consonants	w ɔ
+wo	alone	w ɔ
+awo	between_vowels	a w ɔ
+awo	between_consonants	a w ɔ
+awo	alone	a w ɔ
+nw	between_vowels	n w
+nw	between_consonants	n w
+nw	alone	n w
+uty	between_vowels	u tʲ
+uty	between_consonants	u tʲ
+uty	alone	u tʲ
+hek	between_vowels	h ɛ k
+hek	alone	h ɛ k
+wes	between_vowels	w ɛ s
+wes	between_consonants	w ɛ s
+wes	alone	w ɛ s
+ola	between_vowels	ɔ l a
+ola	between_consonants	ɔ l a
+ola	alone	ɔ l a
+af	between_vowels	a f
+af	between_consonants	a f
+af	alone	a f
+fo	between_vowels	f ɔ
+fo	between_consonants	f ɔ
+fo	alone	f ɔ
+nty	between_vowels	n tʲ
+nty	between_consonants	n tʲ
+nty	alone	n tʲ
+nqo	between_vowels	ŋ ǃ ɔ
+nqo	between_consonants	ŋ ǃ ɔ
+nqo	alone	ŋ ǃ ɔ
+buh	between_vowels	ɓ u h
+buh	alone	ɓ u h
+gan	between_vowels	ɡ̤ a n
+gan	between_consonants	ɡ̤ a n
+gan	alone	ɡ̤ a n
+gwe	between_vowels	ɡ̤ w ɛ
+gwe	between_consonants	ɡ̤ w ɛ
+gwe	alone	ɡ̤ w ɛ
+web	between_vowels	w ɛ ɓ
+web	between_consonants	w ɛ ɓ
+web	alone	w ɛ ɓ
+yit	between_vowels	j i t
+yit	between_consonants	j i t
+yit	alone	j i t
+imv	between_consonants	i m v̤
+imv	alone	i m v̤
+end	between_vowels	ɛ n d̤
+end	alone	ɛ n d̤
+aya	between_vowels	a j a
+aya	between_consonants	a j a
+aya	alone	a j a
+hun	between_vowels	h u n
+hun	alone	h u n
+kos	between_vowels	k ɔ s
+kos	between_consonants	k ɔ s
+kos	alone	k ɔ s
+inc	between_consonants	i ŋ ǀ
+inc	alone	i ŋ ǀ
+sim	between_vowels	s i m
+sim	between_consonants	s i m
+sim	alone	s i m
+wem	between_vowels	w ɛ m
+wem	between_consonants	w ɛ m
+wem	alone	w ɛ m
+lim	between_vowels	l i m
+lim	alone	l i m
+ada	between_vowels	a d̤ a
+ada	between_consonants	a d̤ a
+ada	alone	a d̤ a
+son	between_vowels	s ɔ n
+son	between_consonants	s ɔ n
+son	alone	s ɔ n
+ant	between_vowels	a n t
+ant	between_consonants	a n t
+ant	alone	a n t
+abo	between_vowels	a ɓ ɔ
+abo	between_consonants	a ɓ ɔ
+abo	alone	a ɓ ɔ
+mny	between_vowels	m ɲ
+mny	between_consonants	m ɲ
+mny	alone	m ɲ
+gol	between_vowels	ɡ̤ ɔ l
+gol	alone	ɡ̤ ɔ l
+of	between_vowels	ɔ f
+of	between_consonants	ɔ f
+of	alone	ɔ f
+uzi	between_consonants	u z̤ i
+uzi	alone	u z̤ i
+wel	between_vowels	w ɛ l
+wel	alone	w ɛ l
+xab	between_vowels	k ǁ a ɓ
+xab	between_consonants	k ǁ a ɓ
+xab	alone	k ǁ a ɓ
+or	between_vowels	ɔ r
+or	between_consonants	ɔ r
+or	alone	ɔ r
+va	between_vowels	v̤ a
+va	between_consonants	v̤ a
+va	alone	v̤ a
+hal	between_vowels	h a l
+hal	alone	h a l
+lob	between_vowels	l ɔ ɓ
+lob	alone	l ɔ ɓ
+aq	between_vowels	a k ǃ
+aq	between_consonants	a k ǃ
+aq	alone	a k ǃ
+iqa	between_consonants	i k ǃ a
+iqa	alone	i k ǃ a
+qaq	between_vowels	k ǃ a k ǃ
+qaq	between_consonants	k ǃ a k ǃ
+qaq	alone	k ǃ a k ǃ
+aqa	between_vowels	a k ǃ a
+aqa	between_consonants	a k ǃ a
+aqa	alone	a k ǃ a
+zul	between_vowels	z̤ u l
+zul	alone	z̤ u l
+gub	between_vowels	ɡ̤ u ɓ
+gub	between_consonants	ɡ̤ u ɓ
+gub	alone	ɡ̤ u ɓ
+eng	between_vowels	ɛ n ɡ̤
+eng	between_consonants	ɛ n ɡ̤
+eng	alone	ɛ n ɡ̤
+its	between_consonants	i t͡s
+its	alone	i t͡s
+asi	between_consonants	a s i
+asi	alone	a s i
+okh	between_vowels	ɔ kʰ
+okh	between_consonants	ɔ kʰ
+okh	alone	ɔ kʰ
+kho	between_vowels	kʰ ɔ
+kho	between_consonants	kʰ ɔ
+kho	alone	kʰ ɔ
+emp	between_vowels	ɛ m p
+emp	between_consonants	ɛ m p
+emp	alone	ɛ m p
+ila	between_consonants	i l a
+ila	alone	i l a
+omb	between_vowels	ɔ m ɓ
+omb	between_consonants	ɔ m ɓ
+omb	alone	ɔ m ɓ
+ozi	between_consonants	ɔ z̤ i
+ozi	alone	ɔ z̤ i
+kan	between_vowels	k a n
+kan	between_consonants	k a n
+kan	alone	k a n
+lon	between_vowels	l ɔ n
+lon	alone	l ɔ n
+ond	between_vowels	ɔ n d̤
+ond	alone	ɔ n d̤
+ew	between_vowels	ɛ w
+ew	between_consonants	ɛ w
+ew	alone	ɛ w
+awa	between_vowels	a w a
+awa	between_consonants	a w a
+awa	alone	a w a
+ubo	between_vowels	u ɓ ɔ
+ubo	between_consonants	u ɓ ɔ
+ubo	alone	u ɓ ɔ
+ale	between_vowels	a l ɛ
+ale	between_consonants	a l ɛ
+ale	alone	a l ɛ
+cul	between_vowels	k ǀ u l
+cul	alone	k ǀ u l
+shw	between_vowels	ʃ w
+shw	between_consonants	ʃ w
+shw	alone	ʃ w
+cwe	between_vowels	k ǀ w ɛ
+cwe	between_consonants	k ǀ w ɛ
+cwe	alone	k ǀ w ɛ
+men	between_vowels	m ɛ n
+men	between_consonants	m ɛ n
+men	alone	m ɛ n
+kre	between_vowels	k͡x ɛ
+kre	between_consonants	k͡x ɛ
+kre	alone	k͡x ɛ
+liz	between_vowels	l i z̤
+liz	alone	l i z̤
+zan	between_vowels	z̤ a n
+zan	between_consonants	z̤ a n
+zan	alone	z̤ a n
+qho	between_vowels	k ǃʰ ɔ
+qho	between_consonants	k ǃʰ ɔ
+qho	alone	k ǃʰ ɔ
+mpa	between_vowels	m p a
+mpa	between_consonants	m p a
+mpa	alone	m p a
+hak	between_vowels	h a k
+hak	alone	h a k
+mfa	between_vowels	m f a
+mfa	between_consonants	m f a
+mfa	alone	m f a
+mng	between_vowels	m n ɡ̤
+mng	between_consonants	m n ɡ̤
+mng	alone	m n ɡ̤
+ont	between_vowels	ɔ n t
+ont	between_consonants	ɔ n t
+ont	alone	ɔ n t
+cho	between_vowels	k ǀʰ ɔ
+cho	between_consonants	k ǀʰ ɔ
+cho	alone	k ǀʰ ɔ
+de	between_vowels	d̤ ɛ
+de	between_consonants	d̤ ɛ
+de	alone	d̤ ɛ
+kum	between_vowels	k u m
+kum	between_consonants	k u m
+kum	alone	k u m
+kel	between_vowels	k ɛ l
+kel	alone	k ɛ l
+og	between_vowels	ɔ ɡ̤
+og	between_consonants	ɔ ɡ̤
+og	alone	ɔ ɡ̤
+ed	between_vowels	ɛ d̤
+ed	alone	ɛ d̤
+zal	between_vowels	z̤ a l
+zal	alone	z̤ a l
+nta	between_vowels	n t a
+nta	between_consonants	n t a
+nta	alone	n t a
+phu	between_vowels	pʰ u
+phu	between_consonants	pʰ u
+phu	alone	pʰ u
+ezo	between_vowels	ɛ z̤ ɔ
+ezo	between_consonants	ɛ z̤ ɔ
+ezo	alone	ɛ z̤ ɔ
+msi	between_consonants	m s i
+msi	alone	m s i
+enz	between_vowels	ɛ n z̤
+enz	between_consonants	ɛ n z̤
+enz	alone	ɛ n z̤
+nkw	between_vowels	n k w
+nkw	between_consonants	n k w
+nkw	alone	n k w
+kwe	between_vowels	k w ɛ
+kwe	between_consonants	k w ɛ
+kwe	alone	k w ɛ
+nqw	between_vowels	ŋ ǃ w
+nqw	between_consonants	ŋ ǃ w
+nqw	alone	ŋ ǃ w
+lum	between_vowels	l u m
+lum	alone	l u m
+gqe	between_vowels	ɡ̤ ǃ̤ ɛ
+gqe	between_consonants	ɡ̤ ǃ̤ ɛ
+gqe	alone	ɡ̤ ǃ̤ ɛ
+hot	between_vowels	h ɔ t
+hot	alone	h ɔ t
+oq	between_vowels	ɔ k ǃ
+oq	between_consonants	ɔ k ǃ
+oq	alone	ɔ k ǃ
+eke	between_vowels	ɛ k ɛ
+eke	between_consonants	ɛ k ɛ
+eke	alone	ɛ k ɛ
+yis	between_vowels	j i s
+yis	between_consonants	j i s
+yis	alone	j i s
+kil	between_vowels	k i l
+kil	alone	k i l
+ice	between_consonants	i k ǀ ɛ
+ice	alone	i k ǀ ɛ
+man	between_vowels	m a n
+man	between_consonants	m a n
+man	alone	m a n
+ipo	between_consonants	i p ɔ
+ipo	alone	i p ɔ
+tw	between_vowels	t w
+tw	between_consonants	t w
+tw	alone	t w
+ntw	between_vowels	n t w
+ntw	between_consonants	n t w
+ntw	alone	n t w
+twa	between_vowels	t w a
+twa	between_consonants	t w a
+twa	alone	t w a
+ij	between_consonants	i d͡ʒ̤
+ij	alone	i d͡ʒ̤
+je	between_vowels	d͡ʒ̤ ɛ
+je	between_consonants	d͡ʒ̤ ɛ
+je	alone	d͡ʒ̤ ɛ
+bhu	between_vowels	b̤ u
+bhu	between_consonants	b̤ u
+bhu	alone	b̤ u
+ntu	between_vowels	n t u
+ntu	between_consonants	n t u
+ntu	alone	n t u
+akh	between_vowels	a kʰ
+akh	between_consonants	a kʰ
+akh	alone	a kʰ
+yok	between_vowels	j ɔ k
+yok	between_consonants	j ɔ k
+yok	alone	j ɔ k
+oka	between_vowels	ɔ k a
+oka	between_consonants	ɔ k a
+oka	alone	ɔ k a
+nwe	between_vowels	n w ɛ
+nwe	between_consonants	n w ɛ
+nwe	alone	n w ɛ
+ibi	between_consonants	i ɓ i
+ibi	alone	i ɓ i
+ime	between_consonants	i m ɛ
+ime	alone	i m ɛ
+qon	between_vowels	k ǃ ɔ n
+qon	between_consonants	k ǃ ɔ n
+qon	alone	k ǃ ɔ n
+mak	between_vowels	m a k
+mak	between_consonants	m a k
+mak	alone	m a k
+hlu	between_vowels	ɬ u
+hlu	alone	ɬ u
+lun	between_vowels	l u n
+lun	alone	l u n
+obh	between_vowels	ɔ b̤
+obh	between_consonants	ɔ b̤
+obh	alone	ɔ b̤
+igw	between_consonants	i ɡ̤ w
+igw	alone	i ɡ̤ w
+eyi	between_consonants	ɛ j i
+eyi	alone	ɛ j i
+iza	between_consonants	i z̤ a
+iza	alone	i z̤ a
+hos	between_vowels	h ɔ s
+hos	alone	h ɔ s
+amo	between_vowels	a m ɔ
+amo	between_consonants	a m ɔ
+amo	alone	a m ɔ

@@ -1,0 +1,210 @@
+phones	letters	context	count
+a	𐌰	C_C	1505
+i	𐌹	C_C	700
+n	𐌽	V_C	476
+n	𐌽	V_#	438
+s	𐍃	C_#	305
+u	𐌿	C_C	302
+j	𐌾	C_V	296
+k	𐌲	#_V	252
+r	𐍂	C_V	252
+i	𐌰𐌹	C_C	230
+a	𐌰𐌿	C_C	229
+r	𐍂	V_C	204
+a	𐌰	C_#	192
+d	𐌳	V_V	191
+s	𐍃	V_C	187
+i	𐌴𐌹	C_C	183
+a	𐍉	C_C	169
+n	𐌽	V_V	167
+f	𐍆	#_V	162
+d	𐌳	C_V	141
+r	𐍂	V_V	139
+n	𐌽	C_V	138
+s	𐍃	V_#	130
+w	𐍅	C_V	124
+s	𐌸	V_C	123
+a	𐌰	#_C	121
+d	𐌳	C_C	120
+b	𐌱	#_V	113
+l	𐌻	V_C	111
+t	𐍄	C_V	108
+m	𐌼	V_V	102
+w	𐍅	V_V	95
+h	𐌷	V_V	95
+i	𐌴	C_C	92
+t	𐍄	V_V	85
+l	𐌻	C_V	84
+b	𐌱	V_V	83
+s	𐍃	V_V	82
+m	𐌼	#_V	80
+l	𐌻	V_V	80
+w	𐍅	#_V	78
+f	𐍆	#_C	77
+h	𐌷	V_C	74
+d	𐌳	#_V	74
+k	𐌲	V_V	70
+k	𐌺	V_V	66
+i	𐌹	#_C	63
+s	𐌸	V_#	61
+k	𐌲	V_C	58
+u	𐌿	#_C	58
+s	𐌸	V_V	57
+n	𐌲	V_C	57
+k	𐌺	C_V	54
+t	𐍄	V_C	53
+i	𐌰𐌹	C_#	51
+s	𐌸	C_V	50
+h	𐌷	#_V	50
+m	𐌼	V_#	48
+k	𐌲	C_V	48
+s	𐍃	C_C	47
+d	𐌳	V_C	43
+k	𐌲	C_C	43
+s	𐍃	#_C	42
+s	𐌸	#_V	40
+w	𐌿	V_C	39
+t	𐍄	C_C	39
+i	𐌴	C_#	39
+a	𐍉	C_#	38
+m	𐌼	C_V	36
+s	𐍃	C_V	36
+l	𐌻	#_V	36
+i	𐌴𐌹	C_#	36
+s	𐍃	#_V	34
+f	𐍆	V_C	33
+i	𐌹	C_#	32
+b	𐌱	V_C	32
+m	𐌼	V_C	32
+a	𐌰	V_C	31
+n	𐌽	#_V	30
+b	𐌱	C_V	29
+b	𐌱	#_C	24
+k	𐌺	V_C	24
+h	𐌷	#_C	23
+t	𐍄	#_V	23
+a	𐌰	C_V	22
+k	𐌺	C_C	20
+k w	𐌵	V_V	19
+a	𐌰𐌿	C_#	19
+h	𐌷	C_V	19
+h	𐌷	V_#	19
+p	𐍀	V_C	19
+j	𐌾	V_V	19
+i	𐌹	C_V	19
+f	𐍆	V_V	18
+d	𐌳	C_#	18
+t	𐍄	#_C	16
+d	𐌳	#_C	16
+f	𐍆	C_V	16
+n	𐌽	C_C	15
+l	𐌻	C_C	15
+b	𐌱	C_C	15
+h	𐌷	C_C	15
+s	𐌸	#_C	14
+w	𐍅	C_C	14
+s	𐌸	C_C	13
+k	𐌺	#_V	13
+a	𐌰𐌿	C_V	12
+w	𐍈	#_V	12
+u	𐌿	C_#	12
+w	𐍈	V_V	11
+k	𐌲	#_C	11
+r	𐍂	V_#	11
+k w	𐌵	C_V	11
+a	𐌰𐌿	#_C	10
+i	𐌰𐌹	C_V	10
+z	𐌶	V_V	10
+p	𐍀	C_V	10
+r	𐍂	#_V	10
+w	𐍅	V_C	9
+w	𐍈	C_V	9
+i	𐌰𐌹	#_C	9
+j	𐌾	#_V	8
+k	𐌺	V_#	8
+z	𐌶	V_C	8
+i	𐌰𐌹	V_C	7
+r	𐍂	C_C	7
+u	𐌿	V_C	7
+m	𐌼	C_C	7
+z	𐌶𐌴	V_V	7
+i	𐌹	V_C	6
+p	𐍀	V_V	6
+t	𐍄	C_#	5
+n	𐌽	C_#	5
+p	𐍀	#_V	5
+a	𐌰𐌿	V_C	5
+p	𐍀	C_C	4
+f	𐍆	C_C	4
+k w	𐌵	#_V	4
+r	𐍂	C_#	4
+w	𐌵	C_V	4
+f	𐍆	V_#	4
+t	𐍄	V_#	4
+s	𐌸	C_#	4
+w	𐍅	#_C	3
+h	𐌲	V_C	3
+n	𐌽𐌽	V_V	3
+l	𐌻	V_#	3
+i	𐌴𐌹	#_C	3
+i	𐌰𐌹	V_#	2
+a	𐌰	V_#	2
+k w	𐌵	C_C	2
+n	𐌽𐌽	V_C	2
+f	𐍆	C_#	2
+h	𐌲	V_#	2
+i	𐌴𐌹	V_#	2
+i	𐌴𐌹	V_C	2
+m	𐌼	C_#	2
+z	𐌶	C_C	2
+u	𐌿	C_V	2
+w	𐍅	V_#	2
+z i	𐌶𐍅	V_C	2
+i j	𐌾	C_V	2
+w	𐍈	V_C	2
+w	𐌵	C_C	2
+s i	𐍃𐍅	#_C	1
+a	𐍉𐌳𐌴	C_C	1
+a	𐌿𐌽	C_#	1
+f	𐌱	C_#	1
+p	𐍀𐍀	V_V	1
+a	𐍉	C_V	1
+n	𐌽𐌽	V_#	1
+s	𐌳	V_#	1
+i	𐌹	V_#	1
+a	𐌼𐍉	C_#	1
+w j	𐌱𐌾	V_V	1
+i m	𐍅𐌼	C_V	1
+a	𐍉	V_C	1
+b	𐌱	C_#	1
+i	𐌹	#_V	1
+a	𐌰	V_V	1
+t i	𐍄𐍅	C_#	1
+k	𐌺	C_#	1
+l	𐌻	C_#	1
+a s	𐍉𐌳	C_C	1
+b i	𐌱𐍅	#_C	1
+f	𐌱	C_C	1
+j	𐌽𐌾𐌰	C_V	1
+k	𐌺	#_C	1
+k w	𐌵	C_#	1
+z	𐌶	#_V	1
+k j	𐌲	C_V	1
+a n	𐌹	C_C	1
+d s	𐌳𐌰	C_#	1
+u s	𐌿𐌳	C_C	1
+r	𐌿𐍂𐌷	V_C	1
+s	𐌸𐌸	V_V	1
+w z	𐌿𐌶	V_V	1
+w i	𐌱𐌹	V_C	1
+a	𐍉	V_#	1
+w	𐌿	V_#	1
+d	𐌳	V_#	1
+a	𐌰𐌹𐌽	C_C	1
+n	𐌳𐌰𐌿	V_#	1
+w	𐌱𐌴	V_V	1
+p	𐍀	V_#	1
+i	𐌹	V_V	1
+w j	𐌱𐌴	V_V	1
+a n	𐌹	C_#	1
+w	𐌵	C_#	1

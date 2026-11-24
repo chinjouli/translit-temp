@@ -1,0 +1,601 @@
+gram	context	phones
+n	alone	n
+h	alone	h
+t	alone	t
+i	alone	ʔ i
+g	alone	ɣ
+c	alone	k
+ng	alone	ŋ
+m	alone	m
+u	alone	ʔ u
+o	alone	ʔ ɔ
+a	alone	ʔ a
+r	alone	z
+p	alone	p
+l	alone	l
+ch	alone	c
+nh	alone	ɲ
+b	alone	b
+đ	alone	d
+s	alone	s
+á	alone	ʔ a
+k	alone	k
+y	alone	ʔ i
+d	alone	z
+v	alone	v
+th	alone	tʰ
+ư	alone	ʔ ɯ
+e	alone	ʔ ɛ
+x	alone	s
+tr	alone	c
+ô	alone	ʔ o
+ạ	alone	ʔ a
+kh	alone	x
+à	alone	ʔ a
+ê	alone	ʔ e
+ph	alone	f
+ế	alone	ʔ e
+ố	alone	ʔ o
+gi	alone	ɣ i
+an	alone	ʔ a n
+ả	alone	ʔ a
+ệ	alone	ʔ e
+ấ	alone	ʔ ɤ̆
+ớ	alone	ʔ ɤ
+hu	alone	h u
+ó	alone	ʔ ɔ
+hi	alone	h i
+ú	alone	ʔ u
+é	alone	ʔ ɛ
+ho	alone	h ɔ
+ơ	alone	ʔ ɤ
+ộ	alone	ʔ o
+q	alone	q
+í	alone	ʔ i
+qu	alone	k w
+ắ	alone	ʔ ă
+ọ	alone	ʔ ɔ
+ậ	alone	ʔ ɤ̆
+â	alone	ʔ ɤ̆
+ụ	alone	ʔ u
+ồ	alone	ʔ o
+ù	alone	ʔ u
+ợ	alone	ʔ ɤ
+ầ	alone	ʔ ɤ̆
+ị	alone	ʔ i
+ề	alone	ʔ e
+ờ	alone	ʔ ɤ
+án	alone	ʔ a n
+in	alone	ʔ i n
+gh	alone	ɣ
+ã	alone	ʔ a
+ò	alone	ʔ ɔ
+iế	alone	ʔ i ə
+on	alone	ʔ ɔ n
+ên	alone	ʔ e n
+ứ	alone	ʔ ɯ
+ôn	alone	ʔ o n
+uy	alone	w i
+ặ	alone	ʔ ă
+ẹ	alone	ʔ ɛ
+ha	alone	h a
+àn	alone	ʔ a n
+há	alone	h a
+è	alone	ʔ ɛ
+ă	alone	ʔ ă
+en	alone	ʔ ɛ n
+ì	alone	ʔ i
+ri	alone	z i
+ni	alone	n i
+iệ	alone	ʔ i ə
+iê	alone	ʔ i ə
+ỏ	alone	ʔ ɔ
+ổ	alone	ʔ o
+li	alone	l i
+ẩ	alone	ʔ ɤ̆
+ướ	alone	ʔ ɯ ə
+ủ	alone	ʔ u
+ự	alone	ʔ ɯ
+ti	alone	t i
+hư	alone	h ɯ
+ể	alone	ʔ e
+ác	alone	ʔ a k
+ngh	alone	ŋ
+ạn	alone	ʔ a n
+ản	alone	ʔ a n
+ử	alone	ʔ ɯ
+ở	alone	ʔ ɤ
+ồn	alone	ʔ o n
+un	alone	ʔ u n
+ươ	alone	ʔ ɯ ə
+oa	alone	w a
+ền	alone	ʔ e n
+ỉ	alone	ʔ i
+ừ	alone	ʔ ɯ
+oá	alone	w a
+ẻ	alone	ʔ ɛ
+bi	alone	b i
+ỗ	alone	ʔ o
+ăn	alone	ʔ ă n
+iề	alone	ʔ i ə
+am	alone	ʔ a m
+ơn	alone	ʔ ɤ n
+uố	alone	ʔ u ə
+ằ	alone	ʔ ă
+ượ	alone	ʔ ɯ ə
+hạ	alone	h a
+ốn	alone	ʔ o n
+đi	alone	d i
+ễ	alone	ʔ e
+ông	alone	ʔ o ŋ
+ki	alone	k i
+ạc	alone	ʔ a k
+hí	alone	h i
+ến	alone	ʔ e n
+to	alone	t ɔ
+ện	alone	ʔ e n
+õ	alone	ʔ ɔ
+ang	alone	ʔ a ŋ
+ẫ	alone	ʔ ɤ̆
+ta	alone	t a
+ùn	alone	ʔ u n
+ân	alone	ʔ ɤ̆ n
+tu	alone	t u
+xi	alone	s i
+lo	alone	l ɔ
+ĩ	alone	ʔ i
+ai	alone	ʔ a j
+ết	alone	ʔ e t
+ốc	alone	ʔ o k
+ru	alone	z u
+hà	alone	h a
+ái	alone	ʔ a j
+ệt	alone	ʔ e t
+hé	alone	h ɛ
+ỡ	alone	ʔ ɤ
+ườ	alone	ʔ ɯ ə
+hả	alone	h a
+hó	alone	h ɔ
+go	alone	ɣ ɔ
+f	alone	f
+iên	alone	ʔ i ə n
+ắn	alone	ʔ ă n
+ro	alone	z ɔ
+ờn	alone	ʔ ɤ n
+he	alone	h ɛ
+anh	alone	ʔ ɛ ɲ
+át	alone	ʔ a t
+áng	alone	ʔ a ŋ
+ốt	alone	ʔ o t
+hấ	alone	h ɤ̆
+ũ	alone	ʔ u
+ươn	alone	ʔ ɯ ə n
+chu	alone	c u
+uô	alone	ʔ u ə
+êu	alone	ʔ ɛ u
+ần	alone	ʔ ɤ̆ n
+mi	alone	m i
+hú	alone	h u
+òn	alone	ʔ ɔ n
+ợn	alone	ʔ ɤ n
+ối	alone	ʔ o j
+hiế	alone	h i ə
+huy	alone	h w i
+ôi	alone	ʔ o j
+ra	alone	z a
+ồng	alone	ʔ o ŋ
+ọn	alone	ʔ ɔ n
+ét	alone	ʔ ɛ t
+kho	alone	x ɔ
+rư	alone	z ɯ
+hô	alone	h o
+óc	alone	ʔ ɔ k
+thu	alone	tʰ u
+ga	alone	ɣ a
+vi	alone	v i
+eo	alone	ʔ e o
+ữ	alone	ʔ ɯ
+ớn	alone	ʔ ɤ n
+lu	alone	l u
+ất	alone	ʔ ɤ̆ t
+ua	alone	w a
+ao	alone	ʔ a w
+ơi	alone	ʔ ɤ j
+ếc	alone	ʔ e c
+ca	alone	k a
+si	alone	s i
+ắt	alone	ʔ ă t
+it	alone	ʔ i t
+na	alone	n a
+khu	alone	x u
+iền	alone	ʔ i ə n
+ài	alone	ʔ a j
+hố	alone	h o
+chi	alone	c i
+ồi	alone	ʔ o j
+ón	alone	ʔ ɔ n
+ún	alone	ʔ u n
+oạ	alone	w a
+ay	alone	ʔ ă j
+ống	alone	ʔ o ŋ
+hắ	alone	h ă
+ển	alone	ʔ e n
+ải	alone	ʔ a j
+uộ	alone	ʔ u ə
+uồ	alone	ʔ u ə
+ong	alone	ʔ ɔ ŋ
+co	alone	k ɔ
+ngo	alone	ŋ ɔ
+oả	alone	w a
+iể	alone	ʔ i ə
+rá	alone	z a
+ạt	alone	ʔ a t
+ằn	alone	ʔ ă n
+ơng	alone	ʔ ɤ ŋ
+hè	alone	h ɛ
+ột	alone	ʔ o t
+hị	alone	h i
+ăng	alone	ʔ ă ŋ
+oà	alone	w a
+hụ	alone	h u
+inh	alone	ʔ i ɲ
+ách	alone	ʔ ɛ c
+ấn	alone	ʔ ɤ̆ n
+âu	alone	ʔ ɤ̆ w
+han	alone	h a n
+hậ	alone	h ɤ̆
+ây	alone	ʔ ɤ̆ j
+ườn	alone	ʔ ɯ ə n
+im	alone	ʔ i m
+xo	alone	s ɔ
+lư	alone	l ɯ
+te	alone	t ɛ
+bu	alone	b u
+àng	alone	ʔ a ŋ
+gu	alone	ɣ u
+hế	alone	h e
+ật	alone	ʔ ɤ̆ t
+ào	alone	ʔ a w
+ăm	alone	ʔ ă m
+ẽ	alone	ʔ ɛ
+hê	alone	h e
+le	alone	l ɛ
+mu	alone	m u
+ãn	alone	ʔ a n
+ọc	alone	ʔ ɔ k
+ầy	alone	ʔ ɤ̆ j
+áo	alone	ʔ a w
+ộn	alone	ʔ o n
+thi	alone	tʰ i
+su	alone	s u
+áy	alone	ʔ ă j
+ùng	alone	ʔ u ŋ
+hớ	alone	h ɤ
+ới	alone	ʔ ɤ j
+ớt	alone	ʔ ɤ t
+ặn	alone	ʔ ă n
+âm	alone	ʔ ɤ̆ m
+ục	alone	ʔ u k
+ý	alone	ʔ i
+oan	alone	w a n
+ầm	alone	ʔ ɤ̆ m
+hù	alone	h u
+úc	alone	ʔ u k
+iến	alone	ʔ i ə n
+hì	alone	h i
+ìn	alone	ʔ i n
+uôn	alone	ʔ u ə n
+út	alone	ʔ u t
+ộc	alone	ʔ o k
+ội	alone	ʔ o j
+ẳ	alone	ʔ ă
+ắc	alone	ʔ ă k
+hẹ	alone	h ɛ
+ic	alone	ʔ i c
+íc	alone	ʔ i c
+ích	alone	ʔ i c
+gá	alone	ɣ a
+hiê	alone	h i ə
+ận	alone	ʔ ɤ̆ n
+ung	alone	ʔ u ŋ
+ôm	alone	ʔ o m
+ia	alone	ʔ i ə
+mo	alone	m ɔ
+la	alone	l a
+êm	alone	ʔ e m
+ại	alone	ʔ a j
+ót	alone	ʔ ɔ t
+hứ	alone	h ɯ
+họ	alone	h ɔ
+me	alone	m ɛ
+nô	alone	n o
+ập	alone	ʔ ɤ̆ p
+hò	alone	h ɔ
+ếu	alone	ʔ ɛ u
+ời	alone	ʔ ɤ j
+ịc	alone	ʔ i c
+ịch	alone	ʔ i c
+at	alone	ʔ a t
+ặt	alone	ʔ ă t
+hoá	alone	h w a
+ám	alone	ʔ a m
+ít	alone	ʔ i t
+ành	alone	ʔ ɛ ɲ
+ấy	alone	ʔ ɤ̆ j
+ói	alone	ʔ ɔ j
+đo	alone	d ɔ
+ấp	alone	ʔ ɤ̆ p
+ặc	alone	ʔ ă k
+ẹo	alone	ʔ e o
+uý	alone	w i
+ảng	alone	ʔ a ŋ
+ầu	alone	ʔ ɤ̆ w
+ổi	alone	ʔ o j
+re	alone	z ɛ
+ấu	alone	ʔ ɤ̆ w
+au	alone	ʔ ă w
+tri	alone	c i
+ếp	alone	ʔ e p
+tho	alone	tʰ ɔ
+di	alone	z i
+oi	alone	ʔ ɔ j
+ui	alone	ʔ u j
+ừn	alone	ʔ ɯ n
+ừng	alone	ʔ ɯ ŋ
+ờng	alone	ʔ ɤ ŋ
+cu	alone	k u
+nt	alone	n t
+ãi	alone	ʔ a j
+éo	alone	ʔ e o
+ín	alone	ʔ i n
+ễn	alone	ʔ e n
+ướn	alone	ʔ ɯ ə n
+ực	alone	ʔ ɯ k
+ánh	alone	ʔ ɛ ɲ
+ảy	alone	ʔ ă j
+xu	alone	s u
+ma	alone	m a
+ắm	alone	ʔ ă m
+pha	alone	f a
+yế	alone	ʔ i ɛ
+òng	alone	ʔ ɔ ŋ
+ép	alone	ʔ ɛ p
+ưn	alone	ʔ ɯ n
+ượn	alone	ʔ ɯ ə n
+hủ	alone	h u
+bo	alone	b ɔ
+ếch	alone	ʔ e c
+ấm	alone	ʔ ɤ̆ m
+hâ	alone	h ɤ̆
+ip	alone	ʔ i p
+ạo	alone	ʔ a w
+ọt	alone	ʔ ɔ t
+cư	alone	k ɯ
+ụn	alone	ʔ u n
+ẳn	alone	ʔ ă n
+no	alone	n ɔ
+om	alone	ʔ ɔ m
+iô	alone	ʔ i o
+uồn	alone	ʔ u ə n
+hệ	alone	h e
+cho	alone	c ɔ
+ức	alone	ʔ ɯ k
+ol	alone	ʔ ɔ l
+hơ	alone	h ɤ
+ắp	alone	ʔ ă p
+áp	alone	ʔ a p
+óng	alone	ʔ ɔ ŋ
+lô	alone	l o
+iện	alone	ʔ i ə n
+hổ	alone	h o
+ổn	alone	ʔ o n
+hỏ	alone	h ɔ
+ụt	alone	ʔ u t
+ba	alone	b a
+ưng	alone	ʔ ɯ ŋ
+gư	alone	ɣ ɯ
+hồ	alone	h o
+iễ	alone	ʔ i ə
+ẩn	alone	ʔ ɤ̆ n
+ứa	alone	ʔ ɯ ə
+bư	alone	b ɯ
+cá	alone	k a
+ghi	alone	ɣ i
+ar	alone	ʔ a z
+ỵ	alone	ʔ i
+ùi	alone	ʔ u j
+ịt	alone	ʔ i t
+ớp	alone	ʔ ɤ p
+ều	alone	ʔ ɛ u
+uấ	alone	w ɤ̆
+ảo	alone	ʔ a w
+hiệ	alone	h i ə
+em	alone	ʔ ɛ m
+ạch	alone	ʔ ɛ c
+iu	alone	ʔ i w
+ậu	alone	ʔ ɤ̆ w
+oán	alone	w a n
+hoa	alone	h w a
+ớc	alone	ʔ ɤ k
+ước	alone	ʔ ɯ ə k
+or	alone	ʔ ɔ z
+ne	alone	n ɛ
+du	alone	z u
+al	alone	ʔ a l
+hầ	alone	h ɤ̆
+gạ	alone	ɣ a
+òi	alone	ʔ ɔ j
+sa	alone	s a
+il	alone	ʔ i l
+rạ	alone	z a
+ịn	alone	ʔ i n
+èo	alone	ʔ e o
+ỏn	alone	ʔ ɔ n
+ỏng	alone	ʔ ɔ ŋ
+ệc	alone	ʔ e c
+tin	alone	t i n
+ọng	alone	ʔ ɔ ŋ
+er	alone	ʔ ɛ z
+lá	alone	l a
+da	alone	z a
+hộ	alone	h o
+ưa	alone	ʔ ɯ ə
+ợt	alone	ʔ ɤ t
+ẩy	alone	ʔ ɤ̆ j
+hă	alone	h ă
+ưở	alone	ʔ ɯ ə
+ạm	alone	ʔ a m
+nhu	alone	ɲ u
+cô	alone	k o
+hã	alone	h a
+ngu	alone	ŋ u
+tá	alone	t a
+mư	alone	m ɯ
+ày	alone	ʔ ă j
+ổng	alone	ʔ o ŋ
+uyế	alone	w i ə
+nhi	alone	ɲ i
+ảnh	alone	ʔ ɛ ɲ
+ếm	alone	ʔ e m
+oản	alone	w a n
+ằm	alone	ʔ ă m
+ạng	alone	ʔ a ŋ
+yệ	alone	ʔ i ɛ
+uyệ	alone	w i ə
+ủi	alone	ʔ u j
+tư	alone	t ɯ
+èn	alone	ʔ ɛ n
+ứt	alone	ʔ ɯ t
+ựa	alone	ʔ ɯ ə
+úng	alone	ʔ u ŋ
+iết	alone	ʔ i ə t
+én	alone	ʔ ɛ n
+do	alone	z ɔ
+ẹt	alone	ʔ ɛ t
+iêu	alone	ʔ i ə w
+hờ	alone	h ɤ
+st	alone	s t
+uỵ	alone	w i
+ỗi	alone	ʔ o j
+rà	alone	z a
+dư	alone	z ɯ
+úi	alone	ʔ u j
+hẩ	alone	h ɤ̆
+ẩm	alone	ʔ ɤ̆ m
+ắng	alone	ʔ ă ŋ
+khá	alone	x a
+ậy	alone	ʔ ɤ̆ j
+đa	alone	d a
+má	alone	m a
+hán	alone	h a n
+hiề	alone	h i ə
+ệp	alone	ʔ e p
+iệt	alone	ʔ i ə t
+ơm	alone	ʔ ɤ m
+so	alone	s ɔ
+ủn	alone	ʔ u n
+iển	alone	ʔ i ə n
+áu	alone	ʔ ă w
+ac	alone	ʔ a k
+ộp	alone	ʔ o p
+ợng	alone	ʔ ɤ ŋ
+ẩu	alone	ʔ ɤ̆ w
+ằng	alone	ʔ ă ŋ
+gà	alone	ɣ a
+bá	alone	b a
+ùm	alone	ʔ u m
+ình	alone	ʔ i ɲ
+ọi	alone	ʔ ɔ j
+nu	alone	n u
+ạp	alone	ʔ a p
+tan	alone	t a n
+đu	alone	d u
+xá	alone	s a
+ửa	alone	ʔ ɯ ə
+uốn	alone	ʔ u ə n
+hôn	alone	h o n
+chư	alone	c ɯ
+pho	alone	f ɔ
+ớng	alone	ʔ ɤ ŋ
+ụi	alone	ʔ u j
+xe	alone	s ɛ
+ộng	alone	ʔ o ŋ
+gọ	alone	ɣ ɔ
+z	alone	z
+ẳng	alone	ʔ ă ŋ
+ởn	alone	ʔ ɤ n
+tru	alone	c u
+rú	alone	z u
+ná	alone	n a
+ụng	alone	ʔ u ŋ
+hen	alone	h ɛ n
+rô	alone	z o
+tạ	alone	t a
+ẵ	alone	ʔ ă
+hỉ	alone	h i
+thá	alone	tʰ a
+hác	alone	h a k
+úp	alone	ʔ u p
+yê	alone	ʔ i ɛ
+rả	alone	z a
+óp	alone	ʔ ɔ p
+gó	alone	ɣ ɔ
+sá	alone	s a
+ngá	alone	ŋ a
+ec	alone	ʔ ɛ c
+hoả	alone	h w a
+es	alone	ʔ ɛ s
+hử	alone	h ɯ
+trá	alone	c a
+pa	alone	p a
+nạ	alone	n a
+ùa	alone	ʔ u ə
+iêm	alone	ʔ i ə m
+nhá	alone	ɲ a
+el	alone	ʔ ɛ l
+ởi	alone	ʔ ɤ j
+trư	alone	c ɯ
+ậm	alone	ʔ ɤ̆ m
+ứn	alone	ʔ ɯ n
+ứng	alone	ʔ ɯ ŋ
+ỏi	alone	ʔ ɔ j
+hướ	alone	h ɯ ə
+rố	alone	z o
+be	alone	b ɛ
+iếp	alone	ʔ i ə p
+lạ	alone	l a
+ot	alone	ʔ ɔ t
+ạnh	alone	ʔ ɛ ɲ
+hợ	alone	h ɤ
+êng	alone	ʔ e ŋ
+íp	alone	ʔ i p
+đá	alone	d a
+sạ	alone	s a
+rộ	alone	z o
+ỉa	alone	ʔ i ə
+chá	alone	c a
+gô	alone	ɣ o
+ẹp	alone	ʔ ɛ p
+hàn	alone	h a n
+ut	alone	ʔ u t
+ỉn	alone	ʔ i n
+iệp	alone	ʔ i ə p
+yên	alone	ʔ i ɛ n
+àm	alone	ʔ a m
+gắ	alone	ɣ ă
+ưỡ	alone	ʔ ɯ ə
+oé	alone	w e j
+cl	alone	k l
+iá	alone	ʔ i ə
+giá	alone	z a
+et	alone	ʔ ɛ t
+õn	alone	ʔ ɔ n
+ke	alone	k ɛ
+vư	alone	v ɯ
+ve	alone	v ɛ
+ct	alone	k t
+ấc	alone	ʔ ɤ̆ k
+khi	alone	x i
+tha	alone	tʰ a
+ính	alone	ʔ i ɲ
+rầ	alone	z ɤ̆

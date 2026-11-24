@@ -1,0 +1,601 @@
+gram	context	phones
+a	alone	ʔ a
+i	alone	ʔ i
+n	alone	n
+o	alone	ʔ o
+s	alone	s
+l	alone	l
+t	alone	t
+g	alone	ɡ
+k	alone	k
+u	alone	ʔ u
+m	alone	m
+e	alone	ʔ e
+r	alone	ɾ
+an	alone	ʔ a n
+p	alone	p
+b	alone	b
+y	alone	j
+d	alone	d
+al	alone	ʔ a l
+ma	alone	m a
+la	alone	l a
+h	alone	h
+in	alone	ʔ i n
+ka	alone	k a
+ta	alone	t a
+ng	alone	ŋ
+pa	alone	p a
+as	alone	ʔ a s
+ag	alone	ʔ a ɡ
+sa	alone	s a
+w	alone	w
+ba	alone	b a
+ya	alone	j a
+li	alone	l i
+na	alone	n a
+on	alone	ʔ o n
+ga	alone	ɡ a
+si	alone	s i
+at	alone	ʔ a t
+is	alone	ʔ i s
+ra	alone	ɾ a
+ak	alone	ʔ a k
+ar	alone	ʔ a ɾ
+ti	alone	t i
+am	alone	ʔ a m
+yo	alone	j o
+ab	alone	ʔ a b
+ay	alone	ʔ a j
+ad	alone	ʔ a d
+ha	alone	h a
+ang	alone	ʔ a ŋ
+da	alone	d a
+nt	alone	n t
+ala	alone	ʔ a l a
+er	alone	ʔ e ɾ
+il	alone	ʔ i l
+ik	alone	ʔ i k
+ap	alone	ʔ a p
+it	alone	ʔ i t
+ko	alone	k o
+wa	alone	w a
+ul	alone	ʔ u l
+en	alone	ʔ e n
+ri	alone	ɾ i
+iy	alone	ʔ i j
+to	alone	t o
+un	alone	ʔ u n
+ni	alone	n i
+te	alone	t e
+lo	alone	l o
+hi	alone	h i
+or	alone	ʔ o ɾ
+aw	alone	ʔ a w
+c	alone	k
+bi	alone	b i
+ro	alone	ɾ o
+pi	alone	p i
+do	alone	d o
+um	alone	ʔ u m
+ali	alone	ʔ a l i
+es	alone	ʔ e s
+bu	alone	b u
+ah	alone	ʔ a h
+st	alone	s t
+re	alone	ɾ e
+sy	alone	ʃ
+ku	alone	k u
+lu	alone	l u
+yon	alone	j o n
+nd	alone	n d
+di	alone	d i
+ol	alone	ʔ o l
+su	alone	s u
+mi	alone	m i
+im	alone	ʔ i m
+tu	alone	t u
+ig	alone	ʔ i ɡ
+se	alone	s e
+os	alone	ʔ o s
+gi	alone	ɡ i
+mo	alone	m o
+no	alone	n o
+bo	alone	b o
+ing	alone	ʔ i ŋ
+man	alone	m a n
+ns	alone	n s
+ana	alone	ʔ a n a
+ki	alone	k i
+so	alone	s o
+ib	alone	ʔ i b
+ot	alone	ʔ o t
+mag	alone	m a ɡ
+iya	alone	ʔ i j a
+po	alone	p o
+lan	alone	l a n
+syo	alone	ʃ o
+le	alone	l e
+aka	alone	ʔ a k a
+id	alone	ʔ i d
+aba	alone	ʔ a b a
+ina	alone	ʔ i n a
+ant	alone	ʔ a n t
+ip	alone	ʔ i p
+pan	alone	p a n
+mp	alone	m p
+el	alone	ʔ e l
+ur	alone	ʔ u ɾ
+nga	alone	ŋ a
+ata	alone	ʔ a t a
+de	alone	d e
+pu	alone	p u
+ut	alone	ʔ u t
+us	alone	ʔ u s
+ado	alone	ʔ a d o
+aga	alone	ʔ a ɡ a
+gu	alone	ɡ u
+ama	alone	ʔ a m a
+mb	alone	m b
+go	alone	ɡ o
+aa	alone	ʔ a a
+ara	alone	ʔ a ɾ a
+et	alone	ʔ e t
+apa	alone	ʔ a p a
+asa	alone	ʔ a s a
+mu	alone	m u
+han	alone	h a n
+aya	alone	ʔ a j a
+gan	alone	ɡ a n
+uw	alone	ʔ u w
+ts	alone	t s
+ok	alone	ʔ o k
+tr	alone	t ɾ
+tan	alone	t a n
+ir	alone	ʔ i ɾ
+uk	alone	ʔ u k
+pe	alone	p e
+gk	alone	ɡ k
+ula	alone	ʔ u l a
+ika	alone	ʔ i k a
+ek	alone	ʔ e k
+aha	alone	ʔ a h a
+asy	alone	ʔ a ʃ
+be	alone	b e
+kal	alone	k a l
+me	alone	m e
+om	alone	ʔ o m
+lin	alone	l i n
+yan	alone	j a n
+bal	alone	b a l
+san	alone	s a n
+siy	alone	s i j
+nan	alone	n a n
+og	alone	ʔ o ɡ
+and	alone	ʔ a n d
+ai	alone	ʔ a i
+ent	alone	ʔ e n t
+ne	alone	n e
+ati	alone	ʔ a t i
+ila	alone	ʔ i l a
+ban	alone	b a n
+ks	alone	k s
+ca	alone	k a
+ani	alone	ʔ a n i
+pag	alone	p a ɡ
+ong	alone	ʔ o ŋ
+sin	alone	s i n
+ist	alone	ʔ i s t
+ari	alone	ʔ a ɾ i
+sta	alone	s t a
+awa	alone	ʔ a w a
+ly	alone	l j
+mal	alone	m a l
+tal	alone	t a l
+ug	alone	ʔ u ɡ
+ili	alone	ʔ i l i
+uma	alone	ʔ u m a
+kan	alone	k a n
+ry	alone	ɾ j
+nta	alone	n t a
+ub	alone	ʔ u b
+ye	alone	j e
+nte	alone	n t e
+du	alone	d u
+nda	alone	n d a
+asi	alone	ʔ a s i
+ran	alone	ɾ a n
+uh	alone	ʔ u h
+yu	alone	j u
+gg	alone	ɡ ɡ
+iyo	alone	ʔ i j o
+ia	alone	ʔ i a
+alu	alone	ʔ a l u
+pal	alone	p a l
+he	alone	h e
+tin	alone	t i n
+ita	alone	ʔ i t a
+iko	alone	ʔ i k o
+hin	alone	h i n
+nu	alone	n u
+wi	alone	w i
+ngg	alone	ŋ ɡ
+isa	alone	ʔ i s a
+nti	alone	n t i
+sal	alone	s a l
+kas	alone	k a s
+tik	alone	t i k
+ho	alone	h o
+pr	alone	p ɾ
+up	alone	ʔ u p
+od	alone	ʔ o d
+era	alone	ʔ e ɾ a
+ero	alone	ʔ e ɾ o
+las	alone	l a s
+sm	alone	s m
+ngk	alone	ŋ k
+ung	alone	ʔ u ŋ
+mat	alone	m a t
+em	alone	ʔ e m
+lis	alone	l i s
+ny	alone	ɲ
+kat	alone	k a t
+gka	alone	ɡ k a
+we	alone	w e
+v	alone	v
+ahi	alone	ʔ a h i
+amb	alone	ʔ a m b
+ini	alone	ʔ i n i
+hu	alone	h u
+pat	alone	p a t
+gh	alone	ɡ h
+ih	alone	ʔ i h
+uwa	alone	ʔ u w a
+gal	alone	ɡ a l
+ao	alone	ʔ a o
+pin	alone	p i n
+rt	alone	ɾ t
+oy	alone	ʔ o j
+nsi	alone	n s i
+aan	alone	ʔ a a n
+sk	alone	s k
+ob	alone	ʔ o b
+op	alone	ʔ o p
+ru	alone	ɾ u
+mas	alone	m a s
+isi	alone	ʔ i s i
+lam	alone	l a m
+ano	alone	ʔ a n o
+ter	alone	t e ɾ
+ada	alone	ʔ a d a
+lag	alone	l a ɡ
+ism	alone	ʔ i s m
+amp	alone	ʔ a m p
+abi	alone	ʔ a b i
+nto	alone	n t o
+ngi	alone	ŋ i
+kt	alone	k t
+dy	alone	d j
+ura	alone	ʔ u ɾ a
+iga	alone	ʔ i ɡ a
+j	alone	d͡ʒ
+lab	alone	l a b
+lat	alone	l a t
+int	alone	ʔ i n t
+abu	alone	ʔ a b u
+smo	alone	s m o
+pas	alone	p a s
+par	alone	p a ɾ
+lik	alone	l i k
+ke	alone	k e
+z	alone	z
+ans	alone	ʔ a n s
+mba	alone	m b a
+lak	alone	l a k
+pl	alone	p l
+sp	alone	s p
+mak	alone	m a k
+wan	alone	w a n
+kon	alone	k o n
+kl	alone	k l
+agi	alone	ʔ a ɡ i
+nis	alone	n i s
+au	alone	ʔ a u
+mar	alone	m a ɾ
+kap	alone	k a p
+ras	alone	ɾ a s
+f	alone	f
+gr	alone	ɡ ɾ
+gs	alone	ɡ s
+kar	alone	k a ɾ
+lit	alone	l i t
+alo	alone	ʔ a l o
+ed	alone	ʔ e d
+api	alone	ʔ a p i
+gl	alone	ɡ l
+ami	alone	ʔ a m i
+iti	alone	ʔ i t i
+uha	alone	ʔ u h a
+br	alone	b ɾ
+ida	alone	ʔ i d a
+ipa	alone	ʔ i p a
+aki	alone	ʔ a k i
+dal	alone	d a l
+lay	alone	l a j
+dor	alone	d o ɾ
+ac	alone	ʔ a k
+est	alone	ʔ e s t
+ryo	alone	ɾ j o
+res	alone	ɾ e s
+kab	alone	k a b
+lya	alone	l j a
+ens	alone	ʔ e n s
+bul	alone	b u l
+sya	alone	ʃ a
+gin	alone	ɡ i n
+una	alone	ʔ u n a
+iw	alone	ʔ i w
+uy	alone	ʔ u j
+kul	alone	k u l
+nal	alone	n a l
+ulo	alone	ʔ u l o
+bay	alone	b a j
+mpa	alone	m p a
+tag	alone	t a ɡ
+agu	alone	ʔ a ɡ u
+ily	alone	ʔ i l j
+iba	alone	ʔ i b a
+sik	alone	s i k
+min	alone	m i n
+ima	alone	ʔ i m a
+bl	alone	b l
+ep	alone	ʔ e p
+ey	alone	ʔ e j
+gas	alone	ɡ a s
+tra	alone	t ɾ a
+mam	alone	m a m
+ud	alone	ʔ u d
+sis	alone	s i s
+bil	alone	b i l
+agk	alone	ʔ a ɡ k
+dad	alone	d a d
+bas	alone	b a s
+bat	alone	b a t
+nak	alone	n a k
+ira	alone	ʔ i ɾ a
+law	alone	l a w
+nin	alone	n i n
+uli	alone	ʔ u l i
+bin	alone	b i n
+sti	alone	s t i
+hal	alone	h a l
+kam	alone	k a m
+olo	alone	ʔ o l o
+eg	alone	ʔ e ɡ
+rin	alone	ɾ i n
+wal	alone	w a l
+rs	alone	ɾ s
+ino	alone	ʔ i n o
+sak	alone	s a k
+sil	alone	s i l
+sen	alone	s e n
+sam	alone	s a m
+tis	alone	t i s
+kr	alone	k ɾ
+ser	alone	s e ɾ
+kum	alone	k u m
+uta	alone	ʔ u t a
+eb	alone	ʔ e b
+lim	alone	l i m
+nl	alone	n l
+ind	alone	ʔ i n d
+ast	alone	ʔ a s t
+rd	alone	ɾ d
+gp	alone	ɡ p
+ipi	alone	ʔ i p i
+gt	alone	ɡ t
+ll	alone	l l
+eks	alone	ʔ e k s
+nas	alone	n a s
+ua	alone	ʔ u a
+bag	alone	b a ɡ
+ndi	alone	n d i
+atu	alone	ʔ a t u
+tak	alone	t a k
+umi	alone	ʔ u m i
+ary	alone	ʔ a ɾ j
+oh	alone	ʔ o h
+ako	alone	ʔ a k o
+co	alone	k o
+ui	alone	ʔ u i
+kak	alone	k a k
+tas	alone	t a s
+lar	alone	l a ɾ
+abo	alone	ʔ a b o
+ibi	alone	ʔ i b i
+lap	alone	l a p
+per	alone	p e ɾ
+uka	alone	ʔ u k a
+ksi	alone	k s i
+ato	alone	ʔ a t o
+lum	alone	l u m
+tay	alone	t a j
+lt	alone	l t
+ora	alone	ʔ o ɾ a
+ags	alone	ʔ a ɡ s
+ris	alone	ɾ i s
+pak	alone	p a k
+uga	alone	ʔ u ɡ a
+tab	alone	t a b
+ona	alone	ʔ o n a
+rad	alone	ɾ a d
+nag	alone	n a ɡ
+gw	alone	ɡ w
+kin	alone	k i n
+hay	alone	h a j
+iwa	alone	ʔ i w a
+ayo	alone	ʔ a j o
+kom	alone	k o m
+ale	alone	ʔ a l e
+ngh	alone	ŋ h
+ain	alone	ʔ a i n
+dan	alone	d a n
+mab	alone	m a b
+ch	alone	t͡ʃ
+agp	alone	ʔ a ɡ p
+nya	alone	ɲ a
+lun	alone	l u n
+pit	alone	p i t
+gb	alone	ɡ b
+tsa	alone	t s a
+uwe	alone	ʔ u w e
+may	alone	m a j
+isy	alone	ʔ i ʃ
+bak	alone	b a k
+yen	alone	j e n
+tor	alone	t o ɾ
+yi	alone	j i
+lal	alone	l a l
+rm	alone	ɾ m
+say	alone	s a j
+lig	alone	l i ɡ
+mon	alone	m o n
+nsa	alone	n s a
+ber	alone	b e ɾ
+lm	alone	l m
+git	alone	ɡ i t
+ito	alone	ʔ i t o
+ela	alone	ʔ e l a
+gga	alone	ɡ ɡ a
+str	alone	s t ɾ
+lon	alone	l o n
+hiy	alone	h i j
+eh	alone	ʔ e h
+ibo	alone	ʔ i b o
+apo	alone	ʔ a p o
+rn	alone	ɾ n
+amo	alone	ʔ a m o
+anu	alone	ʔ a n u
+ilo	alone	ʔ i l o
+eri	alone	ʔ e ɾ i
+tib	alone	t i b
+lib	alone	l i b
+bab	alone	b a b
+io	alone	ʔ i o
+lad	alone	l a d
+log	alone	l o ɡ
+ge	alone	ɡ e
+men	alone	m e n
+tar	alone	t a ɾ
+aro	alone	ʔ a ɾ o
+tro	alone	t ɾ o
+bis	alone	b i s
+tad	alone	t a d
+iha	alone	ʔ i h a
+amu	alone	ʔ a m u
+umu	alone	ʔ u m u
+dis	alone	d i s
+maa	alone	m a a
+mah	alone	m a h
+ndo	alone	n d o
+big	alone	b i ɡ
+dr	alone	d ɾ
+son	alone	s o n
+ulu	alone	ʔ u l u
+ins	alone	ʔ i n s
+imp	alone	ʔ i m p
+bar	alone	b a ɾ
+rya	alone	ɾ j a
+lah	alone	l a h
+mis	alone	m i s
+gaw	alone	ɡ a w
+nay	alone	n a j
+sum	alone	s u m
+aku	alone	ʔ a k u
+ump	alone	ʔ u m p
+kay	alone	k a j
+sas	alone	s a s
+vi	alone	v i
+gha	alone	ɡ h a
+gpa	alone	ɡ p a
+gat	alone	ɡ a t
+gn	alone	ɡ n
+eta	alone	ʔ e t a
+tam	alone	t a m
+sab	alone	s a b
+ld	alone	l d
+end	alone	ʔ e n d
+ete	alone	ʔ e t e
+aks	alone	ʔ a k s
+ram	alone	ɾ a m
+til	alone	t i l
+bun	alone	b u n
+gra	alone	ɡ ɾ a
+tat	alone	t a t
+mad	alone	m a d
+kad	alone	k a d
+diy	alone	d i j
+kla	alone	k l a
+tri	alone	t ɾ i
+adi	alone	ʔ a d i
+ase	alone	ʔ a s e
+anl	alone	ʔ a n l
+gay	alone	ɡ a j
+pam	alone	p a m
+asu	alone	ʔ a s u
+eo	alone	ʔ e o
+gla	alone	ɡ l a
+iye	alone	ʔ i j e
+sag	alone	s a ɡ
+ste	alone	s t e
+awi	alone	ʔ a w i
+lip	alone	l i p
+oli	alone	ʔ o l i
+ian	alone	ʔ i a n
+usa	alone	ʔ u s a
+sig	alone	s i ɡ
+pon	alone	p o n
+sul	alone	s u l
+ont	alone	ʔ o n t
+map	alone	m a p
+uti	alone	ʔ u t i
+pik	alone	p i k
+ton	alone	t o n
+pis	alone	p i s
+bol	alone	b o l
+tur	alone	t u ɾ
+lyo	alone	l j o
+ron	alone	ɾ o n
+ue	alone	ʔ u e
+mul	alone	m u l
+alm	alone	ʔ a l m
+ats	alone	ʔ a t s
+kw	alone	k w
+nat	alone	n a t
+sad	alone	s a d
+umb	alone	ʔ u m b
+aso	alone	ʔ a s o
+ons	alone	ʔ o n s
+any	alone	ʔ a ɲ
+lb	alone	l b
+sap	alone	s a p
+kaw	alone	k a w
+ola	alone	ʔ o l a
+agt	alone	ʔ a ɡ t
+sar	alone	s a ɾ
+yas	alone	j a s
+der	alone	d e ɾ
+lid	alone	l i d
+agh	alone	ʔ a ɡ h
+rk	alone	ɾ k
+uni	alone	ʔ u n i
+nde	alone	n d e
+are	alone	ʔ a ɾ e
+gar	alone	ɡ a ɾ
+ago	alone	ʔ a ɡ o
+gwa	alone	ɡ w a
+pil	alone	p i l
+kuw	alone	k u w
+din	alone	d i n
+pun	alone	p u n
+tul	alone	t u l

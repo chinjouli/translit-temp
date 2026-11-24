@@ -1,0 +1,12 @@
+% Kana IPA as the loanword input writes it. epitran reads each kana alone, so its
+% word-initial allophones fire: ラ = ɖa, ザ = d͡za, ジ = d͡ʑi -> ɾ z ʑ
+ɖ -> ɾ / _
+d͡z -> z / _
+d͡ʑ -> ʑ / _
+% Palatal onsets as consonant + j (キャ kʲa = kja), implied before i (キ = ki)
+ʲ -> 0 / _ i
+ʲ -> j / _
+ɲ -> n / _ i
+ɲ -> nj / _
+ç -> h / _ i
+ç -> hj / _

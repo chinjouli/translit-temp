@@ -1,0 +1,1591 @@
+gram	context	phones
+𐌰	between_consonants	a
+𐌰	alone	a
+𐌹	between_vowels	i
+𐌹	between_consonants	i
+𐌹	alone	i
+𐌽	between_vowels	n
+𐌽	between_consonants	n
+𐌽	alone	n
+𐍃	between_vowels	s
+𐍃	between_consonants	s
+𐍃	alone	s
+𐌰𐌽	between_consonants	a n
+𐌰𐌽	alone	a n
+𐌿	between_vowels	u
+𐌿	between_consonants	u
+𐌿	alone	u
+𐍂	between_vowels	r
+𐍂	between_consonants	r
+𐍂	alone	r
+𐌳	between_vowels	d
+𐌳	between_consonants	d
+𐌳	alone	d
+𐌲	between_vowels	g
+𐌲	between_consonants	g
+𐌲	alone	g
+𐌸	between_vowels	þ
+𐌸	between_consonants	þ
+𐌸	alone	þ
+𐌴	between_vowels	ē
+𐌴	between_consonants	ē
+𐌴	alone	ē
+𐍄	between_vowels	t
+𐍄	between_consonants	t
+𐍄	alone	t
+𐌾	between_vowels	j
+𐌾	between_consonants	j
+𐌾	alone	j
+𐍆	between_vowels	f
+𐍆	between_consonants	f
+𐍆	alone	f
+𐌻	between_vowels	l
+𐌻	alone	l
+𐌲𐌰	between_consonants	g a
+𐌲𐌰	alone	g a
+𐍅	between_vowels	w
+𐍅	between_consonants	w
+𐍅	alone	w
+𐌼	between_vowels	m
+𐌼	between_consonants	m
+𐌼	alone	m
+𐌰𐌹	between_consonants	a i
+𐌰𐌹	alone	a i
+𐌱	between_vowels	b
+𐌱	between_consonants	b
+𐌱	alone	b
+𐌷	between_vowels	h
+𐌷	between_consonants	h
+𐌷	alone	h
+𐌾𐌰	between_consonants	j a
+𐌾𐌰	alone	j a
+𐌰𐌿	between_consonants	a u
+𐌰𐌿	alone	a u
+𐌴𐌹	between_vowels	ē i
+𐌴𐌹	between_consonants	ē i
+𐌴𐌹	alone	ē i
+𐌽𐌳	between_vowels	n d
+𐌽𐌳	between_consonants	n d
+𐌽𐌳	alone	n d
+𐌹𐌽	between_vowels	i n
+𐌹𐌽	between_consonants	i n
+𐌹𐌽	alone	i n
+𐌾𐌰𐌽	between_vowels	j a n
+𐌾𐌰𐌽	between_consonants	j a n
+𐌾𐌰𐌽	alone	j a n
+𐍉	between_vowels	ō
+𐍉	between_consonants	ō
+𐍉	alone	ō
+𐌹𐍃	between_vowels	i s
+𐌹𐍃	between_consonants	i s
+𐌹𐍃	alone	i s
+𐌳𐌰	between_consonants	d a
+𐌳𐌰	alone	d a
+𐌽𐌰	between_consonants	n a
+𐌽𐌰	alone	n a
+𐍂𐌰	between_consonants	r a
+𐍂𐌰	alone	r a
+𐌺	between_vowels	k
+𐌺	between_consonants	k
+𐌺	alone	k
+𐌰𐌽𐌳	between_consonants	a n d
+𐌰𐌽𐌳	alone	a n d
+𐌹𐌸	between_vowels	i þ
+𐌹𐌸	between_consonants	i þ
+𐌹𐌸	alone	i þ
+𐌿𐍂	between_vowels	u r
+𐌿𐍂	between_consonants	u r
+𐌿𐍂	alone	u r
+𐍅𐌰	between_consonants	w a
+𐍅𐌰	alone	w a
+𐍆𐌰	between_consonants	f a
+𐍆𐌰	alone	f a
+𐌰𐌿𐍂	between_consonants	a u r
+𐌰𐌿𐍂	alone	a u r
+𐍄𐌰	between_consonants	t a
+𐍄𐌰	alone	t a
+𐌽𐍃	between_vowels	n s
+𐌽𐍃	between_consonants	n s
+𐌽𐍃	alone	n s
+𐌹𐌳	between_vowels	i d
+𐌹𐌳	between_consonants	i d
+𐌹𐌳	alone	i d
+𐌿𐌽	between_vowels	u n
+𐌿𐌽	between_consonants	u n
+𐌿𐌽	alone	u n
+𐌰𐍂	between_consonants	a r
+𐌰𐍂	alone	a r
+𐌱𐌰	between_consonants	b a
+𐌱𐌰	alone	b a
+𐌰𐌼	between_consonants	a m
+𐌰𐌼	alone	a m
+𐌿𐍃	between_vowels	u s
+𐌿𐍃	between_consonants	u s
+𐌿𐍃	alone	u s
+𐌰𐌲	between_consonants	a g
+𐌰𐌲	alone	a g
+𐌼𐌰	between_consonants	m a
+𐌼𐌰	alone	m a
+𐍃𐍄	between_vowels	s t
+𐍃𐍄	between_consonants	s t
+𐍃𐍄	alone	s t
+𐌱𐌹	between_vowels	b i
+𐌱𐌹	between_consonants	b i
+𐌱𐌹	alone	b i
+𐍂𐌹	between_vowels	r i
+𐍂𐌹	between_consonants	r i
+𐍂𐌹	alone	r i
+𐌰𐌷	between_consonants	a h
+𐌰𐌷	alone	a h
+𐍆𐍂	between_vowels	f r
+𐍆𐍂	between_consonants	f r
+𐍆𐍂	alone	f r
+𐌻𐌰	alone	l a
+𐌰𐍃	between_consonants	a s
+𐌰𐍃	alone	a s
+𐌷𐌰	between_consonants	h a
+𐌷𐌰	alone	h a
+𐌳𐌹	between_vowels	d i
+𐌳𐌹	between_consonants	d i
+𐌳𐌹	alone	d i
+𐌸𐌰	between_consonants	þ a
+𐌸𐌰	alone	þ a
+𐍃𐌰	between_consonants	s a
+𐍃𐌰	alone	s a
+𐌼𐌹	between_vowels	m i
+𐌼𐌹	between_consonants	m i
+𐌼𐌹	alone	m i
+𐍅𐌹	between_vowels	w i
+𐍅𐌹	between_consonants	w i
+𐍅𐌹	alone	w i
+𐌰𐌱	between_consonants	a b
+𐌰𐌱	alone	a b
+𐌳𐍃	between_vowels	d s
+𐌳𐍃	between_consonants	d s
+𐌳𐍃	alone	d s
+𐌹𐍂	between_vowels	i r
+𐌹𐍂	between_consonants	i r
+𐌹𐍂	alone	i r
+𐍆𐌰𐌿	between_vowels	f a u
+𐍆𐌰𐌿	between_consonants	f a u
+𐍆𐌰𐌿	alone	f a u
+𐌰𐌻	alone	a l
+𐌰𐌽𐍃	between_consonants	a n s
+𐌰𐌽𐍃	alone	a n s
+𐌰𐍄	between_consonants	a t
+𐌰𐍄	alone	a t
+𐌺𐌰	between_consonants	k a
+𐌺𐌰	alone	k a
+𐌽𐌳𐍃	between_vowels	n d s
+𐌽𐌳𐍃	between_consonants	n d s
+𐌽𐌳𐍃	alone	n d s
+𐌹𐌳𐌰	between_consonants	i d a
+𐌹𐌳𐌰	alone	i d a
+𐌽𐌰𐌽	between_vowels	n a n
+𐌽𐌰𐌽	between_consonants	n a n
+𐌽𐌰𐌽	alone	n a n
+𐌳𐌰𐌽	between_vowels	d a n
+𐌳𐌰𐌽	between_consonants	d a n
+𐌳𐌰𐌽	alone	d a n
+𐌽𐌳𐌰	between_consonants	n d a
+𐌽𐌳𐌰	alone	n d a
+𐌰𐌽𐌰	between_consonants	a n a
+𐌰𐌽𐌰	alone	a n a
+𐌹𐌲	between_vowels	i g
+𐌹𐌲	between_consonants	i g
+𐌹𐌲	alone	i g
+𐌽𐌹	between_vowels	n i
+𐌽𐌹	between_consonants	n i
+𐌽𐌹	alone	n i
+𐌴𐌹𐌽	between_vowels	ē i n
+𐌴𐌹𐌽	between_consonants	ē i n
+𐌴𐌹𐌽	alone	ē i n
+𐌸𐍃	between_vowels	þ s
+𐌸𐍃	between_consonants	þ s
+𐌸𐍃	alone	þ s
+𐌳𐌴	between_vowels	d ē
+𐌳𐌴	between_consonants	d ē
+𐌳𐌴	alone	d ē
+𐌹𐌻	between_vowels	i l
+𐌹𐌻	alone	i l
+𐌹𐍄	between_vowels	i t
+𐌹𐍄	between_consonants	i t
+𐌹𐍄	alone	i t
+𐌰𐌹𐍂	between_consonants	a i r
+𐌰𐌹𐍂	alone	a i r
+𐍆𐍂𐌰	between_consonants	f r a
+𐍆𐍂𐌰	alone	f r a
+𐌳𐌿	between_vowels	d u
+𐌳𐌿	between_consonants	d u
+𐌳𐌿	alone	d u
+𐌳𐌾	between_vowels	d j
+𐌳𐌾	between_consonants	d j
+𐌳𐌾	alone	d j
+𐌹𐍅	between_vowels	i w
+𐌹𐍅	between_consonants	i w
+𐌹𐍅	alone	i w
+𐌹𐌿	between_vowels	i u
+𐌹𐌿	between_consonants	i u
+𐌹𐌿	alone	i u
+𐌿𐌻	between_vowels	u l
+𐌿𐌻	alone	u l
+𐌻𐌹	between_vowels	l i
+𐌻𐌹	alone	l i
+𐍉𐌽	between_vowels	ō n
+𐍉𐌽	between_consonants	ō n
+𐍉𐌽	alone	ō n
+𐌷𐌿	between_vowels	h u
+𐌷𐌿	between_consonants	h u
+𐌷𐌿	alone	h u
+𐌲𐌰𐌱	between_vowels	g a b
+𐌲𐌰𐌱	between_consonants	g a b
+𐌲𐌰𐌱	alone	g a b
+𐌵	between_vowels	q
+𐌵	between_consonants	q
+𐌵	alone	q
+𐌰𐌸	between_consonants	a þ
+𐌰𐌸	alone	a þ
+𐍃𐌺	between_vowels	s k
+𐍃𐌺	between_consonants	s k
+𐍃𐌺	alone	s k
+𐌹𐌷	between_vowels	i h
+𐌹𐌷	between_consonants	i h
+𐌹𐌷	alone	i h
+𐍀	between_vowels	p
+𐍀	between_consonants	p
+𐍀	alone	p
+𐌲𐌲	between_vowels	g g
+𐌲𐌲	between_consonants	g g
+𐌲𐌲	alone	g g
+𐌰𐍅	between_consonants	a w
+𐌰𐍅	alone	a w
+𐍅𐌴	between_vowels	w ē
+𐍅𐌴	between_consonants	w ē
+𐍅𐌴	alone	w ē
+𐌰𐌱𐌰	between_consonants	a b a
+𐌰𐌱𐌰	alone	a b a
+𐍂𐌿	between_vowels	r u
+𐍂𐌿	between_consonants	r u
+𐍂𐌿	alone	r u
+𐌽𐍉	between_vowels	n ō
+𐌽𐍉	between_consonants	n ō
+𐌽𐍉	alone	n ō
+𐌼𐌹𐌸	between_vowels	m i þ
+𐌼𐌹𐌸	between_consonants	m i þ
+𐌼𐌹𐌸	alone	m i þ
+𐍄𐌰𐌽	between_vowels	t a n
+𐍄𐌰𐌽	between_consonants	t a n
+𐍄𐌰𐌽	alone	t a n
+𐌽𐌽	between_vowels	n n
+𐌽𐌽	between_consonants	n n
+𐌽𐌽	alone	n n
+𐍄𐌹	between_vowels	t i
+𐍄𐌹	between_consonants	t i
+𐍄𐌹	alone	t i
+𐌹𐌸𐍃	between_vowels	i þ s
+𐌹𐌸𐍃	between_consonants	i þ s
+𐌹𐌸𐍃	alone	i þ s
+𐌳𐌹𐍃	between_vowels	d i s
+𐌳𐌹𐍃	between_consonants	d i s
+𐌳𐌹𐍃	alone	d i s
+𐌿𐌷	between_vowels	u h
+𐌿𐌷	between_consonants	u h
+𐌿𐌷	alone	u h
+𐍅𐌰𐌽	between_vowels	w a n
+𐍅𐌰𐌽	between_consonants	w a n
+𐍅𐌰𐌽	alone	w a n
+𐌲𐌰𐌽	between_vowels	g a n
+𐌲𐌰𐌽	between_consonants	g a n
+𐌲𐌰𐌽	alone	g a n
+𐌿𐍂𐌰	between_consonants	u r a
+𐌿𐍂𐌰	alone	u r a
+𐌳𐌾𐌰	between_consonants	d j a
+𐌳𐌾𐌰	alone	d j a
+𐌹𐌼	between_vowels	i m
+𐌹𐌼	between_consonants	i m
+𐌹𐌼	alone	i m
+𐌰𐌹𐌷	between_consonants	a i h
+𐌰𐌹𐌷	alone	a i h
+𐍃𐍄𐌰	between_consonants	s t a
+𐍃𐍄𐌰	alone	s t a
+𐍄𐌰𐌹	between_vowels	t a i
+𐍄𐌰𐌹	between_consonants	t a i
+𐍄𐌰𐌹	alone	t a i
+𐌰𐌳	between_consonants	a d
+𐌰𐌳	alone	a d
+𐍂𐌴	between_vowels	r ē
+𐍂𐌴	between_consonants	r ē
+𐍂𐌴	alone	r ē
+𐌿𐌼	between_vowels	u m
+𐌿𐌼	between_consonants	u m
+𐌿𐌼	alone	u m
+𐌹𐍃𐍄	between_vowels	i s t
+𐌹𐍃𐍄	between_consonants	i s t
+𐌹𐍃𐍄	alone	i s t
+𐌳𐌴𐌹	between_vowels	d ē i
+𐌳𐌴𐌹	between_consonants	d ē i
+𐌳𐌴𐌹	alone	d ē i
+𐍃𐌹	between_vowels	s i
+𐍃𐌹	between_consonants	s i
+𐍃𐌹	alone	s i
+𐌹𐌽𐍃	between_vowels	i n s
+𐌹𐌽𐍃	between_consonants	i n s
+𐌹𐌽𐍃	alone	i n s
+𐌻𐌴	between_vowels	l ē
+𐌻𐌴	alone	l ē
+𐌰𐌺	between_consonants	a k
+𐌰𐌺	alone	a k
+𐌴𐌹𐍃	between_vowels	ē i s
+𐌴𐌹𐍃	between_consonants	ē i s
+𐌴𐌹𐍃	alone	ē i s
+𐌹𐌺	between_vowels	i k
+𐌹𐌺	between_consonants	i k
+𐌹𐌺	alone	i k
+𐌳𐍂	between_vowels	d r
+𐌳𐍂	between_consonants	d r
+𐌳𐍂	alone	d r
+𐍄𐌾	between_vowels	t j
+𐍄𐌾	between_consonants	t j
+𐍄𐌾	alone	t j
+𐍆𐌹	between_vowels	f i
+𐍆𐌹	between_consonants	f i
+𐍆𐌹	alone	f i
+𐍂𐍉	between_vowels	r ō
+𐍂𐍉	between_consonants	r ō
+𐍂𐍉	alone	r ō
+𐌰𐌼𐌰	between_consonants	a m a
+𐌰𐌼𐌰	alone	a m a
+𐌲𐌰𐍃	between_vowels	g a s
+𐌲𐌰𐍃	between_consonants	g a s
+𐌲𐌰𐍃	alone	g a s
+𐌶	between_vowels	z
+𐌶	between_consonants	z
+𐌶	alone	z
+𐍈	between_vowels	ƕ
+𐍈	between_consonants	ƕ
+𐍈	alone	ƕ
+𐌸𐌰𐌽	between_vowels	þ a n
+𐌸𐌰𐌽	between_consonants	þ a n
+𐌸𐌰𐌽	alone	þ a n
+𐌹𐌽𐌰	between_consonants	i n a
+𐌹𐌽𐌰	alone	i n a
+𐍄𐌾𐌰	between_consonants	t j a
+𐍄𐌾𐌰	alone	t j a
+𐌰𐍂𐌰	between_consonants	a r a
+𐌰𐍂𐌰	alone	a r a
+𐌼𐌰𐌽	between_vowels	m a n
+𐌼𐌰𐌽	between_consonants	m a n
+𐌼𐌰𐌽	alone	m a n
+𐌿𐌽𐌳	between_vowels	u n d
+𐌿𐌽𐌳	between_consonants	u n d
+𐌿𐌽𐌳	alone	u n d
+𐌹𐍄𐌰	between_consonants	i t a
+𐌹𐍄𐌰	alone	i t a
+𐌲𐌰𐌷	between_vowels	g a h
+𐌲𐌰𐌷	between_consonants	g a h
+𐌲𐌰𐌷	alone	g a h
+𐍂𐌰𐌹	between_vowels	r a i
+𐍂𐌰𐌹	between_consonants	r a i
+𐍂𐌰𐌹	alone	r a i
+𐍂𐌳	between_vowels	r d
+𐍂𐌳	between_consonants	r d
+𐍂𐌳	alone	r d
+𐌰𐌷𐌰	between_consonants	a h a
+𐌰𐌷𐌰	alone	a h a
+𐌽𐌸	between_vowels	n þ
+𐌽𐌸	between_consonants	n þ
+𐌽𐌸	alone	n þ
+𐍅𐌴𐌹	between_vowels	w ē i
+𐍅𐌴𐌹	between_consonants	w ē i
+𐍅𐌴𐌹	alone	w ē i
+𐍆𐌰𐌹	between_vowels	f a i
+𐍆𐌰𐌹	between_consonants	f a i
+𐍆𐌰𐌹	alone	f a i
+𐍉𐌳	between_vowels	ō d
+𐍉𐌳	between_consonants	ō d
+𐍉𐌳	alone	ō d
+𐌴𐌳	between_vowels	ē d
+𐌴𐌳	between_consonants	ē d
+𐌴𐌳	alone	ē d
+𐍃𐌽	between_vowels	s n
+𐍃𐌽	between_consonants	s n
+𐍃𐌽	alone	s n
+𐍃𐍅	between_vowels	s w
+𐍃𐍅	between_consonants	s w
+𐍃𐍅	alone	s w
+𐍂𐌴𐌹	between_vowels	r ē i
+𐍂𐌴𐌹	between_consonants	r ē i
+𐍂𐌴𐌹	alone	r ē i
+𐌰𐍆	between_consonants	a f
+𐌰𐍆	alone	a f
+𐌻𐌾	between_vowels	l j
+𐌻𐌾	alone	l j
+𐌸𐌴	between_vowels	þ ē
+𐌸𐌴	between_consonants	þ ē
+𐌸𐌴	alone	þ ē
+𐌲𐌹	between_vowels	g i
+𐌲𐌹	between_consonants	g i
+𐌲𐌹	alone	g i
+𐍂𐌹𐌽	between_vowels	r i n
+𐍂𐌹𐌽	between_consonants	r i n
+𐍂𐌹𐌽	alone	r i n
+𐌿𐌲	between_vowels	u g
+𐌿𐌲	between_consonants	u g
+𐌿𐌲	alone	u g
+𐌽𐌾	between_vowels	n j
+𐌽𐌾	between_consonants	n j
+𐌽𐌾	alone	n j
+𐌲𐌰𐍂	between_vowels	g a r
+𐌲𐌰𐍂	between_consonants	g a r
+𐌲𐌰𐍂	alone	g a r
+𐌷𐌿𐌽	between_vowels	h u n
+𐌷𐌿𐌽	between_consonants	h u n
+𐌷𐌿𐌽	alone	h u n
+𐌹𐍅𐌰	between_consonants	i w a
+𐌹𐍅𐌰	alone	i w a
+𐍂𐌰𐌼	between_vowels	r a m
+𐍂𐌰𐌼	between_consonants	r a m
+𐍂𐌰𐌼	alone	r a m
+𐌵𐌹	between_vowels	q i
+𐌵𐌹	between_consonants	q i
+𐌵𐌹	alone	q i
+𐌽𐌴	between_vowels	n ē
+𐌽𐌴	between_consonants	n ē
+𐌽𐌴	alone	n ē
+𐌼𐌴	between_vowels	m ē
+𐌼𐌴	between_consonants	m ē
+𐌼𐌴	alone	m ē
+𐌲𐌰𐌼	between_vowels	g a m
+𐌲𐌰𐌼	between_consonants	g a m
+𐌲𐌰𐌼	alone	g a m
+𐌸𐌾	between_vowels	þ j
+𐌸𐌾	between_consonants	þ j
+𐌸𐌾	alone	þ j
+𐌻𐌴𐌹	between_vowels	l ē i
+𐌻𐌴𐌹	alone	l ē i
+𐌰𐌲𐌲	between_consonants	a g g
+𐌰𐌲𐌲	alone	a g g
+𐌲𐍂	between_vowels	g r
+𐌲𐍂	between_consonants	g r
+𐌲𐍂	alone	g r
+𐍂𐌰𐌲	between_vowels	r a g
+𐍂𐌰𐌲	between_consonants	r a g
+𐍂𐌰𐌲	alone	r a g
+𐌻𐌰𐌿	between_vowels	l a u
+𐌻𐌰𐌿	alone	l a u
+𐌾𐌰𐌹	between_vowels	j a i
+𐌾𐌰𐌹	between_consonants	j a i
+𐌾𐌰𐌹	alone	j a i
+𐌹𐌽𐌽	between_vowels	i n n
+𐌹𐌽𐌽	between_consonants	i n n
+𐌹𐌽𐌽	alone	i n n
+𐌽𐌽𐌰	between_consonants	n n a
+𐌽𐌽𐌰	alone	n n a
+𐌱𐌹𐍃	between_vowels	b i s
+𐌱𐌹𐍃	between_consonants	b i s
+𐌱𐌹𐍃	alone	b i s
+𐌿𐍆	between_vowels	u f
+𐌿𐍆	between_consonants	u f
+𐌿𐍆	alone	u f
+𐌴𐌹𐌸	between_vowels	ē i þ
+𐌴𐌹𐌸	between_consonants	ē i þ
+𐌴𐌹𐌸	alone	ē i þ
+𐌳𐌰𐌹	between_vowels	d a i
+𐌳𐌰𐌹	between_consonants	d a i
+𐌳𐌰𐌹	alone	d a i
+𐌱𐍂	between_vowels	b r
+𐌱𐍂	between_consonants	b r
+𐌱𐍂	alone	b r
+𐌰𐍃𐍄	between_consonants	a s t
+𐌰𐍃𐍄	alone	a s t
+𐌾𐍉	between_vowels	j ō
+𐌾𐍉	between_consonants	j ō
+𐌾𐍉	alone	j ō
+𐌱𐌻	between_vowels	b l
+𐌱𐌻	alone	b l
+𐍉𐍃	between_vowels	ō s
+𐍉𐍃	between_consonants	ō s
+𐍉𐍃	alone	ō s
+𐌷𐍄	between_vowels	h t
+𐌷𐍄	between_consonants	h t
+𐌷𐍄	alone	h t
+𐌰𐌹𐌽	between_consonants	a i n
+𐌰𐌹𐌽	alone	a i n
+𐍈𐌰	between_consonants	ƕ a
+𐍈𐌰	alone	ƕ a
+𐌺𐌰𐌽	between_vowels	k a n
+𐌺𐌰𐌽	between_consonants	k a n
+𐌺𐌰𐌽	alone	k a n
+𐍆𐌿	between_vowels	f u
+𐍆𐌿	between_consonants	f u
+𐍆𐌿	alone	f u
+𐌷𐌽	between_vowels	h n
+𐌷𐌽	between_consonants	h n
+𐌷𐌽	alone	h n
+𐌽𐌾𐌰	between_consonants	n j a
+𐌽𐌾𐌰	alone	n j a
+𐍂𐌽	between_vowels	r n
+𐍂𐌽	between_consonants	r n
+𐍂𐌽	alone	r n
+𐌻𐌾𐌰	alone	l j a
+𐌸𐌾𐌰	between_consonants	þ j a
+𐌸𐌾𐌰	alone	þ j a
+𐍄𐍂	between_vowels	t r
+𐍄𐍂	between_consonants	t r
+𐍄𐍂	alone	t r
+𐍂𐌰𐌽	between_vowels	r a n
+𐍂𐌰𐌽	between_consonants	r a n
+𐍂𐌰𐌽	alone	r a n
+𐌱𐌰𐌽	between_vowels	b a n
+𐌱𐌰𐌽	between_consonants	b a n
+𐌱𐌰𐌽	alone	b a n
+𐌹𐍃𐌰	between_consonants	i s a
+𐌹𐍃𐌰	alone	i s a
+𐌰𐌹𐌳	between_consonants	a i d
+𐌰𐌹𐌳	alone	a i d
+𐌰𐍄𐌰	between_consonants	a t a
+𐌰𐍄𐌰	alone	a t a
+𐌹𐌰	between_consonants	i a
+𐌹𐌰	alone	i a
+𐌺𐌿	between_vowels	k u
+𐌺𐌿	between_consonants	k u
+𐌺𐌿	alone	k u
+𐌰𐌹𐍃	between_consonants	a i s
+𐌰𐌹𐍃	alone	a i s
+𐌳𐌴𐌳	between_vowels	d ē d
+𐌳𐌴𐌳	between_consonants	d ē d
+𐌳𐌴𐌳	alone	d ē d
+𐌷𐍃	between_vowels	h s
+𐌷𐍃	between_consonants	h s
+𐌷𐍃	alone	h s
+𐌸𐌴𐌹	between_vowels	þ ē i
+𐌸𐌴𐌹	between_consonants	þ ē i
+𐌸𐌴𐌹	alone	þ ē i
+𐌸𐌿	between_vowels	þ u
+𐌸𐌿	between_consonants	þ u
+𐌸𐌿	alone	þ u
+𐌰𐌿𐌷	between_consonants	a u h
+𐌰𐌿𐌷	alone	a u h
+𐌳𐌰𐌿	between_vowels	d a u
+𐌳𐌰𐌿	between_consonants	d a u
+𐌳𐌰𐌿	alone	d a u
+𐌷𐌰𐌹	between_vowels	h a i
+𐌷𐌰𐌹	between_consonants	h a i
+𐌷𐌰𐌹	alone	h a i
+𐍂𐌾	between_vowels	r j
+𐍂𐌾	between_consonants	r j
+𐍂𐌾	alone	r j
+𐍉𐌸	between_vowels	ō þ
+𐍉𐌸	between_consonants	ō þ
+𐍉𐌸	alone	ō þ
+𐌱𐌰𐌹	between_vowels	b a i
+𐌱𐌰𐌹	between_consonants	b a i
+𐌱𐌰𐌹	alone	b a i
+𐌻𐌿	between_vowels	l u
+𐌻𐌿	alone	l u
+𐌷𐌹	between_vowels	h i
+𐌷𐌹	between_consonants	h i
+𐌷𐌹	alone	h i
+𐍃𐌰𐌽	between_vowels	s a n
+𐍃𐌰𐌽	between_consonants	s a n
+𐍃𐌰𐌽	alone	s a n
+𐌸𐍂	between_vowels	þ r
+𐌸𐍂	between_consonants	þ r
+𐌸𐍂	alone	þ r
+𐌻𐌻	between_vowels	l l
+𐌻𐌻	alone	l l
+𐌹𐌽𐍉	between_vowels	i n ō
+𐌹𐌽𐍉	between_consonants	i n ō
+𐌹𐌽𐍉	alone	i n ō
+𐌽𐌰𐌹	between_vowels	n a i
+𐌽𐌰𐌹	between_consonants	n a i
+𐌽𐌰𐌹	alone	n a i
+𐌸𐍅	between_vowels	þ w
+𐌸𐍅	between_consonants	þ w
+𐌸𐍅	alone	þ w
+𐍅𐌰𐌹	between_vowels	w a i
+𐍅𐌰𐌹	between_consonants	w a i
+𐍅𐌰𐌹	alone	w a i
+𐌽𐌳𐌹	between_vowels	n d i
+𐌽𐌳𐌹	between_consonants	n d i
+𐌽𐌳𐌹	alone	n d i
+𐌻𐌸	between_vowels	l þ
+𐌻𐌸	alone	l þ
+𐌰𐌲𐌰	between_consonants	a g a
+𐌰𐌲𐌰	alone	a g a
+𐌹𐌽𐌳	between_vowels	i n d
+𐌹𐌽𐌳	between_consonants	i n d
+𐌹𐌽𐌳	alone	i n d
+𐍅𐌰𐌿	between_vowels	w a u
+𐍅𐌰𐌿	between_consonants	w a u
+𐍅𐌰𐌿	alone	w a u
+𐍃𐍃	between_vowels	s s
+𐍃𐍃	between_consonants	s s
+𐍃𐍃	alone	s s
+𐍂𐍃	between_vowels	r s
+𐍂𐍃	between_consonants	r s
+𐍂𐍃	alone	r s
+𐍄𐍉	between_vowels	t ō
+𐍄𐍉	between_consonants	t ō
+𐍄𐍉	alone	t ō
+𐌹𐌷𐌿	between_vowels	i h u
+𐌹𐌷𐌿	between_consonants	i h u
+𐌹𐌷𐌿	alone	i h u
+𐍄𐍃	between_vowels	t s
+𐍄𐍃	between_consonants	t s
+𐍄𐍃	alone	t s
+𐌽𐍄	between_vowels	n t
+𐌽𐍄	between_consonants	n t
+𐌽𐍄	alone	n t
+𐌰𐌿𐍃	between_consonants	a u s
+𐌰𐌿𐍃	alone	a u s
+𐌽𐌸𐌰	between_consonants	n þ a
+𐌽𐌸𐌰	alone	n þ a
+𐍃𐌺𐌰	between_consonants	s k a
+𐍃𐌺𐌰	alone	s k a
+𐍄𐌴	between_vowels	t ē
+𐍄𐌴	between_consonants	t ē
+𐍄𐌴	alone	t ē
+𐌴𐌹𐌺	between_vowels	ē i k
+𐌴𐌹𐌺	between_consonants	ē i k
+𐌴𐌹𐌺	alone	ē i k
+𐌿𐌺	between_vowels	u k
+𐌿𐌺	between_consonants	u k
+𐌿𐌺	alone	u k
+𐌽𐌳𐌾	between_vowels	n d j
+𐌽𐌳𐌾	between_consonants	n d j
+𐌽𐌳𐌾	alone	n d j
+𐍂𐌾𐌰	between_consonants	r j a
+𐍂𐌾𐌰	alone	r j a
+𐌰𐌵	between_consonants	a q
+𐌰𐌵	alone	a q
+𐍄𐍅	between_vowels	t w
+𐍄𐍅	between_consonants	t w
+𐍄𐍅	alone	t w
+𐌰𐌹𐍄	between_consonants	a i t
+𐌰𐌹𐍄	alone	a i t
+𐍂𐌿𐌼	between_vowels	r u m
+𐍂𐌿𐌼	between_consonants	r u m
+𐍂𐌿𐌼	alone	r u m
+𐌹𐌳𐌴	between_vowels	i d ē
+𐌹𐌳𐌴	between_consonants	i d ē
+𐌹𐌳𐌴	alone	i d ē
+𐌴𐌳𐌿	between_vowels	ē d u
+𐌴𐌳𐌿	between_consonants	ē d u
+𐌴𐌳𐌿	alone	ē d u
+𐌿𐌸	between_vowels	u þ
+𐌿𐌸	between_consonants	u þ
+𐌿𐌸	alone	u þ
+𐌷𐌰𐌽	between_vowels	h a n
+𐌷𐌰𐌽	between_consonants	h a n
+𐌷𐌰𐌽	alone	h a n
+𐌿𐍃𐌰	between_consonants	u s a
+𐌿𐍃𐌰	alone	u s a
+𐌹𐍃𐌺	between_vowels	i s k
+𐌹𐍃𐌺	between_consonants	i s k
+𐌹𐍃𐌺	alone	i s k
+𐌰𐍅𐌰	between_consonants	a w a
+𐌰𐍅𐌰	alone	a w a
+𐍆𐌰𐍂	between_vowels	f a r
+𐍆𐌰𐍂	between_consonants	f a r
+𐍆𐌰𐍂	alone	f a r
+𐌹𐌸𐌰	between_consonants	i þ a
+𐌹𐌸𐌰	alone	i þ a
+𐌲𐌾	between_vowels	g j
+𐌲𐌾	between_consonants	g j
+𐌲𐌾	alone	g j
+𐍆𐌿𐌻	between_vowels	f u l
+𐍆𐌿𐌻	alone	f u l
+𐌰𐍃𐌹	between_consonants	a s i
+𐌰𐍃𐌹	alone	a s i
+𐍂𐌱	between_vowels	r b
+𐍂𐌱	between_consonants	r b
+𐍂𐌱	alone	r b
+𐌽𐌳𐌴	between_vowels	n d ē
+𐌽𐌳𐌴	between_consonants	n d ē
+𐌽𐌳𐌴	alone	n d ē
+𐍆𐍂𐌿	between_vowels	f r u
+𐍆𐍂𐌿	between_consonants	f r u
+𐍆𐍂𐌿	alone	f r u
+𐌱𐌰𐌿	between_vowels	b a u
+𐌱𐌰𐌿	between_consonants	b a u
+𐌱𐌰𐌿	alone	b a u
+𐌿𐌾	between_vowels	u j
+𐌿𐌾	between_consonants	u j
+𐌿𐌾	alone	u j
+𐌲𐌰𐌳	between_vowels	g a d
+𐌲𐌰𐌳	between_consonants	g a d
+𐌲𐌰𐌳	alone	g a d
+𐌲𐌾𐌰	between_consonants	g j a
+𐌲𐌾𐌰	alone	g j a
+𐌼𐌹𐍃	between_vowels	m i s
+𐌼𐌹𐍃	between_consonants	m i s
+𐌼𐌹𐍃	alone	m i s
+𐌳𐌿𐌽	between_vowels	d u n
+𐌳𐌿𐌽	between_consonants	d u n
+𐌳𐌿𐌽	alone	d u n
+𐍂𐌲	between_vowels	r g
+𐍂𐌲	between_consonants	r g
+𐍂𐌲	alone	r g
+𐌿𐍂𐍃	between_vowels	u r s
+𐌿𐍂𐍃	between_consonants	u r s
+𐌿𐍂𐍃	alone	u r s
+𐌰𐍂𐌳	between_consonants	a r d
+𐌰𐍂𐌳	alone	a r d
+𐌹𐌱	between_vowels	i b
+𐌹𐌱	between_consonants	i b
+𐌹𐌱	alone	i b
+𐌹𐌳𐌾	between_vowels	i d j
+𐌹𐌳𐌾	between_consonants	i d j
+𐌹𐌳𐌾	alone	i d j
+𐍄𐌿	between_vowels	t u
+𐍄𐌿	between_consonants	t u
+𐍄𐌿	alone	t u
+𐌲𐍅	between_vowels	g w
+𐌲𐍅	between_consonants	g w
+𐌲𐍅	alone	g w
+𐌲𐌲𐍅	between_vowels	g g w
+𐌲𐌲𐍅	between_consonants	g g w
+𐌲𐌲𐍅	alone	g g w
+𐌰𐌽𐌸	between_consonants	a n þ
+𐌰𐌽𐌸	alone	a n þ
+𐌹𐌶	between_vowels	i z
+𐌹𐌶	between_consonants	i z
+𐌹𐌶	alone	i z
+𐍃𐌽𐌹	between_vowels	s n i
+𐍃𐌽𐌹	between_consonants	s n i
+𐍃𐌽𐌹	alone	s n i
+𐌿𐌱	between_vowels	u b
+𐌿𐌱	between_consonants	u b
+𐌿𐌱	alone	u b
+𐌸𐍅𐌰	between_consonants	þ w a
+𐌸𐍅𐌰	alone	þ w a
+𐍅𐌹𐍄	between_vowels	w i t
+𐍅𐌹𐍄	between_consonants	w i t
+𐍅𐌹𐍄	alone	w i t
+𐌿𐌻𐌻	between_vowels	u l l
+𐌿𐌻𐌻	alone	u l l
+𐍅𐌹𐌽	between_vowels	w i n
+𐍅𐌹𐌽	between_consonants	w i n
+𐍅𐌹𐌽	alone	w i n
+𐌸𐌰𐍂	between_vowels	þ a r
+𐌸𐌰𐍂	between_consonants	þ a r
+𐌸𐌰𐍂	alone	þ a r
+𐌱𐌴	between_vowels	b ē
+𐌱𐌴	between_consonants	b ē
+𐌱𐌴	alone	b ē
+𐍄𐌰𐌿	between_vowels	t a u
+𐍄𐌰𐌿	between_consonants	t a u
+𐍄𐌰𐌿	alone	t a u
+𐌺𐌾	between_vowels	k j
+𐌺𐌾	between_consonants	k j
+𐌺𐌾	alone	k j
+𐌰𐌵𐌹	between_consonants	a q i
+𐌰𐌵𐌹	alone	a q i
+𐌹𐌼𐌰	between_consonants	i m a
+𐌹𐌼𐌰	alone	i m a
+𐌾𐌹	between_vowels	j i
+𐌾𐌹	between_consonants	j i
+𐌾𐌹	alone	j i
+𐍅𐍉	between_vowels	w ō
+𐍅𐍉	between_consonants	w ō
+𐍅𐍉	alone	w ō
+𐌹𐌲𐌰	between_consonants	i g a
+𐌹𐌲𐌰	alone	i g a
+𐍂𐍂	between_vowels	r r
+𐍂𐍂	between_consonants	r r
+𐍂𐍂	alone	r r
+𐍅𐌹𐍃	between_vowels	w i s
+𐍅𐌹𐍃	between_consonants	w i s
+𐍅𐌹𐍃	alone	w i s
+𐌰𐍅𐌹	between_consonants	a w i
+𐌰𐍅𐌹	alone	a w i
+𐍃𐌿	between_vowels	s u
+𐍃𐌿	between_consonants	s u
+𐍃𐌿	alone	s u
+𐌰𐌻𐌸	between_consonants	a l þ
+𐌰𐌻𐌸	alone	a l þ
+𐍅𐌾	between_vowels	w j
+𐍅𐌾	between_consonants	w j
+𐍅𐌾	alone	w j
+𐍅𐌾𐌰	between_consonants	w j a
+𐍅𐌾𐌰	alone	w j a
+𐌹𐍃𐍃	between_vowels	i s s
+𐌹𐍃𐍃	between_consonants	i s s
+𐌹𐍃𐍃	alone	i s s
+𐌷𐌻	between_vowels	h l
+𐌷𐌻	alone	h l
+𐌹𐌲𐌲	between_vowels	i g g
+𐌹𐌲𐌲	between_consonants	i g g
+𐌹𐌲𐌲	alone	i g g
+𐌺𐌴	between_vowels	k ē
+𐌺𐌴	between_consonants	k ē
+𐌺𐌴	alone	k ē
+𐌲𐌰𐍄	between_vowels	g a t
+𐌲𐌰𐍄	between_consonants	g a t
+𐌲𐌰𐍄	alone	g a t
+𐌺𐌾𐌰	between_consonants	k j a
+𐌺𐌾𐌰	alone	k j a
+𐌰𐍄𐌾	between_consonants	a t j
+𐌰𐍄𐌾	alone	a t j
+𐍆𐍄	between_vowels	f t
+𐍆𐍄	between_consonants	f t
+𐍆𐍄	alone	f t
+𐌲𐌵	between_vowels	g q
+𐌲𐌵	between_consonants	g q
+𐌲𐌵	alone	g q
+𐍂𐌰𐌷	between_vowels	r a h
+𐍂𐌰𐌷	between_consonants	r a h
+𐍂𐌰𐌷	alone	r a h
+𐍀𐌰	between_consonants	p a
+𐍀𐌰	alone	p a
+𐌰𐌹𐌸	between_consonants	a i þ
+𐌰𐌹𐌸	alone	a i þ
+𐍃𐌷	between_vowels	s h
+𐍃𐌷	between_consonants	s h
+𐍃𐌷	alone	s h
+𐌷𐌰𐌿	between_vowels	h a u
+𐌷𐌰𐌿	between_consonants	h a u
+𐌷𐌰𐌿	alone	h a u
+𐌿𐌼𐌹	between_vowels	u m i
+𐌿𐌼𐌹	between_consonants	u m i
+𐌿𐌼𐌹	alone	u m i
+𐌺𐌹	between_vowels	k i
+𐌺𐌹	between_consonants	k i
+𐌺𐌹	alone	k i
+𐌰𐌲𐌹	between_consonants	a g i
+𐌰𐌲𐌹	alone	a g i
+𐌻𐍅	between_vowels	l w
+𐌻𐍅	alone	l w
+𐌺𐍉	between_vowels	k ō
+𐌺𐍉	between_consonants	k ō
+𐌺𐍉	alone	k ō
+𐍂𐌰𐍅	between_vowels	r a w
+𐍂𐌰𐍅	between_consonants	r a w
+𐍂𐌰𐍅	alone	r a w
+𐌿𐌾𐌰	between_consonants	u j a
+𐌿𐌾𐌰	alone	u j a
+𐌽𐌿	between_vowels	n u
+𐌽𐌿	between_consonants	n u
+𐌽𐌿	alone	n u
+𐌰𐌰	between_consonants	a a
+𐌰𐌰	alone	a a
+𐌰𐌹𐌼	between_consonants	a i m
+𐌰𐌹𐌼	alone	a i m
+𐌽𐌹𐍅	between_vowels	n i w
+𐌽𐌹𐍅	between_consonants	n i w
+𐌽𐌹𐍅	alone	n i w
+𐍆𐌹𐌻	between_vowels	f i l
+𐍆𐌹𐌻	alone	f i l
+𐍉𐌳𐌰	between_consonants	ō d a
+𐍉𐌳𐌰	alone	ō d a
+𐌹𐌿𐍃	between_vowels	i u s
+𐌹𐌿𐍃	between_consonants	i u s
+𐌹𐌿𐍃	alone	i u s
+𐌰𐌹𐌻	alone	a i l
+𐌸𐌹	between_vowels	þ i
+𐌸𐌹	between_consonants	þ i
+𐌸𐌹	alone	þ i
+𐌲𐌻	between_vowels	g l
+𐌲𐌻	alone	g l
+𐌱𐌾	between_vowels	b j
+𐌱𐌾	between_consonants	b j
+𐌱𐌾	alone	b j
+𐌱𐌾𐌰	between_consonants	b j a
+𐌱𐌾𐌰	alone	b j a
+𐌺𐌰𐌹	between_vowels	k a i
+𐌺𐌰𐌹	between_consonants	k a i
+𐌺𐌰𐌹	alone	k a i
+𐌿𐌳	between_vowels	u d
+𐌿𐌳	between_consonants	u d
+𐌿𐌳	alone	u d
+𐌱𐌴𐌹	between_vowels	b ē i
+𐌱𐌴𐌹	between_consonants	b ē i
+𐌱𐌴𐌹	alone	b ē i
+𐌺𐌴𐌹	between_vowels	k ē i
+𐌺𐌴𐌹	between_consonants	k ē i
+𐌺𐌴𐌹	alone	k ē i
+𐌰𐌻𐌴	between_consonants	a l ē
+𐌰𐌻𐌴	alone	a l ē
+𐌽𐍅	between_vowels	n w
+𐌽𐍅	between_consonants	n w
+𐌽𐍅	alone	n w
+𐍅𐌿	between_vowels	w u
+𐍅𐌿	between_consonants	w u
+𐍅𐌿	alone	w u
+𐍃𐍅𐌹	between_vowels	s w i
+𐍃𐍅𐌹	between_consonants	s w i
+𐍃𐍅𐌹	alone	s w i
+𐌱𐌹𐍂	between_vowels	b i r
+𐌱𐌹𐍂	between_consonants	b i r
+𐌱𐌹𐍂	alone	b i r
+𐌽𐌹𐌿	between_vowels	n i u
+𐌽𐌹𐌿	between_consonants	n i u
+𐌽𐌹𐌿	alone	n i u
+𐍃𐍄𐌹	between_vowels	s t i
+𐍃𐍄𐌹	between_consonants	s t i
+𐍃𐍄𐌹	alone	s t i
+𐍃𐌰𐍄	between_vowels	s a t
+𐍃𐌰𐍄	between_consonants	s a t
+𐍃𐌰𐍄	alone	s a t
+𐌻𐌹𐌸	between_vowels	l i þ
+𐌻𐌹𐌸	alone	l i þ
+𐌷𐌽𐌰	between_consonants	h n a
+𐌷𐌽𐌰	alone	h n a
+𐌵𐌰	between_consonants	q a
+𐌵𐌰	alone	q a
+𐌱𐌹𐍅	between_vowels	b i w
+𐌱𐌹𐍅	between_consonants	b i w
+𐌱𐌹𐍅	alone	b i w
+𐌸𐌰𐌿	between_vowels	þ a u
+𐌸𐌰𐌿	between_consonants	þ a u
+𐌸𐌰𐌿	alone	þ a u
+𐍃𐌾	between_vowels	s j
+𐍃𐌾	between_consonants	s j
+𐍃𐌾	alone	s j
+𐌲𐌰𐍅	between_vowels	g a w
+𐌲𐌰𐍅	between_consonants	g a w
+𐌲𐌰𐍅	alone	g a w
+𐍃𐌰𐌹	between_vowels	s a i
+𐍃𐌰𐌹	between_consonants	s a i
+𐍃𐌰𐌹	alone	s a i
+𐍂𐌹𐌿	between_vowels	r i u
+𐍂𐌹𐌿	between_consonants	r i u
+𐍂𐌹𐌿	alone	r i u
+𐌰𐌹𐍅	between_consonants	a i w
+𐌰𐌹𐍅	alone	a i w
+𐌻𐌻𐌰	alone	l l a
+𐌰𐌳𐌰	between_consonants	a d a
+𐌰𐌳𐌰	alone	a d a
+𐌽𐌰𐌿	between_vowels	n a u
+𐌽𐌰𐌿	between_consonants	n a u
+𐌽𐌰𐌿	alone	n a u
+𐌲𐌰𐌸	between_vowels	g a þ
+𐌲𐌰𐌸	between_consonants	g a þ
+𐌲𐌰𐌸	alone	g a þ
+𐌼𐌰𐌹	between_vowels	m a i
+𐌼𐌰𐌹	between_consonants	m a i
+𐌼𐌰𐌹	alone	m a i
+𐍄𐌴𐌹	between_vowels	t ē i
+𐍄𐌴𐌹	between_consonants	t ē i
+𐍄𐌴𐌹	alone	t ē i
+𐍂𐌼	between_vowels	r m
+𐍂𐌼	between_consonants	r m
+𐍂𐌼	alone	r m
+𐌻𐌳	between_vowels	l d
+𐌻𐌳	alone	l d
+𐌹𐌺𐌰	between_consonants	i k a
+𐌹𐌺𐌰	alone	i k a
+𐌲𐌼	between_vowels	g m
+𐌲𐌼	between_consonants	g m
+𐌲𐌼	alone	g m
+𐌱𐌰𐌲	between_vowels	b a g
+𐌱𐌰𐌲	between_consonants	b a g
+𐌱𐌰𐌲	alone	b a g
+𐌰𐌲𐌼	between_consonants	a g m
+𐌰𐌲𐌼	alone	a g m
+𐌲𐌰𐌰	between_consonants	g a a
+𐌲𐌰𐌰	alone	g a a
+𐌱𐌹𐌲	between_vowels	b i g
+𐌱𐌹𐌲	between_consonants	b i g
+𐌱𐌹𐌲	alone	b i g
+𐌲𐌰𐍆	between_vowels	g a f
+𐌲𐌰𐍆	between_consonants	g a f
+𐌲𐌰𐍆	alone	g a f
+𐌰𐍆𐍂	between_consonants	a f r
+𐌰𐍆𐍂	alone	a f r
+𐌿𐍂𐌽	between_vowels	u r n
+𐌿𐍂𐌽	between_consonants	u r n
+𐌿𐍂𐌽	alone	u r n
+𐍃𐌾𐌰	between_consonants	s j a
+𐍃𐌾𐌰	alone	s j a
+𐍄𐌹𐌳	between_vowels	t i d
+𐍄𐌹𐌳	between_consonants	t i d
+𐍄𐌹𐌳	alone	t i d
+𐌳𐍅	between_vowels	d w
+𐌳𐍅	between_consonants	d w
+𐌳𐍅	alone	d w
+𐌿𐌽𐌾	between_vowels	u n j
+𐌿𐌽𐌾	between_consonants	u n j
+𐌿𐌽𐌾	alone	u n j
+𐌳𐌹𐌽	between_vowels	d i n
+𐌳𐌹𐌽	between_consonants	d i n
+𐌳𐌹𐌽	alone	d i n
+𐌼𐌾	between_vowels	m j
+𐌼𐌾	between_consonants	m j
+𐌼𐌾	alone	m j
+𐌼𐌾𐌰	between_consonants	m j a
+𐌼𐌾𐌰	alone	m j a
+𐌴𐌹𐌳	between_vowels	ē i d
+𐌴𐌹𐌳	between_consonants	ē i d
+𐌴𐌹𐌳	alone	ē i d
+𐌹𐌷𐍃	between_vowels	i h s
+𐌹𐌷𐍃	between_consonants	i h s
+𐌹𐌷𐍃	alone	i h s
+𐍃𐌴	between_vowels	s ē
+𐍃𐌴	between_consonants	s ē
+𐍃𐌴	alone	s ē
+𐌰𐌽𐌽	between_consonants	a n n
+𐌰𐌽𐌽	alone	a n n
+𐌰𐌸𐌰	between_consonants	a þ a
+𐌰𐌸𐌰	alone	a þ a
+𐌲𐌰𐌲	between_vowels	g a g
+𐌲𐌰𐌲	between_consonants	g a g
+𐌲𐌰𐌲	alone	g a g
+𐌽𐌰𐍃	between_vowels	n a s
+𐌽𐌰𐍃	between_consonants	n a s
+𐌽𐌰𐍃	alone	n a s
+𐌻𐌰𐌹	between_vowels	l a i
+𐌻𐌰𐌹	alone	l a i
+𐌲𐌰𐌻	between_vowels	g a l
+𐌲𐌰𐌻	alone	g a l
+𐍃𐌼	between_vowels	s m
+𐍃𐌼	between_consonants	s m
+𐍃𐌼	alone	s m
+𐌿𐌰	between_consonants	u a
+𐌿𐌰	alone	u a
+𐌺𐌿𐌽	between_vowels	k u n
+𐌺𐌿𐌽	between_consonants	k u n
+𐌺𐌿𐌽	alone	k u n
+𐌿𐌽𐍃	between_vowels	u n s
+𐌿𐌽𐍃	between_consonants	u n s
+𐌿𐌽𐍃	alone	u n s
+𐌳𐍉	between_vowels	d ō
+𐌳𐍉	between_consonants	d ō
+𐌳𐍉	alone	d ō
+𐌽𐍉𐌽	between_vowels	n ō n
+𐌽𐍉𐌽	between_consonants	n ō n
+𐌽𐍉𐌽	alone	n ō n
+𐌽𐍉𐌳	between_vowels	n ō d
+𐌽𐍉𐌳	between_consonants	n ō d
+𐌽𐍉𐌳	alone	n ō d
+𐌰𐌳𐍂	between_consonants	a d r
+𐌰𐌳𐍂	alone	a d r
+𐌶𐌴	between_vowels	z ē
+𐌶𐌴	between_consonants	z ē
+𐌶𐌴	alone	z ē
+𐌽𐌰𐌼	between_vowels	n a m
+𐌽𐌰𐌼	between_consonants	n a m
+𐌽𐌰𐌼	alone	n a m
+𐌰𐌼𐌹	between_consonants	a m i
+𐌰𐌼𐌹	alone	a m i
+𐌿𐍆𐌰	between_consonants	u f a
+𐌿𐍆𐌰	alone	u f a
+𐌲𐌲𐌰	between_consonants	g g a
+𐌲𐌲𐌰	alone	g g a
+𐌲𐍃	between_vowels	g s
+𐌲𐍃	between_consonants	g s
+𐌲𐍃	alone	g s
+𐍃𐌿𐌽	between_vowels	s u n
+𐍃𐌿𐌽	between_consonants	s u n
+𐍃𐌿𐌽	alone	s u n
+𐌳𐍂𐌹	between_vowels	d r i
+𐌳𐍂𐌹	between_consonants	d r i
+𐌳𐍂𐌹	alone	d r i
+𐍃𐍄𐍉	between_vowels	s t ō
+𐍃𐍄𐍉	between_consonants	s t ō
+𐍃𐍄𐍉	alone	s t ō
+𐌿𐍂𐍂	between_vowels	u r r
+𐌿𐍂𐍂	between_consonants	u r r
+𐌿𐍂𐍂	alone	u r r
+𐌸𐌿𐍃	between_vowels	þ u s
+𐌸𐌿𐍃	between_consonants	þ u s
+𐌸𐌿𐍃	alone	þ u s
+𐌷𐌹𐌽	between_vowels	h i n
+𐌷𐌹𐌽	between_consonants	h i n
+𐌷𐌹𐌽	alone	h i n
+𐌰𐌷𐍄	between_consonants	a h t
+𐌰𐌷𐍄	alone	a h t
+𐌿𐍂𐌲	between_vowels	u r g
+𐌿𐍂𐌲	between_consonants	u r g
+𐌿𐍂𐌲	alone	u r g
+𐌳𐌹𐌳	between_vowels	d i d
+𐌳𐌹𐌳	between_consonants	d i d
+𐌳𐌹𐌳	alone	d i d
+𐌻𐌰𐌲	between_vowels	l a g
+𐌻𐌰𐌲	alone	l a g
+𐌻𐍉	between_vowels	l ō
+𐌻𐍉	alone	l ō
+𐍂𐍅	between_vowels	r w
+𐍂𐍅	between_consonants	r w
+𐍂𐍅	alone	r w
+𐌰𐌱𐍂	between_consonants	a b r
+𐌰𐌱𐍂	alone	a b r
+𐌰𐌷𐌿	between_consonants	a h u
+𐌰𐌷𐌿	alone	a h u
+𐍀𐌾	between_vowels	p j
+𐍀𐌾	between_consonants	p j
+𐍀𐌾	alone	p j
+𐍂𐌷	between_vowels	r h
+𐍂𐌷	between_consonants	r h
+𐍂𐌷	alone	r h
+𐌰𐌺𐌰	between_consonants	a k a
+𐌰𐌺𐌰	alone	a k a
+𐌷𐌿𐌲	between_vowels	h u g
+𐌷𐌿𐌲	between_consonants	h u g
+𐌷𐌿𐌲	alone	h u g
+𐌱𐌰𐍂	between_vowels	b a r
+𐌱𐌰𐍂	between_consonants	b a r
+𐌱𐌰𐍂	alone	b a r
+𐍅𐌰𐍂	between_vowels	w a r
+𐍅𐌰𐍂	between_consonants	w a r
+𐍅𐌰𐍂	alone	w a r
+𐌹𐌻𐌿	between_vowels	i l u
+𐌹𐌻𐌿	between_consonants	i l u
+𐌹𐌻𐌿	alone	i l u
+𐌰𐌱𐌹	between_consonants	a b i
+𐌰𐌱𐌹	alone	a b i
+𐌰𐌷𐌽	between_consonants	a h n
+𐌰𐌷𐌽	alone	a h n
+𐌹𐍀	between_vowels	i p
+𐌹𐍀	between_consonants	i p
+𐌹𐍀	alone	i p
+𐌽𐌲	between_vowels	n g
+𐌽𐌲	between_consonants	n g
+𐌽𐌲	alone	n g
+𐍉𐌷	between_vowels	ō h
+𐍉𐌷	between_consonants	ō h
+𐍉𐌷	alone	ō h
+𐌰𐍄𐌹	between_consonants	a t i
+𐌰𐍄𐌹	alone	a t i
+𐌾𐌿	between_vowels	j u
+𐌾𐌿	between_consonants	j u
+𐌾𐌿	alone	j u
+𐌺𐍃	between_vowels	k s
+𐌺𐍃	between_consonants	k s
+𐌺𐍃	alone	k s
+𐌱𐌰𐌻	between_vowels	b a l
+𐌱𐌰𐌻	alone	b a l
+𐌷𐍂	between_vowels	h r
+𐌷𐍂	between_consonants	h r
+𐌷𐍂	alone	h r
+𐍂𐌰𐌸	between_vowels	r a þ
+𐍂𐌰𐌸	between_consonants	r a þ
+𐍂𐌰𐌸	alone	r a þ
+𐌰𐌸𐌾	between_consonants	a þ j
+𐌰𐌸𐌾	alone	a þ j
+𐌻𐌹𐌳	between_vowels	l i d
+𐌻𐌹𐌳	alone	l i d
+𐌰𐌿𐌸	between_consonants	a u þ
+𐌰𐌿𐌸	alone	a u þ
+𐌼𐍉	between_vowels	m ō
+𐌼𐍉	between_consonants	m ō
+𐌼𐍉	alone	m ō
+𐌼𐌱	between_vowels	m b
+𐌼𐌱	between_consonants	m b
+𐌼𐌱	alone	m b
+𐌽𐌹𐍃	between_vowels	n i s
+𐌽𐌹𐍃	between_consonants	n i s
+𐌽𐌹𐍃	alone	n i s
+𐍄𐍅𐌰	between_consonants	t w a
+𐍄𐍅𐌰	alone	t w a
+𐌰𐍃𐌰	between_consonants	a s a
+𐌰𐍃𐌰	alone	a s a
+𐌲𐍅𐌰	between_consonants	g w a
+𐌲𐍅𐌰	alone	g w a
+𐍃𐍄𐍂	between_vowels	s t r
+𐍃𐍄𐍂	between_consonants	s t r
+𐍃𐍄𐍂	alone	s t r
+𐍂𐌰𐌿	between_vowels	r a u
+𐍂𐌰𐌿	between_consonants	r a u
+𐍂𐌰𐌿	alone	r a u
+𐌷𐌾	between_vowels	h j
+𐌷𐌾	between_consonants	h j
+𐌷𐌾	alone	h j
+𐌰𐌽𐌴	between_consonants	a n ē
+𐌰𐌽𐌴	alone	a n ē
+𐌹𐍂𐌹	between_vowels	i r i
+𐌹𐍂𐌹	between_consonants	i r i
+𐌹𐍂𐌹	alone	i r i
+𐌿𐍀	between_vowels	u p
+𐌿𐍀	between_consonants	u p
+𐌿𐍀	alone	u p
+𐌱𐌻𐌹	between_vowels	b l i
+𐌱𐌻𐌹	between_consonants	b l i
+𐌱𐌻𐌹	alone	b l i
+𐌻𐌹𐌲	between_vowels	l i g
+𐌻𐌹𐌲	alone	l i g
+𐌹𐌽𐍄	between_vowels	i n t
+𐌹𐌽𐍄	between_consonants	i n t
+𐌹𐌽𐍄	alone	i n t
+𐌸𐌻	between_vowels	þ l
+𐌸𐌻	alone	þ l
+𐌰𐌿𐌰	between_consonants	a u a
+𐌰𐌿𐌰	alone	a u a
+𐌿𐍃𐍄	between_vowels	u s t
+𐌿𐍃𐍄	between_consonants	u s t
+𐌿𐍃𐍄	alone	u s t
+𐍅𐌹𐌸	between_vowels	w i þ
+𐍅𐌹𐌸	between_consonants	w i þ
+𐍅𐌹𐌸	alone	w i þ
+𐍄𐌹𐌸	between_vowels	t i þ
+𐍄𐌹𐌸	between_consonants	t i þ
+𐍄𐌹𐌸	alone	t i þ
+𐌱𐍉	between_vowels	b ō
+𐌱𐍉	between_consonants	b ō
+𐌱𐍉	alone	b ō
+𐌻𐌿𐍃	between_vowels	l u s
+𐌻𐌿𐍃	alone	l u s
+𐌲𐌺	between_vowels	g k
+𐌲𐌺	between_consonants	g k
+𐌲𐌺	alone	g k
+𐌲𐌿	between_vowels	g u
+𐌲𐌿	between_consonants	g u
+𐌲𐌿	alone	g u
+𐍆𐍃	between_vowels	f s
+𐍆𐍃	between_consonants	f s
+𐍆𐍃	alone	f s
+𐌴𐌹𐍄	between_vowels	ē i t
+𐌴𐌹𐍄	between_consonants	ē i t
+𐌴𐌹𐍄	alone	ē i t
+𐍃𐌰𐌿	between_vowels	s a u
+𐍃𐌰𐌿	between_consonants	s a u
+𐍃𐌰𐌿	alone	s a u
+𐌶𐌴𐌹	between_vowels	z ē i
+𐌶𐌴𐌹	between_consonants	z ē i
+𐌶𐌴𐌹	alone	z ē i
+𐌹𐍃𐌽	between_vowels	i s n
+𐌹𐍃𐌽	between_consonants	i s n
+𐌹𐍃𐌽	alone	i s n
+𐌹𐍃𐍅	between_vowels	i s w
+𐌹𐍃𐍅	between_consonants	i s w
+𐌹𐍃𐍅	alone	i s w
+𐍃𐍅𐌰	between_consonants	s w a
+𐍃𐍅𐌰	alone	s w a
+𐌹𐌻𐌹	between_vowels	i l i
+𐌹𐌻𐌹	between_consonants	i l i
+𐌹𐌻𐌹	alone	i l i
+𐍆𐌴	between_vowels	f ē
+𐍆𐌴	between_consonants	f ē
+𐍆𐌴	alone	f ē
+𐌿𐌲𐌰	between_consonants	u g a
+𐌿𐌲𐌰	alone	u g a
+𐍃𐌹𐌲	between_vowels	s i g
+𐍃𐌹𐌲	between_consonants	s i g
+𐍃𐌹𐌲	alone	s i g
+𐌽𐌴𐌹	between_vowels	n ē i
+𐌽𐌴𐌹	between_consonants	n ē i
+𐌽𐌴𐌹	alone	n ē i
+𐍂𐍄	between_vowels	r t
+𐍂𐍄	between_consonants	r t
+𐍂𐍄	alone	r t
+𐍂𐌺	between_vowels	r k
+𐍂𐌺	between_consonants	r k
+𐍂𐌺	alone	r k
+𐌾𐍉𐌽	between_vowels	j ō n
+𐌾𐍉𐌽	between_consonants	j ō n
+𐌾𐍉𐌽	alone	j ō n
+𐍅𐌹𐌻	between_vowels	w i l
+𐍅𐌹𐌻	alone	w i l
+𐍃𐌳	between_vowels	s d
+𐍃𐌳	between_consonants	s d
+𐍃𐌳	alone	s d
+𐌺𐌰𐌿	between_vowels	k a u
+𐌺𐌰𐌿	between_consonants	k a u
+𐌺𐌰𐌿	alone	k a u
+𐌰𐌺𐌿	between_consonants	a k u
+𐌰𐌺𐌿	alone	a k u
+𐌿𐌷𐌰	between_consonants	u h a
+𐌿𐌷𐌰	alone	u h a
+𐌼𐌰𐌿	between_vowels	m a u
+𐌼𐌰𐌿	between_consonants	m a u
+𐌼𐌰𐌿	alone	m a u
+𐌱𐌽	between_vowels	b n
+𐌱𐌽	between_consonants	b n
+𐌱𐌽	alone	b n
+𐌰𐍂𐌽	between_consonants	a r n
+𐌰𐍂𐌽	alone	a r n
+𐍂𐌽𐌹	between_vowels	r n i
+𐍂𐌽𐌹	between_consonants	r n i
+𐍂𐌽𐌹	alone	r n i
+𐍅𐌰𐍃	between_vowels	w a s
+𐍅𐌰𐍃	between_consonants	w a s
+𐍅𐌰𐍃	alone	w a s
+𐍄𐍂𐌹	between_vowels	t r i
+𐍄𐍂𐌹	between_consonants	t r i
+𐍄𐍂𐌹	alone	t r i
+𐌳𐍂𐌰	between_consonants	d r a
+𐌳𐍂𐌰	alone	d r a
+𐌳𐌹𐌲	between_vowels	d i g
+𐌳𐌹𐌲	between_consonants	d i g
+𐌳𐌹𐌲	alone	d i g
+𐌱𐍂𐌹	between_vowels	b r i
+𐌱𐍂𐌹	between_consonants	b r i
+𐌱𐍂𐌹	alone	b r i
+𐍉𐌱	between_vowels	ō b
+𐍉𐌱	between_consonants	ō b
+𐍉𐌱	alone	ō b
+𐌰𐌿𐌾	between_consonants	a u j
+𐌰𐌿𐌾	alone	a u j
+𐍃𐍀	between_vowels	s p
+𐍃𐍀	between_consonants	s p
+𐍃𐍀	alone	s p
+𐍃𐌼𐌰	between_consonants	s m a
+𐍃𐌼𐌰	alone	s m a
+𐌱𐍂𐌰	between_consonants	b r a
+𐌱𐍂𐌰	alone	b r a
+𐌸𐌲	between_vowels	þ g
+𐌸𐌲	between_consonants	þ g
+𐌸𐌲	alone	þ g
+𐌹𐌸𐌲	between_vowels	i þ g
+𐌹𐌸𐌲	between_consonants	i þ g
+𐌹𐌸𐌲	alone	i þ g
+𐌸𐌲𐌰	between_consonants	þ g a
+𐌸𐌲𐌰	alone	þ g a
+𐍀𐌾𐌰	between_consonants	p j a
+𐍀𐌾𐌰	alone	p j a
+𐍂𐌱𐌰	between_consonants	r b a
+𐍂𐌱𐌰	alone	r b a
+𐌿𐍂𐌳	between_vowels	u r d
+𐌿𐍂𐌳	between_consonants	u r d
+𐌿𐍂𐌳	alone	u r d
+𐍅𐌰𐌻	between_vowels	w a l
+𐍅𐌰𐌻	alone	w a l
+𐌳𐌾𐍉	between_vowels	d j ō
+𐌳𐌾𐍉	between_consonants	d j ō
+𐌳𐌾𐍉	alone	d j ō
+𐌹𐌿𐌷	between_vowels	i u h
+𐌹𐌿𐌷	between_consonants	i u h
+𐌹𐌿𐌷	alone	i u h
+𐌴𐌽	between_vowels	ē n
+𐌴𐌽	between_consonants	ē n
+𐌴𐌽	alone	ē n
+𐌹𐌿𐌾	between_vowels	i u j
+𐌹𐌿𐌾	between_consonants	i u j
+𐌹𐌿𐌾	alone	i u j
+𐍉𐌸𐍃	between_vowels	ō þ s
+𐍉𐌸𐍃	between_consonants	ō þ s
+𐍉𐌸𐍃	alone	ō þ s
+𐍉𐌼	between_vowels	ō m
+𐍉𐌼	between_consonants	ō m
+𐍉𐌼	alone	ō m
+𐍂𐍂𐌹	between_vowels	r r i
+𐍂𐍂𐌹	between_consonants	r r i
+𐍂𐍂𐌹	alone	r r i
+𐍉𐌳𐌴	between_vowels	ō d ē
+𐍉𐌳𐌴	between_consonants	ō d ē
+𐍉𐌳𐌴	alone	ō d ē
+𐍅𐌰𐌺	between_vowels	w a k
+𐍅𐌰𐌺	between_consonants	w a k
+𐍅𐌰𐌺	alone	w a k
+𐌿𐌻𐌹	between_vowels	u l i
+𐌿𐌻𐌹	between_consonants	u l i
+𐌿𐌻𐌹	alone	u l i
+𐌰𐍂𐌹	between_consonants	a r i
+𐌰𐍂𐌹	alone	a r i
+𐌾𐌹𐍃	between_vowels	j i s
+𐌾𐌹𐍃	between_consonants	j i s
+𐌾𐌹𐍃	alone	j i s
+𐌿𐌼𐌰	between_consonants	u m a
+𐌿𐌼𐌰	alone	u m a
+𐌽𐍆	between_vowels	n f
+𐌽𐍆	between_consonants	n f
+𐌽𐍆	alone	n f
+𐌳𐌰𐌼	between_vowels	d a m
+𐌳𐌰𐌼	between_consonants	d a m
+𐌳𐌰𐌼	alone	d a m
+𐌼𐍃	between_vowels	m s
+𐌼𐍃	between_consonants	m s
+𐌼𐍃	alone	m s
+𐌹𐍅𐌹	between_vowels	i w i
+𐌹𐍅𐌹	between_consonants	i w i
+𐌹𐍅𐌹	alone	i w i
+𐌽𐌲𐌰	between_consonants	n g a
+𐌽𐌲𐌰	alone	n g a
+𐍂𐌳𐌾	between_vowels	r d j
+𐍂𐌳𐌾	between_consonants	r d j
+𐍂𐌳𐌾	alone	r d j
+𐍂𐌸	between_vowels	r þ
+𐍂𐌸	between_consonants	r þ
+𐍂𐌸	alone	r þ
+𐍅𐌹𐌳	between_vowels	w i d
+𐍅𐌹𐌳	between_consonants	w i d
+𐍅𐌹𐌳	alone	w i d
+𐌹𐌸𐌿	between_vowels	i þ u
+𐌹𐌸𐌿	between_consonants	i þ u
+𐌹𐌸𐌿	alone	i þ u
+𐌿𐍃𐌷	between_vowels	u s h
+𐌿𐍃𐌷	between_consonants	u s h
+𐌿𐍃𐌷	alone	u s h
+𐌴𐌻	between_vowels	ē l
+𐌴𐌻	alone	ē l
+𐌼𐌴𐌻	between_vowels	m ē l
+𐌼𐌴𐌻	alone	m ē l
+𐌹𐌽𐌸	between_vowels	i n þ
+𐌹𐌽𐌸	between_consonants	i n þ
+𐌹𐌽𐌸	alone	i n þ
+𐍆𐍂𐌴	between_vowels	f r ē
+𐍆𐍂𐌴	between_consonants	f r ē
+𐍆𐍂𐌴	alone	f r ē
+𐌽𐌰𐌲	between_vowels	n a g
+𐌽𐌰𐌲	between_consonants	n a g
+𐌽𐌰𐌲	alone	n a g
+𐌹𐌳𐌿	between_vowels	i d u
+𐌹𐌳𐌿	between_consonants	i d u
+𐌹𐌳𐌿	alone	i d u
+𐌺𐍂	between_vowels	k r
+𐌺𐍂	between_consonants	k r
+𐌺𐍂	alone	k r
+𐍄𐌽	between_vowels	t n
+𐍄𐌽	between_consonants	t n
+𐍄𐌽	alone	t n
+𐍂𐌳𐌰	between_consonants	r d a
+𐍂𐌳𐌰	alone	r d a
+𐌰𐌸𐍅	between_consonants	a þ w
+𐌰𐌸𐍅	alone	a þ w
+𐌱𐌻𐌴	between_vowels	b l ē
+𐌱𐌻𐌴	between_consonants	b l ē
+𐌱𐌻𐌴	alone	b l ē
+𐌽𐌽𐌹	between_vowels	n n i
+𐌽𐌽𐌹	between_consonants	n n i
+𐌽𐌽𐌹	alone	n n i
+𐌹𐍆	between_vowels	i f
+𐌹𐍆	between_consonants	i f
+𐌹𐍆	alone	i f
+𐍂𐌹𐌲	between_vowels	r i g
+𐍂𐌹𐌲	between_consonants	r i g
+𐍂𐌹𐌲	alone	r i g
+𐌷𐌾𐌰	between_consonants	h j a
+𐌷𐌾𐌰	alone	h j a
+𐌹𐌿𐌽	between_vowels	i u n
+𐌹𐌿𐌽	between_consonants	i u n
+𐌹𐌿𐌽	alone	i u n
+𐌺𐌰𐌱	between_vowels	k a b
+𐌺𐌰𐌱	between_consonants	k a b
+𐌺𐌰𐌱	alone	k a b
+𐌰𐌻𐌳	between_consonants	a l d
+𐌰𐌻𐌳	alone	a l d
+𐍂𐍅𐌰	between_consonants	r w a
+𐍂𐍅𐌰	alone	r w a
+𐌰𐌹𐌱	between_consonants	a i b
+𐌰𐌹𐌱	alone	a i b
+𐌰𐌹𐌰	between_consonants	a i a
+𐌰𐌹𐌰	alone	a i a
+𐌹𐌰𐌽	between_vowels	i a n
+𐌹𐌰𐌽	between_consonants	i a n
+𐌹𐌰𐌽	alone	i a n
+𐌳𐍂𐍉	between_vowels	d r ō
+𐌳𐍂𐍉	between_consonants	d r ō
+𐌳𐍂𐍉	alone	d r ō
+𐍂𐍉𐌱	between_vowels	r ō b
+𐍂𐍉𐌱	between_consonants	r ō b
+𐍂𐍉𐌱	alone	r ō b
+𐍂𐌹𐌳	between_vowels	r i d
+𐍂𐌹𐌳	between_consonants	r i d
+𐍂𐌹𐌳	alone	r i d
+𐌰𐌿𐌺	between_consonants	a u k
+𐌰𐌿𐌺	alone	a u k
+𐌲𐌹𐌳	between_vowels	g i d
+𐌲𐌹𐌳	between_consonants	g i d
+𐌲𐌹𐌳	alone	g i d
+𐌻𐌱	between_vowels	l b
+𐌻𐌱	alone	l b
+𐍂𐌿𐌺	between_vowels	r u k
+𐍂𐌿𐌺	between_consonants	r u k
+𐍂𐌿𐌺	alone	r u k
+𐌿𐌺𐌰	between_consonants	u k a
+𐌿𐌺𐌰	alone	u k a
+𐌰𐍂𐌾	between_consonants	a r j
+𐌰𐍂𐌾	alone	a r j
+𐌴𐍅	between_vowels	ē w
+𐌴𐍅	between_consonants	ē w
+𐌴𐍅	alone	ē w
+𐌹𐍈	between_vowels	i ƕ
+𐌹𐍈	between_consonants	i ƕ
+𐌹𐍈	alone	i ƕ
+𐌿𐌷𐍄	between_vowels	u h t
+𐌿𐌷𐍄	between_consonants	u h t
+𐌿𐌷𐍄	alone	u h t
+𐌲𐍂𐌰	between_consonants	g r a
+𐌲𐍂𐌰	alone	g r a
+𐍆𐍂𐌹	between_vowels	f r i
+𐍆𐍂𐌹	between_consonants	f r i
+𐍆𐍂𐌹	alone	f r i
+𐌰𐍂𐌼	between_consonants	a r m
+𐌰𐍂𐌼	alone	a r m
+𐌰𐌿𐌽	between_consonants	a u n
+𐌰𐌿𐌽	alone	a u n
+𐌰𐌿𐌻	alone	a u l
+𐌹𐌶𐌴	between_vowels	i z ē
+𐌹𐌶𐌴	between_consonants	i z ē
+𐌹𐌶𐌴	alone	i z ē
+𐌿𐍂𐌱	between_vowels	u r b
+𐌿𐍂𐌱	between_consonants	u r b
+𐌿𐍂𐌱	alone	u r b
+𐌹𐍂𐌰	between_consonants	i r a
+𐌹𐍂𐌰	alone	i r a
+𐌼𐌹𐌽	between_vowels	m i n
+𐌼𐌹𐌽	between_consonants	m i n
+𐌼𐌹𐌽	alone	m i n
+𐌷𐍉	between_vowels	h ō
+𐌷𐍉	between_consonants	h ō
+𐌷𐍉	alone	h ō
+𐌹𐌷𐌽	between_vowels	i h n
+𐌹𐌷𐌽	between_consonants	i h n
+𐌹𐌷𐌽	alone	i h n
+𐌲𐌵𐌰	between_consonants	g q a
+𐌲𐌵𐌰	alone	g q a
+𐍀𐌽	between_vowels	p n
+𐍀𐌽	between_consonants	p n
+𐍀𐌽	alone	p n
+𐌹𐌽𐌲	between_vowels	i n g
+𐌹𐌽𐌲	between_consonants	i n g
+𐌹𐌽𐌲	alone	i n g
+𐌱𐌹𐌸	between_vowels	b i þ
+𐌱𐌹𐌸	between_consonants	b i þ
+𐌱𐌹𐌸	alone	b i þ
+𐌹𐌸𐍅	between_vowels	i þ w
+𐌹𐌸𐍅	between_consonants	i þ w
+𐌹𐌸𐍅	alone	i þ w
+𐌿𐌽𐌹	between_vowels	u n i
+𐌿𐌽𐌹	between_consonants	u n i
+𐌿𐌽𐌹	alone	u n i
+𐌵𐌹𐌸	between_vowels	q i þ
+𐌵𐌹𐌸	between_consonants	q i þ
+𐌵𐌹𐌸	alone	q i þ
+𐌿𐌽𐍄	between_vowels	u n t
+𐌿𐌽𐍄	between_consonants	u n t
+𐌿𐌽𐍄	alone	u n t
+𐌻𐌸𐌴	between_vowels	l þ ē
+𐌻𐌸𐌴	alone	l þ ē
+𐍂𐍃𐌽	between_vowels	r s n
+𐍂𐍃𐌽	between_consonants	r s n
+𐍂𐍃𐌽	alone	r s n
+𐌰𐍂𐌴	between_consonants	a r ē
+𐌰𐍂𐌴	alone	a r ē
+𐌲𐌹𐌽	between_vowels	g i n
+𐌲𐌹𐌽	between_consonants	g i n
+𐌲𐌹𐌽	alone	g i n
+𐌻𐌰𐍃	between_vowels	l a s
+𐌻𐌰𐍃	alone	l a s
+𐌽𐌰𐌺	between_vowels	n a k
+𐌽𐌰𐌺	between_consonants	n a k
+𐌽𐌰𐌺	alone	n a k
+𐌼𐌰𐌻	between_vowels	m a l
+𐌼𐌰𐌻	alone	m a l
+𐌰𐌻𐍅	between_consonants	a l w
+𐌰𐌻𐍅	alone	a l w
+𐍃𐍃𐌺	between_vowels	s s k
+𐍃𐍃𐌺	between_consonants	s s k
+𐍃𐍃𐌺	alone	s s k
+𐌲𐌰𐌹	between_vowels	g a i
+𐌲𐌰𐌹	between_consonants	g a i
+𐌲𐌰𐌹	alone	g a i
+𐌰𐌿𐌱	between_consonants	a u b
+𐌰𐌿𐌱	alone	a u b
+𐌸𐍂𐌹	between_vowels	þ r i
+𐌸𐍂𐌹	between_consonants	þ r i
+𐌸𐍂𐌹	alone	þ r i
+𐌽𐌻	between_vowels	n l
+𐌽𐌻	alone	n l
+𐌿𐌳𐌴	between_vowels	u d ē
+𐌿𐌳𐌴	between_consonants	u d ē
+𐌿𐌳𐌴	alone	u d ē
+𐍃𐌴𐌹	between_vowels	s ē i
+𐍃𐌴𐌹	between_consonants	s ē i
+𐍃𐌴𐌹	alone	s ē i
+𐌼𐌿	between_vowels	m u
+𐌼𐌿	between_consonants	m u
+𐌼𐌿	alone	m u
+𐌰𐌻𐌰	between_consonants	a l a
+𐌰𐌻𐌰	alone	a l a

@@ -1,0 +1,9 @@
+# Japanese katakana: morae written together; long vowels kept for ー (post.txt)
+separator = ""
+max_span = 4  # most input phones one mora may cover
+keep_length = true
+
+[cost]
+insert = 0.5  # add a mora phone (vowels needed by Japanese are added in pre.txt)
+delete = 1.0  # drop an input phone
+syllable = 0.0

@@ -1,0 +1,5 @@
+% Apical vowels and er stay vowels in the syllable IPA: zi = t͡sz̩ -> t͡sɨ, ri = ʐ̩ -> ʐɨ,
+% er = ɻ̩ -> ə˞ (the rhotic schwa of the Bopomofo map and of postvocalic r)
+z̩ -> ɨ / _
+ʐ̩ -> ʐɨ / _
+ɻ̩ -> ə˞ / _

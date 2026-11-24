@@ -1,0 +1,1 @@
+../cmn-Bopo2/syllables.txt

@@ -1,0 +1,16 @@
+% Our English IPA (powsm data_prep.py) -> Flite conventions used by tokens.csv
+% Aspiration and vowel nasalization are not spelled
+% Word-initial unaspirated stops sound like b d g to English readers, who aspirate
+% initial p t k (data_prep devoices initial b d g: benevolent = pənɛvəl̴ənt)
+tʃ -> d͡ʒ / # _
+p -> b / # _ (?![ʰsʃ͡])
+t -> d / # _ (?![ʰsʃ͡])
+k -> ɡ / # _ (?![ʰsʃ͡])
+ʰ -> 0 / _
+̃ -> 0 / _
+% Diphthong offglides are glides in Flite: aɪ -> aj, eɪ -> ej, oʊ -> ow, aʊ -> aw
+ɪ̯? -> j / (a|e|ɔ) _
+ʊ̯? -> w / (a|o) _
+% Flite has no plain o or e, only the diphthongs (tokyo = t ow k i ow)
+o -> ow / _ (?!w)
+e -> ej / _ (?!j)

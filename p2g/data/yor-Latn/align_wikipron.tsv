@@ -1,0 +1,239 @@
+phones	letters	context	count
+a	a	C_C	1072
+r	r	V_V	945
+l	l	V_V	780
+a	a	C_#	723
+i	i	C_C	706
+a	a	#_C	669
+k	k	V_V	650
+i	i	C_#	543
+o	o	C_C	502
+d	d	V_V	493
+u	u	C_C	476
+i	i	#_C	428
+ɔ	ọ	C_C	424
+t	t	V_V	411
+e	e	C_C	402
+ɛ	ẹ	C_C	392
+e	e	C_#	376
+o	o	C_#	372
+d͡ʒ	j	V_V	361
+m	m	V_V	356
+b	b	V_V	354
+o	o	#_C	339
+ɡ	g	V_V	330
+ɛ	ẹ	C_#	328
+j	y	V_V	321
+u	u	C_#	315
+ɡ͡b	gb	V_V	298
+ɔ	ọ	#_C	284
+w	w	V_V	276
+ɔ	ọ	C_#	274
+n	n	V_V	258
+s	s	V_V	254
+k͡p	p	V_V	239
+ʃ	ṣ	V_V	209
+f	f	V_V	206
+u	un	C_#	198
+k	k	#_V	185
+a	a	C_V	165
+ɛ	ẹ	#_C	164
+e	e	#_C	163
+m	n	V_C	129
+a	a	V_C	127
+i	in	C_#	120
+i	i	C_V	118
+k͡p	p	#_V	118
+a	an	C_#	108
+u	un	C_C	106
+m	m	#_V	105
+i	in	C_C	102
+l	l	#_V	102
+b	b	#_V	93
+ʃ	ṣ	#_V	90
+s	s	#_V	88
+a	an	C_C	87
+i	i	V_C	86
+t	t	#_V	85
+u	u	#_C	77
+ɔ	ọn	C_#	75
+d	d	#_V	70
+o	o	V_C	66
+a	a	V_#	65
+ɡ͡b	gb	#_V	63
+ɡ	g	#_V	61
+f	f	#_V	59
+e	e	V_C	59
+j	y	#_V	57
+a	a	#_V	57
+u	u	C_V	56
+d͡ʒ	j	#_V	54
+ɔ	ọ	V_C	52
+o	o	C_V	49
+r	r	#_V	49
+e	e	C_V	48
+ɔ	ọ	C_V	48
+w	w	#_V	44
+h	h	V_V	42
+ɔ	ọn	C_C	40
+n	nn	V_V	40
+u	u	V_C	38
+n	n	#_V	36
+ɛ	ẹ	V_C	34
+ɛ	ẹn	C_#	34
+ɛ	ẹ	C_V	33
+ɡ	gh	V_V	32
+o	o	V_#	31
+e	e	#_V	28
+o	o	#_V	28
+d	d	C_V	26
+b	b	C_V	25
+e	e	V_#	23
+k	k	C_V	21
+t	t	C_V	21
+i	ị	C_C	20
+ɛ	ẹ	#_V	19
+h	h	#_V	18
+ɡ	g	C_V	18
+ɔ	ụ	#_C	17
+m	m	V_C	16
+ɔ	ụ	C_C	16
+u	u	V_#	15
+i	i	V_#	15
+ɛ	ẹ	V_#	13
+ɔ	ọ	V_#	13
+w	w	C_V	12
+m	n	#_C	11
+i	ị	#_C	11
+s	s	C_V	10
+ɡ͡b	gb	C_V	10
+k͡p	p	C_V	9
+a	aa	C_#	9
+i	ịn	C_#	9
+ɛ	ẹn	C_C	9
+u	un	V_#	9
+ɡ	g	V_C	9
+i	ịn	C_C	8
+ɔ	ọ	#_V	7
+i	ii	C_#	7
+a	a	V_V	7
+l	l	C_V	7
+ɔ	ụn	C_#	6
+ɡ	gh	#_V	5
+a	aa	V_C	5
+a	aa	C_C	5
+i	ị	C_#	4
+i	i	#_V	4
+i	i	V_V	4
+d͡ʒ	j	C_V	4
+u	un	V_C	4
+ɔ	ọn	V_#	4
+i	ii	C_C	3
+ɔ	ụ	C_V	3
+m	nn	V_C	3
+o	oo	C_#	3
+ɛ	ẹẹ	C_#	2
+ɔ	ụ	V_C	2
+i	in	#_C	2
+u	uu	C_#	2
+f	f	C_V	2
+o	o	V_V	2
+s	z	V_V	2
+e	ee	C_C	2
+u	uu	C_C	2
+ɔ	ụ	C_#	2
+ɛ	ẹẹ	C_C	2
+ɔ	ọọ	C_#	2
+o	oo	C_C	2
+l	nl	V_V	2
+s	z	#_V	2
+ɔ	an	C_#	2
+ɔ	ụ	#_V	2
+m	n	C_C	2
+n	n	C_V	1
+i	ii	V_C	1
+d	d	#_#	1
+m i	m	#_#	1
+s	s	#_#	1
+e b	g	V_V	1
+u ɡ͡b	b	C_V	1
+i	hin	V_C	1
+ɔ	ọ	V_V	1
+f i	f	#_#	1
+i	in	#_#	1
+ɔ	ọn	#_#	1
+i	in	C_V	1
+b i	b	#_#	1
+k i	k	#_#	1
+w i	w	#_#	1
+u	u	#_#	1
+d͡ʒ	j	#_#	1
+j	y	#_#	1
+ɔ	ur	#_C	1
+r ɔ	an	V_C	1
+a ɛ	ẹẹ	C_#	1
+ɛ	ẹn	#_#	1
+e	e	#_#	1
+ɔ ʃ	ụn	C_V	1
+ɔ	ṣụn	C_C	1
+i i	ịị	C_C	1
+n i	n	#_#	1
+r	r	C_V	1
+r	r	#_#	1
+ɔ	ị	#_C	1
+m	ḿ	#_#	1
+ɡ͡b	gb	#_#	1
+ɛ	ẹ	#_#	1
+d͡ʒ	ch	V_V	1
+l	l	#_#	1
+ɔ w	uw	C_V	1
+e d͡ʒ	j	V_V	1
+ɛ	ẹn	V_#	1
+i	i	#_#	1
+ɔ	ọ	#_#	1
+u	un	#_V	1
+a	an	V_#	1
+ɔ k͡p	up	#_V	1
+ɔ	u	#_C	1
+ɔ	ộ	#_#	1
+i ɡ	i	#_V	1
+ɔ	ọn	C_V	1
+ɔ w	uw	#_V	1
+k͡p	p	#_#	1
+ɛ ʃ	ẹs	C_V	1
+j	y	C_V	1
+ɡ i	g	#_#	1
+f a	f	V_V	1
+o o	o	#_C	1
+h	h	#_#	1
+ɡ	g	#_C	1
+i	ị	#_V	1
+t i	t	#_#	1
+a ɡ	og	V_V	1
+ʃ	ṣ	C_V	1
+i	ị	V_C	1
+ʃ i	ṣ	#_#	1
+ɔ ɔ	ụụ	#_C	1
+u b	nb	V_V	1
+ɔ u	ọn	C_#	1
+ɛ b	ẹp	#_V	1
+u	un	C_V	1
+i	yin	V_C	1
+u	u	V_V	1
+i	ịn	#_#	1
+i	in	V_C	1
+i	in	V_#	1
+k e	k	V_V	1
+u	ùn	C_#	1
+o	o	#_#	1
+ɛ	ẹ	V_V	1
+o k	ọk	#_V	1
+ɔ f	uf	#_V	1
+ɔ	ọlọ	#_C	1
+ɔ	un	C_#	1
+i o	iọ	C_#	1
+a	an	#_#	1
+ɔ	ụn	C_C	1
+a	a	#_#	1
+ɔ d	ud	#_V	1
+a	an	C_V	1

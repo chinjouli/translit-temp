@@ -1,0 +1,17 @@
+# Mandarin: toneless syllables separated by spaces
+separator = " "
+max_span = 6  # most input phones one syllable may cover
+
+[cost]
+insert = 0.5  # add a syllable phone
+delete = 1.0  # drop an input phone
+syllable = 0.1  # per syllable: fewer syllables win ties (0.2+ over-merges: milk -> ㄇㄩㄥ)
+delete_w = 0.2  # drop an input w, whose rounding the vowel carries (kwʊn -> ㄍㄨㄣ kʊn)
+glide = 0.1   # input high vowel -> syllable glide (ㄅㄧㄢ piɛn ~ pjɛn)
+unglide = 0.3  # input glide -> syllable vowel: breaks a diphthong (rain -> ㄖㄨㄟ ㄣ)
+glide_onset = 0.01  # glide-initial syllables lose ties (trial: ㄌㄞ ㄛ, not ㄌㄚ ㄧㄛ)
+
+[epenthetic]  # cheaper vowels to add: 特 te, 斯 si
+"ɤ" = 0.3
+"ə" = 0.3
+"ɨ" = 0.3

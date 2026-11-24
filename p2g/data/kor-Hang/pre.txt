@@ -1,0 +1,33 @@
+% Korean loanword conventions applied to the source IPA (loan mode only)
+% A nasal vowel with no nasal after it is vowel + ㅇ (bonjour 봉주르); English
+% vowels nasalized before a nasal are written as oral vowels
+̃ -> ŋ / _ (?![mnŋɲ])
+̃ -> 0 / _
+% English r after a vowel and before no vowel is not written (party 파티, car 카);
+% an r-coloured vowel before a vowel is ər (camera 캐머러)
+ɜ˞ -> əɹ / _ (?=[aeiouɪʊəɛɔæɑɒʌ])
+ɹ -> 0 / [aeiouɪʊəɛɔæɑɒʌ]ː? _ (?![aeiouɪʊəɛɔæɑɒʌ])
+% German vocalized r is written ㄹ (Mozart 모차르트, Berlin 베를린)
+ɐ̯ -> ɹ / _
+% Voiced stops never close a syllable before a consonant, nor d at the end:
+% bed 베드, Madrid 마드리드, signal 시그널 (final b ɡ stay codas: web 웹, bag 백)
+::cons:: = [pbtdkɡfvszʃʒθðxhlɹrɾʁʀmnŋɲçɸʔ]
+0 -> ɯ / d _ (?![aeiouyɪʊəɛɔæɑɒʌɐɤɯɨøœɜʰʲʷ͡ːˑ̯̩jw])
+0 -> ɯ / [bɡ] _ (?=::cons::)
+% [oʊ] is written 오
+ʊ -> 0 / o _
+% Syllabic nasals and laterals carry ㅡ: [pʌtn̩] -> 버든, [bɑtl̩] -> 바들
+0 -> ɯ / _ (?=[nml]̩)
+% Stops that will get an epenthetic vowel (before a consonant or word end) are
+% aspirated, as in Korean loanword spelling: 밀크, 캔트, 북 (aspirated codas stay ㄱ)
+::novowel:: = (?![aeiouyɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝʰʲʷ͡ːˑ̯̩])
+p -> pʰ / _ ::novowel::
+t -> tʰ / _ ::novowel::
+k -> kʰ / _ ::novowel::
+% z ts dz take ㅡ, not the ㅣ of ʃ ʒ tʃ dʒ (jazz 재즈, news 뉴스; fish 피시)
+0 -> ɯ / (?:z|t͡s|d͡z) _ (?![aeiouyɪʊəɛɔæɑɒʌɐɤɯɨøœɜʰʲʷːˑ̯̩])
+% l after a consonant: ㅡ + ㄹㄹ (club 클럽, Berlin 베를린)
+0 -> ɯ / ::cons::ʰ? _ (?=l)
+% ʃ before a consonant is 슈 (Stimme 슈티메); consonant + j before e is 이에 (오리엔탈)
+0 -> u / ʃ _ (?=::cons::)
+j -> i / ::cons:: _ (?=[eɛ])

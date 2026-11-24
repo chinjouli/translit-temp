@@ -1,0 +1,3 @@
+% Source side (source.normalize): Korean ㅓ is written ʌ by epitran, the same symbol
+% as English cup; Korean's is rounder, heard as ㄛ (user), so it is ɔ here
+ʌ -> ɔ / _

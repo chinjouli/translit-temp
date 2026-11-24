@@ -1,0 +1,4 @@
+% The Taiwan map writes the apical vowel of ㄓ ㄔ ㄕ ㄖ as ɭ (ㄓ = ʈ͡ʂɭ): read it as ɨ
+ɭ -> ɨ / _
+% A sibilant's bare-syllable vowel goes before another final: ㄙ + ㄧ = sɨi -> si
+ɨ -> 0 / _ (?=[aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝywjɥ])

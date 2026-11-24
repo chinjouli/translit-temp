@@ -1,0 +1,179 @@
+phones	letters	context	count
+i	i	#_C	285
+a	a	C_C	240
+a	a	C_#	196
+u	u	#_C	168
+l	l	V_V	149
+i	i	C_C	145
+ɔ	o	C_#	135
+ɛ	e	C_C	132
+u	u	C_C	129
+ɔ	o	C_C	118
+i	i	C_#	114
+s	s	V_V	106
+m	m	V_C	90
+k	k	V_V	90
+ɓ	b	V_V	76
+ɛ	e	C_#	75
+w	w	C_V	67
+n	n	V_V	56
+u	u	C_#	51
+m	m	V_V	49
+s	z	V_V	37
+tʰ	th	V_V	34
+k	ng	V_V	31
+i	in	#_C	30
+p	mb	V_V	29
+ǃ	q	C_V	28
+pʰ	ph	V_V	24
+ŋ	ng	V_C	21
+t	nt	V_C	20
+ŋ	n	V_C	19
+p	mp	V_V	19
+ǀ	c	C_V	19
+p	bh	V_V	18
+t	t	V_V	18
+t	nd	V_V	18
+s	s	C_V	18
+x	rh	V_V	17
+f	f	V_V	17
+t	n	V_C	16
+ɲ	ny	V_V	16
+k	g	V_V	16
+j	y	V_V	15
+t	d	V_V	15
+w	w	V_V	15
+t	nt	V_V	14
+ǁ	x	C_V	14
+s	z	C_V	13
+k ǃ	q	V_V	13
+ʃ	sh	C_V	13
+l	l	V_C	12
+ʃ	sh	V_V	12
+k ǁ	x	V_V	12
+k	g	V_C	12
+kʰ	kh	V_V	11
+p	p	V_V	11
+a	a	#_C	10
+l	l	C_V	9
+k ǀ	c	V_V	9
+f	f	C_V	9
+l	l	#_V	8
+ɬ	hl	V_V	8
+ɬ	hl	C_V	8
+ɬ	l	C_V	8
+ɮ	dl	C_V	8
+k	ty	V_V	7
+f	v	V_V	7
+k	g	#_C	7
+t	t	V_C	7
+k ǃʰ	qh	V_V	7
+k	k	#_V	6
+s	z	V_C	6
+pʰ	ph	#_V	6
+tʰ	th	C_V	5
+k	ng	V_C	5
+ǀ	c	C_C	5
+k ǁ	x	#_V	5
+ǃ	q	C_C	5
+k	ng	#_V	5
+p w	mv	V_V	5
+t ɮ	dl	V_V	5
+ɛ	e	#_C	5
+t ʃ	nj	V_V	4
+kʰ	kh	V_C	4
+ɔ	o	#_C	4
+ŋ ǀ	kc	V_V	4
+ɓ	b	C_V	4
+ŋ ǃ	kq	V_V	4
+k ǀʰ	ch	V_V	4
+ɦ	h	V_V	4
+t ʃ	nj	#_V	3
+p	bh	C_V	3
+k ǃ	q	#_V	3
+n	n	C_V	3
+t ʃ	j	V_V	3
+f	v	C_V	3
+r	r	V_V	3
+k	g	C_C	3
+kʰ	kh	C_V	3
+ŋ	n	C_C	3
+m	m	V_#	3
+ŋ	ng	C_C	3
+k ǃ	q	C_V	3
+tʰ	th	#_V	3
+ŋ	ng	#_C	3
+k	nty	V_V	3
+ɲ	ny	C_V	2
+p f	mf	V_V	2
+m	m	#_C	2
+k	k	V_C	2
+pʰ	ph	C_V	2
+tʰ	th	C_C	2
+k	nk	V_V	2
+m	m	#_V	2
+ɬ	hl	V_C	2
+k	ty	#_V	2
+f	f	#_V	2
+ŋ	n	#_C	2
+t	t	#_C	2
+ʃ	sh	V_C	2
+m	m	C_V	2
+m	mh	V_V	2
+s	s	V_C	2
+k a	dy	C_C	1
+x	arh	V_V	1
+p	p	C_V	1
+k	ty	V_C	1
+ɮ	dl	V_V	1
+n	n	#_V	1
+k ǃ	q	V_C	1
+ǁ	x	C_C	1
+kʰ	kh	C_C	1
+k	ndy	V_V	1
+s	z	#_V	1
+k	nk	V_C	1
+t	nt	#_C	1
+t	nt	#_V	1
+k x	kr	V_V	1
+k ǃʰ	qh	V_C	1
+ɲ	nyh	V_C	1
+k ǃʰ	qh	C_V	1
+k ǀ	c	V_C	1
+n	n	V_C	1
+t ʃ	nj	V_C	1
+t	d	C_V	1
+pʰ	th	V_V	1
+ŋ ǁ	kx	V_C	1
+n	n	C_C	1
+ŋ ǃ	kq	V_C	1
+ɬ	hl	#_V	1
+m	mh	#_#	1
+ŋ	nk	V_C	1
+t	th	V_C	1
+x	rh	V_C	1
+k	k	C_V	1
+j	y	C_V	1
+k ǀ	c	#_C	1
+t	t	C_V	1
+k ɔ	dy	V_C	1
+kʰ	okh	V_C	1
+i	in	C_C	1
+l	l	#_C	1
+a	a	C_V	1
+i i	yi	V_#	1
+k	ng	C_V	1
+ɲ	ny	V_C	1
+k ǁʰ	xh	V_V	1
+t͡s	nts	V_V	1
+t r	tr	V_V	1
+k ǃʰ	qh	#_V	1
+kʰ	kh	#_V	1
+ŋ ǃ	gx	V_V	1
+x	rh	#_V	1
+ŋ	nk	#_C	1
+t	nt	C_V	1
+k ǁʰ	xh	#_C	1
+k ǀ	c	C_V	1
+t	nd	C_V	1
+k	ty	C_V	1

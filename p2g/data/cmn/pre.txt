@@ -1,0 +1,90 @@
+% Mandarin conventions applied to the source IPA. Context-free phone swaps live in
+% subst.csv; only rules that need context, rewrite a diacritic or a phone sequence,
+% or read the syllabic mark (dropped before subst.csv) stay here.
+% A nasal vowel with no nasal consonant after it is heard as vowel + ㄥ/ㄤ (French
+% bonjour -> ㄅㄥ…, maison -> …ㄙㄨㄥ; open ɛ̃ -> ㄤ, chien -> ㄒㄩㄤ); before a nasal
+% (English spɪ̃n) it is just oral
+ɛ̃ -> aŋ / _ (?![mnŋɲ])
+̃ -> ŋ / _ (?![mnŋɲ])
+̃ -> 0 / _
+% ɛ in an open syllable is heard as ㄟ: maison -> ㄇㄟ…, legging -> ㄌㄟ… (closed: hotel
+% ㄊㄝ); not after a glide, so Mandarin ㄧㄝ/ㄩㄝ keep ㄝ (学校 ɕy̯ɛ -> ㄒㄩㄝ)
+ɛ -> ej / (?<![̯jɥw]) _ (?=[bcdfɡhjklmnpqrstvwxzʃʒθðŋɲʁʀɹʂʐɕʑ][aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy])
+% A weak ə between w and n is ㄨㄣ's vowel (Bopomofo map: ㄨㄣ = wʊn): frequency -> ㄎㄨㄣ
+ə -> ʊ / w _ (?=n)
+% ɨ is Mandarin's vowel only after sibilants (zi, zhi); elsewhere it is heard as ㄧ:
+% Russian ный [nɨj] -> ㄋㄧ, ты -> ㄉㄧ
+ɨ -> i / (?<![szʂʐɕʑʃʒ]) _
+% ɯ (Korean ㅡ, Japanese ウ): ㄨ (user: く ㄎㄨ, 으로 ㄨ ㄌㄛ), ㄣ/ㄥ's ə before a nasal
+% (는데 -> ㄋㄣ ㄉㄝ), the bare sibilant
+% syllable after s z (습니다 -> ㄙ ㄇㄜ…, です -> ㄉㄝ ㄙ)
+ɯ -> ɨ / [szʂʐɕʑ]ʰ? _
+ɯ -> ə / _ (?=[nŋɴm](?![aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝyʲj]))
+ɯ -> u / _
+% u before n is the ʊ of ㄨㄣ (는데 -> ㄋㄨㄣ, not ㄋㄩㄣ: u is nearer y than ʊ); after a
+% labial the table keeps ㄨ as a glide (ㄇㄨㄣ = mwʊn: moon)
+u -> wʊ / [pbmf]ʰ? _ (?=̃?n)
+u -> ʊ / _ (?=̃?n)
+% Long or doubled consonants are one in Mandarin (ちょっと ㄐㄛ ㄉㄛ, 있다 ㄧ ㄉㄚ)
+p -> 0 / _ (?=p)
+t -> 0 / _ (?=t)
+k -> 0 / _ (?=k)
+s -> 0 / _ (?=s|ɕ)
+ɕ -> 0 / _ (?=ɕ)
+ʃ -> 0 / _ (?=ʃ)
+n -> 0 / _ (?=n)
+m -> 0 / _ (?=m)
+l -> 0 / _ (?=l)
+b -> 0 / _ (?=b)
+d -> 0 / _ (?=d)
+ɡ -> 0 / _ (?=ɡ)
+% ts is the affricate t͡s: beats -> ㄅㄧ ㄗ
+ts -> t͡s / _
+% A labial before r/l gets ㄨ, as in Mandarin loans (Frank 弗兰克, play 普雷):
+% frequency -> ㄈㄨ ㄌㄧ…
+0 -> u / [pbfvm]ʰ? _ (?=[ɹl])
+% Syllabic sibilants and r keep a vowel, as in the syllable tables (zi = t͡sz̩ -> t͡sɨ)
+z̩ -> ɨ / _
+ʐ̩ -> ʐɨ / _
+ɻ̩ -> ə˞ / _
+% Dark l vocalizes (subst.csv: l̴ -> o) only with no vowel after it: hello keeps l
+l̴ -> l / _ (?=[aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy])
+% Syllable-final m after a central/low vowel is written ㄤ / ang (computer -> ㄎㄤ)
+(?:ə|ʌ|ɐ|a|æ|ɑ)m -> aŋ / _ (?![aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝyʲj])
+% English /ɛ/ before a velar is raised (leg ~ [leɪɡ]) and heard as ㄟ: legging -> ㄌㄟ ㄍㄧㄥ
+ɛ -> ej / _ (?=[ɡkŋ])
+% An unstressed vowel before a final dark l merges into the vocalized l: trial -> ㄌㄞ ㄛ
+ə -> 0 / _ (?=l̴(?![aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy]))
+% ... and so does a w before it: mutual [-t͡ʃəwəl̴] -> ㄑㄩ ㄛ, not ㄑㄩ ㄨㄛ
+w -> 0 / _ (?=l̴(?![aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy]))
+% t/d + r before a back vowel is retroflex, the r's rounding heard as ㄨ: drawer
+% [tɹɔɹ] -> ㄓㄨㄛ ㄦ, drama -> ㄓㄨㄚ, true [tʰɹu] -> ㄔㄨ (front vowels: trial -> ㄊㄜ ㄌㄞ)
+tʰɹ -> ʈ͡ʂʰw / _ (?=[ɔoɑ])
+[td]ɹ -> ʈ͡ʂw / _ (?=[ɔoɑ])
+tʰɹ -> ʈ͡ʂʰ / _ (?=[uʊ])
+[td]ɹ -> ʈ͡ʂ / _ (?=[uʊ])
+% Word-initial r is ㄖ with the lip rounding of English r heard as ㄨ: range -> ㄖㄨ…
+ɹ -> ʐw / # _
+% Word-initial uvular r (French) is heard as ㄏ: relaxant -> ㄏㄜ ㄌㄚ…; between vowels
+% it stays ㄌ (diriger -> ㄉㄧ ㄌㄧ…)
+[ʀʁ] -> x / # _
+% ʒ before e/ɛ cannot be ㄖ (no ㄖㄝ) and is heard as rounded ㄐ: [ʒe] -> ㄐㄩㄝ
+ʒ -> d͡ʒɥ / _ (?=[eɛ])
+% r after a vowel with no vowel following is heard as ㄦ: car -> ㄎㄚ ㄦ, bonjour,
+% Russian цирк, Spanish por
+[ɹʀʁrɾ] -> ə˞ / ([aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœy]) _ (?![ʲʷ]?[aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy])
+% English ʃ t͡ʃ d͡ʒ (ㄒ ㄑ ㄐ; not ʒ = ㄖ, which never takes ㄩ) are lip-rounded, heard as a ㄩ syllable before a
+% non-front vowel (chalk -> ㄐㄩ…); before u/ʊ the rounding and vowel merge into ㄩ
+% (shoe -> ㄒㄩ), and so does a weak ə (kitchen -> ㄐㄩㄣ); a following j is rounded
+% (chien -> ㄒㄩㄤ); she, cheese keep ㄒㄧ, ㄑㄧ
+[uʊə] -> y / (ʃ|d͡ʒ) _
+j -> ɥ / (ʃ|d͡ʒ) _
+ʃ -> ʃy / _ (?=[ɑɔoʌaəɒɐ])
+d͡ʒ -> d͡ʒy / _ (?=[ɑɔoʌaəɒɐ])
+% Word-final ʃ ʒ (ʒ also matches inside d͡ʒ) keep their rounding as ㄩ: edge -> ㄝ ㄐㄩ,
+% rouge -> ㄏㄨ ㄖㄩ
+ʃ -> ʃy / _ #
+ʒ -> ʒy / _ #
+% Word-final weak ə in a longer word is lowered (≈ɐ) and heard as ㄚ: drama -> ㄓㄨㄚ
+% ㄇㄚ, sofa; one-syllable words keep ㄜ (the -> ㄌㄜ). G2P writes both as ə.
+ə -> a / ([aeiouɪʊəɛɔæɑɒʌɐɤɯɨøœɜɚɝy].*) _ #

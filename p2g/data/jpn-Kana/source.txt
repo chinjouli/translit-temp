@@ -1,0 +1,8 @@
+% Source side (source.normalize): Japanese word-initial voiceless stops and affricates
+% are aspirated (ください ㄎㄨ…); medial ones only weakly (みたい ㄇㄧ ㄉㄞ, ありがとう
+% …ㄉㄛ: user). epitran leaves aspiration unmarked.
+p -> pʰ / # _
+t -> tʰ / # _ (?!͡)
+k -> kʰ / # _
+t͡ɕ -> t͡ɕʰ / # _
+t͡s -> t͡sʰ / # _

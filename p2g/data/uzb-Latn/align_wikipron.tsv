@@ -1,0 +1,83 @@
+phones	letters	context	count
+a	a	C_C	22
+i	i	C_C	12
+ɒ	o	C_C	12
+n	n	V_#	7
+m	m	C_V	7
+u	u	C_C	6
+a	a	C_#	6
+ɒ	o	#_C	5
+q	q	V_#	5
+l	l	V_#	5
+r	r	V_V	4
+m	m	V_V	4
+r	r	#_V	4
+t̪	t	V_#	4
+u	u	#_C	3
+a	a	#_C	3
+o	ʻ	C_C	3
+n	n	V_V	3
+r	r	V_C	3
+v	v	V_V	3
+j	y	#_V	2
+i	i	C_#	2
+ɸ	f	V_C	2
+r	r	C_V	2
+i	i	#_C	2
+t͡ʃ	ch	#_V	2
+m	m	#_V	2
+m	m	V_#	2
+q	q	V_V	2
+s	s	V_#	2
+t̪	t	#_V	2
+z	z	#_V	2
+j	y	V_V	2
+k	ko	#_V	2
+l	l	V_V	2
+ŋ ɡ	ng	V_V	1
+q ɒ	ka	V_#	1
+s	s	V_V	1
+ʃ	sh	V_C	1
+l	l	C_V	1
+t̪	t	V_C	1
+q	q	V_C	1
+h	h	V_V	1
+l	l	V_C	1
+q	qo	#_V	1
+χ	xo	#_V	1
+o d͡ʒ	ʻj	C_V	1
+ŋ	ng	V_#	1
+n	n	#_V	1
+ɸ	f	V_V	1
+ɸ	f	C_V	1
+o t̪	ot	#_V	1
+k k	kk	V_V	1
+ɒ	o	C_#	1
+a	a	C_V	1
+u q	vq	V_#	1
+h	h	V_C	1
+ʃ	sh	#_#	1
+ɸ	f	#_V	1
+s	s	V_C	1
+i	iy	C_#	1
+q	q	#_V	1
+ʃ	sh	V_#	1
+z	z	V_#	1
+k o	ko	V_C	1
+d̪ j	dy	V_V	1
+h d̪	hd	V_V	1
+p	p	#_C	1
+n	n	V_C	1
+s	s	C_V	1
+d̪ e	de	#_C	1
+b ɒ	bo	#_C	1
+h	h	#_V	1
+k e	ke	#_C	1
+j	y	V_#	1
+p	p	#_V	1
+a z	oz	C_#	1
+r	r	V_#	1
+s	s	#_V	1
+n ʔ	nʼ	V_V	1
+v	v	#_V	1
+ʁ	gʻ	C_V	1

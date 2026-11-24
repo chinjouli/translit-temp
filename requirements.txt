@@ -1,0 +1,7 @@
+streamlit==1.67.0
+tokenizers==0.23.3
+panphon==0.22.2
+marisa-trie==1.4.1
+regex
+requests
+jamo

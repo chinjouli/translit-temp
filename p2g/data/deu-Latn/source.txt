@@ -1,0 +1,5 @@
+% Source side (source.normalize): word-initial voiceless stops are aspirated, which
+% epitran leaves unmarked (as clean_english does for English); not affricates (p͡f t͡s)
+p -> pʰ / # _ (?![͡ʰ])
+t -> tʰ / # _ (?![͡ʰ])
+k -> kʰ / # _ (?![͡ʰ])

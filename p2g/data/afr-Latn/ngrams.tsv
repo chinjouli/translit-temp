@@ -1,0 +1,601 @@
+gram	context	phones
+e	alone	eː ɛː
+a	alone	a ɛː
+r	alone	r ɛː
+o	alone	o ɛː
+s	alone	s ɛː
+i	alone	i ɛː
+n	alone	n ɛː
+l	alone	l ɛː
+k	alone	ŋ k ɛː
+t	alone	t ɛː
+d	alone	t ɛː
+g	alone	χ ɛː
+er	alone	eː r ɛː
+u	alone	ɵ ɛː
+m	alone	m ɛː
+b	alone	p ɛː
+p	alone	p ɛː
+aa	alone	ɑː ɛː
+v	alone	ɱ f ɛː
+ie	alone	iː ɛː
+w	alone	ɱ v ɛː
+el	alone	eː l ɛː
+an	alone	a n ɛː
+oe	alone	uː ɛː
+te	alone	t eː ɛː
+f	alone	ɱ f ɛː
+oo	alone	ʊ ə ɛː
+in	alone	i n ɛː
+ee	alone	ɪ ə ɛː
+h	alone	ɦ ɛː
+en	alone	eː n ɛː
+st	alone	s t ɛː
+nd	alone	n t ɛː
+de	alone	d eː ɛː
+on	alone	o n ɛː
+es	alone	eː s ɛː
+ar	alone	a r ɛː
+ek	alone	eː ŋ k ɛː
+or	alone	o r ɛː
+y	alone	ə i ɛː
+ke	alone	ŋ k eː ɛː
+ng	alone	ŋ ɛː
+la	alone	l a ɛː
+ko	alone	ŋ k o ɛː
+al	alone	a l ɛː
+ra	alone	r a ɛː
+re	alone	r eː ɛː
+le	alone	l eː ɛː
+ge	alone	χ eː ɛː
+ro	alone	r o ɛː
+li	alone	l i ɛː
+ui	alone	ɵ i ɛː
+is	alone	i s ɛː
+sk	alone	s ŋ k ɛː
+si	alone	s i ɛː
+se	alone	s eː ɛː
+be	alone	b eː ɛː
+ve	alone	ɱ f eː ɛː
+ka	alone	ŋ k a ɛː
+ig	alone	i χ ɛː
+ing	alone	i ŋ ɛː
+we	alone	ɱ v eː ɛː
+bo	alone	b o ɛː
+rs	alone	r s ɛː
+ei	alone	e i ɛː
+ed	alone	eː t ɛː
+ag	alone	a χ ɛː
+as	alone	a s ɛː
+j	alone	j ɛː
+et	alone	eː t ɛː
+and	alone	a n t ɛː
+ri	alone	r i ɛː
+ik	alone	i ŋ k ɛː
+nt	alone	n t ɛː
+to	alone	t o ɛː
+at	alone	a t ɛː
+aar	alone	ɑː r ɛː
+me	alone	m eː ɛː
+ter	alone	t eː r ɛː
+ou	alone	ɵ u ɛː
+lo	alone	l o ɛː
+ta	alone	t a ɛː
+rt	alone	r t ɛː
+ver	alone	ɱ f eː r ɛː
+am	alone	a m ɛː
+di	alone	d i ɛː
+ma	alone	m a ɛː
+om	alone	o m ɛː
+na	alone	n a ɛː
+ti	alone	t i ɛː
+ol	alone	o l ɛː
+ur	alone	ɵ r ɛː
+eg	alone	eː χ ɛː
+wa	alone	ɱ v a ɛː
+oor	alone	ʊ ə r ɛː
+ste	alone	s t eː ɛː
+da	alone	d a ɛː
+nk	alone	ŋ k ɛː
+ak	alone	a ŋ k ɛː
+ne	alone	n eː ɛː
+ns	alone	n s ɛː
+ho	alone	ɦ o ɛː
+it	alone	i t ɛː
+aal	alone	ɑː l ɛː
+ers	alone	eː r s ɛː
+do	alone	d o ɛː
+sa	alone	s a ɛː
+aan	alone	ɑː n ɛː
+sie	alone	s iː ɛː
+tr	alone	t r ɛː
+vo	alone	ɱ f o ɛː
+nde	alone	n d eː ɛː
+der	alone	d eː r ɛː
+ad	alone	a t ɛː
+ki	alone	ŋ k i ɛː
+ba	alone	b a ɛː
+ni	alone	n i ɛː
+raa	alone	r ɑː ɛː
+so	alone	s o ɛː
+eu	alone	ɪ ɵ ɛː
+ld	alone	l t ɛː
+he	alone	ɦ eː ɛː
+rd	alone	r t ɛː
+sp	alone	s p ɛː
+kl	alone	ŋ k l ɛː
+ot	alone	o t ɛː
+os	alone	o s ɛː
+br	alone	b r ɛː
+ru	alone	r ɵ ɛː
+dr	alone	d r ɛː
+ker	alone	ŋ k eː r ɛː
+mo	alone	m o ɛː
+pe	alone	p eː ɛː
+ier	alone	iː r ɛː
+rk	alone	r ŋ k ɛː
+ha	alone	ɦ a ɛː
+ok	alone	o ŋ k ɛː
+pa	alone	p a ɛː
+no	alone	n o ɛː
+op	alone	o p ɛː
+ap	alone	a p ɛː
+gr	alone	χ r ɛː
+va	alone	ɱ f a ɛː
+of	alone	o ɱ f ɛː
+ss	alone	s s ɛː
+em	alone	eː m ɛː
+oed	alone	uː t ɛː
+wi	alone	ɱ v i ɛː
+id	alone	i t ɛː
+sta	alone	s t a ɛː
+og	alone	o χ ɛː
+bl	alone	b l ɛː
+ts	alone	t s ɛː
+po	alone	p o ɛː
+lan	alone	l a n ɛː
+ga	alone	χ a ɛː
+kr	alone	ŋ k r ɛː
+us	alone	ɵ s ɛː
+eer	alone	ɪ ə r ɛː
+uu	alone	yː ɛː
+pr	alone	p r ɛː
+mi	alone	m i ɛː
+oek	alone	uː ŋ k ɛː
+eld	alone	eː l t ɛː
+af	alone	a ɱ f ɛː
+il	alone	i l ɛː
+eel	alone	ɪ ə l ɛː
+vi	alone	ɱ f i ɛː
+lik	alone	l i ŋ k ɛː
+laa	alone	l ɑː ɛː
+ds	alone	d s ɛː
+sko	alone	s ŋ k o ɛː
+eke	alone	eː ŋ k eː ɛː
+ens	alone	eː n s ɛː
+ska	alone	s ŋ k a ɛː
+ew	alone	eː ɱ v ɛː
+pl	alone	p l ɛː
+ks	alone	ŋ k s ɛː
+gt	alone	χ t ɛː
+eb	alone	eː p ɛː
+uur	alone	yː r ɛː
+ond	alone	o n t ɛː
+uis	alone	ɵ i s ɛː
+sto	alone	s t o ɛː
+ef	alone	eː ɱ f ɛː
+vl	alone	ɱ f l ɛː
+art	alone	a r t ɛː
+ant	alone	a n t ɛː
+vr	alone	ɱ f r ɛː
+uit	alone	ɵ i t ɛː
+ll	alone	l l ɛː
+lie	alone	l iː ɛː
+ep	alone	eː p ɛː
+oen	alone	uː n ɛː
+ë	alone	eː̈ ɛː
+pi	alone	p i ɛː
+erk	alone	eː r ŋ k ɛː
+gs	alone	χ s ɛː
+sl	alone	s l ɛː
+aat	alone	ɑː t ɛː
+ku	alone	ŋ k ɵ ɛː
+end	alone	eː n t ɛː
+wo	alone	ɱ v o ɛː
+kaa	alone	ŋ k ɑː ɛː
+lu	alone	l ɵ ɛː
+tj	alone	t ʃ ɛː
+aam	alone	ɑː m ɛː
+ree	alone	r ɪ ə ɛː
+rg	alone	r χ ɛː
+jo	alone	j o ɛː
+kk	alone	ŋ k ŋ k ɛː
+iek	alone	iː ŋ k ɛː
+rie	alone	r iː ɛː
+kie	alone	ŋ k iː ɛː
+tt	alone	t t ɛː
+roe	alone	r uː ɛː
+oon	alone	ʊ ə n ɛː
+rin	alone	r i n ɛː
+naa	alone	n ɑː ɛː
+ont	alone	o n t ɛː
+ul	alone	ɵ l ɛː
+bu	alone	b ɵ ɛː
+gi	alone	χ i ɛː
+ede	alone	eː d eː ɛː
+aag	alone	ɑː χ ɛː
+str	alone	s t r ɛː
+boe	alone	b uː ɛː
+uk	alone	ɵ ŋ k ɛː
+tel	alone	t eː l ɛː
+ut	alone	ɵ t ɛː
+ji	alone	j i ɛː
+die	alone	d iː ɛː
+bes	alone	b eː s ɛː
+nn	alone	n n ɛː
+du	alone	d ɵ ɛː
+rl	alone	r l ɛː
+ls	alone	l s ɛː
+ors	alone	o r s ɛː
+lin	alone	l i n ɛː
+wer	alone	ɱ v eː r ɛː
+eek	alone	ɪ ə ŋ k ɛː
+koe	alone	ŋ k uː ɛː
+mer	alone	m eː r ɛː
+jie	alone	j iː ɛː
+ken	alone	ŋ k eː n ɛː
+saa	alone	s ɑː ɛː
+roo	alone	r ʊ ə ɛː
+tu	alone	t ɵ ɛː
+dig	alone	d i χ ɛː
+rui	alone	r ɵ i ɛː
+fe	alone	ɱ f eː ɛː
+ja	alone	j a ɛː
+ert	alone	eː r t ɛː
+taa	alone	t ɑː ɛː
+del	alone	d eː l ɛː
+toe	alone	t uː ɛː
+tig	alone	t i χ ɛː
+yn	alone	ə i n ɛː
+ord	alone	o r t ɛː
+ind	alone	i n t ɛː
+ug	alone	ɵ χ ɛː
+ank	alone	a ŋ k ɛː
+od	alone	o t ɛː
+sel	alone	s eː l ɛː
+kel	alone	ŋ k eː l ɛː
+wee	alone	ɱ v ɪ ə ɛː
+ai	alone	a i ɛː
+mp	alone	m p ɛː
+c	alone	ŋ k ɛː
+pla	alone	p l a ɛː
+pie	alone	p iː ɛː
+daa	alone	d ɑː ɛː
+kom	alone	ŋ k o m ɛː
+ies	alone	iː s ɛː
+dag	alone	d a χ ɛː
+gte	alone	χ t eː ɛː
+ry	alone	r ə i ɛː
+koo	alone	ŋ k ʊ ə ɛː
+hei	alone	ɦ e i ɛː
+eid	alone	e i t ɛː
+ent	alone	eː n t ɛː
+waa	alone	ɱ v ɑː ɛː
+ame	alone	a m eː ɛː
+eri	alone	eː r i ɛː
+sn	alone	s n ɛː
+ien	alone	iː n ɛː
+rb	alone	r p ɛː
+lt	alone	l t ɛː
+tre	alone	t r eː ɛː
+sw	alone	s ɱ v ɛː
+moe	alone	m uː ɛː
+sti	alone	s t i ɛː
+lei	alone	l e i ɛː
+gro	alone	χ r o ɛː
+aak	alone	ɑː ŋ k ɛː
+tie	alone	t iː ɛː
+ly	alone	l ə i ɛː
+eë	alone	ɪ ə̈ ɛː
+tee	alone	t ɪ ə ɛː
+lk	alone	l ŋ k ɛː
+oel	alone	uː l ɛː
+een	alone	ɪ ə n ɛː
+rm	alone	r m ɛː
+ink	alone	i ŋ k ɛː
+ske	alone	s ŋ k eː ɛː
+eur	alone	ɪ ɵ r ɛː
+kan	alone	ŋ k a n ɛː
+vu	alone	ɱ f ɵ ɛː
+tji	alone	t ʃ i ɛː
+ang	alone	a ŋ ɛː
+ewe	alone	eː ɱ v eː ɛː
+fo	alone	ɱ f o ɛː
+aai	alone	ɑː i ɛː
+ssi	alone	s s i ɛː
+man	alone	m a n ɛː
+lee	alone	l ɪ ə ɛː
+gg	alone	χ ɛː
+eli	alone	eː l i ɛː
+su	alone	s ɵ ɛː
+tra	alone	t r a ɛː
+bee	alone	b ɪ ə ɛː
+un	alone	ɵ n ɛː
+oot	alone	ʊ ə t ɛː
+rde	alone	r d eː ɛː
+aas	alone	ɑː s ɛː
+tte	alone	t t eː ɛː
+ein	alone	e i n ɛː
+hoo	alone	ɦ ʊ ə ɛː
+lle	alone	l l eː ɛː
+gl	alone	χ l ɛː
+ran	alone	r a n ɛː
+uik	alone	ɵ i ŋ k ɛː
+ys	alone	ə i s ɛː
+baa	alone	b ɑː ɛː
+oes	alone	uː s ɛː
+tan	alone	t a n ɛː
+boo	alone	b ʊ ə ɛː
+ees	alone	ɪ ə s ɛː
+ae	alone	ɑː ə ɛː
+ele	alone	eː l eː ɛː
+ort	alone	o r t ɛː
+sla	alone	s l a ɛː
+hu	alone	ɦ ɵ ɛː
+per	alone	p eː r ɛː
+pel	alone	p eː l ɛː
+kle	alone	ŋ k l eː ɛː
+sse	alone	s s eː ɛː
+mb	alone	m p ɛː
+blo	alone	b l o ɛː
+wy	alone	ɱ v ə i ɛː
+eet	alone	ɪ ə t ɛː
+sm	alone	s m ɛː
+im	alone	i m ɛː
+lm	alone	l m ɛː
+ges	alone	χ eː s ɛː
+era	alone	eː r a ɛː
+ist	alone	i s t ɛː
+gel	alone	χ eː l ɛː
+kn	alone	ŋ k n ɛː
+voe	alone	ɱ f uː ɛː
+sig	alone	s i χ ɛː
+fi	alone	ɱ f i ɛː
+maa	alone	m ɑː ɛː
+ger	alone	χ eː r ɛː
+go	alone	χ o ɛː
+win	alone	ɱ v i n ɛː
+ard	alone	a r t ɛː
+mm	alone	m m ɛː
+gaa	alone	χ ɑː ɛː
+asi	alone	a s i ɛː
+loe	alone	l uː ɛː
+nte	alone	n t eː ɛː
+yd	alone	ə i t ɛː
+onk	alone	o ŋ k ɛː
+rw	alone	r ɱ v ɛː
+ass	alone	a s s ɛː
+by	alone	b ə i ɛː
+ch	alone	ʃ ɛː
+ip	alone	i p ɛː
+oet	alone	uː t ɛː
+iet	alone	iː t ɛː
+too	alone	t ʊ ə ɛː
+tin	alone	t i n ɛː
+dra	alone	d r a ɛː
+nis	alone	n i s ɛː
+haa	alone	ɦ ɑː ɛː
+rek	alone	r eː ŋ k ɛː
+son	alone	s o n ɛː
+yf	alone	ə i ɱ f ɛː
+esi	alone	eː s i ɛː
+din	alone	d i n ɛː
+rn	alone	r n ɛː
+oi	alone	o j ɛː
+dui	alone	d ɵ i ɛː
+dd	alone	d t ɛː
+erd	alone	eː r t ɛː
+kw	alone	ŋ k ɱ v ɛː
+sin	alone	s i n ɛː
+kin	alone	ŋ k i n ɛː
+kli	alone	ŋ k l i ɛː
+nke	alone	ŋ k eː ɛː
+tek	alone	t eː ŋ k ɛː
+eni	alone	eː n i ɛː
+nin	alone	n i n ɛː
+esk	alone	eː s ŋ k ɛː
+kt	alone	ŋ k t ɛː
+mu	alone	m ɵ ɛː
+oop	alone	ʊ ə p ɛː
+spo	alone	s p o ɛː
+eie	alone	e i eː ɛː
+bre	alone	b r eː ɛː
+rke	alone	r ŋ k eː ɛː
+ê	alone	ɛː
+den	alone	d eː n ɛː
+ate	alone	a t eː ɛː
+est	alone	eː s t ɛː
+kon	alone	ŋ k o n ɛː
+eks	alone	eː ŋ k s ɛː
+rr	alone	r r ɛː
+pre	alone	p r eː ɛː
+oof	alone	ʊ ə ɱ f ɛː
+ras	alone	r a s ɛː
+eis	alone	e i s ɛː
+mee	alone	m ɪ ə ɛː
+kki	alone	ŋ k ŋ k i ɛː
+oer	alone	uː r ɛː
+han	alone	ɦ a n ɛː
+vol	alone	ɱ f o l ɛː
+lg	alone	l χ ɛː
+vel	alone	ɱ f eː l ɛː
+rst	alone	r s t ɛː
+sb	alone	s p ɛː
+bel	alone	b eː l ɛː
+ev	alone	eː ɱ f ɛː
+doe	alone	d uː ɛː
+sen	alone	s eː n ɛː
+mel	alone	m eː l ɛː
+edi	alone	eː d i ɛː
+voo	alone	ɱ f ʊ ə ɛː
+loo	alone	l ʊ ə ɛː
+ere	alone	eː r eː ɛː
+ite	alone	i t eː ɛː
+omm	alone	o m m ɛː
+woo	alone	ɱ v ʊ ə ɛː
+ebo	alone	eː b o ɛː
+bro	alone	b r o ɛː
+rei	alone	r e i ɛː
+oog	alone	ʊ ə χ ɛː
+sh	alone	s ɦ ɛː
+spr	alone	s p r ɛː
+kor	alone	ŋ k o r ɛː
+pp	alone	p p ɛː
+erl	alone	eː r l ɛː
+kla	alone	ŋ k l a ɛː
+kap	alone	ŋ k a p ɛː
+ela	alone	eː l a ɛː
+ron	alone	r o n ɛː
+geb	alone	χ eː p ɛː
+gie	alone	χ iː ɛː
+ena	alone	eː n a ɛː
+oom	alone	ʊ ə m ɛː
+agt	alone	a χ t ɛː
+nv	alone	ɱ f ɛː
+bi	alone	b i ɛː
+rsk	alone	r s ŋ k ɛː
+rv	alone	r ɱ f ɛː
+ner	alone	n eː r ɛː
+ser	alone	s eː r ɛː
+ade	alone	a d eː ɛː
+aw	alone	a ɱ v ɛː
+hoe	alone	ɦ uː ɛː
+poe	alone	p uː ɛː
+ud	alone	ɵ t ɛː
+gra	alone	χ r a ɛː
+ff	alone	ɱ f ɱ f ɛː
+hou	alone	ɦ ɵ u ɛː
+men	alone	m eː n ɛː
+nee	alone	n ɪ ə ɛː
+wat	alone	ɱ v a t ɛː
+nl	alone	n l ɛː
+noo	alone	n ʊ ə ɛː
+kke	alone	ŋ k ŋ k eː ɛː
+see	alone	s ɪ ə ɛː
+soe	alone	s uː ɛː
+dro	alone	d r o ɛː
+rik	alone	r i ŋ k ɛː
+py	alone	p ə i ɛː
+lon	alone	l o n ɛː
+vuu	alone	ɱ f yː ɛː
+out	alone	ɵ u t ɛː
+erb	alone	eː r p ɛː
+tui	alone	t ɵ i ɛː
+nne	alone	n n eː ɛː
+dru	alone	d r ɵ ɛː
+erg	alone	eː r χ ɛː
+gee	alone	χ ɪ ə ɛː
+nni	alone	n n i ɛː
+ese	alone	eː s eː ɛː
+ski	alone	s ŋ k i ɛː
+ren	alone	r eː n ɛː
+pro	alone	p r o ɛː
+pra	alone	p r a ɛː
+if	alone	i ɱ f ɛː
+app	alone	a p p ɛː
+rp	alone	r p ɛː
+ong	alone	o ŋ ɛː
+res	alone	r eː s ɛː
+aad	alone	ɑː t ɛː
+reg	alone	r eː χ ɛː
+ete	alone	eː t eː ɛː
+ue	alone	ɵ eː ɛː
+ngs	alone	ŋ s ɛː
+her	alone	ɦ eː r ɛː
+ons	alone	o n s ɛː
+are	alone	a r eː ɛː
+rf	alone	r ɱ f ɛː
+rou	alone	r ɵ u ɛː
+val	alone	ɱ f a l ɛː
+ël	alone	eː̈ l ɛː
+kam	alone	ŋ k a m ɛː
+oep	alone	uː p ɛː
+erw	alone	eː r ɱ v ɛː
+spe	alone	s p eː ɛː
+ief	alone	iː ɱ f ɛː
+sui	alone	s ɵ i ɛː
+gst	alone	χ s t ɛː
+elk	alone	eː l ŋ k ɛː
+ooi	alone	oː i ɛː
+ool	alone	ʊ ə l ɛː
+lig	alone	l i χ ɛː
+oud	alone	ɵ u t ɛː
+ike	alone	i ŋ k eː ɛː
+lf	alone	l ɱ f ɛː
+kop	alone	ŋ k o p ɛː
+sd	alone	s t ɛː
+ndi	alone	n d i ɛː
+bed	alone	b eː t ɛː
+vy	alone	ɱ f ə i ɛː
+fs	alone	ɱ f s ɛː
+mie	alone	m iː ɛː
+nu	alone	n ɵ ɛː
+swa	alone	s ɱ v a ɛː
+amp	alone	a m p ɛː
+ars	alone	a r s ɛː
+ab	alone	a p ɛː
+bra	alone	b r a ɛː
+rts	alone	r t s ɛː
+vis	alone	ɱ f i s ɛː
+ika	alone	i ŋ k a ɛː
+all	alone	a l l ɛː
+leu	alone	l ɪ ɵ ɛː
+ood	alone	ʊ ə t ɛː
+lde	alone	l d eː ɛː
+aaf	alone	ɑː ɱ f ɛː
+kro	alone	ŋ k r o ɛː
+ori	alone	o r i ɛː
+rh	alone	r ɦ ɛː
+ban	alone	b a n ɛː
+tei	alone	t e i ɛː
+rge	alone	r g eː ɛː
+las	alone	l a s ɛː
+poo	alone	p ʊ ə ɛː
+rol	alone	r o l ɛː
+eno	alone	eː n o ɛː
+iss	alone	i s s ɛː
+nti	alone	n t i ɛː
+vie	alone	ɱ f iː ɛː
+uig	alone	ɵ i χ ɛː
+van	alone	ɱ f a n ɛː
+erf	alone	eː r ɱ f ɛː
+nda	alone	n d a ɛː
+sy	alone	s ə i ɛː
+pas	alone	p a s ɛː
+kna	alone	ŋ k n a ɛː
+nie	alone	n iː ɛː
+bri	alone	b r i ɛː
+ntr	alone	n t r ɛː
+tro	alone	t r o ɛː
+vlo	alone	ɱ f l o ɛː
+ps	alone	p s ɛː
+ied	alone	iː t ɛː
+ast	alone	a s t ɛː
+tor	alone	t o r ɛː
+bli	alone	b l i ɛː
+kee	alone	ŋ k ɪ ə ɛː
+db	alone	d p ɛː
+lui	alone	l ɵ i ɛː
+enk	alone	eː ŋ k ɛː
+tst	alone	t s t ɛː
+gli	alone	χ l i ɛː
+sc	alone	s ŋ k ɛː
+sch	alone	s ʃ ɛː
+vle	alone	ɱ f l eː ɛː
+fa	alone	ɱ f a ɛː
+alf	alone	a l ɱ f ɛː
+gh	alone	ŋ k ɛː
+bla	alone	b l a ɛː
+hon	alone	ɦ o n ɛː
+rsi	alone	r s i ɛː
+kru	alone	ŋ k r ɵ ɛː

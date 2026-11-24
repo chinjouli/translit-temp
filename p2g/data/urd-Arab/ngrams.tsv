@@ -1,0 +1,1607 @@
+gram	context	phones
+ا	between_consonants	ɑː
+ا	alone	ɑː
+ی	between_vowels	ی
+ی	between_consonants	ی
+ی	alone	ی
+و	between_vowels	uː
+و	between_consonants	uː
+و	alone	uː
+ن	between_vowels	n
+ن	between_consonants	n
+ن	alone	n
+ر	between_vowels	r
+ر	between_consonants	r
+ر	alone	r
+م	between_vowels	m
+م	between_consonants	m
+م	alone	m
+ت	between_vowels	t̪
+ت	between_consonants	t̪
+ت	alone	t̪
+ل	between_vowels	l
+ل	alone	l
+ہ	between_vowels	ہ
+ہ	between_consonants	ہ
+ہ	alone	ہ
+د	between_vowels	d̪
+د	between_consonants	d̪
+د	alone	d̪
+ب	between_vowels	b
+ب	between_consonants	b
+ب	alone	b
+س	between_vowels	s
+س	between_consonants	s
+س	alone	s
+ک	between_vowels	ک
+ک	between_consonants	ک
+ک	alone	ک
+ں	between_vowels	◌̃
+ں	between_consonants	◌̃
+ں	alone	◌̃
+ھ	between_vowels	ھ
+ھ	between_consonants	ھ
+ھ	alone	ھ
+ان	between_consonants	ɑː n
+ان	alone	ɑː n
+ش	between_vowels	ʃ
+ش	between_consonants	ʃ
+ش	alone	ʃ
+ج	between_vowels	d͡ʒ
+ج	between_consonants	d͡ʒ
+ج	alone	d͡ʒ
+گ	between_vowels	ɡ
+گ	between_consonants	ɡ
+گ	alone	ɡ
+وں	between_vowels	uː ◌̃
+وں	between_consonants	uː ◌̃
+وں	alone	uː ◌̃
+پ	between_vowels	p
+پ	between_consonants	p
+پ	alone	p
+نا	between_consonants	n ɑː
+نا	alone	n ɑː
+ق	between_vowels	q
+ق	between_consonants	q
+ق	alone	q
+ع	between_vowels	ʔ
+ع	between_consonants	ʔ
+ف	between_vowels	f
+ف	between_consonants	f
+ف	alone	f
+ار	between_consonants	ɑː r
+ار	alone	ɑː r
+چ	between_vowels	t͡ʃ
+چ	between_consonants	t͡ʃ
+چ	alone	t͡ʃ
+ٹ	between_vowels	ʈ
+ٹ	between_consonants	ʈ
+ٹ	alone	ʈ
+ز	between_vowels	z
+ز	between_consonants	z
+ز	alone	z
+را	between_consonants	r ɑː
+را	alone	r ɑː
+خ	between_vowels	x
+خ	between_consonants	x
+خ	alone	x
+ح	between_vowels	h
+ح	between_consonants	h
+ح	alone	h
+یا	between_consonants	ی ɑː
+یا	alone	ی ɑː
+ری	between_vowels	r ی
+ری	between_consonants	r ی
+ری	alone	r ی
+رو	between_vowels	r uː
+رو	between_consonants	r uː
+رو	alone	r uː
+ال	alone	ɑː l
+وا	between_consonants	uː ɑː
+وا	alone	uː ɑː
+ے	between_vowels	eː
+ے	between_consonants	eː
+ے	alone	eː
+ئ	between_vowels	iːٔ
+ئ	between_consonants	iːٔ
+ئ	alone	iːٔ
+لا	alone	l ɑː
+ور	between_vowels	uː r
+ور	between_consonants	uː r
+ور	alone	uː r
+ما	between_consonants	m ɑː
+ما	alone	m ɑː
+آ	between_vowels	ɑːٓ
+آ	between_consonants	ɑːٓ
+آ	alone	ɑːٓ
+نی	between_vowels	n ی
+نی	between_consonants	n ی
+نی	alone	n ی
+لی	between_vowels	l ی
+لی	alone	l ی
+تی	between_vowels	t̪ ی
+تی	between_consonants	t̪ ی
+تی	alone	t̪ ی
+با	between_consonants	b ɑː
+با	alone	b ɑː
+ھا	between_consonants	ھ ɑː
+ھا	alone	ھ ɑː
+ائ	between_consonants	ɑː iːٔ
+ائ	alone	ɑː iːٔ
+یو	between_vowels	ی uː
+یو	between_consonants	ی uː
+یو	alone	ی uː
+ص	between_vowels	s
+ص	between_consonants	s
+ص	alone	s
+نو	between_vowels	n uː
+نو	between_consonants	n uː
+نو	alone	n uː
+ط	between_vowels	t̪
+ط	between_consonants	t̪
+ط	alone	t̪
+ند	between_vowels	n d̪
+ند	between_consonants	n d̪
+ند	alone	n d̪
+یں	between_vowels	ی ◌̃
+یں	between_consonants	ی ◌̃
+یں	alone	ی ◌̃
+اد	between_consonants	ɑː d̪
+اد	alone	ɑː d̪
+ام	between_consonants	ɑː m
+ام	alone	ɑː m
+ات	between_consonants	ɑː t̪
+ات	alone	ɑː t̪
+ست	between_vowels	s t̪
+ست	between_consonants	s t̪
+ست	alone	s t̪
+تو	between_vowels	t̪ uː
+تو	between_consonants	t̪ uː
+تو	alone	t̪ uː
+تا	between_consonants	t̪ ɑː
+تا	alone	t̪ ɑː
+ڑ	between_vowels	ɽ
+ڑ	between_consonants	ɽ
+ڑ	alone	ɽ
+ین	between_vowels	ی n
+ین	between_consonants	ی n
+ین	alone	ی n
+غ	between_vowels	ɣ
+غ	between_consonants	ɣ
+غ	alone	ɣ
+یر	between_vowels	ی r
+یر	between_consonants	ی r
+یر	alone	ی r
+اس	between_consonants	ɑː s
+اس	alone	ɑː s
+دا	between_consonants	d̪ ɑː
+دا	alone	d̪ ɑː
+کا	between_consonants	ک ɑː
+کا	alone	ک ɑː
+می	between_vowels	m ی
+می	between_consonants	m ی
+می	alone	m ی
+ڈ	between_vowels	ɖ
+ڈ	between_consonants	ɖ
+ڈ	alone	ɖ
+دو	between_vowels	d̪ uː
+دو	between_consonants	d̪ uː
+دو	alone	d̪ uː
+اب	between_consonants	ɑː b
+اب	alone	ɑː b
+کھ	between_vowels	ک ھ
+کھ	between_consonants	ک ھ
+کھ	alone	ک ھ
+دی	between_vowels	d̪ ی
+دی	between_consonants	d̪ ی
+دی	alone	d̪ ی
+بی	between_vowels	b ی
+بی	between_consonants	b ی
+بی	alone	b ی
+نگ	between_vowels	n ɡ
+نگ	between_consonants	n ɡ
+نگ	alone	n ɡ
+ئی	between_vowels	iːٔ ی
+ئی	between_consonants	iːٔ ی
+ئی	alone	iːٔ ی
+سا	between_consonants	s ɑː
+سا	alone	s ɑː
+بھ	between_vowels	b ھ
+بھ	between_consonants	b ھ
+بھ	alone	b ھ
+دھ	between_vowels	d̪ ھ
+دھ	between_consonants	d̪ ھ
+دھ	alone	d̪ ھ
+مو	between_vowels	m uː
+مو	between_consonants	m uː
+مو	alone	m uː
+ون	between_vowels	uː n
+ون	between_consonants	uː n
+ون	alone	uː n
+لو	between_vowels	l uː
+لو	alone	l uː
+ھو	between_vowels	ھ uː
+ھو	between_consonants	ھ uː
+ھو	alone	ھ uː
+اہ	between_consonants	ɑː ہ
+اہ	alone	ɑː ہ
+ھی	between_vowels	ھ ی
+ھی	between_consonants	ھ ی
+ھی	alone	ھ ی
+ہا	between_consonants	ہ ɑː
+ہا	alone	ہ ɑː
+ول	between_vowels	uː l
+ول	alone	uː l
+یل	between_vowels	ی l
+یل	alone	ی l
+سی	between_vowels	s ی
+سی	between_consonants	s ی
+سی	alone	s ی
+ائی	between_consonants	ɑː iːٔ ی
+ائی	alone	ɑː iːٔ ی
+ض	between_vowels	z
+ض	between_consonants	z
+ض	alone	z
+من	between_vowels	m n
+من	between_consonants	m n
+من	alone	m n
+بر	between_vowels	b r
+بر	between_consonants	b r
+بر	alone	b r
+در	between_vowels	d̪ r
+در	between_consonants	d̪ r
+در	alone	d̪ r
+سو	between_vowels	s uː
+سو	between_consonants	s uː
+سو	alone	s uː
+اں	between_consonants	ɑː ◌̃
+اں	alone	ɑː ◌̃
+نہ	between_vowels	n ہ
+نہ	between_consonants	n ہ
+نہ	alone	n ہ
+رت	between_vowels	r t̪
+رت	between_consonants	r t̪
+رت	alone	r t̪
+اک	between_consonants	ɑː ک
+اک	alone	ɑː ک
+یہ	between_vowels	ی ہ
+یہ	between_consonants	ی ہ
+یہ	alone	ی ہ
+او	between_consonants	ɑː uː
+او	alone	ɑː uː
+یت	between_vowels	ی t̪
+یت	between_consonants	ی t̪
+یت	alone	ی t̪
+کی	between_vowels	ک ی
+کی	between_consonants	ک ی
+کی	alone	ک ی
+وت	between_vowels	uː t̪
+وت	between_consonants	uː t̪
+وت	alone	uː t̪
+شا	between_consonants	ʃ ɑː
+شا	alone	ʃ ɑː
+تر	between_vowels	t̪ r
+تر	between_consonants	t̪ r
+تر	alone	t̪ r
+رہ	between_vowels	r ہ
+رہ	between_consonants	r ہ
+رہ	alone	r ہ
+گی	between_vowels	ɡ ی
+گی	between_consonants	ɡ ی
+گی	alone	ɡ ی
+مر	between_vowels	m r
+مر	between_consonants	m r
+مر	alone	m r
+کو	between_vowels	ک uː
+کو	between_consonants	ک uː
+کو	alone	ک uː
+انی	between_consonants	ɑː n ی
+انی	alone	ɑː n ی
+کر	between_vowels	ک r
+کر	between_consonants	ک r
+کر	alone	ک r
+پا	between_consonants	p ɑː
+پا	alone	p ɑː
+ھن	between_vowels	ھ n
+ھن	between_consonants	ھ n
+ھن	alone	ھ n
+توں	between_vowels	t̪ uː ◌̃
+توں	between_consonants	t̪ uː ◌̃
+توں	alone	t̪ uː ◌̃
+بو	between_vowels	b uː
+بو	between_consonants	b uː
+بو	alone	b uː
+پر	between_vowels	p r
+پر	between_consonants	p r
+پر	alone	p r
+لہ	between_vowels	l ہ
+لہ	alone	l ہ
+جا	between_consonants	d͡ʒ ɑː
+جا	alone	d͡ʒ ɑː
+رم	between_vowels	r m
+رم	between_consonants	r m
+رم	alone	r m
+چھ	between_vowels	t͡ʃ ھ
+چھ	between_consonants	t͡ʃ ھ
+چھ	alone	t͡ʃ ھ
+مع	between_vowels	m ʔ
+مع	between_consonants	m ʔ
+مع	alone	m
+سر	between_vowels	s r
+سر	between_consonants	s r
+سر	alone	s r
+دہ	between_vowels	d̪ ہ
+دہ	between_consonants	d̪ ہ
+دہ	alone	d̪ ہ
+اف	between_consonants	ɑː f
+اف	alone	ɑː f
+مہ	between_vowels	m ہ
+مہ	between_consonants	m ہ
+مہ	alone	m ہ
+رن	between_vowels	r n
+رن	between_consonants	r n
+رن	alone	r n
+ید	between_vowels	ی d̪
+ید	between_consonants	ی d̪
+ید	alone	ی d̪
+شی	between_vowels	ʃ ی
+شی	between_consonants	ʃ ی
+شی	alone	ʃ ی
+قا	between_consonants	q ɑː
+قا	alone	q ɑː
+ود	between_vowels	uː d̪
+ود	between_consonants	uː d̪
+ود	alone	uː d̪
+ہو	between_vowels	ہ uː
+ہو	between_consonants	ہ uː
+ہو	alone	ہ uː
+رد	between_vowels	r d̪
+رد	between_consonants	r d̪
+رد	alone	r d̪
+اش	between_consonants	ɑː ʃ
+اش	alone	ɑː ʃ
+فر	between_vowels	f r
+فر	between_consonants	f r
+فر	alone	f r
+مت	between_vowels	m t̪
+مت	between_consonants	m t̪
+مت	alone	m t̪
+گا	between_consonants	ɡ ɑː
+گا	alone	ɡ ɑː
+ہن	between_vowels	ہ n
+ہن	between_consonants	ہ n
+ہن	alone	ہ n
+از	between_consonants	ɑː z
+از	alone	ɑː z
+انا	between_consonants	ɑː n ɑː
+انا	alone	ɑː n ɑː
+رک	between_vowels	r ک
+رک	between_consonants	r ک
+رک	alone	r ک
+ای	between_consonants	ɑː ی
+ای	alone	ɑː ی
+ہر	between_vowels	ہ r
+ہر	between_consonants	ہ r
+ہر	alone	ہ r
+وی	between_vowels	uː ی
+وی	between_consonants	uː ی
+وی	alone	uː ی
+اج	between_consonants	ɑː d͡ʒ
+اج	alone	ɑː d͡ʒ
+جو	between_vowels	d͡ʒ uː
+جو	between_consonants	d͡ʒ uː
+جو	alone	d͡ʒ uː
+نس	between_vowels	n s
+نس	between_consonants	n s
+نس	alone	n s
+ظ	between_vowels	z
+ظ	between_consonants	z
+ظ	alone	z
+نت	between_vowels	n t̪
+نت	between_consonants	n t̪
+نت	alone	n t̪
+وس	between_vowels	uː s
+وس	between_consonants	uː s
+وس	alone	uː s
+تھ	between_vowels	t̪ ھ
+تھ	between_consonants	t̪ ھ
+تھ	alone	t̪ ھ
+سن	between_vowels	s n
+سن	between_consonants	s n
+سن	alone	s n
+خا	between_consonants	x ɑː
+خا	alone	x ɑː
+انو	between_consonants	ɑː n uː
+انو	alone	ɑː n uː
+یوں	between_vowels	ی uː ◌̃
+یوں	between_consonants	ی uː ◌̃
+یوں	alone	ی uː ◌̃
+تیں	between_vowels	t̪ ی ◌̃
+تیں	between_consonants	t̪ ی ◌̃
+تیں	alone	t̪ ی ◌̃
+ذ	between_vowels	z
+ذ	between_consonants	z
+ذ	alone	z
+گر	between_vowels	ɡ r
+گر	between_consonants	ɡ r
+گر	alone	ɡ r
+ٹھ	between_vowels	ʈ ھ
+ٹھ	between_consonants	ʈ ھ
+ٹھ	alone	ʈ ھ
+نڈ	between_vowels	n ɖ
+نڈ	between_consonants	n ɖ
+نڈ	alone	n ɖ
+یک	between_vowels	ی ک
+یک	between_consonants	ی ک
+یک	alone	ی ک
+مان	between_vowels	m ɑː n
+مان	between_consonants	m ɑː n
+مان	alone	m ɑː n
+فا	between_consonants	f ɑː
+فا	alone	f ɑː
+روں	between_vowels	r uː ◌̃
+روں	between_consonants	r uː ◌̃
+روں	alone	r uː ◌̃
+کن	between_vowels	ک n
+کن	between_consonants	ک n
+کن	alone	ک n
+جی	between_vowels	d͡ʒ ی
+جی	between_consonants	d͡ʒ ی
+جی	alone	d͡ʒ ی
+مل	between_vowels	m l
+مل	alone	m l
+رس	between_vowels	r s
+رس	between_consonants	r s
+رس	alone	r s
+یم	between_vowels	ی m
+یم	between_consonants	ی m
+یم	alone	ی m
+اق	between_consonants	ɑː q
+اق	alone	ɑː q
+یاں	between_vowels	ی ɑː ◌̃
+یاں	between_consonants	ی ɑː ◌̃
+یاں	alone	ی ɑː ◌̃
+زی	between_vowels	z ی
+زی	between_consonants	z ی
+زی	alone	z ی
+ران	between_vowels	r ɑː n
+ران	between_consonants	r ɑː n
+ران	alone	r ɑː n
+ث	between_vowels	s
+ث	between_consonants	s
+ث	alone	s
+سم	between_vowels	s m
+سم	between_consonants	s m
+سم	alone	s m
+نج	between_vowels	n d͡ʒ
+نج	between_consonants	n d͡ʒ
+نج	alone	n d͡ʒ
+گھ	between_vowels	ɡ ھ
+گھ	between_consonants	ɡ ھ
+گھ	alone	ɡ ھ
+گو	between_vowels	ɡ uː
+گو	between_consonants	ɡ uː
+گو	alone	ɡ uː
+چا	between_consonants	t͡ʃ ɑː
+چا	alone	t͡ʃ ɑː
+بہ	between_vowels	b ہ
+بہ	between_consonants	b ہ
+بہ	alone	b ہ
+یش	between_vowels	ی ʃ
+یش	between_consonants	ی ʃ
+یش	alone	ی ʃ
+پی	between_vowels	p ی
+پی	between_consonants	p ی
+پی	alone	p ی
+ستا	between_consonants	s t̪ ɑː
+ستا	alone	s t̪ ɑː
+تان	between_vowels	t̪ ɑː n
+تان	between_consonants	t̪ ɑː n
+تان	alone	t̪ ɑː n
+اری	between_consonants	ɑː r ی
+اری	alone	ɑː r ی
+ٹی	between_vowels	ʈ ی
+ٹی	between_consonants	ʈ ی
+ٹی	alone	ʈ ی
+ارو	between_consonants	ɑː r uː
+ارو	alone	ɑː r uː
+مس	between_vowels	m s
+مس	between_consonants	m s
+مس	alone	m s
+شت	between_vowels	ʃ t̪
+شت	between_consonants	ʃ t̪
+شت	alone	ʃ t̪
+جن	between_vowels	d͡ʒ n
+جن	between_consonants	d͡ʒ n
+جن	alone	d͡ʒ n
+وم	between_vowels	uː m
+وم	between_consonants	uː m
+وم	alone	uː m
+ؤ	between_vowels	uːٔ
+ؤ	between_consonants	uːٔ
+ؤ	alone	uːٔ
+ھان	between_vowels	ھ ɑː n
+ھان	between_consonants	ھ ɑː n
+ھان	alone	ھ ɑː n
+اح	between_consonants	ɑː h
+اح	alone	ɑː h
+ہی	between_vowels	ہ ی
+ہی	between_consonants	ہ ی
+ہی	alone	ہ ی
+وش	between_vowels	uː ʃ
+وش	between_consonants	uː ʃ
+وش	alone	uː ʃ
+بن	between_vowels	b n
+بن	between_consonants	b n
+بن	alone	b n
+سل	between_vowels	s l
+سل	alone	s l
+زا	between_consonants	z ɑː
+زا	alone	z ɑː
+وٹ	between_vowels	uː ʈ
+وٹ	between_consonants	uː ʈ
+وٹ	alone	uː ʈ
+نوں	between_vowels	n uː ◌̃
+نوں	between_consonants	n uː ◌̃
+نوں	alone	n uː ◌̃
+عا	between_consonants	ʔ ɑː
+عا	alone	ɑː
+نک	between_vowels	n ک
+نک	between_consonants	n ک
+نک	alone	n ک
+رش	between_vowels	r ʃ
+رش	between_consonants	r ʃ
+رش	alone	r ʃ
+بل	between_vowels	b l
+بل	alone	b l
+پو	between_vowels	p uː
+پو	between_consonants	p uː
+پو	alone	p uː
+انہ	between_consonants	ɑː n ہ
+انہ	alone	ɑː n ہ
+گن	between_vowels	ɡ n
+گن	between_consonants	ɡ n
+گن	alone	ɡ n
+تم	between_vowels	t̪ m
+تم	between_consonants	t̪ m
+تم	alone	t̪ m
+اپ	between_consonants	ɑː p
+اپ	alone	ɑː p
+بھا	between_consonants	b ھ ɑː
+بھا	alone	b ھ ɑː
+یب	between_vowels	ی b
+یب	between_consonants	ی b
+یب	alone	ی b
+ٹا	between_consonants	ʈ ɑː
+ٹا	alone	ʈ ɑː
+یس	between_vowels	ی s
+یس	between_consonants	ی s
+یس	alone	ی s
+چو	between_vowels	t͡ʃ uː
+چو	between_consonants	t͡ʃ uː
+چو	alone	t͡ʃ uː
+لن	between_vowels	l n
+لن	alone	l n
+جم	between_vowels	d͡ʒ m
+جم	between_consonants	d͡ʒ m
+جم	alone	d͡ʒ m
+جر	between_vowels	d͡ʒ r
+جر	between_consonants	d͡ʒ r
+جر	alone	d͡ʒ r
+بد	between_vowels	b d̪
+بد	between_consonants	b d̪
+بد	alone	b d̪
+عل	between_vowels	ʔ l
+عل	alone	l
+خو	between_vowels	x uː
+خو	between_consonants	x uː
+خو	alone	x uː
+یز	between_vowels	ی z
+یز	between_consonants	ی z
+یز	alone	ی z
+کم	between_vowels	ک m
+کم	between_consonants	ک m
+کم	alone	ک m
+لک	between_vowels	l ک
+لک	alone	l ک
+جھ	between_vowels	d͡ʒ ھ
+جھ	between_consonants	d͡ʒ ھ
+جھ	alone	d͡ʒ ھ
+لم	between_vowels	l m
+لم	alone	l m
+تہ	between_vowels	t̪ ہ
+تہ	between_consonants	t̪ ہ
+تہ	alone	t̪ ہ
+اگ	between_consonants	ɑː ɡ
+اگ	alone	ɑː ɡ
+وان	between_vowels	uː ɑː n
+وان	between_consonants	uː ɑː n
+وان	alone	uː ɑː n
+اؤ	between_consonants	ɑː uːٔ
+اؤ	alone	ɑː uːٔ
+اع	between_consonants	ɑː ʔ
+اع	alone	ɑː
+پن	between_vowels	p n
+پن	between_consonants	p n
+پن	alone	p n
+شک	between_vowels	ʃ ک
+شک	between_consonants	ʃ ک
+شک	alone	ʃ ک
+وہ	between_vowels	uː ہ
+وہ	between_consonants	uː ہ
+وہ	alone	uː ہ
+رب	between_vowels	r b
+رب	between_consonants	r b
+رب	alone	r b
+حا	between_consonants	h ɑː
+حا	alone	h ɑː
+قو	between_vowels	q uː
+قو	between_consonants	q uː
+قو	alone	q uː
+وک	between_vowels	uː ک
+وک	between_consonants	uː ک
+وک	alone	uː ک
+ھر	between_vowels	ھ r
+ھر	between_consonants	ھ r
+ھر	alone	ھ r
+فی	between_vowels	f ی
+فی	between_consonants	f ی
+فی	alone	f ی
+تن	between_vowels	t̪ n
+تن	between_consonants	t̪ n
+تن	alone	t̪ n
+وڑ	between_vowels	uː ɽ
+وڑ	between_consonants	uː ɽ
+وڑ	alone	uː ɽ
+مک	between_vowels	m ک
+مک	between_consonants	m ک
+مک	alone	m ک
+شو	between_vowels	ʃ uː
+شو	between_consonants	ʃ uː
+شو	alone	ʃ uː
+شہ	between_vowels	ʃ ہ
+شہ	between_consonants	ʃ ہ
+شہ	alone	ʃ ہ
+کش	between_vowels	ک ʃ
+کش	between_consonants	ک ʃ
+کش	alone	ک ʃ
+دوں	between_vowels	d̪ uː ◌̃
+دوں	between_consonants	d̪ uː ◌̃
+دوں	alone	d̪ uː ◌̃
+است	between_consonants	ɑː s t̪
+است	alone	ɑː s t̪
+مح	between_vowels	m h
+مح	between_consonants	m h
+مح	alone	m h
+ہم	between_vowels	ہ m
+ہم	between_consonants	ہ m
+ہم	alone	ہ m
+عت	between_vowels	ʔ t̪
+عت	between_consonants	ʔ t̪
+عت	alone	t̪
+چی	between_vowels	t͡ʃ ی
+چی	between_consonants	t͡ʃ ی
+چی	alone	t͡ʃ ی
+کار	between_vowels	ک ɑː r
+کار	between_consonants	ک ɑː r
+کار	alone	ک ɑː r
+اٹ	between_consonants	ɑː ʈ
+اٹ	alone	ɑː ʈ
+نٹ	between_vowels	n ʈ
+نٹ	between_consonants	n ʈ
+نٹ	alone	n ʈ
+وج	between_vowels	uː d͡ʒ
+وج	between_consonants	uː d͡ʒ
+وج	alone	uː d͡ʒ
+سہ	between_vowels	s ہ
+سہ	between_consonants	s ہ
+سہ	alone	s ہ
+شر	between_vowels	ʃ r
+شر	between_consonants	ʃ r
+شر	alone	ʃ r
+قی	between_vowels	q ی
+قی	between_consonants	q ی
+قی	alone	q ی
+فت	between_vowels	f t̪
+فت	between_consonants	f t̪
+فت	alone	f t̪
+ٹو	between_vowels	ʈ uː
+ٹو	between_consonants	ʈ uː
+ٹو	alone	ʈ uː
+رج	between_vowels	r d͡ʒ
+رج	between_consonants	r d͡ʒ
+رج	alone	r d͡ʒ
+وب	between_vowels	uː b
+وب	between_consonants	uː b
+وب	alone	uː b
+یٹ	between_vowels	ی ʈ
+یٹ	between_consonants	ی ʈ
+یٹ	alone	ی ʈ
+کل	between_vowels	ک l
+کل	alone	ک l
+کت	between_vowels	ک t̪
+کت	between_consonants	ک t̪
+کت	alone	ک t̪
+عی	between_vowels	ʔ ی
+عی	between_consonants	ʔ ی
+عی	alone	ی
+ڑا	between_consonants	ɽ ɑː
+ڑا	alone	ɽ ɑː
+گل	between_vowels	ɡ l
+گل	alone	ɡ l
+مب	between_vowels	m b
+مب	between_consonants	m b
+مب	alone	m b
+اخ	between_consonants	ɑː x
+اخ	alone	ɑː x
+انگ	between_consonants	ɑː n ɡ
+انگ	alone	ɑː n ɡ
+ٹر	between_vowels	ʈ r
+ٹر	between_consonants	ʈ r
+ٹر	alone	ʈ r
+دار	between_vowels	d̪ ɑː r
+دار	between_consonants	d̪ ɑː r
+دار	alone	d̪ ɑː r
+اڑ	between_consonants	ɑː ɽ
+اڑ	alone	ɑː ɽ
+بان	between_vowels	b ɑː n
+بان	between_consonants	b ɑː n
+بان	alone	b ɑː n
+مد	between_vowels	m d̪
+مد	between_consonants	m d̪
+مد	alone	m d̪
+ڑھ	between_vowels	ɽ ھ
+ڑھ	between_consonants	ɽ ھ
+ڑھ	alone	ɽ ھ
+دن	between_vowels	d̪ n
+دن	between_consonants	d̪ n
+دن	alone	d̪ n
+ہل	between_vowels	ہ l
+ہل	alone	ہ l
+الی	between_consonants	ɑː l ی
+الی	alone	ɑː l ی
+حی	between_vowels	h ی
+حی	between_consonants	h ی
+حی	alone	h ی
+اند	between_consonants	ɑː n d̪
+اند	alone	ɑː n d̪
+مش	between_vowels	m ʃ
+مش	between_consonants	m ʃ
+مش	alone	m ʃ
+وار	between_vowels	uː ɑː r
+وار	between_consonants	uː ɑː r
+وار	alone	uː ɑː r
+نچ	between_vowels	n t͡ʃ
+نچ	between_consonants	n t͡ʃ
+نچ	alone	n t͡ʃ
+دم	between_vowels	d̪ m
+دم	between_consonants	d̪ m
+دم	alone	d̪ m
+لب	between_vowels	l b
+لب	alone	l b
+زو	between_vowels	z uː
+زو	between_consonants	z uː
+زو	alone	z uː
+شن	between_vowels	ʃ n
+شن	between_consonants	ʃ n
+شن	alone	ʃ n
+یار	between_vowels	ی ɑː r
+یار	between_consonants	ی ɑː r
+یار	alone	ی ɑː r
+تع	between_vowels	t̪ ʔ
+تع	between_consonants	t̪ ʔ
+تع	alone	t̪
+وز	between_vowels	uː z
+وز	between_consonants	uː z
+وز	alone	uː z
+ارا	between_consonants	ɑː r ɑː
+ارا	alone	ɑː r ɑː
+کھا	between_consonants	ک ھ ɑː
+کھا	alone	ک ھ ɑː
+ندھ	between_vowels	n d̪ ھ
+ندھ	between_consonants	n d̪ ھ
+ندھ	alone	n d̪ ھ
+عو	between_vowels	ʔ uː
+عو	between_consonants	ʔ uː
+عو	alone	uː
+ھک	between_vowels	ھ ک
+ھک	between_consonants	ھ ک
+ھک	alone	ھ ک
+تل	between_vowels	t̪ l
+تل	alone	t̪ l
+قر	between_vowels	q r
+قر	between_consonants	q r
+قر	alone	q r
+صا	between_consonants	s ɑː
+صا	alone	s ɑː
+غا	between_consonants	ɣ ɑː
+غا	alone	ɣ ɑː
+دگ	between_vowels	d̪ ɡ
+دگ	between_consonants	d̪ ɡ
+دگ	alone	d̪ ɡ
+کہ	between_vowels	ک ہ
+کہ	between_consonants	ک ہ
+کہ	alone	ک ہ
+یات	between_vowels	ی ɑː t̪
+یات	between_consonants	ی ɑː t̪
+یات	alone	ی ɑː t̪
+فو	between_vowels	f uː
+فو	between_consonants	f uː
+فو	alone	f uː
+شم	between_vowels	ʃ m
+شم	between_consonants	ʃ m
+شم	alone	ʃ m
+لف	between_vowels	l f
+لف	alone	l f
+خت	between_vowels	x t̪
+خت	between_consonants	x t̪
+خت	alone	x t̪
+مق	between_vowels	m q
+مق	between_consonants	m q
+مق	alone	m q
+جہ	between_vowels	d͡ʒ ہ
+جہ	between_consonants	d͡ʒ ہ
+جہ	alone	d͡ʒ ہ
+ڈی	between_vowels	ɖ ی
+ڈی	between_consonants	ɖ ی
+ڈی	alone	ɖ ی
+سک	between_vowels	s ک
+سک	between_consonants	s ک
+سک	alone	s ک
+دل	between_vowels	d̪ l
+دل	alone	d̪ l
+طر	between_vowels	t̪ r
+طر	between_consonants	t̪ r
+طر	alone	t̪ r
+اص	between_consonants	ɑː s
+اص	alone	ɑː s
+اچ	between_consonants	ɑː t͡ʃ
+اچ	alone	ɑː t͡ʃ
+دس	between_vowels	d̪ s
+دس	between_consonants	d̪ s
+دس	alone	d̪ s
+روا	between_consonants	r uː ɑː
+روا	alone	r uː ɑː
+سان	between_vowels	s ɑː n
+سان	between_consonants	s ɑː n
+سان	alone	s ɑː n
+وری	between_vowels	uː r ی
+وری	between_consonants	uː r ی
+وری	alone	uː r ی
+موں	between_vowels	m uː ◌̃
+موں	between_consonants	m uː ◌̃
+موں	alone	m uː ◌̃
+ڈا	between_consonants	ɖ ɑː
+ڈا	alone	ɖ ɑː
+انت	between_consonants	ɑː n t̪
+انت	alone	ɑː n t̪
+سپ	between_vowels	s p
+سپ	between_consonants	s p
+سپ	alone	s p
+ڑی	between_vowels	ɽ ی
+ڑی	between_consonants	ɽ ی
+ڑی	alone	ɽ ی
+امی	between_consonants	ɑː m ی
+امی	alone	ɑː m ی
+چن	between_vowels	t͡ʃ n
+چن	between_consonants	t͡ʃ n
+چن	alone	t͡ʃ n
+یلا	between_consonants	ی l ɑː
+یلا	alone	ی l ɑː
+طی	between_vowels	t̪ ی
+طی	between_consonants	t̪ ی
+طی	alone	t̪ ی
+ندو	between_vowels	n d̪ uː
+ندو	between_consonants	n d̪ uː
+ندو	alone	n d̪ uː
+زن	between_vowels	z n
+زن	between_consonants	z n
+زن	alone	z n
+بھی	between_vowels	b ھ ی
+بھی	between_consonants	b ھ ی
+بھی	alone	b ھ ی
+دھا	between_consonants	d̪ ھ ɑː
+دھا	alone	d̪ ھ ɑː
+ہد	between_vowels	ہ d̪
+ہد	between_consonants	ہ d̪
+ہد	alone	ہ d̪
+رنا	between_consonants	r n ɑː
+رنا	alone	r n ɑː
+ارت	between_consonants	ɑː r t̪
+ارت	alone	ɑː r t̪
+ارہ	between_consonants	ɑː r ہ
+ارہ	alone	ɑː r ہ
+صو	between_vowels	s uː
+صو	between_consonants	s uː
+صو	alone	s uː
+یرو	between_vowels	ی r uː
+یرو	between_consonants	ی r uː
+یرو	alone	ی r uː
+لس	between_vowels	l s
+لس	alone	l s
+طا	between_consonants	t̪ ɑː
+طا	alone	t̪ ɑː
+نگا	between_consonants	n ɡ ɑː
+نگا	alone	n ɡ ɑː
+حت	between_vowels	h t̪
+حت	between_consonants	h t̪
+حت	alone	h t̪
+ھل	between_vowels	ھ l
+ھل	alone	ھ l
+باد	between_vowels	b ɑː d̪
+باد	between_consonants	b ɑː d̪
+باد	alone	b ɑː d̪
+لوں	between_vowels	l uː ◌̃
+لوں	alone	l uː ◌̃
+ہار	between_vowels	ہ ɑː r
+ہار	between_consonants	ہ ɑː r
+ہار	alone	ہ ɑː r
+پت	between_vowels	p t̪
+پت	between_consonants	p t̪
+پت	alone	p t̪
+چہ	between_vowels	t͡ʃ ہ
+چہ	between_consonants	t͡ʃ ہ
+چہ	alone	t͡ʃ ہ
+نیا	between_consonants	n ی ɑː
+نیا	alone	n ی ɑː
+ادی	between_consonants	ɑː d̪ ی
+ادی	alone	ɑː d̪ ی
+دھی	between_vowels	d̪ ھ ی
+دھی	between_consonants	d̪ ھ ی
+دھی	alone	d̪ ھ ی
+وال	between_vowels	uː ɑː l
+وال	alone	uː ɑː l
+دگی	between_vowels	d̪ ɡ ی
+دگی	between_consonants	d̪ ɡ ی
+دگی	alone	d̪ ɡ ی
+بار	between_vowels	b ɑː r
+بار	between_consonants	b ɑː r
+بار	alone	b ɑː r
+ندی	between_vowels	n d̪ ی
+ندی	between_consonants	n d̪ ی
+ندی	alone	n d̪ ی
+ندر	between_vowels	n d̪ r
+ندر	between_consonants	n d̪ r
+ندر	alone	n d̪ r
+ژ	between_vowels	ʒ
+ژ	between_consonants	ʒ
+ژ	alone	ʒ
+نم	between_vowels	n m
+نم	between_consonants	n m
+نم	alone	n m
+وق	between_vowels	uː q
+وق	between_consonants	uː q
+وق	alone	uː q
+صی	between_vowels	s ی
+صی	between_consonants	s ی
+صی	alone	s ی
+قل	between_vowels	q l
+قل	alone	q l
+عر	between_vowels	ʔ r
+عر	between_consonants	ʔ r
+عر	alone	r
+مج	between_vowels	m d͡ʒ
+مج	between_consonants	m d͡ʒ
+مج	alone	m d͡ʒ
+رگ	between_vowels	r ɡ
+رگ	between_consonants	r ɡ
+رگ	alone	r ɡ
+تار	between_vowels	t̪ ɑː r
+تار	between_consonants	t̪ ɑː r
+تار	alone	t̪ ɑː r
+عم	between_vowels	ʔ m
+عم	between_consonants	ʔ m
+عم	alone	m
+ہت	between_vowels	ہ t̪
+ہت	between_consonants	ہ t̪
+ہت	alone	ہ t̪
+نب	between_vowels	n b
+نب	between_consonants	n b
+نب	alone	n b
+یق	between_vowels	ی q
+یق	between_consonants	ی q
+یق	alone	ی q
+کھی	between_vowels	ک ھ ی
+کھی	between_consonants	ک ھ ی
+کھی	alone	ک ھ ی
+تب	between_vowels	t̪ b
+تب	between_consonants	t̪ b
+تب	alone	t̪ b
+رات	between_vowels	r ɑː t̪
+رات	between_consonants	r ɑː t̪
+رات	alone	r ɑː t̪
+بت	between_vowels	b t̪
+بت	between_consonants	b t̪
+بت	alone	b t̪
+رے	between_vowels	r eː
+رے	between_consonants	r eː
+رے	alone	r eː
+نے	between_vowels	n eː
+نے	between_consonants	n eː
+نے	alone	n eː
+یرا	between_consonants	ی r ɑː
+یرا	alone	ی r ɑː
+وپ	between_vowels	uː p
+وپ	between_consonants	uː p
+وپ	alone	uː p
+ھنا	between_consonants	ھ n ɑː
+ھنا	alone	ھ n ɑː
+نش	between_vowels	n ʃ
+نش	between_consonants	n ʃ
+نش	alone	n ʃ
+دھو	between_vowels	d̪ ھ uː
+دھو	between_consonants	d̪ ھ uː
+دھو	alone	d̪ ھ uː
+ریا	between_consonants	r ی ɑː
+ریا	alone	r ی ɑː
+سب	between_vowels	s b
+سب	between_consonants	s b
+سب	alone	s b
+قب	between_vowels	q b
+قب	between_consonants	q b
+قب	alone	q b
+وگ	between_vowels	uː ɡ
+وگ	between_consonants	uː ɡ
+وگ	alone	uː ɡ
+پھ	between_vowels	p ھ
+پھ	between_consonants	p ھ
+پھ	alone	p ھ
+خل	between_vowels	x l
+خل	alone	x l
+اط	between_consonants	ɑː t̪
+اط	alone	ɑː t̪
+آس	between_vowels	ɑːٓ s
+آس	between_consonants	ɑːٓ s
+آس	alone	ɑːٓ s
+کھن	between_vowels	ک ھ n
+کھن	between_consonants	ک ھ n
+کھن	alone	ک ھ n
+انس	between_consonants	ɑː n s
+انس	alone	ɑː n s
+جل	between_vowels	d͡ʒ l
+جل	alone	d͡ʒ l
+قت	between_vowels	q t̪
+قت	between_consonants	q t̪
+قت	alone	q t̪
+زہ	between_vowels	z ہ
+زہ	between_consonants	z ہ
+زہ	alone	z ہ
+کس	between_vowels	ک s
+کس	between_consonants	ک s
+کس	alone	ک s
+حو	between_vowels	h uː
+حو	between_consonants	h uː
+حو	alone	h uː
+رز	between_vowels	r z
+رز	between_consonants	r z
+رز	alone	r z
+ٹک	between_vowels	ʈ ک
+ٹک	between_consonants	ʈ ک
+ٹک	alone	ʈ ک
+نگی	between_vowels	n ɡ ی
+نگی	between_consonants	n ɡ ی
+نگی	alone	n ɡ ی
+ٹھا	between_consonants	ʈ ھ ɑː
+ٹھا	alone	ʈ ھ ɑː
+ابی	between_consonants	ɑː b ی
+ابی	alone	ɑː b ی
+زم	between_vowels	z m
+زم	between_consonants	z m
+زم	alone	z m
+مال	between_vowels	m ɑː l
+مال	alone	m ɑː l
+لت	between_vowels	l t̪
+لت	alone	l t̪
+یان	between_vowels	ی ɑː n
+یان	between_consonants	ی ɑː n
+یان	alone	ی ɑː n
+یع	between_vowels	ی ʔ
+یع	between_consonants	ی ʔ
+یع	alone	ی
+اتی	between_consonants	ɑː t̪ ی
+اتی	alone	ɑː t̪ ی
+خی	between_vowels	x ی
+خی	between_consonants	x ی
+خی	alone	x ی
+لنا	alone	l n ɑː
+انج	between_consonants	ɑː n d͡ʒ
+انج	alone	ɑː n d͡ʒ
+حر	between_vowels	h r
+حر	between_consonants	h r
+حر	alone	h r
+نن	between_vowels	n n
+نن	between_consonants	n n
+نن	alone	n n
+بھو	between_vowels	b ھ uː
+بھو	between_consonants	b ھ uː
+بھو	alone	b ھ uː
+زل	between_vowels	z l
+زل	alone	z l
+دان	between_vowels	d̪ ɑː n
+دان	between_consonants	d̪ ɑː n
+دان	alone	d̪ ɑː n
+اض	between_consonants	ɑː z
+اض	alone	ɑː z
+یلی	between_vowels	ی l ی
+یلی	between_consonants	ی l ی
+یلی	alone	ی l ی
+لان	between_vowels	l ɑː n
+لان	alone	l ɑː n
+بند	between_vowels	b n d̪
+بند	between_consonants	b n d̪
+بند	alone	b n d̪
+منا	between_consonants	m n ɑː
+منا	alone	m n ɑː
+نار	between_vowels	n ɑː r
+نار	between_consonants	n ɑː r
+نار	alone	n ɑː r
+خط	between_vowels	x t̪
+خط	between_consonants	x t̪
+خط	alone	x t̪
+رنگ	between_vowels	r n ɡ
+رنگ	between_consonants	r n ɡ
+رنگ	alone	r n ɡ
+ئن	between_vowels	iːٔ n
+ئن	between_consonants	iːٔ n
+ئن	alone	iːٔ n
+تیا	between_consonants	t̪ ی ɑː
+تیا	alone	t̪ ی ɑː
+ورا	between_consonants	uː r ɑː
+ورا	alone	uː r ɑː
+یف	between_vowels	ی f
+یف	between_consonants	ی f
+یف	alone	ی f
+آن	between_vowels	ɑːٓ n
+آن	between_consonants	ɑːٓ n
+آن	alone	ɑːٓ n
+پس	between_vowels	p s
+پس	between_consonants	p s
+پس	alone	p s
+مین	between_vowels	m ی n
+مین	between_consonants	m ی n
+مین	alone	m ی n
+ؤں	between_vowels	uːٔ ◌̃
+ؤں	between_consonants	uːٔ ◌̃
+ؤں	alone	uːٔ ◌̃
+اؤں	between_consonants	ɑː uːٔ ◌̃
+اؤں	alone	ɑː uːٔ ◌̃
+ادا	between_consonants	ɑː d̪ ɑː
+ادا	alone	ɑː d̪ ɑː
+طب	between_vowels	t̪ b
+طب	between_consonants	t̪ b
+طب	alone	t̪ b
+خر	between_vowels	x r
+خر	between_consonants	x r
+خر	alone	x r
+انڈ	between_consonants	ɑː n ɖ
+انڈ	alone	ɑː n ɖ
+وف	between_vowels	uː f
+وف	between_consonants	uː f
+وف	alone	uː f
+یری	between_vowels	ی r ی
+یری	between_consonants	ی r ی
+یری	alone	ی r ی
+پہ	between_vowels	p ہ
+پہ	between_consonants	p ہ
+پہ	alone	p ہ
+معا	between_consonants	m ʔ ɑː
+معا	alone	m ʔ ɑː
+نوا	between_consonants	n uː ɑː
+نوا	alone	n uː ɑː
+الا	between_consonants	ɑː l ɑː
+الا	alone	ɑː l ɑː
+ورو	between_vowels	uː r uː
+ورو	between_consonants	uː r uː
+ورو	alone	uː r uː
+ولی	between_vowels	uː l ی
+ولی	between_consonants	uː l ی
+ولی	alone	uː l ی
+صل	between_vowels	s l
+صل	alone	s l
+قہ	between_vowels	q ہ
+قہ	between_consonants	q ہ
+قہ	alone	q ہ
+کنا	between_consonants	ک n ɑː
+کنا	alone	ک n ɑː
+کرا	between_consonants	ک r ɑː
+کرا	alone	ک r ɑː
+نق	between_vowels	n q
+نق	between_consonants	n q
+نق	alone	n q
+قص	between_vowels	q s
+قص	between_consonants	q s
+قص	alone	q s
+دت	between_vowels	d̪ t̪
+دت	between_consonants	d̪ t̪
+دت	alone	d̪ t̪
+یاد	between_vowels	ی ɑː d̪
+یاد	between_consonants	ی ɑː d̪
+یاد	alone	ی ɑː d̪
+نجی	between_vowels	n d͡ʒ ی
+نجی	between_consonants	n d͡ʒ ی
+نجی	alone	n d͡ʒ ی
+دیو	between_vowels	d̪ ی uː
+دیو	between_consonants	d̪ ی uː
+دیو	alone	d̪ ی uː
+ایت	between_consonants	ɑː ی t̪
+ایت	alone	ɑː ی t̪
+ونا	between_consonants	uː n ɑː
+ونا	alone	uː n ɑː
+پٹ	between_vowels	p ʈ
+پٹ	between_consonants	p ʈ
+پٹ	alone	p ʈ
+لام	between_vowels	l ɑː m
+لام	alone	l ɑː m
+اسی	between_consonants	ɑː s ی
+اسی	alone	ɑː s ی
+فہ	between_vowels	f ہ
+فہ	between_consonants	f ہ
+فہ	alone	f ہ
+ستی	between_vowels	s t̪ ی
+ستی	between_consonants	s t̪ ی
+ستی	alone	s t̪ ی
+رچ	between_vowels	r t͡ʃ
+رچ	between_consonants	r t͡ʃ
+رچ	alone	r t͡ʃ
+حم	between_vowels	h m
+حم	between_consonants	h m
+حم	alone	h m
+رتی	between_vowels	r t̪ ی
+رتی	between_consonants	r t̪ ی
+رتی	alone	r t̪ ی
+رما	between_consonants	r m ɑː
+رما	alone	r m ɑː
+گھن	between_vowels	ɡ ھ n
+گھن	between_consonants	ɡ ھ n
+گھن	alone	ɡ ھ n
+تق	between_vowels	t̪ q
+تق	between_consonants	t̪ q
+تق	alone	t̪ q
+رخ	between_vowels	r x
+رخ	between_consonants	r x
+رخ	alone	r x
+ائن	between_consonants	ɑː iːٔ n
+ائن	alone	ɑː iːٔ n
+وع	between_vowels	uː ʔ
+وع	between_consonants	uː ʔ
+وع	alone	uː
+نظ	between_vowels	n z
+نظ	between_consonants	n z
+نظ	alone	n z
+فل	between_vowels	f l
+فل	alone	f l
+نسا	between_consonants	n s ɑː
+نسا	alone	n s ɑː
+رق	between_vowels	r q
+رق	between_consonants	r q
+رق	alone	r q
+عج	between_vowels	ʔ d͡ʒ
+عج	between_consonants	ʔ d͡ʒ
+عج	alone	d͡ʒ
+مار	between_vowels	m ɑː r
+مار	between_consonants	m ɑː r
+مار	alone	m ɑː r
+صر	between_vowels	s r
+صر	between_consonants	s r
+صر	alone	s r
+وتی	between_vowels	uː t̪ ی
+وتی	between_consonants	uː t̪ ی
+وتی	alone	uː t̪ ی
+ئیں	between_vowels	iːٔ ی ◌̃
+ئیں	between_consonants	iːٔ ی ◌̃
+ئیں	alone	iːٔ ی ◌̃
+ئے	between_vowels	iːٔ eː
+ئے	between_consonants	iːٔ eː
+ئے	alone	iːٔ eː
+یج	between_vowels	ی d͡ʒ
+یج	between_consonants	ی d͡ʒ
+یج	alone	ی d͡ʒ
+ادو	between_consonants	ɑː d̪ uː
+ادو	alone	ɑː d̪ uː
+ڈھ	between_vowels	ɖ ھ
+ڈھ	between_consonants	ɖ ھ
+ڈھ	alone	ɖ ھ
+کان	between_vowels	ک ɑː n
+کان	between_consonants	ک ɑː n
+کان	alone	ک ɑː n
+نز	between_vowels	n z
+نز	between_consonants	n z
+نز	alone	n z
+لیا	alone	l ی ɑː
+خان	between_vowels	x ɑː n
+خان	between_consonants	x ɑː n
+خان	alone	x ɑː n
+تک	between_vowels	t̪ ک
+تک	between_consonants	t̪ ک
+تک	alone	t̪ ک
+ترا	between_consonants	t̪ r ɑː
+ترا	alone	t̪ r ɑː
+رف	between_vowels	r f
+رف	between_consonants	r f
+رف	alone	r f
+شاہ	between_vowels	ʃ ɑː ہ
+شاہ	between_consonants	ʃ ɑː ہ
+شاہ	alone	ʃ ɑː ہ
+آل	between_vowels	ɑːٓ l
+آل	alone	ɑːٓ l
+احت	between_consonants	ɑː h t̪
+احت	alone	ɑː h t̪
+اث	between_consonants	ɑː s
+اث	alone	ɑː s
+غر	between_vowels	ɣ r
+غر	between_consonants	ɣ r
+غر	alone	ɣ r
+راہ	between_vowels	r ɑː ہ
+راہ	between_consonants	r ɑː ہ
+راہ	alone	r ɑː ہ
+ھیا	between_consonants	ھ ی ɑː
+ھیا	alone	ھ ی ɑː
+اغ	between_consonants	ɑː ɣ
+اغ	alone	ɑː ɣ
+غی	between_vowels	ɣ ی
+غی	between_consonants	ɣ ی
+غی	alone	ɣ ی
+ھے	between_vowels	ھ eː
+ھے	between_consonants	ھ eː
+ھے	alone	ھ eː
+نان	between_vowels	n ɑː n
+نان	between_consonants	n ɑː n
+نان	alone	n ɑː n
+غو	between_vowels	ɣ uː
+غو	between_consonants	ɣ uː
+غو	alone	ɣ uː
+ھم	between_vowels	ھ m
+ھم	between_consonants	ھ m
+ھم	alone	ھ m
+درو	between_vowels	d̪ r uː
+درو	between_consonants	d̪ r uː
+درو	alone	d̪ r uː
+خن	between_vowels	x n
+خن	between_consonants	x n
+خن	alone	x n
+رتو	between_vowels	r t̪ uː
+رتو	between_consonants	r t̪ uː
+رتو	alone	r t̪ uː
+ہان	between_vowels	ہ ɑː n
+ہان	between_consonants	ہ ɑː n
+ہان	alone	ہ ɑː n
+دے	between_vowels	d̪ eː
+دے	between_consonants	d̪ eː
+دے	alone	d̪ eː
+ضا	between_consonants	z ɑː
+ضا	alone	z ɑː
+راک	between_vowels	r ɑː ک
+راک	between_consonants	r ɑː ک
+راک	alone	r ɑː ک
+لے	between_vowels	l eː
+لے	alone	l eː
+وئ	between_vowels	uː iːٔ
+وئ	between_consonants	uː iːٔ
+وئ	alone	uː iːٔ
+غل	between_vowels	ɣ l
+غل	alone	ɣ l
+ٹن	between_vowels	ʈ n
+ٹن	between_consonants	ʈ n
+ٹن	alone	ʈ n
+میا	between_consonants	m ی ɑː
+میا	alone	m ی ɑː
+رست	between_vowels	r s t̪
+رست	between_consonants	r s t̪
+رست	alone	r s t̪
+اعت	between_consonants	ɑː ʔ t̪
+اعت	alone	ɑː ʔ t̪
+عد	between_vowels	ʔ d̪
+عد	between_consonants	ʔ d̪
+عد	alone	d̪
+سط	between_vowels	s t̪
+سط	between_consonants	s t̪
+سط	alone	s t̪
+عب	between_vowels	ʔ b
+عب	between_consonants	ʔ b
+عب	alone	b
+مخ	between_vowels	m x
+مخ	between_consonants	m x
+مخ	alone	m x
+طل	between_vowels	t̪ l
+طل	alone	t̪ l
+بس	between_vowels	b s
+بس	between_consonants	b s
+بس	alone	b s
+چر	between_vowels	t͡ʃ r
+چر	between_consonants	t͡ʃ r
+چر	alone	t͡ʃ r
+واز	between_vowels	uː ɑː z
+واز	between_consonants	uː ɑː z
+واز	alone	uː ɑː z
+نون	between_vowels	n uː n
+نون	between_consonants	n uː n
+نون	alone	n uː n
+ہند	between_vowels	ہ n d̪
+ہند	between_consonants	ہ n d̪
+ہند	alone	ہ n d̪
+گد	between_vowels	ɡ d̪
+گد	between_consonants	ɡ d̪
+گد	alone	ɡ d̪
+گنا	between_consonants	ɡ n ɑː
+گنا	alone	ɡ n ɑː
+تص	between_vowels	t̪ s
+تص	between_consonants	t̪ s
+تص	alone	t̪ s
+دست	between_vowels	d̪ s t̪
+دست	between_consonants	d̪ s t̪
+دست	alone	d̪ s t̪
+ذا	between_consonants	z ɑː
+ذا	alone	z ɑː
+ظم	between_vowels	z m
+ظم	between_consonants	z m
+ظم	alone	z m
+برا	between_consonants	b r ɑː
+برا	alone	b r ɑː
+ھائ	between_vowels	ھ ɑː iːٔ
+ھائ	between_consonants	ھ ɑː iːٔ
+ھائ	alone	ھ ɑː iːٔ
+عن	between_vowels	ʔ n
+عن	between_consonants	ʔ n
+عن	alone	n
+وشی	between_vowels	uː ʃ ی
+وشی	between_consonants	uː ʃ ی
+وشی	alone	uː ʃ ی
+پان	between_vowels	p ɑː n
+پان	between_consonants	p ɑː n
+پان	alone	p ɑː n
+لائ	between_vowels	l ɑː iːٔ
+لائ	alone	l ɑː iːٔ
+اما	between_consonants	ɑː m ɑː
+اما	alone	ɑː m ɑː
+امت	between_consonants	ɑː m t̪
+امت	alone	ɑː m t̪
+روز	between_vowels	r uː z
+روز	between_consonants	r uː z
+روز	alone	r uː z
+تح	between_vowels	t̪ h
+تح	between_consonants	t̪ h
+تح	alone	t̪ h
+بک	between_vowels	b ک
+بک	between_consonants	b ک
+بک	alone	b ک
+چل	between_vowels	t͡ʃ l
+چل	alone	t͡ʃ l
+اتھ	between_consonants	ɑː t̪ ھ
+اتھ	alone	ɑː t̪ ھ
+سیا	between_consonants	s ی ɑː
+سیا	alone	s ی ɑː
+یخ	between_vowels	ی x
+یخ	between_consonants	ی x
+یخ	alone	ی x
+داد	between_vowels	d̪ ɑː d̪
+داد	between_consonants	d̪ ɑː d̪
+داد	alone	d̪ ɑː d̪
+لیہ	between_vowels	l ی ہ
+لیہ	alone	l ی ہ
+پور	between_vowels	p uː r
+پور	between_consonants	p uː r
+پور	alone	p uː r
+ریت	between_vowels	r ی t̪
+ریت	between_consonants	r ی t̪
+ریت	alone	r ی t̪
+لین	between_vowels	l ی n
+لین	alone	l ی n
+وو	between_vowels	uː uː
+وو	between_consonants	uː uː
+وو	alone	uː uː
+ھوں	between_vowels	ھ uː ◌̃
+ھوں	between_consonants	ھ uː ◌̃
+ھوں	alone	ھ uː ◌̃
+پنا	between_consonants	p n ɑː
+پنا	alone	p n ɑː
+مرد	between_vowels	m r d̪
+مرد	between_consonants	m r d̪
+مرد	alone	m r d̪
+امو	between_consonants	ɑː m uː
+امو	alone	ɑː m uː
+تے	between_vowels	t̪ eː
+تے	between_consonants	t̪ eː
+تے	alone	t̪ eː
+چم	between_vowels	t͡ʃ m
+چم	between_consonants	t͡ʃ m
+چم	alone	t͡ʃ m
+یور	between_vowels	ی uː r
+یور	between_consonants	ی uː r
+یور	alone	ی uː r
+گان	between_vowels	ɡ ɑː n
+گان	between_consonants	ɡ ɑː n
+گان	alone	ɡ ɑː n
+اکی	between_consonants	ɑː ک ی
+اکی	alone	ɑː ک ی
+نص	between_vowels	n s
+نص	between_consonants	n s
+نص	alone	n s
+یح	between_vowels	ی h
+یح	between_consonants	ی h
+یح	alone	ی h
+ابھ	between_consonants	ɑː b ھ
+ابھ	alone	ɑː b ھ
+لق	between_vowels	l q
+لق	alone	l q
+سما	between_consonants	s m ɑː
+سما	alone	s m ɑː
+چھا	between_consonants	t͡ʃ ھ ɑː
+چھا	alone	t͡ʃ ھ ɑː
+نع	between_vowels	n ʔ
+نع	between_consonants	n ʔ
+نع	alone	n
+حل	between_vowels	h l
+حل	alone	h l
+بہا	between_consonants	b ہ ɑː
+بہا	alone	b ہ ɑː
+نگو	between_vowels	n ɡ uː
+نگو	between_consonants	n ɡ uː
+نگو	alone	n ɡ uː
+قد	between_vowels	q d̪
+قد	between_consonants	q d̪
+قد	alone	q d̪
+مست	between_vowels	m s t̪
+مست	between_consonants	m s t̪
+مست	alone	m s t̪
+پرو	between_vowels	p r uː
+پرو	between_consonants	p r uː
+پرو	alone	p r uː
+سرا	between_consonants	s r ɑː
+سرا	alone	s r ɑː
+ھٹ	between_vowels	ھ ʈ
+ھٹ	between_consonants	ھ ʈ
+ھٹ	alone	ھ ʈ
+جوا	between_consonants	d͡ʒ uː ɑː
+جوا	alone	d͡ʒ uː ɑː
+لیو	between_vowels	l ی uː
+لیو	alone	l ی uː
+ادت	between_consonants	ɑː d̪ t̪
+ادت	alone	ɑː d̪ t̪
+متو	between_vowels	m t̪ uː
+متو	between_consonants	m t̪ uː
+متو	alone	m t̪ uː
+غم	between_vowels	ɣ m
+غم	between_consonants	ɣ m
+غم	alone	ɣ m
+جب	between_vowels	d͡ʒ b
+جب	between_consonants	d͡ʒ b
+جب	alone	d͡ʒ b
+واس	between_vowels	uː ɑː s
+واس	between_consonants	uː ɑː s
+واس	alone	uː ɑː s
+سائ	between_vowels	s ɑː iːٔ
+سائ	between_consonants	s ɑː iːٔ
+سائ	alone	s ɑː iːٔ
+یون	between_vowels	ی uː n
+یون	between_consonants	ی uː n
+یون	alone	ی uː n
+ولا	between_consonants	uː l ɑː
+ولا	alone	uː l ɑː
+حب	between_vowels	h b
+حب	between_consonants	h b
+حب	alone	h b
+سپا	between_consonants	s p ɑː
+سپا	alone	s p ɑː
+ینڈ	between_vowels	ی n ɖ
+ینڈ	between_consonants	ی n ɖ
+ینڈ	alone	ی n ɖ
+ھیل	between_vowels	ھ ی l
+ھیل	alone	ھ ی l
+دک	between_vowels	d̪ ک
+دک	between_consonants	d̪ ک
+دک	alone	d̪ ک
+دھن	between_vowels	d̪ ھ n
+دھن	between_consonants	d̪ ھ n
+دھن	alone	d̪ ھ n
+ستو	between_vowels	s t̪ uː
+ستو	between_consonants	s t̪ uː
+ستو	alone	s t̪ uː
+رمی	between_vowels	r m ی
+رمی	between_consonants	r m ی
+رمی	alone	r m ی
+چھو	between_vowels	t͡ʃ ھ uː
+چھو	between_consonants	t͡ʃ ھ uː
+چھو	alone	t͡ʃ ھ uː
+یاس	between_vowels	ی ɑː s
+یاس	between_consonants	ی ɑː s
+یاس	alone	ی ɑː s
