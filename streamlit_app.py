@@ -5,8 +5,11 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 from pathlib import Path
 
+import pandas as pd
+import requests
 import streamlit as st
 
 HERE = Path(__file__).resolve().parent
@@ -26,6 +29,9 @@ BUILT = ("align_wikipron.tsv", "roman.csv", "syllables.txt")  # as translit.conv
 SKIP = HIDDEN | set(ALIASES.values())
 TARGETS = list(ALIASES) + sorted(d.name for d in DATA.iterdir() if d.name not in SKIP
                                  and any((d / f).exists() for f in BUILT))
+COLS = ["source", "target", "word", "IPA", "output", "correct", "comment"]
+EDIT = {"correct": st.column_config.TextColumn("✏️ correct spelling"),
+        "comment": st.column_config.TextColumn("✏️ comment")}
 MAPS = Path(epitran.__file__).parent / "data/map"
 SOURCES = [IPA, "eng-Latn"] + sorted(p.stem for p in MAPS.glob("*.csv")
                                      if p.stem not in HIDDEN)
@@ -49,6 +55,31 @@ def target(name):
     return converter(name)
 
 
+def version():
+    """Deployed commit, to tie feedback to the code that produced it."""
+    git = subprocess.run(["git", "-C", HERE, "rev-parse", "--short", "HEAD"],
+                         capture_output=True, text=True)
+    return git.stdout.strip() or "unknown"
+
+
+def form_id():
+    """Formspree form id from Streamlit secrets or the environment, else None."""
+    try:
+        return st.secrets["FORMSPREE_ID"]
+    except (KeyError, FileNotFoundError, st.errors.StreamlitSecretNotFoundError):
+        return os.environ.get("FORMSPREE_ID")
+
+
+def submit(reviewer, rows):
+    """POST one batch to Formspree; returns an error message or None."""
+    payload = {"_subject": f"p2g feedback: {len(rows)} row(s), {reviewer or 'anon'}",
+               "reviewer": reviewer, "version": version(), "count": len(rows),
+               "rows": rows.to_csv(sep="\t", index=False)}
+    r = requests.post(f"https://formspree.io/f/{form_id()}", json=payload,
+                      headers={"Accept": "application/json"}, timeout=20)
+    return None if r.ok else f"{r.status_code}: {r.text[:300]}"
+
+
 def run(src, tgt, words, stress):
     conv, rows = target(tgt), []
     for word in words:
@@ -60,16 +91,54 @@ def run(src, tgt, words, stress):
     return rows
 
 
-st.set_page_config(page_title="p2g transliteration")
+st.set_page_config(page_title="p2g transliteration", layout="wide")
 st.title("p2g: transliterate via IPA")
 st.write("Pick a source (raw IPA, or a spelling read by epitran; English by Flite) "
          "and a target script. Words are separated by spaces.")
 flite()
+ss = st.session_state
+ss.setdefault("fb", pd.DataFrame(columns=COLS))  # feedback basket
+ss.setdefault("fb_ver", 0)  # bumped to reload the basket editor with new rows
+ss.setdefault("sent_at", 0.0)
+
 c1, c2 = st.columns(2)
 src = c1.selectbox("Source", SOURCES, index=1)
 tgt = c2.selectbox("Target", TARGETS, index=TARGETS.index("kor"))
 text = st.text_input("Words", "computer hotel coffee")
 stress = st.checkbox("English: aspirate stops starting stressed syllables "
                      "(off = word-initial only)", value=True)
+
 if text.split():
-    st.dataframe(run(src, tgt, text.split(), stress), hide_index=True, width="stretch")
+    res = pd.DataFrame(run(src, tgt, text.split(), stress))
+    res = res.assign(correct="", comment="")
+    st.caption("Type a correction or comment in any row, then add it to your feedback.")
+    res = st.data_editor(res, hide_index=True, width="stretch", column_config=EDIT,
+                         disabled=["word", "IPA", "output"],
+                         key=f"res-{src}-{tgt}-{stress}-{text}").fillna("")
+    if st.button("Add commented rows to feedback"):
+        new = res[(res.correct.str.strip() != "") | (res.comment.str.strip() != "")]
+        new = new.assign(source=src, target=tgt)[COLS]
+        ss.fb = pd.concat([ss.get("fb_now", ss.fb), new], ignore_index=True)
+        ss.fb_ver += 1
+        st.toast(f"Added {len(new)} rows" if len(new) else "No commented rows to add")
+
+st.subheader("Your feedback")
+if msg := ss.pop("msg", None):
+    st.success(msg)
+ss.fb_now = st.data_editor(ss.fb, num_rows="dynamic", hide_index=True, width="stretch",
+                           column_config=EDIT, key=f"fb-{ss.fb_ver}",
+                           disabled=["source", "target", "word", "IPA", "output"])
+reviewer = st.text_input("Your name and languages (optional)")
+c1, c2 = st.columns(2)
+rows = ss.fb_now.fillna("")
+if c1.button("Submit feedback", type="primary", disabled=rows.empty or not form_id()):
+    if time.time() - ss.sent_at < 30:
+        st.warning("Please wait 30 seconds between submissions.")
+    elif err := submit(reviewer, rows):
+        st.error(f"Submission failed ({err}). Download the TSV and email it instead.")
+    else:
+        ss.sent_at, ss.fb_ver = time.time(), ss.fb_ver + 1
+        ss.fb, ss.msg = pd.DataFrame(columns=COLS), f"Thanks! Sent {len(rows)} row(s)."
+        st.rerun()
+c2.download_button("Download TSV", rows.to_csv(sep="\t", index=False),
+                   "p2g_feedback.tsv", disabled=rows.empty)
