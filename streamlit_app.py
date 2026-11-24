@@ -108,7 +108,7 @@ st.markdown("""**How to give feedback**
 2. In the results, type the **correct spelling** and/or a **comment** on any wrong row,
    then click **Add commented rows to feedback**. Repeat with other words or languages.
 3. Check **Your feedback** at the bottom, add your name and languages, and click
-   **Submit feedback** once at the end (or **Download TSV** and email it).""")
+   **Submit feedback** once at the end (or **Download TSV** and share it).""")
 
 c1, c2 = st.columns(2)
 src = c1.selectbox("Source", SOURCES, index=1)
@@ -146,7 +146,7 @@ if c1.button("Submit feedback", type="primary", disabled=rows.empty or not form_
     if time.time() - ss.sent_at < 30:
         st.warning("Please wait 30 seconds between submissions.")
     elif err := submit(reviewer, rows):
-        st.error(f"Submission failed ({err}). Download the TSV and email it instead.")
+        st.error(f"Submission failed ({err}). Download the TSV and share it instead.")
     else:
         ss.sent_at, ss.fb_ver = time.time(), ss.fb_ver + 1
         ss.fb, ss.msg = pd.DataFrame(columns=COLS), f"Thanks! Sent {len(rows)} row(s)."
