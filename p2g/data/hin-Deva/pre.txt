@@ -1,0 +1,9 @@
+% Hindi loanword conventions on the input IPA (then subst.csv)
+% English diphthongs ei ou are ए ओ (train ट्रेन, hotel होटल)
+eɪ -> eː / _
+oʊ -> oː / _
+% r-coloured vowels are ər (computer -टर, internet इंटरनेट)
+ɜ˞ -> ər / _
+ə˞ -> ər / _
+ɚ -> ər / _
+ɝ -> ər / _

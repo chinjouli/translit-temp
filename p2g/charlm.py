@@ -52,6 +52,11 @@ class CharLM:
                    for a, b, c in zip(chars, chars[1:], chars[2:]))
 
 
+def is_word(text):
+    """Letters and combining marks only: Devanagari कि is a word (isalpha() says no)."""
+    return bool(text) and all(unicodedata.category(c)[0] in "LM" for c in text)
+
+
 def word_list(code):
     """WikiPron TSV for an epitran code (broad over narrow, filtered first; a file
     under MIN_WORDS lines, like Catalan's 175-word broad one, goes last), or None."""
@@ -76,4 +81,4 @@ def model(code):
     with open(path, encoding="utf-8") as f:
         words = {unicodedata.normalize("NFC", r[0]).lower()
                  for r in csv.reader(f, delimiter="\t") if r}
-    return CharLM(w for w in words if w.isalpha())
+    return CharLM(w for w in words if is_word(w))

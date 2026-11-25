@@ -16,7 +16,6 @@ HERE = Path(__file__).resolve().parent
 for p in (HERE.parent / "p2g", HERE / "p2g", HERE / "epitran"):  # local, deployed
     if p.exists():
         sys.path.insert(0, str(p))
-os.environ.setdefault("APERTUS_TOKENIZER", str(HERE / "apertus_tokenizer.json"))
 
 import epitran  # noqa: E402
 import source  # noqa: E402

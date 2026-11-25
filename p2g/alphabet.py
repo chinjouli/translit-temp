@@ -18,7 +18,10 @@ consonant are tried (French bette = bɛt). Cost: feature-weighted phone edit dis
 (t/d cheap, t/a dear), plus a cost per letter and per nat of charlm surprisal, so
 short, natural spellings win near-ties (chiesa over qiesa).
 A phone absent from the table tries data/default/fallback.csv in order (h -> x χ ħ),
-then the feature-nearest phone. Abugidas and syllabaries need their own module.
+then the feature-nearest phone. Brahmic abugidas (Devanagari, Bengali, …) are spelled
+here too, epitran's schwa deletion deciding where a consonant needs no vowel sign
+(कमल = kəməl), with spellings kept well formed (_fits); other abugidas and syllabaries
+need their own module.
 Optional data/<code>/ (pre.txt, subst.csv, post.txt) works as for every target.
 
 Usage: python alphabet.py CODE IPA [IPA ...]   e.g. python alphabet.py spa-Latn peɾo
@@ -33,7 +36,6 @@ from functools import cached_property, lru_cache
 from pathlib import Path
 
 import epitran
-from apertus import rank
 from charlm import model
 from engine import DATA, FALLBACK, SECONDARY, Target, closest
 from phones import LENGTH, is_vowel, segments, sub_cost
@@ -54,9 +56,11 @@ ALIGN_FILE = "align_wikipron.tsv"  # in data/<code>/ (scripts/make_align.py)
 NO_ALIGN = {"eng-Latn"}  # too irregular: the prior made respellings worse (bosure)
 MIN_CONTEXT = 20  # alignment contexts seen fewer times use the pooled counts
 MIN_SHARE = 0.02  # aligned spellings rarer than this per phone chunk are not tried
-ABUGIDAS = {"Deva", "Beng", "Guru", "Gujr", "Orya", "Taml", "Telu", "Knda", "Mlym",
-            "Sinh", "Thai", "Laoo", "Khmr", "Mymr", "Ethi", "Tibt", "Hang", "Hira",
-            "Kana"}
+BRAHMIC = {"Deva", "Beng", "Guru", "Gujr", "Orya", "Taml", "Telu", "Knda", "Mlym",
+           "Sinh"}  # abugidas spelled here: a vowel sign or virama needs a consonant
+ABUGIDAS = {"Thai", "Laoo", "Khmr", "Mymr", "Ethi", "Tibt", "Hang", "Hira", "Kana"}
+VOWEL_LETTERS = {"A", "AA", "I", "II", "U", "UU", "E", "EE", "AI", "O", "OO", "AU",
+                 "AE", "AAE"}  # independent vowels, by Unicode name after "LETTER "
 
 
 def _pool(alts):
@@ -83,6 +87,45 @@ def _attach(phones):
     return tuple(out)
 
 
+def _kind(c):
+    """Brahmic character class: consonant, vowel (letter), sign, virama, nukta, mark
+    (anusvara, candrabindu, visarga), other."""
+    name = unicodedata.name(c, "")
+    if "VOWEL SIGN" in name:
+        return "sign"
+    if "VIRAMA" in name or "AL-LAKUNA" in name:
+        return "virama"
+    if "NUKTA" in name:
+        return "nukta"
+    if any(m in name for m in ("ANUSVARA", "CANDRABINDU", "VISARGA")):
+        return "mark"
+    if "LETTER" in name:
+        rest = name.split("LETTER ", 1)[1]
+        vowel = rest in VOWEL_LETTERS or rest.startswith(("VOCALIC", "CANDRA", "SHORT"))
+        return "vowel" if vowel else "consonant"
+    return "other"
+
+
+def _fits(prev, letters):
+    """A Brahmic spelling stays well formed when `letters` follow `prev`: vowel signs,
+    virama and nukta only right after a consonant (ि after इ or a sign is not text);
+    no independent vowel after a virama (व्इ for वि) and no anusvara or visarga at
+    the start or after a virama."""
+    state = _kind(prev[-1]) if prev else "start"
+    for c in letters:
+        kind = _kind(c)
+        if kind in ("sign", "virama", "nukta"):
+            if state not in ("consonant", "nukta"):
+                return False
+            kind = "consonant" if kind == "nukta" else kind
+        elif kind == "vowel" and state == "virama":
+            return False
+        elif kind == "mark" and state in ("start", "virama"):
+            return False
+        state = kind
+    return True
+
+
 def _letters(text):
     return all(unicodedata.category(c)[0] in "LM" for c in text)
 
@@ -93,12 +136,14 @@ class Alphabet:
         if script in ABUGIDAS:
             raise ValueError(f"{code}: {script} needs its own module, not alphabet.py")
         self.code, self.target = code, Target(code)
+        self.brahmic = script in BRAHMIC
         rows = defaultdict(list)  # phone tuple -> spellings, map order
         base = MAP_DIR / f"{code}.csv"
         with open(base if base.exists() else DATA / code / "base.csv",
                   encoding="utf-8") as f:
             for r in csv.DictReader(f):
-                key = tuple(segments(r["Phon"], keep_length=True))
+                phon = r["Phon"].replace("<ons>", "")  # Brahmic independent vowel आ
+                key = tuple(segments(phon, keep_length=True))
                 orth = unicodedata.normalize("NFC", r["Orth"])
                 if key and _letters(orth) and orth not in rows[key]:
                     rows[key].append(orth)
@@ -142,9 +187,18 @@ class Alphabet:
 
         def order(key, orth):
             ok = read_back.get((orth, key)) or forward(code, orth) == key
-            plausible = -self.lm.logprob(orth) if self.lm else rank(orth)
+            plausible = -self.lm.logprob(orth) if self.lm else 0
             return self.prior(key, orth) + (not ok), plausible
 
+        if self.brahmic:  # a consonant letter alone spells its consonant: a vowel
+            for k, v in list(rows.items()):  # sign replaces the inherent vowel (বা)
+                for o in v:
+                    if len(k) > 1 and len(o) == 1 and _kind(o) == "consonant":
+                        rows[k[:1]] += [o] * (o not in rows[k[:1]])
+        if self.brahmic:  # a vowel sign never spells a consonant (ृ for r: थृएन)
+            for k, v in [*rows.items(), *final.items()]:
+                if k and not any(map(is_vowel, k)):
+                    v[:] = [o for o in v if any(_kind(c) != "sign" for c in o)]
         self.table = {k: sorted(v, key=lambda o: order(k, o))  # stable: map order on
                       for k, v in rows.items() if v}  # ties; filtering may empty a key
         self.final = {k: sorted(v, key=lambda o: order(k, o))
@@ -195,7 +249,8 @@ class Alphabet:
         reads = {g: forward(self.code, g) for g in letters}
         vowels = [g for g in letters if reads[g] and all(map(is_vowel, reads[g]))]
         consonants = [g for g in letters
-                      if reads[g] and not any(map(is_vowel, reads[g]))]
+                      if reads[g] and not any(map(is_vowel, reads[g]))
+                      and (not self.brahmic or _kind(g) == "consonant")]  # not ं
         prefer = [("l",), ("n",), ("m",)]  # sonorants: no voicing assimilation (лог+т)
         consonants.sort(key=lambda g: prefer.index(reads[g]) if reads[g] in prefer
                         else len(prefer))
@@ -294,6 +349,8 @@ class Alphabet:
         bet = bɛ, but beta = bɛta): the stable vowel, and consonant + vowel, the
         better reading counting, since a vowel alone can form a digraph with the
         prefix (French pa + i = pai = pɛ, but pa + li = pali)."""
+        if self.brahmic and self.lm:  # consonant + vowel sign: valid after anything
+            return self._brahmic_probe()
         v, c = self._frames() if self.lm else (None, None)
         if not v:
             return (("", ()),)
@@ -301,6 +358,21 @@ class Alphabet:
         if c:
             out.append((c + v, forward(self.code, c) + forward(self.code, v)))
         return tuple(out)
+
+    def _brahmic_probe(self):
+        """A bare consonant letter ending the word (Hindi र = r): the prefix's last
+        inherent ə is then read as a word-internal one (कम + र, not कम alone = kəm).
+        Native recovery 0.48, against 0.39 adding consonant + vowel sign (रा, which
+        deletes it: कमरा kəmraː) and 0.32 with no probe."""
+        letters = [g for g in self.lm.ngrams() if len(g) == 1]
+        cons = [g for g in letters if _kind(g) == "consonant"]
+        signs = [g for g in letters if _kind(g) == "sign"]
+        for c in cons:
+            for v in signs:
+                read, alone = forward(self.code, c + v), forward(self.code, c)
+                if len(read) == 2 and read[0] == alone[0] and is_vowel(read[1]):
+                    return ((c, alone[:1]),)
+        return (("", ()),)
 
     @cached_property
     def silent(self):
@@ -371,16 +443,26 @@ class Alphabet:
                 ctx = context(phones[i - 1] if i else None,
                               phones[i + n] if i + n < len(phones) else None)
                 cap = MAX_LETTERS * (i + n) + 2
+                vowel_next = i + n < len(phones) and is_vowel(phones[i + n])
                 for s, (c, bounds, cut_l, cut_p, frozen) in beam.items():
                     for a in alts:
-                        if len(s) + len(a) > cap:
+                        if len(s) + len(a) > cap or (self.brahmic and (
+                                not _fits(s, a) or vowel_next  # no sign after ्
+                                and a and _kind(a[-1]) == "virama")):
                             continue
                         cost = c + self.prior(key, a, ctx)
                         if cost < nxt.get(s + a, (math.inf,))[0]:
                             bound = bounds + ((len(s) + len(a), i + n),)
                             nxt[s + a] = (cost, bound, cut_l, cut_p, frozen)
+        if not states[len(phones)] and self.brahmic:  # no well-formed spelling
+            self.brahmic = False
+            try:
+                return self(ipa)
+            finally:
+                self.brahmic = True
         done = self.best(states[len(phones)], len(phones))
-        ends = {s + x: n for s, n in done.items() for x in self.silent}
+        ends = {s + x: n for s, n in done.items() for x in self.silent
+                if not self.brahmic or _fits(s, x)}
         out = next(iter(self.best(ends, len(phones), keep=1)))
         return unicodedata.normalize("NFC", self.target.finish(out))
 

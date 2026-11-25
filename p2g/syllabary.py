@@ -22,7 +22,7 @@ from functools import lru_cache
 
 import epitran
 from engine import DATA, FALLBACK, Target, _rules
-from phones import DST, FT, TIE, is_vowel, segments
+from phones import DST, FT, MODIFIERS, TIE, is_vowel, segments
 
 GLIDES = {"i̯": "j", "ɪ̯": "j", "u̯": "w", "ʊ̯": "w", "y̯": "ɥ"}
 HIGH = {"i": "j", "ɪ": "j", "u": "w", "ʊ": "w", "y": "ɥ"}  # next to a vowel: glide
@@ -145,7 +145,8 @@ class Syllabary:
         fallback = next((f for f in FALLBACK.get(p, []) if f in self.known), None)
         if fallback:
             return fallback
-        base = "".join(c for c in p if not unicodedata.combining(c) or c in TIE)
+        base = "".join(c for c in p if (not unicodedata.combining(c) or c in TIE)
+                       and c not in MODIFIERS)  # Irish ɾˠ -> ɾ
         if base != p and not FT.seg_known(p):
             return self._known(base)
         return p

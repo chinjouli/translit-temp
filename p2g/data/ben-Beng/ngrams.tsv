@@ -1,0 +1,601 @@
+gram	context	phones
+া	alone	a
+্	alone	্
+র	alone	r ɔ
+ি	alone	i
+ন	alone	n̪ ɔ
+ক	alone	k ɔ
+ত	alone	t̪ ɔ
+ব	alone	b ɔ
+ম	alone	m ɔ
+স	alone	s̪ ɔ
+ল	alone	l̪ ɔ
+ু	alone	u
+য	alone	d͡z ɔ
+ে	alone	e
+দ	alone	d̪ ɔ
+অ	alone	o
+প	alone	p ɔ
+়	alone	়
+গ	alone	ɡ ɔ
+শ	alone	ɕ ɔ
+ো	alone	o
+য়	alone	e̯ ɔ
+হ	alone	h ɔ
+ী	alone	i
+্র	alone	্ r ɔ
+ান	alone	a n̪
+ড	alone	d ɔ
+ষ	alone	ʂ ɔ
+ার	alone	a r
+়া	alone	় a
+্য	alone	্ d͡z ɔ
+ট	alone	t ɔ
+্ত	alone	্ t̪ ɔ
+কা	alone	k a
+বা	alone	b a
+ন্	alone	n̪
+রা	alone	r a
+ক্	alone	k
+আ	alone	a
+র্	alone	r
+ণ	alone	n ɔ
+ধ	alone	d̪̤ ɔ
+স্	alone	s̪
+ভ	alone	b̤ ɔ
+অক	alone	o k
+খ	alone	kʰ ɔ
+মা	alone	m a
+য়া	alone	e̯ a
+না	alone	n̪ a
+তা	alone	t̪ a
+াল	alone	a l̪
+ত্	alone	t̪
+ফ	alone	ɸ ɔ
+ই	alone	i
+লা	alone	l̪ a
+্ব	alone	্ b ɔ
+নি	alone	n̪ i
+ড়	alone	ɽ ɔ
+াম	alone	a m
+বি	alone	b i
+রি	alone	r i
+তি	alone	t̪ i
+িক	alone	i k
+্ষ	alone	্ ʂ ɔ
+সা	alone	s̪ a
+অগ	alone	o ɡ
+াত	alone	a t̪
+পা	alone	p a
+ক্ষ	alone	k ʂ ɔ
+থ	alone	t̪ʰ ɔ
+হা	alone	h a
+ও	alone	o
+দা	alone	d̪ a
+যা	alone	d͡z a
+াস	alone	a s̪
+্যা	alone	্ d͡z a
+ঁ	alone	ঁ
+গ্	alone	ɡ ɔ
+ঙ	alone	ŋ ɔ
+উ	alone	u
+প্	alone	p
+ৃ	alone	ɽ i
+ঙ্	alone	ŋ
+ুর	alone	u r
+্ক	alone	্ k ɔ
+ং	alone	ŋ
+িত	alone	i t̪
+াদ	alone	a d̪
+াব	alone	a b
+্ন	alone	্ n̪ ɔ
+ষ্	alone	ʂ
+িয	alone	i d͡z
+িন	alone	i n̪
+অক্	alone	o k
+িয়	alone	i e̯
+কু	alone	k u
+্ট	alone	্ t ɔ
+লি	alone	l̪ i
+শা	alone	ɕ a
+ূ	alone	u
+গা	alone	ɡ a
+াহ	alone	a h ɔ
+দ্	alone	d̪
+্দ	alone	্ d̪ ɔ
+অগ্	alone	o ɡ
+প্র	alone	p r ɔ
+্ম	alone	্ m ɔ
+াক	alone	a k
+ব্	alone	b
+বে	alone	b e
+রে	alone	r e
+স্ত	alone	s̪ t̪ ɔ
+ড়া	alone	ɽ a
+কর	alone	k ɔ r ɔ
+বর	alone	b ɔ r ɔ
+খা	alone	kʰ a
+্ধ	alone	্ d̪̤ ɔ
+শি	alone	ɕ i
+ঠ	alone	tʰ ɔ
+ত্র	alone	t̪ r ɔ
+শ্	alone	ɕ
+ঘ	alone	̤ ɡ̤ ɔ
+নো	alone	n̪ o
+্গ	alone	্ ɡ ɔ
+রী	alone	r i
+ভা	alone	b̤ a
+ন্ত	alone	n̪ t̪ ɔ
+সি	alone	s̪ i
+মি	alone	m i
+ম্	alone	m
+ল্	alone	l̪
+জ	alone	d͡ʑ ɔ
+ায	alone	a d͡z
+ায়	alone	a e̯
+াঁ	alone	̃
+দে	alone	d̪ e
+্ড	alone	্ d ɔ
+অন	alone	o n̪
+াই	alone	a i
+েশ	alone	e ɕ
+কি	alone	k i
+রু	alone	r u
+ির	alone	i r
+টা	alone	t a
+ন্দ	alone	n̪ d̪ ɔ
+ুল	alone	u l̪
+্ল	alone	্ l̪ ɔ
+্রা	alone	্ r a
+াগ	alone	a ɡ
+ান্	alone	a n̪
+মু	alone	m u
+্থ	alone	্ t̪ʰ ɔ
+কার	alone	k a r
+এ	alone	e
+গ্ন	alone	ɡ ɔ n̪ ɔ
+কে	alone	k e
+েল	alone	e l̪
+্নি	alone	্ n̪ i
+ৃত	alone	ɽ i t̪
+িল	alone	i l̪
+পর	alone	p ɔ r ɔ
+পু	alone	p u
+িশ	alone	i ɕ
+ঙ্গ	alone	ŋ ɡ ɔ
+ণ্	alone	n
+দু	alone	d̪ u
+ওয	alone	o d͡z
+ওয়	alone	o e̯
+গু	alone	ɡ u
+াড	alone	a d
+নী	alone	n̪ i
+ের	alone	e r
+সু	alone	s̪ u
+িম	alone	i m
+ানো	alone	a n̪ o
+ধা	alone	d̪̤ a
+ষ্ট	alone	ʂ t ɔ
+ুন	alone	u n̪
+রো	alone	r o
+মান	alone	m a n̪
+গ্র	alone	ɡ ɔ r ɔ
+তর	alone	t̪ ɔ r ɔ
+সম	alone	s̪ ɔ m ɔ
+িব	alone	i b
+ৌ	alone	o w
+কৃ	alone	k ɽ i
+ঙ্ক	alone	ŋ k ɔ
+হি	alone	h i
+িস	alone	i s̪
+েন	alone	e n̪
+িষ	alone	i ʂ
+তু	alone	t̪ u
+দি	alone	d̪ i
+রব	alone	r ɔ b ɔ
+মন	alone	m ɔ n̪ ɔ
+্ত্	alone	্ t̪
+াপ	alone	a p
+ভি	alone	b̤ i
+বার	alone	b a r
+নু	alone	n̪ u
+মে	alone	m e
+াড়	alone	a ɽ
+গো	alone	ɡ o
+াট	alone	a t
+পি	alone	p i
+াশ	alone	a ɕ
+ৎ	alone	t̪ ɔ
+্তি	alone	্ t̪ i
+লে	alone	l̪ e
+্তা	alone	্ t̪ a
+ত্ত	alone	t̪ t̪ ɔ
+চ	alone	t͡ɕ ɔ
+নে	alone	n̪ e
+্রি	alone	্ r i
+ারা	alone	a r a
+ুস	alone	u s̪
+ানা	alone	a n̪ a
+়ি	alone	় i
+রত	alone	r ɔ t̪ ɔ
+িদ	alone	i d̪
+রস	alone	r ɔ s̪ ɔ
+সর	alone	s̪ ɔ r ɔ
+টি	alone	t i
+থা	alone	t̪ʰ a
+ুত	alone	u t̪
+স্ব	alone	s̪ b ɔ
+ড়ি	alone	ɽ i
+ফা	alone	ɸ a
+়ান	alone	় a n̪
+ুম	alone	u m
+ক্র	alone	k r ɔ
+্প	alone	্ p ɔ
+িপ	alone	i p
+্বা	alone	্ b a
+বর্	alone	b ɔ r
+ার্	alone	a r
+ত্য	alone	t̪ d͡z ɔ
+়ে	alone	় e
+বন	alone	b ɔ n̪ ɔ
+রম	alone	r ɔ m ɔ
+র্ম	alone	r m ɔ
+রণ	alone	r ɔ n ɔ
+রক	alone	r ɔ k ɔ
+দর	alone	d̪ ɔ r ɔ
+ুক	alone	u k
+িকা	alone	i k a
+ণ্ড	alone	n d ɔ
+ীন	alone	i n̪
+্ণ	alone	্ n ɔ
+ালা	alone	a l̪ a
+কল	alone	k ɔ l̪ ɔ
+ব্য	alone	b d͡z ɔ
+োয	alone	o d͡z
+োয়	alone	o e̯
+দ্র	alone	d̪ r ɔ
+অঙ	alone	o ŋ
+অঙ্	alone	o ŋ
+তে	alone	t̪ e
+শু	alone	ɕ u
+কো	alone	k o
+র্ত	alone	r t̪ ɔ
+কৃত	alone	k ɽ i t̪
+কর্	alone	k ɔ r
+ীর	alone	i r
+ঞ	alone	n ɔ
+ন্য	alone	n̪ d͡z ɔ
+ন্ধ	alone	n̪ d̪̤ ɔ
+কাল	alone	k a l̪
+অকা	alone	o k a
+স্থ	alone	s̪ t̪ʰ ɔ
+গর	alone	ɡ ɔ r ɔ
+য়ে	alone	e̯ e
+ুদ	alone	u d̪
+তন	alone	t̪ ɔ n̪ ɔ
+বাদ	alone	b a d̪
+োর	alone	o r
+োন	alone	o n̪
+োল	alone	o l̪
+ট্	alone	t
+মর	alone	m ɔ r ɔ
+বী	alone	b i
+িন্	alone	i n̪
+ষা	alone	ʂ a
+ধ্	alone	d̪̤
+দেশ	alone	d̪ e ɕ
+াণ	alone	a n
+িষ্	alone	i ʂ
+লো	alone	l̪ o
+হী	alone	h i
+মী	alone	m i
+ক্ত	alone	k t̪ ɔ
+ারি	alone	a r i
+ুব	alone	u b
+পন	alone	p ɔ n̪ ɔ
+জ্	alone	d͡ʑ
+েত	alone	e t̪
+বু	alone	b u
+ালি	alone	a l̪ i
+বস	alone	b ɔ s̪ ɔ
+্লা	alone	্ l̪ a
+্রী	alone	্ r i
+েব	alone	e b
+েম	alone	e m
+ডা	alone	d a
+রান	alone	r a n̪
+মত	alone	m ɔ t̪ ɔ
+বল	alone	b ɔ l̪ ɔ
+তো	alone	t̪ o
+ৈ	alone	o j
+সন	alone	s̪ ɔ n̪ ɔ
+অকৃ	alone	o k ɽ i
+ূর	alone	u r
+াং	alone	a ŋ
+ংশ	alone	ŋ ɕ ɔ
+্কা	alone	্ k a
+োক	alone	o k
+়াল	alone	় a l̪
+াধ	alone	a d̪̤
+ইন	alone	i n̪
+ুষ	alone	u ʂ
+পুর	alone	p u r
+ীয	alone	i d͡z
+ীয়	alone	i e̯
+ঠা	alone	tʰ a
+আল	alone	a l̪
+মো	alone	m o
+রিয	alone	r i d͡z
+অখ	alone	o kʰ
+মহ	alone	m ɔ h ɔ
+লক	alone	l̪ ɔ k ɔ
+লব	alone	l̪ ɔ b ɔ
+শ্ব	alone	ɕ b ɔ
+বাস	alone	b a s̪
+রিক	alone	r i k
+েক	alone	e k
+্রে	alone	্ r e
+হীন	alone	h i n̪
+ষি	alone	ʂ i
+্ঞ	alone	্ n ɔ
+জ্ঞ	alone	d͡ʑ n ɔ
+ল্ল	alone	l̪ l̪ ɔ
+ামা	alone	a m a
+ত্ব	alone	t̪ b ɔ
+ডি	alone	d i
+কান	alone	k a n̪
+ঢ	alone	d̤ ɔ
+াখ	alone	a kʰ
+দ্ধ	alone	d̪ d̪̤ ɔ
+ীত	alone	i t̪
+্মা	alone	্ m a
+্বর	alone	্ b ɔ r ɔ
+ল্য	alone	l̪ d͡z ɔ
+ধি	alone	d̪̤ i
+হ্	alone	h
+সে	alone	s̪ e
+লু	alone	l̪ u
+নাম	alone	n̪ a m
+হর	alone	h ɔ r ɔ
+াও	alone	a o
+াস্	alone	a s̪
+াঙ	alone	a ŋ
+োপ	alone	o p
+স্ট	alone	s̪ t ɔ
+পত	alone	p ɔ t̪ ɔ
+ম্ব	alone	m b ɔ
+শ্র	alone	ɕ r ɔ
+মূ	alone	m u
+উপ	alone	u p
+অন্	alone	o n̪
+নিক	alone	n̪ i k
+েয	alone	e d͡z
+েয়	alone	e e̯
+িস্	alone	i s̪
+ানি	alone	a n̪ i
+ণা	alone	n a
+াক্	alone	a k
+াবা	alone	a b a
+লী	alone	l̪ i
+শর	alone	ɕ ɔ r ɔ
+রাম	alone	r a m
+কী	alone	k i
+েদ	alone	e d̪
+ন্ড	alone	n̪ d ɔ
+্ঠ	alone	্ tʰ ɔ
+অনু	alone	o n̪ u
+রাত	alone	r a t̪
+হে	alone	h e
+নব	alone	n̪ ɔ b ɔ
+খান	alone	kʰ a n̪
+ঘা	alone	̤ ɡ̤ a
+অঘ	alone	o̤ ɡ̤ ɔ
+সব	alone	s̪ ɔ b ɔ
+নিয	alone	n̪ i d͡z
+স্ক	alone	s̪ k ɔ
+রহ	alone	r ɔ h ɔ
+হার	alone	h a r
+ুট	alone	u t
+শে	alone	ɕ e
+াফ	alone	a ɸ
+বান	alone	b a n̪
+্গা	alone	্ ɡ a
+ফু	alone	ɸ u
+্ষি	alone	্ ʂ i
+্স	alone	্ s̪ ɔ
+রদ	alone	r ɔ d̪ ɔ
+হু	alone	h u
+ুড	alone	u d
+িত্	alone	i t̪
+াতা	alone	a t̪ a
+সং	alone	s̪ ɔ ŋ
+তক	alone	t̪ ɔ k ɔ
+শো	alone	ɕ o
+়ার	alone	় a r
+গণ	alone	ɡ ɔ n ɔ
+ধু	alone	d̪̤ u
+েহ	alone	e h ɔ
+ভ্	alone	b̤
+ুস্	alone	u s̪
+র্ব	alone	r b ɔ
+ুণ	alone	u n
+র্ণ	alone	r n ɔ
+বিশ	alone	b i ɕ
+মন্	alone	m ɔ n̪
+অভ	alone	o b̤
+িক্	alone	i k
+ঁড	alone	ঁ d ɔ
+ঁড়	alone	ঁ ɽ ɔ
+দো	alone	d̪ o
+ুদ্	alone	u d̪
+শী	alone	ɕ i
+িং	alone	i ŋ
+ুড়	alone	u ɽ
+াত্	alone	a t̪
+ফি	alone	ɸ i
+ৃত্	alone	ɽ i t̪
+ধ্য	alone	d̪̤ d͡z ɔ
+ঞা	alone	n a
+েষ	alone	e ʂ
+্রত	alone	্ r ɔ t̪ ɔ
+ব্র	alone	b r ɔ
+াহা	alone	a h a
+্টা	alone	্ t a
+পে	alone	p e
+পাত	alone	p a t̪
+এক	alone	e k
+েস	alone	e s̪
+িশ্	alone	i ɕ
+োষ	alone	o ʂ
+্তর	alone	্ t̪ ɔ r ɔ
+ৃষ	alone	ɽ i ʂ
+থি	alone	t̪ʰ i
+নন	alone	n̪ ɔ n̪ ɔ
+কব	alone	k ɔ b ɔ
+গী	alone	ɡ i
+মল	alone	m ɔ l̪ ɔ
+মার	alone	m a r
+অস	alone	o s̪
+বো	alone	b o
+শন	alone	ɕ ɔ n̪ ɔ
+োম	alone	o m
+অকু	alone	o k u
+্ঞা	alone	্ n a
+খ্	alone	kʰ
+র্ক	alone	r k ɔ
+তার	alone	t̪ a r
+িজ	alone	i d͡ʑ
+অপ	alone	o p
+পরি	alone	p ɔ r i
+যান	alone	d͡z a n̪
+বত	alone	b ɔ t̪ ɔ
+োব	alone	o b
+আশ	alone	a ɕ
+নার	alone	n̪ a r
+আর	alone	a r
+ষণ	alone	ʂ ɔ n ɔ
+ানী	alone	a n̪ i
+্থা	alone	্ t̪ʰ a
+োদ	alone	o d̪
+াঙ্	alone	a ŋ
+অকল	alone	o k ɔ l̪ ɔ
+িহ	alone	i h ɔ
+তম	alone	t̪ ɔ m ɔ
+ৃষ্	alone	ɽ i ʂ
+ুশ	alone	u ɕ
+সল	alone	s̪ ɔ l̪ ɔ
+্দা	alone	্ d̪ a
+বদ	alone	b ɔ d̪ ɔ
+িতা	alone	i t̪ a
+ভাব	alone	b̤ a b
+লান	alone	l̪ a n̪
+দান	alone	d̪ a n̪
+আম	alone	a m
+পক	alone	p ɔ k ɔ
+েখ	alone	e kʰ
+ুখ	alone	u kʰ
+াদা	alone	a d̪ a
+োহ	alone	o h ɔ
+েট	alone	e t
+াওয	alone	a o d͡z
+আস	alone	a s̪
+তিক	alone	t̪ i k
+িবা	alone	i b a
+কাম	alone	k a m
+্ষা	alone	্ ʂ a
+রস্	alone	r ɔ s̪
+লত	alone	l̪ ɔ t̪ ɔ
+িধ	alone	i d̪̤
+ক্য	alone	k d͡z ɔ
+াতি	alone	a t̪ i
+বাহ	alone	b a h ɔ
+ইস	alone	i s̪
+গত	alone	ɡ ɔ t̪ ɔ
+ধার	alone	d̪̤ a r
+োস	alone	o s̪
+ুয	alone	u d͡z
+ুয়	alone	u e̯
+গি	alone	ɡ i
+িনা	alone	i n̪ a
+পত্	alone	p ɔ t̪
+শক	alone	ɕ ɔ k ɔ
+খি	alone	kʰ i
+াকা	alone	a k a
+ূত	alone	u t̪
+ক্ল	alone	k l̪ ɔ
+মৃ	alone	m ɽ i
+ীক	alone	i k
+দ্ব	alone	d̪ b ɔ
+বৃ	alone	b ɽ i
+িড	alone	i d
+খে	alone	kʰ e
+ঘো	alone	̤ ɡ̤ o
+াঠ	alone	a tʰ
+দুর	alone	d̪ u r
+্রস	alone	্ r ɔ s̪ ɔ
+হাম	alone	h a m
+াদে	alone	a d̪ e
+তান	alone	t̪ a n̪
+পো	alone	p o
+িদ্	alone	i d̪
+প্ত	alone	p t̪ ɔ
+নত	alone	n̪ ɔ t̪ ɔ
+সী	alone	s̪ i
+তী	alone	t̪ i
+ফে	alone	ɸ e
+সান	alone	s̪ a n̪
+েলা	alone	e l̪ a
+বির	alone	b i r
+সম্	alone	s̪ ɔ m
+ট্য	alone	t d͡z ɔ
+শাল	alone	ɕ a l̪
+র্দ	alone	r d̪ ɔ
+ধন	alone	d̪̤ ɔ n̪ ɔ
+পার	alone	p a r
+যু	alone	d͡z u
+আব	alone	a b
+োধ	alone	o d̪̤
+লম	alone	l̪ ɔ m ɔ
+নিম	alone	n̪ i m
+তব	alone	t̪ ɔ b ɔ
+্দু	alone	্ d̪ u
+কন	alone	k ɔ n̪ ɔ
+কম	alone	k ɔ m ɔ
+নক	alone	n̪ ɔ k ɔ
+কত	alone	k ɔ t̪ ɔ
+তাল	alone	t̪ a l̪
+িফ	alone	i ɸ
+ফো	alone	ɸ o
+ষর	alone	ʂ ɔ r ɔ
+্ষর	alone	্ ʂ ɔ r ɔ
+িভ	alone	i b̤
+হিন	alone	h i n̪
+শিক	alone	ɕ i k
+ট্র	alone	t r ɔ
+্রম	alone	্ r ɔ m ɔ
+ন্ন	alone	n̪ n̪ ɔ
+মাল	alone	m a l̪
+কস	alone	k ɔ s̪ ɔ
+আগ	alone	a ɡ
+র্ষ	alone	r ʂ ɔ
+অভি	alone	o b̤ i
+ফত	alone	ɸ ɔ t̪ ɔ
+খন	alone	kʰ ɔ n̪ ɔ
+তৃ	alone	t̪ ɽ i
+বিদ	alone	b i d̪
+বাড	alone	b a d
+লন	alone	l̪ ɔ n̪ ɔ
+ছ	alone	t͡ɕʰ ɔ
+কল্	alone	k ɔ l̪
+্যু	alone	্ d͡z u
+ময	alone	m ɔ d͡z ɔ
+ময়	alone	m e̯ ɔ
+বন্	alone	b ɔ n̪
+নির	alone	n̪ i r
+্রু	alone	্ r u
+দম	alone	d̪ ɔ m ɔ
+ভূ	alone	b̤ u
+ধান	alone	d̪̤ a n̪
+াসি	alone	a s̪ i
+সো	alone	s̪ o
+ঁক	alone	ঁ k ɔ

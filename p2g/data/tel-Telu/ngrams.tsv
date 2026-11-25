@@ -1,0 +1,1649 @@
+gram	context	phones
+ు	between_vowels	ʊ
+ు	between_consonants	ʊ
+ు	alone	u
+్	alone	్
+ి	between_vowels	ɪ
+ి	between_consonants	ɪ
+ి	alone	i
+మ	between_vowels	m
+మ	between_consonants	m ə
+మ	alone	m ə
+ర	between_vowels	r
+ర	between_consonants	r ə
+ర	alone	r ə
+ా	between_consonants	a
+ా	alone	a
+క	between_vowels	k
+క	between_consonants	k ə
+క	alone	k ə
+ల	between_vowels	l
+ల	between_consonants	l ə
+ల	alone	l ə
+ప	between_vowels	p
+ప	between_consonants	p ə
+ప	alone	p ə
+న	between_vowels	n
+న	between_consonants	n ə
+న	alone	n ə
+ం	between_vowels	m
+ం	between_consonants	m
+ం	alone	m
+త	between_vowels	t̪
+త	between_consonants	t̪ ə
+త	alone	t̪ ə
+వ	between_vowels	ʋ
+వ	between_consonants	ʋ ə
+వ	alone	ʋ ə
+డ	between_vowels	ɖ
+డ	between_consonants	ɖ ə
+డ	alone	ɖ ə
+ము	between_vowels	m ʊ
+ము	between_consonants	m ʊ
+ము	alone	m u
+చ	between_vowels	t͡ʃ
+చ	between_consonants	t͡ʃ ə
+చ	alone	t͡ʃ ə
+గ	between_vowels	ɡ
+గ	between_consonants	ɡ ə
+గ	alone	ɡ ə
+ద	between_vowels	d̪
+ద	between_consonants	d̪ ə
+ద	alone	d̪ ə
+ట	between_vowels	ʈ
+ట	between_consonants	ʈ ə
+ట	alone	ʈ ə
+య	between_vowels	j
+య	between_consonants	j ə
+య	alone	j ə
+ె	between_vowels	e
+ె	between_consonants	e
+ె	alone	e
+స	between_vowels	s
+స	between_consonants	s ə
+స	alone	s ə
+లు	between_vowels	l ʊ
+లు	between_consonants	l ʊ
+లు	alone	l u
+ే	between_vowels	eː
+ే	between_consonants	eː
+ే	alone	eː
+డు	between_vowels	ɖ ʊ
+డు	between_consonants	ɖ ʊ
+డు	alone	ɖ u
+బ	between_vowels	b
+బ	between_consonants	b ə
+బ	alone	b ə
+అ	between_vowels	ʌ
+అ	between_consonants	ʌ
+అ	alone	ʌ
+్ర	alone	్ r ə
+ీ	between_vowels	iː
+ీ	between_consonants	iː
+ీ	alone	iː
+రు	between_vowels	r ʊ
+రు	between_consonants	r ʊ
+రు	alone	r u
+ొ	between_vowels	o
+ొ	between_consonants	o
+ొ	alone	o
+ో	between_vowels	oː
+ో	between_consonants	oː
+ో	alone	oː
+చు	between_vowels	t͡ʃ ʊ
+చు	between_consonants	t͡ʃ ʊ
+చు	alone	t͡ʃ u
+జ	between_vowels	d͡ʒ
+జ	between_consonants	d͡ʒ ə
+జ	alone	d͡ʒ ə
+ిం	between_vowels	ɪ m
+ిం	between_consonants	ɪ m
+ిం	alone	ɪ m
+క్	between_vowels	k
+క్	between_consonants	k
+క్	alone	k
+త్	between_vowels	t̪
+త్	between_consonants	t̪
+త్	alone	t̪
+రి	between_vowels	r ɪ
+రి	between_consonants	r ɪ
+రి	alone	r i
+కు	between_vowels	k ʊ
+కు	between_consonants	k ʊ
+కు	alone	k u
+ంచ	between_vowels	ɲ t͡ʃ
+ంచ	between_consonants	ɲ t͡ʃ ə
+ంచ	alone	ɲ t͡ʃ ə
+్ల	alone	్ l ə
+గు	between_vowels	ɡ ʊ
+గు	between_consonants	ɡ ʊ
+గు	alone	ɡ u
+ూ	between_vowels	uː
+ూ	between_consonants	uː
+ూ	alone	uː
+ల్	between_vowels	l
+ల్	between_consonants	l
+ల్	alone	l
+పు	between_vowels	p ʊ
+పు	between_consonants	p ʊ
+పు	alone	p u
+లి	between_vowels	l ɪ
+లి	between_consonants	l ɪ
+లి	alone	l i
+ట్	between_vowels	ʈ
+ట్	between_consonants	ʈ
+ట్	alone	ʈ
+్ట	alone	్ ʈ ə
+తి	between_vowels	t̪ ɪ
+తి	between_consonants	t̪ ɪ
+తి	alone	t̪ i
+్త	alone	్ t̪ ə
+ాల	between_consonants	a l ə
+ాల	alone	a l ə
+వి	between_vowels	ʋ ɪ
+వి	between_consonants	ʋ ɪ
+వి	alone	ʋ i
+ని	between_vowels	n ɪ
+ని	between_consonants	n ɪ
+ని	alone	n i
+కా	between_consonants	k a
+కా	alone	k a
+ార	between_consonants	a r ə
+ార	alone	a r ə
+ర్	between_vowels	r
+ర్	between_consonants	r
+ర్	alone	r
+రా	between_consonants	r a
+రా	alone	r a
+ట్ట	between_vowels	ʈ ʈ
+ట్ట	between_consonants	ʈ ʈ ə
+ట్ట	alone	ʈ ʈ ə
+ను	between_vowels	n ʊ
+ను	between_consonants	n ʊ
+ను	alone	n u
+డి	between_vowels	ɖ ɪ
+డి	between_consonants	ɖ ɪ
+డి	alone	ɖ i
+ుడ	between_vowels	ʊ ɖ
+ుడ	between_consonants	ʊ ɖ ə
+ుడ	alone	ʊ ɖ ə
+శ	between_vowels	ʃ
+శ	between_consonants	ʃ ə
+శ	alone	ʃ ə
+ప్	between_vowels	p
+ప్	between_consonants	p
+ప్	alone	p
+్య	alone	్ j ə
+ల్ల	between_vowels	l l
+ల్ల	between_consonants	l l ə
+ల్ల	alone	l l ə
+ించ	between_vowels	ɪ ɲ t͡ʃ
+ించ	between_consonants	ɪ ɲ t͡ʃ ə
+ించ	alone	ɪ ɲ t͡ʃ ə
+ిక	between_vowels	ɪ k
+ిక	between_consonants	ɪ k ə
+ిక	alone	ɪ k ə
+ండ	between_vowels	m ɖ
+ండ	between_consonants	m ɖ ə
+ండ	alone	m ɖ ə
+ద్	between_vowels	d̪
+ద్	between_consonants	d̪
+ద్	alone	d̪
+ంచు	between_vowels	ɲ t͡ʃ ʊ
+ంచు	between_consonants	ɲ t͡ʃ ʊ
+ంచు	alone	ɲ t͡ʃ u
+ష	between_vowels	ʂ
+ష	between_consonants	ʂ ə
+ష	alone	ʂ ə
+న్	between_vowels	n
+న్	between_consonants	n
+న్	alone	n
+్న	alone	్ n ə
+ుల	between_vowels	ʊ l
+ుల	between_consonants	ʊ l ə
+ుల	alone	ʊ l ə
+వా	between_consonants	ʋ a
+వా	alone	ʋ a
+్క	alone	్ k ə
+టు	between_vowels	ʈ ʊ
+టు	between_consonants	ʈ ʊ
+టు	alone	ʈ u
+వు	between_vowels	ʋ ʊ
+వు	between_consonants	ʋ ʊ
+వు	alone	ʋ u
+అం	between_vowels	m
+అం	between_consonants	m
+అం	alone	m
+తు	between_vowels	t̪ ʊ
+తు	between_consonants	t̪ ʊ
+తు	alone	t̪ u
+ణ	between_vowels	ɳ
+ణ	between_consonants	ɳ ə
+ణ	alone	ɳ ə
+ుర	between_vowels	ʊ r
+ుర	between_consonants	ʊ r ə
+ుర	alone	ʊ r ə
+రమ	between_vowels	r ə m
+రమ	between_consonants	r ə m ə
+రమ	alone	r ə m ə
+నా	between_consonants	n a
+నా	alone	n a
+చి	between_vowels	t͡ʃ ɪ
+చి	between_consonants	t͡ʃ ɪ
+చి	alone	t͡ʃ i
+మా	between_consonants	m a
+మా	alone	m a
+క్క	between_vowels	k k
+క్క	between_consonants	k k ə
+క్క	alone	k k ə
+్ప	alone	్ p ə
+ుడు	between_vowels	ʊ ɖ ʊ
+ుడు	between_consonants	ʊ ɖ ʊ
+ుడు	alone	ʊ ɖ u
+ాడ	between_consonants	a ɖ ə
+ాడ	alone	a ɖ ə
+దు	between_vowels	d̪ ʊ
+దు	between_consonants	d̪ ʊ
+దు	alone	d̪ u
+ువ	between_vowels	ʊ ʋ
+ువ	between_consonants	ʊ ʋ ə
+ువ	alone	ʊ ʋ ə
+్వ	alone	్ ʋ ə
+ధ	between_vowels	d̪̤
+ధ	between_consonants	d̪̤ ə
+ధ	alone	d̪̤ ə
+హ	between_vowels	h
+హ	between_consonants	h ə
+హ	alone	h ə
+్మ	alone	్ m ə
+పి	between_vowels	p ɪ
+పి	between_consonants	p ɪ
+పి	alone	p i
+ంద	between_vowels	m d̪
+ంద	between_consonants	n d̪ ə
+ంద	alone	n d̪ ə
+డ్	between_vowels	ɖ
+డ్	between_consonants	ɖ
+డ్	alone	ɖ
+ుక	between_vowels	ʊ k
+ుక	between_consonants	ʊ k ə
+ుక	alone	ʊ k ə
+ళ	between_vowels	ɭ
+ళ	between_consonants	ɭ ə
+ళ	alone	ɭ ə
+స్	between_vowels	s
+స్	between_consonants	s
+స్	alone	s
+న్న	between_vowels	n n
+న్న	between_consonants	n n ə
+న్న	alone	n n ə
+ది	between_vowels	d̪ ɪ
+ది	between_consonants	d̪ ɪ
+ది	alone	d̪ i
+రము	between_vowels	r ə m ʊ
+రము	between_consonants	r ə m ʊ
+రము	alone	r ə m u
+ఆ	between_vowels	a
+ఆ	between_consonants	a
+ఆ	alone	a
+పె	between_vowels	p e
+పె	between_consonants	p e
+పె	alone	p e
+ాన	between_consonants	a n ə
+ాన	alone	a n ə
+నమ	between_vowels	n ə m
+నమ	between_consonants	n ə m ə
+నమ	alone	n ə m ə
+ుగ	between_vowels	ʊ ɡ
+ుగ	between_consonants	ʊ ɡ ə
+ుగ	alone	ʊ ɡ ə
+కొ	between_vowels	k o
+కొ	between_consonants	k o
+కొ	alone	k o
+ిల	between_vowels	ɪ l
+ిల	between_consonants	ɪ l ə
+ిల	alone	ɪ l ə
+ాయ	between_consonants	a j ə
+ాయ	alone	a j ə
+భ	between_vowels	b̤
+భ	between_consonants	b̤ ə
+భ	alone	b̤ ə
+్చ	alone	్ t͡ʃ ə
+త్త	between_vowels	t̪ t̪
+త్త	between_consonants	t̪ t̪ ə
+త్త	alone	t̪ t̪ ə
+ుప	between_vowels	ʊ p
+ుప	between_consonants	ʊ p ə
+ుప	alone	ʊ p ə
+ఱ	between_vowels	ɽ
+ఱ	between_consonants	ɽ ə
+ఱ	alone	ɽ ə
+పా	between_consonants	p a
+పా	alone	p a
+ిన	between_vowels	ɪ n
+ిన	between_consonants	ɪ n ə
+ిన	alone	ɪ n ə
+్టు	alone	్ ʈ u
+మ్	between_vowels	m
+మ్	between_consonants	m
+మ్	alone	m
+ంత	between_vowels	n t̪
+ంత	between_consonants	n t̪ ə
+ంత	alone	n t̪ ə
+గా	between_consonants	ɡ a
+గా	alone	ɡ a
+ెల	between_vowels	e l
+ెల	between_consonants	e l ə
+ెల	alone	e l ə
+త్ర	between_vowels	t̪ r
+త్ర	between_consonants	t̪ r ə
+త్ర	alone	t̪ r ə
+టి	between_vowels	ʈ ɪ
+టి	between_consonants	ʈ ɪ
+టి	alone	ʈ i
+నము	between_vowels	n ə m ʊ
+నము	between_consonants	n ə m ʊ
+నము	alone	n ə m u
+ాడు	between_consonants	a ɖ ʊ
+ాడు	alone	a ɖ u
+ులు	between_vowels	ʊ l ʊ
+ులు	between_consonants	ʊ l ʊ
+ులు	alone	ʊ l u
+ఉ	between_vowels	u
+ఉ	between_consonants	u
+ఉ	alone	u
+ంగ	between_vowels	ŋ ɡ
+ంగ	between_consonants	ŋ ɡ ə
+ంగ	alone	ŋ ɡ ə
+ిర	between_vowels	ɪ r
+ిర	between_consonants	ɪ r ə
+ిర	alone	ɪ r ə
+ప్ప	between_vowels	p p
+ప్ప	between_consonants	p p ə
+ప్ప	alone	p p ə
+యమ	between_vowels	j ə m
+యమ	between_consonants	j ə m ə
+యమ	alone	j ə m ə
+వ్	between_vowels	ʋ
+వ్	between_consonants	ʋ
+వ్	alone	ʋ
+యు	between_vowels	j ʊ
+యు	between_consonants	j ʊ
+యు	alone	j u
+సు	between_vowels	s ʊ
+సు	between_consonants	s ʊ
+సు	alone	s u
+యి	between_vowels	j ɪ
+యి	between_consonants	j ɪ
+యి	alone	j i
+మి	between_vowels	m ɪ
+మి	between_consonants	m ɪ
+మి	alone	m i
+చె	between_vowels	t͡ʃ e
+చె	between_consonants	t͡ʃ e
+చె	alone	t͡ʃ e
+ాట	between_consonants	a ʈ ə
+ాట	alone	a ʈ ə
+చ్	between_vowels	t͡ʃ
+చ్	between_consonants	t͡ʃ
+చ్	alone	t͡ʃ
+ఎ	between_vowels	e
+ఎ	between_consonants	e
+ఎ	alone	e
+మ్మ	between_vowels	m m
+మ్మ	between_consonants	m m ə
+మ్మ	alone	m m ə
+యము	between_vowels	j ə m ʊ
+యము	between_consonants	j ə m ʊ
+యము	alone	j ə m u
+ిత	between_vowels	ɪ t̪
+ిత	between_consonants	ɪ t̪ ə
+ిత	alone	ɪ t̪ ə
+చ్చ	between_vowels	t͡ʃ t͡ʃ
+చ్చ	between_consonants	t͡ʃ t͡ʃ ə
+చ్చ	alone	t͡ʃ t͡ʃ ə
+కల	between_vowels	k ə l
+కల	between_consonants	k ə l ə
+కల	alone	k ə l ə
+్లు	alone	్ l u
+ాలు	between_consonants	a l ʊ
+ాలు	alone	a l u
+థ	between_vowels	t̪ʰ
+థ	between_consonants	t̪ʰ ə
+థ	alone	t̪ʰ ə
+ిప	between_vowels	ɪ p
+ిప	between_consonants	ɪ p ə
+ిప	alone	ɪ p ə
+వే	between_vowels	ʋ eː
+వే	between_consonants	ʋ eː
+వే	alone	ʋ eː
+ాక	between_consonants	a k ə
+ాక	alone	a k ə
+్డ	alone	్ ɖ ə
+డ్డ	between_vowels	ɖ ɖ
+డ్డ	between_consonants	ɖ ɖ ə
+డ్డ	alone	ɖ ɖ ə
+రే	between_vowels	r eː
+రే	between_consonants	r eː
+రే	alone	r eː
+ావ	between_consonants	a ʋ ə
+ావ	alone	a ʋ ə
+దా	between_consonants	d̪ a
+దా	alone	d̪ a
+ప్ర	between_vowels	p r
+ప్ర	between_consonants	p r ə
+ప్ర	alone	p r ə
+ున	between_vowels	ʊ n
+ున	between_consonants	ʊ n ə
+ున	alone	ʊ n ə
+ై	between_vowels	ɪ
+ై	between_consonants	ɪ
+ై	alone	i
+ుచ	between_vowels	ʊ t͡ʃ
+ుచ	between_consonants	ʊ t͡ʃ ə
+ుచ	alone	ʊ t͡ʃ ə
+్ష	alone	్ ʂ ə
+చా	between_consonants	t͡ʃ a
+చా	alone	t͡ʃ a
+వె	between_vowels	ʋ e
+వె	between_consonants	ʋ e
+వె	alone	ʋ e
+ఇ	between_vowels	i
+ఇ	between_consonants	i
+ఇ	alone	i
+్రా	alone	్ r a
+యా	between_consonants	j a
+యా	alone	j a
+్లి	alone	్ l i
+ంట	between_vowels	m ʈ
+ంట	between_consonants	m ʈ ə
+ంట	alone	m ʈ ə
+ామ	between_consonants	a m ə
+ామ	alone	a m ə
+్ద	alone	్ d̪ ə
+తమ	between_vowels	t̪ ə m
+తమ	between_consonants	t̪ ə m ə
+తమ	alone	t̪ ə m ə
+ియ	between_vowels	ɪ j
+ియ	between_consonants	ɪ j ə
+ియ	alone	ɪ j ə
+ంక	between_vowels	ŋ k
+ంక	between_consonants	ŋ k ə
+ంక	alone	ŋ k ə
+ుం	between_vowels	ʊ m
+ుం	between_consonants	ʊ m
+ుం	alone	ʊ m
+ురు	between_vowels	ʊ r ʊ
+ురు	between_consonants	ʊ r ʊ
+ురు	alone	ʊ r u
+ొం	between_vowels	o m
+ొం	between_consonants	o m
+ొం	alone	o m
+కో	between_vowels	k oː
+కో	between_consonants	k oː
+కో	alone	k oː
+క్ష	between_vowels	k ʂ
+క్ష	between_consonants	k ʂ ə
+క్ష	alone	k ʂ ə
+ుత	between_vowels	ʊ t̪
+ుత	between_consonants	ʊ t̪ ə
+ుత	alone	ʊ t̪ ə
+పల	between_vowels	p ə l
+పల	between_consonants	p ə l ə
+పల	alone	p ə l ə
+లమ	between_vowels	l ə m
+లమ	between_consonants	l ə m ə
+లమ	alone	l ə m ə
+ెం	between_vowels	e m
+ెం	between_consonants	e m
+ెం	alone	e m
+లా	between_consonants	l a
+లా	alone	l a
+ుమ	between_vowels	ʊ m
+ుమ	between_consonants	ʊ m ə
+ుమ	alone	ʊ m ə
+ుట	between_vowels	ʊ ʈ
+ుట	between_consonants	ʊ ʈ ə
+ుట	alone	ʊ ʈ ə
+గి	between_vowels	ɡ ɪ
+గి	between_consonants	ɡ ɪ
+గి	alone	ɡ i
+ుగు	between_vowels	ʊ ɡ ʊ
+ుగు	between_consonants	ʊ ɡ ʊ
+ుగు	alone	ʊ ɡ u
+ద్ద	between_vowels	d̪ d̪
+ద్ద	between_consonants	d̪ d̪ ə
+ద్ద	alone	d̪ d̪ ə
+గ్	between_vowels	ɡ
+గ్	between_consonants	ɡ
+గ్	alone	ɡ
+పిం	between_vowels	p ɪ m
+పిం	between_consonants	p ɪ m
+పిం	alone	p ɪ m
+్రి	alone	్ r i
+పొ	between_vowels	p o
+పొ	between_consonants	p o
+పొ	alone	p o
+బు	between_vowels	b ʊ
+బు	between_consonants	b ʊ
+బు	alone	b u
+్చు	alone	్ t͡ʃ u
+తా	between_consonants	t̪ a
+తా	alone	t̪ a
+్కు	alone	్ k u
+బ్	between_vowels	b
+బ్	between_consonants	b
+బ్	alone	b
+ృ	between_vowels	r u
+ృ	between_consonants	r u
+ృ	alone	r u
+రం	between_vowels	r ə m
+రం	between_consonants	r ə m
+రం	alone	r ə m
+ేర	between_vowels	eː r
+ేర	between_consonants	eː r ə
+ేర	alone	eː r ə
+ణమ	between_vowels	ɳ ə m
+ణమ	between_consonants	ɳ ə m ə
+ణమ	alone	ɳ ə m ə
+రక	between_vowels	r ə k
+రక	between_consonants	r ə k ə
+రక	alone	r ə k ə
+తము	between_vowels	t̪ ə m ʊ
+తము	between_consonants	t̪ ə m ʊ
+తము	alone	t̪ ə m u
+్తు	alone	్ t̪ u
+నె	between_vowels	n e
+నె	between_consonants	n e
+నె	alone	n e
+మం	between_vowels	m ə m
+మం	between_consonants	m ə m
+మం	alone	m ə m
+ేయ	between_vowels	eː j
+ేయ	between_consonants	eː j ə
+ేయ	alone	eː j ə
+మర	between_vowels	m ə r
+మర	between_consonants	m ə r ə
+మర	alone	m ə r ə
+లము	between_vowels	l ə m ʊ
+లము	between_consonants	l ə m ʊ
+లము	alone	l ə m u
+ెట	between_vowels	e ʈ
+ెట	between_consonants	e ʈ ə
+ెట	alone	e ʈ ə
+ణము	between_vowels	ɳ ə m ʊ
+ణము	between_consonants	ɳ ə m ʊ
+ణము	alone	ɳ ə m u
+కి	between_vowels	k ɪ
+కి	between_consonants	k ɪ
+కి	alone	k i
+ాత	between_consonants	a t̪ ə
+ాత	alone	a t̪ ə
+చే	between_vowels	t͡ʃ eː
+చే	between_consonants	t͡ʃ eː
+చే	alone	t͡ʃ eː
+ెట్	between_vowels	e ʈ
+ెట్	between_consonants	e ʈ
+ెట్	alone	e ʈ
+ంప	between_vowels	m p
+ంప	between_consonants	m p ə
+ంప	alone	m p ə
+ఖ	between_vowels	kʰ
+ఖ	between_consonants	kʰ ə
+ఖ	alone	kʰ ə
+్యమ	alone	్ j ə m ə
+ఊ	between_vowels	uː
+ఊ	between_consonants	uː
+ఊ	alone	uː
+ిమ	between_vowels	ɪ m
+ిమ	between_consonants	ɪ m ə
+ిమ	alone	ɪ m ə
+ష్	between_vowels	ʂ
+ష్	between_consonants	ʂ
+ష్	alone	ʂ
+ాస	between_consonants	a s ə
+ాస	alone	a s ə
+తె	between_vowels	t̪ e
+తె	between_consonants	t̪ e
+తె	alone	t̪ e
+ువు	between_vowels	ʊ ʋ ʊ
+ువు	between_consonants	ʊ ʋ ʊ
+ువు	alone	ʊ ʋ u
+కం	between_vowels	k ə m
+కం	between_consonants	k ə m
+కం	alone	k ə m
+్రమ	alone	్ r ə m ə
+వర	between_vowels	ʋ ə r
+వర	between_consonants	ʋ ə r ə
+వర	alone	ʋ ə r ə
+కమ	between_vowels	k ə m
+కమ	between_consonants	k ə m ə
+కమ	alone	k ə m ə
+తల	between_vowels	t̪ ə l
+తల	between_consonants	t̪ ə l ə
+తల	alone	t̪ ə l ə
+ళ్	between_vowels	ɭ
+ళ్	between_consonants	ɭ
+ళ్	alone	ɭ
+ారు	between_consonants	a r ʊ
+ారు	alone	a r u
+ిగ	between_vowels	ɪ ɡ
+ిగ	between_consonants	ɪ ɡ ə
+ిగ	alone	ɪ ɡ ə
+ూర	between_vowels	uː r
+ూర	between_consonants	uː r ə
+ూర	alone	uː r ə
+ీర	between_vowels	iː r
+ీర	between_consonants	iː r ə
+ీర	alone	iː r ə
+ఒ	between_vowels	o
+ఒ	between_consonants	o
+ఒ	alone	o
+ుపు	between_vowels	ʊ p ʊ
+ుపు	between_consonants	ʊ p ʊ
+ుపు	alone	ʊ p u
+రీ	between_vowels	r iː
+రీ	between_consonants	r iː
+రీ	alone	r iː
+కర	between_vowels	k ə r
+కర	between_consonants	k ə r ə
+కర	alone	k ə r ə
+ాగ	between_consonants	a ɡ ə
+ాగ	alone	a ɡ ə
+ిద	between_vowels	ɪ d̪
+ిద	between_consonants	ɪ d̪ ə
+ిద	alone	ɪ d̪ ə
+పం	between_vowels	p ə m
+పం	between_consonants	p ə m
+పం	alone	p ə m
+ిల్	between_vowels	ɪ l
+ిల్	between_consonants	ɪ l
+ిల్	alone	ɪ l
+్పు	alone	్ p u
+్తి	alone	్ t̪ i
+స్త	between_vowels	s t̪
+స్త	between_consonants	s t̪ ə
+స్త	alone	s t̪ ə
+వ్వ	between_vowels	ʋ ʋ
+వ్వ	between_consonants	ʋ ʋ ə
+వ్వ	alone	ʋ ʋ ə
+ుద	between_vowels	ʊ d̪
+ుద	between_consonants	ʊ d̪ ə
+ుద	alone	ʊ d̪ ə
+శ్	between_vowels	ʃ
+శ్	between_consonants	ʃ
+శ్	alone	ʃ
+నీ	between_vowels	n iː
+నీ	between_consonants	n iː
+నీ	alone	n iː
+ివ	between_vowels	ɪ ʋ
+ివ	between_consonants	ɪ ʋ ə
+ివ	alone	ɪ ʋ ə
+్గ	alone	్ ɡ ə
+ాద	between_consonants	a d̪ ə
+ాద	alone	a d̪ ə
+ేడ	between_vowels	eː ɖ
+ేడ	between_consonants	eː ɖ ə
+ేడ	alone	eː ɖ ə
+కము	between_vowels	k ə m ʊ
+కము	between_consonants	k ə m ʊ
+కము	alone	k ə m u
+ంబ	between_vowels	m b
+ంబ	between_consonants	m b ə
+ంబ	alone	m b ə
+గడ	between_vowels	ɡ ə ɖ
+గడ	between_consonants	ɡ ə ɖ ə
+గడ	alone	ɡ ə ɖ ə
+పర	between_vowels	p ə r
+పర	between_consonants	p ə r ə
+పర	alone	p ə r ə
+సమ	between_vowels	s ə m
+సమ	between_consonants	s ə m ə
+సమ	alone	s ə m ə
+దం	between_vowels	d̪ ə m
+దం	between_consonants	d̪ ə m
+దం	alone	d̪ ə m
+ఈ	between_vowels	iː
+ఈ	between_consonants	iː
+ఈ	alone	iː
+ంచా	between_consonants	ɲ t͡ʃ a
+ంచా	alone	ɲ t͡ʃ a
+లక	between_vowels	l ə k
+లక	between_consonants	l ə k ə
+లక	alone	l ə k ə
+మొ	between_vowels	m o
+మొ	between_consonants	m o
+మొ	alone	m o
+మల	between_vowels	m ə l
+మల	between_consonants	m ə l ə
+మల	alone	m ə l ə
+ఱు	between_vowels	ɽ ʊ
+ఱు	between_consonants	ɽ ʊ
+ఱు	alone	ɽ u
+బా	between_consonants	b a
+బా	alone	b a
+నే	between_vowels	n eː
+నే	between_consonants	n eː
+నే	alone	n eː
+ణి	between_vowels	ɳ ɪ
+ణి	between_consonants	ɳ ɪ
+ణి	alone	ɳ i
+రుగ	between_vowels	r ʊ ɡ
+రుగ	between_consonants	r ʊ ɡ ə
+రుగ	alone	r ʊ ɡ ə
+కాల	between_vowels	k a l
+కాల	between_consonants	k a l ə
+కాల	alone	k a l ə
+ెన	between_vowels	e n
+ెన	between_consonants	e n ə
+ెన	alone	e n ə
+కొం	between_vowels	k o m
+కొం	between_consonants	k o m
+కొం	alone	k o m
+ుబ	between_vowels	ʊ b
+ుబ	between_consonants	ʊ b ə
+ుబ	alone	ʊ b ə
+సి	between_vowels	s ɪ
+సి	between_consonants	s ɪ
+సి	alone	s i
+్బ	alone	్ b ə
+బ్బ	between_vowels	b b
+బ్బ	between_consonants	b b ə
+బ్బ	alone	b b ə
+్యా	alone	్ j a
+వల	between_vowels	ʋ ə l
+వల	between_consonants	ʋ ə l ə
+వల	alone	ʋ ə l ə
+కూ	between_vowels	k uː
+కూ	between_consonants	k uː
+కూ	alone	k uː
+ిట	between_vowels	ɪ ʈ
+ిట	between_consonants	ɪ ʈ ə
+ిట	alone	ɪ ʈ ə
+గుర	between_vowels	ɡ ʊ r
+గుర	between_consonants	ɡ ʊ r ə
+గుర	alone	ɡ ʊ r ə
+కార	between_vowels	k a r
+కార	between_consonants	k a r ə
+కార	alone	k a r ə
+వెల	between_vowels	ʋ e l
+వెల	between_consonants	ʋ e l ə
+వెల	alone	ʋ e l ə
+బొ	between_vowels	b o
+బొ	between_consonants	b o
+బొ	alone	b o
+ంది	between_vowels	m d̪ ɪ
+ంది	between_consonants	m d̪ ɪ
+ంది	alone	m d̪ i
+ొడ	between_vowels	o ɖ
+ొడ	between_consonants	o ɖ ə
+ొడ	alone	o ɖ ə
+ౌ	between_vowels	a u
+ౌ	between_consonants	a u
+ౌ	alone	a u
+సా	between_consonants	s a
+సా	alone	s a
+ిడ	between_vowels	ɪ ɖ
+ిడ	between_consonants	ɪ ɖ ə
+ిడ	alone	ɪ ɖ ə
+ాను	between_consonants	a n ʊ
+ాను	alone	a n u
+ేయు	between_vowels	eː j ʊ
+ేయు	between_consonants	eː j ʊ
+ేయు	alone	eː j u
+నం	between_vowels	n ə m
+నం	between_consonants	n ə m
+నం	alone	n ə m
+ద్ర	between_vowels	d̪ r
+ద్ర	between_consonants	d̪ r ə
+ద్ర	alone	d̪ r ə
+గమ	between_vowels	ɡ ə m
+గమ	between_consonants	ɡ ə m ə
+గమ	alone	ɡ ə m ə
+లప	between_vowels	l ə p
+లప	between_consonants	l ə p ə
+లప	alone	l ə p ə
+జా	between_consonants	d͡ʒ a
+జా	alone	d͡ʒ a
+అన	between_vowels	ʌ n
+అన	between_consonants	ʌ n ə
+అన	alone	ʌ n ə
+ేల	between_vowels	eː l
+ేల	between_consonants	eː l ə
+ేల	alone	eː l ə
+తర	between_vowels	t̪ ə r
+తర	between_consonants	t̪ ə r ə
+తర	alone	t̪ ə r ə
+ారి	between_consonants	a r ɪ
+ారి	alone	a r i
+ోల	between_vowels	oː l
+ోల	between_consonants	oː l ə
+ోల	alone	oː l ə
+ెల్	between_vowels	e l
+ెల్	between_consonants	e l
+ెల్	alone	e l
+సము	between_vowels	s ə m ʊ
+సము	between_consonants	s ə m ʊ
+సము	alone	s ə m u
+మన	between_vowels	m ə n
+మన	between_consonants	m ə n ə
+మన	alone	m ə n ə
+ోర	between_vowels	oː r
+ోర	between_consonants	oː r ə
+ోర	alone	oː r ə
+కట	between_vowels	k ə ʈ
+కట	between_consonants	k ə ʈ ə
+కట	alone	k ə ʈ ə
+డమ	between_vowels	ɖ ə m
+డమ	between_consonants	ɖ ə m ə
+డమ	alone	ɖ ə m ə
+ొల	between_vowels	o l
+ొల	between_consonants	o l ə
+ొల	alone	o l ə
+ఁ	between_vowels	ఁ
+ఁ	between_consonants	ఁ
+ఁ	alone	ఁ
+పట	between_vowels	p ə ʈ
+పట	between_consonants	p ə ʈ ə
+పట	alone	p ə ʈ ə
+ాకు	between_consonants	a k ʊ
+ాకు	alone	a k u
+ేడు	between_vowels	eː ɖ ʊ
+ేడు	between_consonants	eː ɖ ʊ
+ేడు	alone	eː ɖ u
+ుస	between_vowels	ʊ s
+ుస	between_consonants	ʊ s ə
+ుస	alone	ʊ s ə
+ొండ	between_vowels	o m ɖ
+ొండ	between_consonants	o m ɖ ə
+ొండ	alone	o m ɖ ə
+లీ	between_vowels	l iː
+లీ	between_consonants	l iː
+లీ	alone	l iː
+ండు	between_vowels	m ɖ ʊ
+ండు	between_consonants	m ɖ ʊ
+ండు	alone	m ɖ u
+ొన	between_vowels	o n
+ొన	between_consonants	o n ə
+ొన	alone	o n ə
+జ్	between_vowels	d͡ʒ
+జ్	between_consonants	d͡ʒ
+జ్	alone	d͡ʒ
+ద్య	between_vowels	d̪ j
+ద్య	between_consonants	d̪ j ə
+ద్య	alone	d̪ j ə
+ిక్	between_vowels	ɪ k
+ిక్	between_consonants	ɪ k
+ిక్	alone	ɪ k
+కన	between_vowels	k ə n
+కన	between_consonants	k ə n ə
+కన	alone	k ə n ə
+ుట్	between_vowels	ʊ ʈ
+ుట్	between_consonants	ʊ ʈ
+ుట్	alone	ʊ ʈ
+ాప	between_consonants	a p ə
+ాప	alone	a p ə
+ాణ	between_consonants	a ɳ ə
+ాణ	alone	a ɳ ə
+రుడ	between_vowels	r ʊ ɖ
+రుడ	between_consonants	r ʊ ɖ ə
+రుడ	alone	r ʊ ɖ ə
+ాయి	between_consonants	a j ɪ
+ాయి	alone	a j i
+్టి	alone	్ ʈ i
+తీ	between_vowels	t̪ iː
+తీ	between_consonants	t̪ iː
+తీ	alone	t̪ iː
+వం	between_vowels	ʋ ə m
+వం	between_consonants	ʋ ə m
+వం	alone	ʋ ə m
+అంగ	between_vowels	ŋ ɡ
+అంగ	between_consonants	ŋ ɡ ə
+అంగ	alone	ŋ ɡ ə
+ఏ	between_vowels	eː
+ఏ	between_consonants	eː
+ఏ	alone	eː
+ార్	between_consonants	a r
+ార్	alone	a r
+కాయ	between_vowels	k a j
+కాయ	between_consonants	k a j ə
+కాయ	alone	k a j ə
+లో	between_vowels	l oː
+లో	between_consonants	l oː
+లో	alone	l oː
+డల	between_vowels	ɖ ə l
+డల	between_consonants	ɖ ə l ə
+డల	alone	ɖ ə l ə
+ూడ	between_vowels	uː ɖ
+ూడ	between_consonants	uː ɖ ə
+ూడ	alone	uː ɖ ə
+గర	between_vowels	ɡ ə r
+గర	between_consonants	ɡ ə r ə
+గర	alone	ɡ ə r ə
+పెట	between_vowels	p e ʈ
+పెట	between_consonants	p e ʈ ə
+పెట	alone	p e ʈ ə
+రో	between_vowels	r oː
+రో	between_consonants	r oː
+రో	alone	r oː
+పో	between_vowels	p oː
+పో	between_consonants	p oː
+పో	alone	p oː
+ోడ	between_vowels	oː ɖ
+ోడ	between_consonants	oː ɖ ə
+ోడ	alone	oː ɖ ə
+మే	between_vowels	m eː
+మే	between_consonants	m eː
+మే	alone	m eː
+కుడ	between_vowels	k ʊ ɖ
+కుడ	between_consonants	k ʊ ɖ ə
+కుడ	alone	k ʊ ɖ ə
+పెం	between_vowels	p e m
+పెం	between_consonants	p e m
+పెం	alone	p e m
+ుచు	between_vowels	ʊ t͡ʃ ʊ
+ుచు	between_consonants	ʊ t͡ʃ ʊ
+ుచు	alone	ʊ t͡ʃ u
+లే	between_vowels	l eː
+లే	between_consonants	l eː
+లే	alone	l eː
+గం	between_vowels	ɡ ə m
+గం	between_consonants	ɡ ə m
+గం	alone	ɡ ə m
+ాము	between_consonants	a m ʊ
+ాము	alone	a m u
+ోక	between_vowels	oː k
+ోక	between_consonants	oː k ə
+ోక	alone	oː k ə
+మూ	between_vowels	m uː
+మూ	between_consonants	m uː
+మూ	alone	m uː
+సం	between_vowels	s ə m
+సం	between_consonants	s ə m
+సం	alone	s ə m
+ొక	between_vowels	o k
+ొక	between_consonants	o k ə
+ొక	alone	o k ə
+వీ	between_vowels	ʋ iː
+వీ	between_consonants	ʋ iː
+వీ	alone	ʋ iː
+లుగ	between_vowels	l ʊ ɡ
+లుగ	between_consonants	l ʊ ɡ ə
+లుగ	alone	l ʊ ɡ ə
+్ను	alone	్ n u
+ుకు	between_vowels	ʊ k ʊ
+ుకు	between_consonants	ʊ k ʊ
+ుకు	alone	ʊ k u
+నవ	between_vowels	n ə ʋ
+నవ	between_consonants	n ə ʋ ə
+నవ	alone	n ə ʋ ə
+ిరి	between_vowels	ɪ r ɪ
+ిరి	between_consonants	ɪ r ɪ
+ిరి	alone	ɪ r i
+పడ	between_vowels	p ə ɖ
+పడ	between_consonants	p ə ɖ ə
+పడ	alone	p ə ɖ ə
+ాజ	between_consonants	a d͡ʒ ə
+ాజ	alone	a d͡ʒ ə
+ారమ	between_consonants	a r ə m ə
+ారమ	alone	a r ə m ə
+గొ	between_vowels	ɡ o
+గొ	between_consonants	ɡ o
+గొ	alone	ɡ o
+య్	between_vowels	j
+య్	between_consonants	j
+య్	alone	j
+ాలి	between_consonants	a l ɪ
+ాలి	alone	a l i
+ెక	between_vowels	e k
+ెక	between_consonants	e k ə
+ెక	alone	e k ə
+అంక	between_vowels	ŋ k
+అంక	between_consonants	ŋ k ə
+అంక	alone	ŋ k ə
+ోత	between_vowels	oː t̪
+ోత	between_consonants	oː t̪ ə
+ోత	alone	oː t̪ ə
+దమ	between_vowels	d̪ ə m
+దమ	between_consonants	d̪ ə m ə
+దమ	alone	d̪ ə m ə
+ిపి	between_vowels	ɪ p ɪ
+ిపి	between_consonants	ɪ p ɪ
+ిపి	alone	ɪ p i
+టమ	between_vowels	ʈ ə m
+టమ	between_consonants	ʈ ə m ə
+టమ	alone	ʈ ə m ə
+పూ	between_vowels	p uː
+పూ	between_consonants	p uː
+పూ	alone	p uː
+డా	between_consonants	ɖ a
+డా	alone	ɖ a
+ందు	between_vowels	m d̪ ʊ
+ందు	between_consonants	m d̪ ʊ
+ందు	alone	m d̪ u
+్రు	alone	్ r u
+కలు	between_vowels	k ə l ʊ
+కలు	between_consonants	k ə l ʊ
+కలు	alone	k ə l u
+్నా	alone	్ n a
+పట్	between_vowels	p ə ʈ
+పట్	between_consonants	p ə ʈ
+పట్	alone	p ə ʈ
+టా	between_consonants	ʈ a
+టా	alone	ʈ a
+ళి	between_vowels	ɭ ɪ
+ళి	between_consonants	ɭ ɪ
+ళి	alone	ɭ i
+రిం	between_vowels	r ɪ m
+రిం	between_consonants	r ɪ m
+రిం	alone	r ɪ m
+లం	between_vowels	l ə m
+లం	between_consonants	l ə m
+లం	alone	l ə m
+యం	between_vowels	j ə m
+యం	between_consonants	j ə m
+యం	alone	j ə m
+మె	between_vowels	m e
+మె	between_consonants	m e
+మె	alone	m e
+బి	between_vowels	b ɪ
+బి	between_consonants	b ɪ
+బి	alone	b i
+రణ	between_vowels	r ə ɳ
+రణ	between_consonants	r ə ɳ ə
+రణ	alone	r ə ɳ ə
+ఫ	between_vowels	pʰ
+ఫ	between_consonants	pʰ ə
+ఫ	alone	pʰ ə
+ిని	between_vowels	ɪ n ɪ
+ిని	between_consonants	ɪ n ɪ
+ిని	alone	ɪ n i
+కథ	between_vowels	k ə t̪ʰ
+కథ	between_consonants	k ə t̪ʰ ə
+కథ	alone	k ə t̪ʰ ə
+ెర	between_vowels	e r
+ెర	between_consonants	e r ə
+ెర	alone	e r ə
+వడ	between_vowels	ʋ ə ɖ
+వడ	between_consonants	ʋ ə ɖ ə
+వడ	alone	ʋ ə ɖ ə
+ొమ	between_vowels	o m
+ొమ	between_consonants	o m ə
+ొమ	alone	o m ə
+ండ్	between_vowels	m ɖ
+ండ్	between_consonants	m ɖ
+ండ్	alone	m ɖ
+ండి	between_vowels	m ɖ ɪ
+ండి	between_consonants	m ɖ ɪ
+ండి	alone	m ɖ i
+ింద	between_vowels	ɪ m d̪
+ింద	between_consonants	ɪ n d̪ ə
+ింద	alone	ɪ n d̪ ə
+ేద	between_vowels	eː d̪
+ేద	between_consonants	eː d̪ ə
+ేద	alone	eː d̪ ə
+టము	between_vowels	ʈ ə m ʊ
+టము	between_consonants	ʈ ə m ʊ
+టము	alone	ʈ ə m u
+బర	between_vowels	b ə r
+బర	between_consonants	b ə r ə
+బర	alone	b ə r ə
+తం	between_vowels	t̪ ə m
+తం	between_consonants	t̪ ə m
+తం	alone	t̪ ə m
+చన	between_vowels	t͡ʃ ə n
+చన	between_consonants	t͡ʃ ə n ə
+చన	alone	t͡ʃ ə n ə
+ముల	between_vowels	m ʊ l
+ముల	between_consonants	m ʊ l ə
+ముల	alone	m ʊ l ə
+రువ	between_vowels	r ʊ ʋ
+రువ	between_consonants	r ʊ ʋ ə
+రువ	alone	r ʊ ʋ ə
+ావు	between_consonants	a ʋ ʊ
+ావు	alone	a ʋ u
+మార	between_vowels	m a r
+మార	between_consonants	m a r ə
+మార	alone	m a r ə
+చూ	between_vowels	t͡ʃ uː
+చూ	between_consonants	t͡ʃ uː
+చూ	alone	t͡ʃ uː
+ిచ	between_vowels	ɪ t͡ʃ
+ిచ	between_consonants	ɪ t͡ʃ ə
+ిచ	alone	ɪ t͡ʃ ə
+య్య	between_vowels	j j
+య్య	between_consonants	j j ə
+య్య	alone	j j ə
+ాళ	between_consonants	a ɭ ə
+ాళ	alone	a ɭ ə
+జు	between_vowels	d͡ʒ ʊ
+జు	between_consonants	d͡ʒ ʊ
+జు	alone	d͡ʒ u
+ీత	between_vowels	iː t̪
+ీత	between_consonants	iː t̪ ə
+ీత	alone	iː t̪ ə
+గ్గ	between_vowels	ɡ ɡ
+గ్గ	between_consonants	ɡ ɡ ə
+గ్గ	alone	ɡ ɡ ə
+ుతు	between_vowels	ʊ t̪ ʊ
+ుతు	between_consonants	ʊ t̪ ʊ
+ుతు	alone	ʊ t̪ u
+రవ	between_vowels	r ə ʋ
+రవ	between_consonants	r ə ʋ ə
+రవ	alone	r ə ʋ ə
+రత	between_vowels	r ə t̪
+రత	between_consonants	r ə t̪ ə
+రత	alone	r ə t̪ ə
+ేరు	between_vowels	eː r ʊ
+ేరు	between_consonants	eː r ʊ
+ేరు	alone	eː r u
+ిత్	between_vowels	ɪ t̪
+ిత్	between_consonants	ɪ t̪
+ిత్	alone	ɪ t̪
+మమ	between_vowels	m ə m
+మమ	between_consonants	m ə m ə
+మమ	alone	m ə m ə
+ిన్	between_vowels	ɪ n
+ిన్	between_consonants	ɪ n
+ిన్	alone	ɪ n
+శా	between_consonants	ʃ a
+శా	alone	ʃ a
+ుఱ	between_vowels	ʊ ɽ
+ుఱ	between_consonants	ʊ ɽ ə
+ుఱ	alone	ʊ ɽ ə
+తో	between_vowels	t̪ oː
+తో	between_consonants	t̪ oː
+తో	alone	t̪ oː
+లిం	between_vowels	l ɪ m
+లిం	between_consonants	l ɪ m
+లిం	alone	l ɪ m
+అక	between_vowels	ʌ k
+అక	between_consonants	ʌ k ə
+అక	alone	ʌ k ə
+వమ	between_vowels	ʋ ə m
+వమ	between_consonants	ʋ ə m ə
+వమ	alone	ʋ ə m ə
+బం	between_vowels	b ə m
+బం	between_consonants	b ə m
+బం	alone	b ə m
+రాయ	between_vowels	r a j
+రాయ	between_consonants	r a j ə
+రాయ	alone	r a j ə
+కత	between_vowels	k ə t̪
+కత	between_consonants	k ə t̪ ə
+కత	alone	k ə t̪ ə
+ొట	between_vowels	o ʈ
+ొట	between_consonants	o ʈ ə
+ొట	alone	o ʈ ə
+సీ	between_vowels	s iː
+సీ	between_consonants	s iː
+సీ	alone	s iː
+ెలు	between_vowels	e l ʊ
+ెలు	between_consonants	e l ʊ
+ెలు	alone	e l u
+క్ర	between_vowels	k r
+క్ర	between_consonants	k r ə
+క్ర	alone	k r ə
+ెక్	between_vowels	e k
+ెక్	between_consonants	e k
+ెక్	alone	e k
+్స	alone	్ s ə
+చేయ	between_vowels	t͡ʃ eː j
+చేయ	between_consonants	t͡ʃ eː j ə
+చేయ	alone	t͡ʃ eː j ə
+లిక	between_vowels	l ɪ k
+లిక	between_consonants	l ɪ k ə
+లిక	alone	l ɪ k ə
+ొక్	between_vowels	o k
+ొక్	between_consonants	o k
+ొక్	alone	o k
+ుగా	between_consonants	ʊ ɡ a
+ుగా	alone	ʊ ɡ a
+ేన	between_vowels	eː n
+ేన	between_consonants	eː n ə
+ేన	alone	eː n ə
+పద	between_vowels	p ə d̪
+పద	between_consonants	p ə d̪ ə
+పద	alone	p ə d̪ ə
+టె	between_vowels	ʈ e
+టె	between_consonants	ʈ e
+టె	alone	ʈ e
+ర్ర	between_vowels	r r
+ర్ర	between_consonants	r r ə
+ర్ర	alone	r r ə
+గుఱ	between_vowels	ɡ ʊ ɽ
+గుఱ	between_consonants	ɡ ʊ ɽ ə
+గుఱ	alone	ɡ ʊ ɽ ə
+వత	between_vowels	ʋ ə t̪
+వత	between_consonants	ʋ ə t̪ ə
+వత	alone	ʋ ə t̪ ə
+ుడ్	between_vowels	ʊ ɖ
+ుడ్	between_consonants	ʊ ɖ
+ుడ్	alone	ʊ ɖ
+ిస	between_vowels	ɪ s
+ిస	between_consonants	ɪ s ə
+ిస	alone	ɪ s ə
+గిం	between_vowels	ɡ ɪ m
+గిం	between_consonants	ɡ ɪ m
+గిం	alone	ɡ ɪ m
+వాడ	between_vowels	ʋ a ɖ
+వాడ	between_consonants	ʋ a ɖ ə
+వాడ	alone	ʋ a ɖ ə
+ుర్	between_vowels	ʊ r
+ుర్	between_consonants	ʊ r
+ుర్	alone	ʊ r
+డము	between_vowels	ɖ ə m ʊ
+డము	between_consonants	ɖ ə m ʊ
+డము	alone	ɖ ə m u
+వన	between_vowels	ʋ ə n
+వన	between_consonants	ʋ ə n ə
+వన	alone	ʋ ə n ə
+రిక	between_vowels	r ɪ k
+రిక	between_consonants	r ɪ k ə
+రిక	alone	r ɪ k ə
+్రే	alone	్ r eː
+్పి	alone	్ p i
+ర్త	between_vowels	r t̪
+ర్త	between_consonants	r t̪ ə
+ర్త	alone	r t̪ ə
+కాడ	between_vowels	k a ɖ
+కాడ	between_consonants	k a ɖ ə
+కాడ	alone	k a ɖ ə
+నూ	between_vowels	n uː
+నూ	between_consonants	n uː
+నూ	alone	n uː
+ూల	between_vowels	uː l
+ూల	between_consonants	uː l ə
+ూల	alone	uː l ə
+కడ	between_vowels	k ə ɖ
+కడ	between_consonants	k ə ɖ ə
+కడ	alone	k ə ɖ ə
+పాల	between_vowels	p a l
+పాల	between_consonants	p a l ə
+పాల	alone	p a l ə
+లన	between_vowels	l ə n
+లన	between_consonants	l ə n ə
+లన	alone	l ə n ə
+షి	between_vowels	ʂ ɪ
+షి	between_consonants	ʂ ɪ
+షి	alone	ʂ i
+ిద్	between_vowels	ɪ d̪
+ిద్	between_consonants	ɪ d̪
+ిద్	alone	ɪ d̪
+పమ	between_vowels	p ə m
+పమ	between_consonants	p ə m ə
+పమ	alone	p ə m ə
+డ్ల	between_vowels	ɖ l
+డ్ల	between_consonants	ɖ l ə
+డ్ల	alone	ɖ l ə
+ళ్ల	between_vowels	ɭ l
+ళ్ల	between_consonants	ɭ l ə
+ళ్ల	alone	ɭ l ə
+ొమ్	between_vowels	o m
+ొమ్	between_consonants	o m
+ొమ్	alone	o m
+ేగ	between_vowels	eː ɡ
+ేగ	between_consonants	eː ɡ ə
+ేగ	alone	eː ɡ ə
+రాల	between_vowels	r a l
+రాల	between_consonants	r a l ə
+రాల	alone	r a l ə
+పత	between_vowels	p ə t̪
+పత	between_consonants	p ə t̪ ə
+పత	alone	p ə t̪ ə
+ాం	between_consonants	a m
+ాం	alone	a m
+దము	between_vowels	d̪ ə m ʊ
+దము	between_consonants	d̪ ə m ʊ
+దము	alone	d̪ ə m u
+గము	between_vowels	ɡ ə m ʊ
+గము	between_consonants	ɡ ə m ʊ
+గము	alone	ɡ ə m u
+బడ	between_vowels	b ə ɖ
+బడ	between_consonants	b ə ɖ ə
+బడ	alone	b ə ɖ ə
+అర	between_vowels	ʌ r
+అర	between_consonants	ʌ r ə
+అర	alone	ʌ r ə
+వ్ర	between_vowels	ʋ r
+వ్ర	between_consonants	ʋ r ə
+వ్ర	alone	ʋ r ə
+పుల	between_vowels	p ʊ l
+పుల	between_consonants	p ʊ l ə
+పుల	alone	p ʊ l ə
+ంటి	between_vowels	m ʈ ɪ
+ంటి	between_consonants	m ʈ ɪ
+ంటి	alone	m ʈ i
+ఆవ	between_vowels	a ʋ
+ఆవ	between_consonants	a ʋ ə
+ఆవ	alone	a ʋ ə
+పే	between_vowels	p eː
+పే	between_consonants	p eː
+పే	alone	p eː
+ొట్	between_vowels	o ʈ
+ొట్	between_consonants	o ʈ
+ొట్	alone	o ʈ
+ీవ	between_vowels	iː ʋ
+ీవ	between_consonants	iː ʋ ə
+ీవ	alone	iː ʋ ə
+ిలు	between_vowels	ɪ l ʊ
+ిలు	between_consonants	ɪ l ʊ
+ిలు	alone	ɪ l u
+ుకొ	between_vowels	ʊ k o
+ుకొ	between_consonants	ʊ k o
+ుకొ	alone	ʊ k o
+ష్ట	between_vowels	ʂ ʈ
+ష్ట	between_consonants	ʂ ʈ ə
+ష్ట	alone	ʂ ʈ ə
+లువ	between_vowels	l ʊ ʋ
+లువ	between_consonants	l ʊ ʋ ə
+లువ	alone	l ʊ ʋ ə
+సర	between_vowels	s ə r
+సర	between_consonants	s ə r ə
+సర	alone	s ə r ə
+డక	between_vowels	ɖ ə k
+డక	between_consonants	ɖ ə k ə
+డక	alone	ɖ ə k ə
+మరు	between_vowels	m ə r ʊ
+మరు	between_consonants	m ə r ʊ
+మరు	alone	m ə r u
+తప	between_vowels	t̪ ə p
+తప	between_consonants	t̪ ə p ə
+తప	alone	t̪ ə p ə
+వము	between_vowels	ʋ ə m ʊ
+వము	between_consonants	ʋ ə m ʊ
+వము	alone	ʋ ə m u
+కప	between_vowels	k ə p
+కప	between_consonants	k ə p ə
+కప	alone	k ə p ə
+్డి	alone	్ ɖ i
+ీరు	between_vowels	iː r ʊ
+ీరు	between_consonants	iː r ʊ
+ీరు	alone	iː r u
+తన	between_vowels	t̪ ə n
+తన	between_consonants	t̪ ə n ə
+తన	alone	t̪ ə n ə
+ువ్	between_vowels	ʊ ʋ
+ువ్	between_consonants	ʊ ʋ
+ువ్	alone	ʊ ʋ
+వ్య	between_vowels	ʋ j
+వ్య	between_consonants	ʋ j ə
+వ్య	alone	ʋ j ə
+ంజ	between_vowels	ɲ d͡ʒ
+ంజ	between_consonants	ɲ d͡ʒ ə
+ంజ	alone	ɲ d͡ʒ ə
+పన	between_vowels	p ə n
+పన	between_consonants	p ə n ə
+పన	alone	p ə n ə
+ుండ	between_vowels	ʊ m ɖ
+ుండ	between_consonants	ʊ m ɖ ə
+ుండ	alone	ʊ m ɖ ə
+ియా	between_consonants	ɪ j a
+ియా	alone	ɪ j a
+ున్	between_vowels	ʊ n
+ున్	between_consonants	ʊ n
+ున్	alone	ʊ n
+హా	between_consonants	h a
+హా	alone	h a
+్గు	alone	్ ɡ u
+ేప	between_vowels	eː p
+ేప	between_consonants	eː p ə
+ేప	alone	eː p ə
+దర	between_vowels	d̪ ə r
+దర	between_consonants	d̪ ə r ə
+దర	alone	d̪ ə r ə
+పము	between_vowels	p ə m ʊ
+పము	between_consonants	p ə m ʊ
+పము	alone	p ə m u
+ధి	between_vowels	d̪̤ ɪ
+ధి	between_consonants	d̪̤ ɪ
+ధి	alone	d̪̤ i
+లయ	between_vowels	l ə j
+లయ	between_consonants	l ə j ə
+లయ	alone	l ə j ə
+గో	between_vowels	ɡ oː
+గో	between_consonants	ɡ oː
+గో	alone	ɡ oː
+మము	between_vowels	m ə m ʊ
+మము	between_consonants	m ə m ʊ
+మము	alone	m ə m u
+అత	between_vowels	ʌ t̪
+అత	between_consonants	ʌ t̪ ə
+అత	alone	ʌ t̪ ə
+నడ	between_vowels	n ə ɖ
+నడ	between_consonants	n ə ɖ ə
+నడ	alone	n ə ɖ ə
+ఓ	between_vowels	oː
+ఓ	between_consonants	oː
+ఓ	alone	oː
+ంధ	between_vowels	n d̪̤
+ంధ	between_consonants	n d̪̤ ə
+ంధ	alone	n d̪̤ ə
+నిప	between_vowels	n ɪ p
+నిప	between_consonants	n ɪ p ə
+నిప	alone	n ɪ p ə
+విన	between_vowels	ʋ ɪ n
+విన	between_consonants	ʋ ɪ n ə
+విన	alone	ʋ ɪ n ə
+నో	between_vowels	n oː
+నో	between_consonants	n oː
+నో	alone	n oː
+రియ	between_vowels	r ɪ j
+రియ	between_consonants	r ɪ j ə
+రియ	alone	r ɪ j ə
+్ళ	alone	్ ɭ ə
+ళ్ళ	between_vowels	ɭ ɭ
+ళ్ళ	between_consonants	ɭ ɭ ə
+ళ్ళ	alone	ɭ ɭ ə
+తక	between_vowels	t̪ ə k
+తక	between_consonants	t̪ ə k ə
+తక	alone	t̪ ə k ə
+ిరు	between_vowels	ɪ r ʊ
+ిరు	between_consonants	ɪ r ʊ
+ిరు	alone	ɪ r u
+తే	between_vowels	t̪ eː
+తే	between_consonants	t̪ eː
+తే	alone	t̪ eː
+ీడ	between_vowels	iː ɖ
+ీడ	between_consonants	iː ɖ ə
+ీడ	alone	iː ɖ ə
+ికా	between_consonants	ɪ k a
+ికా	alone	ɪ k a
+్దు	alone	్ d̪ u
+ఇం	between_vowels	i m
+ఇం	between_consonants	i m
+ఇం	alone	i m
+ేమ	between_vowels	eː m
+ేమ	between_consonants	eː m ə
+ేమ	alone	eː m ə
+వై	between_vowels	ʋ ə ɪ
+వై	between_consonants	ʋ ə ɪ
+వై	alone	ʋ ə i
+్వు	alone	్ ʋ u
+బొమ	between_vowels	b o m
+బొమ	between_consonants	b o m ə
+బొమ	alone	b o m ə
+ెండ	between_vowels	e m ɖ
+ెండ	between_consonants	e m ɖ ə
+ెండ	alone	e m ɖ ə
+రె	between_vowels	r e
+రె	between_consonants	r e
+రె	alone	r e
+ముక	between_vowels	m ʊ k
+ముక	between_consonants	m ʊ k ə
+ముక	alone	m ʊ k ə
+చెల	between_vowels	t͡ʃ e l
+చెల	between_consonants	t͡ʃ e l ə
+చెల	alone	t͡ʃ e l ə
+బో	between_vowels	b oː
+బో	between_consonants	b oː
+బో	alone	b oː
+ోట	between_vowels	oː ʈ
+ోట	between_consonants	oː ʈ ə
+ోట	alone	oː ʈ ə
+చల	between_vowels	t͡ʃ ə l
+చల	between_consonants	t͡ʃ ə l ə
+చల	alone	t͡ʃ ə l ə
+రప	between_vowels	r ə p
+రప	between_consonants	r ə p ə
+రప	alone	r ə p ə
+ిశ	between_vowels	ɪ ʃ
+ిశ	between_consonants	ɪ ʃ ə
+ిశ	alone	ɪ ʃ ə
+తొ	between_vowels	t̪ o
+తొ	between_consonants	t̪ o
+తొ	alone	t̪ o
+గుడ	between_vowels	ɡ ʊ ɖ
+గుడ	between_consonants	ɡ ʊ ɖ ə
+గుడ	alone	ɡ ʊ ɖ ə
+్లా	alone	్ l a
+ాగు	between_consonants	a ɡ ʊ
+ాగు	alone	a ɡ u
+నిక	between_vowels	n ɪ k
+నిక	between_consonants	n ɪ k ə
+నిక	alone	n ɪ k ə
+జీ	between_vowels	d͡ʒ iː
+జీ	between_consonants	d͡ʒ iː
+జీ	alone	d͡ʒ iː
+అంత	between_vowels	n t̪
+అంత	between_consonants	n t̪ ə
+అంత	alone	n t̪ ə
+నీర	between_vowels	n iː r
+నీర	between_consonants	n iː r ə
+నీర	alone	n iː r ə
+దె	between_vowels	d̪ e
+దె	between_consonants	d̪ e
+దె	alone	d̪ e
+పుడ	between_vowels	p ʊ ɖ
+పుడ	between_consonants	p ʊ ɖ ə
+పుడ	alone	p ʊ ɖ ə
+అద	between_vowels	ʌ d̪
+అద	between_consonants	ʌ d̪ ə
+అద	alone	ʌ d̪ ə
+్వా	alone	్ ʋ a
+మో	between_vowels	m oː
+మో	between_consonants	m oː
+మో	alone	m oː
+కల్	between_vowels	k ə l
+కల్	between_consonants	k ə l
+కల్	alone	k ə l
+్రీ	alone	్ r iː
+ిట్	between_vowels	ɪ ʈ
+ిట్	between_consonants	ɪ ʈ
+ిట్	alone	ɪ ʈ
+ొను	between_vowels	o n ʊ
+ొను	between_consonants	o n ʊ
+ొను	alone	o n u
+వాన	between_vowels	ʋ a n
+వాన	between_consonants	ʋ a n ə
+వాన	alone	ʋ a n ə
+ిజ	between_vowels	ɪ d͡ʒ
+ిజ	between_consonants	ɪ d͡ʒ ə
+ిజ	alone	ɪ d͡ʒ ə
+పలు	between_vowels	p ə l ʊ
+పలు	between_consonants	p ə l ʊ
+పలు	alone	p ə l u
+రుచ	between_vowels	r ʊ t͡ʃ
+రుచ	between_consonants	r ʊ t͡ʃ ə
+రుచ	alone	r ʊ t͡ʃ ə
+్జ	alone	్ d͡ʒ ə
+చం	between_vowels	t͡ʃ ə m
+చం	between_consonants	t͡ʃ ə m
+చం	alone	t͡ʃ ə m
+ెత	between_vowels	e t̪
+ెత	between_consonants	e t̪ ə
+ెత	alone	e t̪ ə
+తుర	between_vowels	t̪ ʊ r
+తుర	between_consonants	t̪ ʊ r ə
+తుర	alone	t̪ ʊ r ə
+పీ	between_vowels	p iː
+పీ	between_consonants	p iː
+పీ	alone	p iː
+చిల	between_vowels	t͡ʃ ɪ l
+చిల	between_consonants	t͡ʃ ɪ l ə
+చిల	alone	t͡ʃ ɪ l ə
+ధర	between_vowels	d̪̤ ə r
+ధర	between_consonants	d̪̤ ə r ə
+ధర	alone	d̪̤ ə r ə
+లె	between_vowels	l e
+లె	between_consonants	l e
+లె	alone	l e
+దుర	between_vowels	d̪ ʊ r
+దుర	between_consonants	d̪ ʊ r ə
+దుర	alone	d̪ ʊ r ə
+ెమ	between_vowels	e m
+ెమ	between_consonants	e m ə
+ెమ	alone	e m ə
+ంపు	between_vowels	m p ʊ
+ంపు	between_consonants	m p ʊ
+ంపు	alone	m p u
+ాచ	between_consonants	a t͡ʃ ə
+ాచ	alone	a t͡ʃ ə
+ోలు	between_vowels	oː l ʊ
+ోలు	between_consonants	oː l ʊ
+ోలు	alone	oː l u
+్రో	alone	్ r oː
+ిండ	between_vowels	ɪ m ɖ
+ిండ	between_consonants	ɪ m ɖ ə
+ిండ	alone	ɪ m ɖ ə
+ూన	between_vowels	uː n
+ూన	between_consonants	uː n ə
+ూన	alone	uː n ə
+క్త	between_vowels	k t̪
+క్త	between_consonants	k t̪ ə
+క్త	alone	k t̪ ə
+వాల	between_vowels	ʋ a l
+వాల	between_consonants	ʋ a l ə
+వాల	alone	ʋ a l ə
+చుట	between_vowels	t͡ʃ ʊ ʈ
+చుట	between_consonants	t͡ʃ ʊ ʈ ə
+చుట	alone	t͡ʃ ʊ ʈ ə
+ర్ప	between_vowels	r p
+ర్ప	between_consonants	r p ə
+ర్ప	alone	r p ə
+డుక	between_vowels	ɖ ʊ k
+డుక	between_consonants	ɖ ʊ k ə
+డుక	alone	ɖ ʊ k ə
+ంచి	between_vowels	ɲ t͡ʃ ɪ
+ంచి	between_consonants	ɲ t͡ʃ ɪ
+ంచి	alone	ɲ t͡ʃ i
+కుర	between_vowels	k ʊ r
+కుర	between_consonants	k ʊ r ə
+కుర	alone	k ʊ r ə
+కత్	between_vowels	k ə t̪
+కత్	between_consonants	k ə t̪
+కత్	alone	k ə t̪
+ుల్	between_vowels	ʊ l
+ుల్	between_consonants	ʊ l
+ుల్	alone	ʊ l
+రావ	between_vowels	r a ʋ
+రావ	between_consonants	r a ʋ ə
+రావ	alone	r a ʋ ə
+లుప	between_vowels	l ʊ p
+లుప	between_consonants	l ʊ p ə
+లుప	alone	l ʊ p ə
+ూత	between_vowels	uː t̪
+ూత	between_consonants	uː t̪ ə
+ూత	alone	uː t̪ ə
+ూప	between_vowels	uː p
+ూప	between_consonants	uː p ə
+ూప	alone	uː p ə
+ఁడ	between_vowels	ఁ ɖ
+ఁడ	between_consonants	ఁ ɖ ə
+ఁడ	alone	ఁ ɖ ə
+రస	between_vowels	r ə s
+రస	between_consonants	r ə s ə
+రస	alone	r ə s ə
+ేక	between_vowels	eː k
+ేక	between_consonants	eː k ə
+ేక	alone	eː k ə
+మాల	between_vowels	m a l
+మాల	between_consonants	m a l ə
+మాల	alone	m a l ə
+గ్ర	between_vowels	ɡ r
+గ్ర	between_consonants	ɡ r ə
+గ్ర	alone	ɡ r ə
+ంగా	between_consonants	ŋ ɡ a
+ంగా	alone	ŋ ɡ a
+ౘ	between_vowels	ౘ
+ౘ	alone	ౘ

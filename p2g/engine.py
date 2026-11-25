@@ -26,6 +26,7 @@ with open(DATA / "default/fallback.csv", encoding="utf-8") as _f:  # shared, ord
                 for r in csv.DictReader(_f)}
 SECONDARY = {"ʲ": "j", "ʷ": "w"}  # kʲ -> k + j, kʷ -> k + w
 FRONT = set("ieɪɛ")  # a split-off j is dropped before these (and before j)
+UNWRITTEN = str.maketrans("", "", "ˠˤ")  # secondary marks no target spells
 
 
 class Target:
@@ -50,6 +51,7 @@ class Target:
         vowel context (aːr is a + r).
         """
         ipa = "".join(ipa.split())  # spaced phones (p a ɾ i): rules must see neighbours
+        ipa = ipa.translate(UNWRITTEN)  # velarized ɾˠ, pharyngealized tˤ: plain
         if not keep_length:
             ipa = "".join(c for c in _nfd(ipa) if c not in LENGTH)
         if loan and self.pre:

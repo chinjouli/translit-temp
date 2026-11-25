@@ -1,0 +1,601 @@
+gram	context	phones
+ा	alone	aː
+्	alone	्
+र	alone	r ə
+े	alone	e
+क	alone	k ə
+त	alone	t ə
+व	alone	v ə
+स	alone	s ə
+ी	alone	iː
+ण	alone	ɳ ə
+न	alone	n ə
+ि	alone	i
+प	alone	p ə
+म	alone	m ə
+ं	alone	n
+य	alone	j ə
+द	alone	d ə
+णे	alone	ɳ e
+ल	alone	l ə
+ग	alone	ɡ ə
+ु	alone	u
+ह	alone	ɦ ə
+ो	alone	o
+ज	alone	d͡ʑ ə
+श	alone	ɕ ə
+ळ	alone	ɭ ə
+ब	alone	b ə
+ड	alone	ɖ ə
+्र	alone	् r ə
+्य	alone	् j ə
+च	alone	t͡ɕ ə
+ट	alone	ʈ ə
+ार	alone	aː r
+अ	alone	a
+ध	alone	d̤ ə
+ू	alone	uː
+ख	alone	kʰ ə
+रा	alone	r aː
+का	alone	k aː
+वा	alone	v aː
+भ	alone	b̤ ə
+र्	alone	r
+त्	alone	t
+स्	alone	s
+ष	alone	ʂ ə
+या	alone	j aː
+मा	alone	m aː
+ता	alone	t aː
+्त	alone	् t ə
+क्	alone	k
+आ	alone	aː
+ना	alone	n aː
+पा	alone	p aː
+उ	alone	u
+री	alone	r iː
+्या	alone	् j aː
+ान	alone	aː n
+हा	alone	ɦ aː
+्व	alone	् v ə
+ाव	alone	aː v
+सा	alone	s aː
+ंग	alone	ŋ ɡ ə
+िक	alone	i k
+थ	alone	tʰ ə
+ां	alone	aː n
+ाळ	alone	aː ɭ ə
+ास	alone	aː s
+वण	alone	v ə ɳ
+ती	alone	t iː
+घ	alone	ɡ̤ ə
+ठ	alone	ʈʰ ə
+वि	alone	v i
+प्	alone	p
+द्	alone	d
+त्र	alone	t r ə
+वणे	alone	v ə ɳ e
+दा	alone	d aː
+फ	alone	pʰ ə
+ला	alone	l aː
+ात	alone	aː t
+बा	alone	b aː
+नि	alone	n i
+ित	alone	i t
+रण	alone	r ə ɳ
+ाण	alone	aː ɳ
+ाय	alone	aː j
+प्र	alone	p r ə
+ाल	alone	aː l
+ंत	alone	n t ə
+भा	alone	b̤ aː
+ाज	alone	aː d͡ʑ ə
+ंड	alone	n ɖ ə
+सं	alone	s ə n
+ाम	alone	aː m
+गा	alone	ɡ aː
+ै	alone	æː
+ुर	alone	u r
+श्	alone	ɕ
+्ष	alone	् ʂ ə
+स्त	alone	s t ə
+न्	alone	n
+चा	alone	t͡ɕ aː
+ंद	alone	n d ə
+ाक	alone	aː k
+ाद	alone	aː d
+ाह	alone	aː ɦ
+क्ष	alone	k ɕ ə
+िर	alone	i r
+वर	alone	v ə r
+णा	alone	ɳ aː
+्म	alone	् m ə
+ष्	alone	ʂ
+जा	alone	d͡ʑ aː
+कर	alone	k ə r
+्ट	alone	् ʈ ə
+ृ	alone	r
+पण	alone	p ə ɳ
+व्	alone	v
+कार	alone	k aː r
+ळण	alone	ɭ ə ɳ
+ंब	alone	m b ə
+ल्	alone	l
+ति	alone	t i
+झ	alone	d͡ʑ̤ ə
+शी	alone	ɕ iː
+ाग	alone	aː ɡ
+ाप	alone	aː p
+ढ	alone	ɖ̤ ə
+डा	alone	ɖ aː
+पु	alone	p u
+वे	alone	v e
+ळणे	alone	ɭ ə ɳ e
+अं	alone	n
+रे	alone	r e
+रक	alone	r ə k
+डण	alone	ɖ ə ɳ
+्क	alone	् k ə
+चि	alone	t͡ɕ i
+को	alone	k o
+शा	alone	ɕ aː
+ळी	alone	ɭ iː
+रि	alone	r i
+सु	alone	s u
+णी	alone	ɳ iː
+रणे	alone	r ə ɳ e
+डी	alone	ɖ iː
+कल	alone	k ə l
+तर	alone	t ə r
+शि	alone	ɕ i
+िं	alone	i n
+डणे	alone	ɖ ə ɳ e
+पर	alone	p ə r
+ीस	alone	iː s
+ई	alone	iː
+्ह	alone	् ɦ ə
+व्य	alone	v j ə
+ली	alone	l iː
+मान	alone	m aː n
+ुं	alone	u n
+वी	alone	v iː
+रव	alone	r ə v
+ळा	alone	ɭ aː
+्रा	alone	् r aː
+कु	alone	k u
+ौ	alone	ɔː
+िस	alone	i s
+िव	alone	i v
+कण	alone	k ə ɳ
+िन	alone	i n
+ने	alone	n e
+्ध	alone	् d̤ ə
+ूर	alone	uː r
+अन	alone	a n
+धा	alone	d̤ aː
+्थ	alone	् tʰ ə
+्न	alone	् n ə
+ग्	alone	ɡ
+हि	alone	ɦ i
+ाट	alone	aː ʈ
+सर	alone	s ə r
+मु	alone	m u
+रु	alone	r u
+के	alone	k e
+ाख	alone	aː kʰ
+इ	alone	i
+गु	alone	ɡ u
+कणे	alone	k ə ɳ e
+स्व	alone	s v ə
+मि	alone	m i
+ारी	alone	aː r iː
+ंध	alone	n d̤ ə
+रो	alone	r o
+्प	alone	् p ə
+त्त	alone	t t ə
+ए	alone	e
+ेश	alone	e ɕ ə
+न्य	alone	n j ə
+ाड	alone	aː ɖ
+ष्ट	alone	ʂ ʈ ə
+की	alone	k iː
+रत	alone	r ə t
+ुल	alone	u l
+खा	alone	kʰ aː
+िय	alone	i j
+ते	alone	t e
+द्ध	alone	d d̤ ə
+ज्	alone	d͡ʑ
+दे	alone	d e
+ट्	alone	ʈ
+ें	alone	e n
+ोड	alone	o ɖ
+िका	alone	i k aː
+टा	alone	ʈ aː
+गर	alone	ɡ ə r
+ाश	alone	aː ɕ ə
+दु	alone	d u
+नी	alone	n iː
+ीर	alone	iː r
+्ती	alone	् t iː
+डे	alone	ɖ e
+ही	alone	ɦ iː
+्द	alone	् d ə
+र्य	alone	r j ə
+ोर	alone	o r
+ओ	alone	o
+ाब	alone	aː b
+ार्	alone	aː r
+वार	alone	v aː r
+्ण	alone	् ɳ ə
+द्र	alone	d r ə
+िष	alone	i ʂ
+ोळ	alone	o ɭ ə
+ुक	alone	u k
+रू	alone	r uː
+ंक	alone	ŋ k ə
+नु	alone	n u
+मन	alone	m ə n
+ले	alone	l e
+गो	alone	ɡ o
+राज	alone	r aː d͡ʑ ə
+्ल	alone	् l ə
+षा	alone	ʂ aː
+ारा	alone	aː r aː
+दर	alone	d ə r
+जी	alone	d͡ʑ iː
+्वा	alone	् v aː
+पत	alone	p ə t
+मे	alone	m e
+ास्	alone	aː s
+पे	alone	p e
+ेक	alone	e k
+ाच	alone	aː t͡ɕ ə
+ुस	alone	u s
+कि	alone	k i
+िश	alone	i ɕ ə
+दी	alone	d iː
+शे	alone	ɕ e
+ावण	alone	aː v ə ɳ
+घा	alone	ɡ̤ aː
+्री	alone	् r iː
+था	alone	tʰ aː
+यक	alone	j ə k
+सम	alone	s ə m
+ऊ	alone	uː
+मं	alone	m ə n
+ोल	alone	o l
+ेर	alone	e r
+ेह	alone	e ɦ
+रस	alone	r ə s
+ोक	alone	o k
+ेत	alone	e t
+ळे	alone	ɭ e
+ुद	alone	u d
+ृत	alone	r t
+क्र	alone	k r ə
+घर	alone	ɡ̤ ə r
+ाळी	alone	aː ɭ iː
+पो	alone	p o
+गण	alone	ɡ ə ɳ
+पणा	alone	p ə ɳ aː
+श्व	alone	ɕ v ə
+वास	alone	v aː s
+गं	alone	ɡ ə n
+टण	alone	ʈ ə ɳ
+टणे	alone	ʈ ə ɳ e
+जण	alone	d͡ʑ ə ɳ
+क्त	alone	k t ə
+ील	alone	iː l
+पू	alone	p uː
+त्य	alone	t j ə
+सण	alone	s ə ɳ
+स्थ	alone	s tʰ ə
+िल	alone	i l
+बे	alone	b e
+र्म	alone	r m ə
+म्	alone	m
+रं	alone	r ə n
+जणे	alone	d͡ʑ ə ɳ e
+हो	alone	ɦ o
+वर्	alone	v ə r
+पि	alone	p i
+ेद	alone	e d
+मो	alone	m o
+वळ	alone	v ə ɭ ə
+बो	alone	b o
+्ग	alone	् ɡ ə
+्रि	alone	् r i
+ाष	alone	aː ʂ
+यं	alone	j ə n
+श्र	alone	ɕ r ə
+दार	alone	d aː r
+ठा	alone	ʈʰ aː
+ांड	alone	aː n ɖ ə
+चित	alone	t͡ɕ i t
+बर	alone	b ə r
+्वर	alone	् v ə r
+कत	alone	k ə t
+िप	alone	i p
+एक	alone	e k
+तक	alone	t ə k
+ीक	alone	iː k
+्हा	alone	् ɦ aː
+रम	alone	r ə m
+यो	alone	j o
+छ	alone	t͡ɕʰ ə
+टी	alone	ʈ iː
+ंज	alone	n d͡ʑ ə
+ुन	alone	u n
+दि	alone	d i
+्ता	alone	् t aː
+मी	alone	m iː
+हे	alone	ɦ e
+ल्ल	alone	l l ə
+सो	alone	s o
+ध्	alone	d̤
+ेव	alone	e v
+ित्	alone	i t
+धी	alone	d̤ iː
+कट	alone	k ə ʈ
+उत	alone	u t
+ुम	alone	u m
+रप	alone	r ə p
+ाई	alone	aː iː
+ारण	alone	aː r ə ɳ
+कड	alone	k ə ɖ
+्च	alone	् t͡ɕ ə
+पणे	alone	p ə ɳ e
+ब्	alone	b
+भि	alone	b̤ i
+सणे	alone	s ə ɳ e
+धि	alone	d̤ i
+वत	alone	v ə t
+हार	alone	ɦ aː r
+ीत	alone	iː t
+ोप	alone	o p
+निर	alone	n i r
+वाद	alone	v aː d
+यम	alone	j ə m
+पन	alone	p ə n
+अनु	alone	a n u
+ञ	alone	ɲ ə
+ाळण	alone	aː ɭ ə ɳ
+भू	alone	b̤ uː
+हु	alone	ɦ u
+खो	alone	kʰ o
+तु	alone	t u
+िम	alone	i m
+उप	alone	u p
+ूर्	alone	uː r
+ंत्	alone	n t
+ांग	alone	aː ŋ ɡ ə
+िद	alone	i d
+क्क	alone	k k ə
+्त्	alone	् t
+मह	alone	m ə ɦ
+वन	alone	v ə n
+बु	alone	b u
+कं	alone	k ə n
+वड	alone	v ə ɖ
+उद	alone	u d
+ीय	alone	iː j
+ुत	alone	u t
+ीव	alone	iː v
+गत	alone	ɡ ə t
+िवा	alone	i v aː
+र्ग	alone	r ɡ ə
+ोग	alone	o ɡ
+षण	alone	ʂ ə ɳ
+वल	alone	v ə l
+अप	alone	a p
+ाध	alone	aː d̤
+्ञ	alone	् ɲ ə
+ज्ञ	alone	ɡ ɲ ə
+ात्	alone	aː t
+पुर	alone	p u r
+कव	alone	k ə v
+िज	alone	i d͡ʑ ə
+ोद	alone	o d
+ुद्	alone	u d
+वै	alone	v æː
+वाह	alone	v aː ɦ
+पूर	alone	p uː r
+कृ	alone	k r
+्रत	alone	् r ə t
+अव	alone	a v
+ट्ट	alone	ʈ ʈ ə
+सह	alone	s ə ɦ
+र्ण	alone	r ɳ ə
+गणे	alone	ɡ ə ɳ e
+िद्	alone	i d
+ुळ	alone	u ɭ ə
+लि	alone	l i
+यव	alone	j ə v
+बी	alone	b iː
+गी	alone	ɡ iː
+रक्	alone	r ə k
+पार	alone	p aː r
+गळ	alone	ɡ ə ɭ ə
+नक	alone	n ə k
+जव	alone	d͡ʑ ə v
+तू	alone	t uː
+मक	alone	m ə k
+कता	alone	k ə t aː
+तार	alone	t aː r
+ूत	alone	uː t
+ाऊ	alone	aː uː
+ोह	alone	o ɦ
+ुण	alone	u ɳ
+चण	alone	t͡ɕ ə ɳ
+जि	alone	d͡ʑ i
+मू	alone	m uː
+विष	alone	v i ʂ
+्मा	alone	् m aː
+ेप	alone	e p
+ाठ	alone	aː ʈʰ
+जन	alone	d͡ʑ ə n
+फा	alone	pʰ aː
+खर	alone	kʰ ə r
+लक	alone	l ə k
+्का	alone	् k aː
+िया	alone	i j aː
+ंभ	alone	m b̤ ə
+ामा	alone	aː m aː
+चाळ	alone	t͡ɕ aː ɭ ə
+टे	alone	ʈ e
+ंगा	alone	ŋ ɡ aː
+सक	alone	s ə k
+सि	alone	s i
+टक	alone	ʈ ə k
+से	alone	s e
+टि	alone	ʈ i
+र्व	alone	r v ə
+नव	alone	n ə v
+पत्	alone	p ə t
+र्थ	alone	r tʰ ə
+पस	alone	p ə s
+रवा	alone	r ə v aː
+िस्	alone	i s
+लण	alone	l ə ɳ
+लणे	alone	l ə ɳ e
+िर्	alone	i r
+िंग	alone	i ŋ ɡ ə
+ेल	alone	e l
+सळ	alone	s ə ɭ ə
+रद	alone	r ə d
+ूळ	alone	uː ɭ ə
+ध्य	alone	d̤ j ə
+द्य	alone	d j ə
+लो	alone	l o
+ुव	alone	u v
+मत	alone	m ə t
+वस	alone	v ə s
+ुग	alone	u ɡ
+ांत	alone	aː n t ə
+जर	alone	d͡ʑ ə r
+साम	alone	s aː m
+ः	alone	ə h
+ुड	alone	u ɖ
+गड	alone	ɡ ə ɖ
+ोष	alone	o ʂ
+ंतर	alone	n t ə r
+बं	alone	b ə n
+तिक	alone	t i k
+उत्	alone	u t
+मर	alone	m ə r
+ल्प	alone	l p ə
+त्व	alone	t v ə
+पक	alone	p ə k
+हर	alone	ɦ ə r
+धर	alone	d̤ ə r
+चणे	alone	t͡ɕ ə ɳ e
+देश	alone	d e ɕ ə
+कृत	alone	k r t
+कल्	alone	k ə l
+िक्	alone	i k
+रश	alone	r ə ɕ ə
+यत	alone	j ə t
+पट	alone	p ə ʈ
+न्न	alone	n n ə
+ुश	alone	u ɕ ə
+दू	alone	d uː
+थि	alone	tʰ i
+निय	alone	n i j
+अक	alone	a k
+ठ्	alone	ʈʰ
+ग्र	alone	ɡ r ə
+फु	alone	pʰ u
+्रक	alone	् r ə k
+ची	alone	t͡ɕ iː
+न्ह	alone	n ɦ ə
+ोट	alone	o ʈ
+स्क	alone	s k ə
+ुज	alone	u d͡ʑ ə
+रका	alone	r ə k aː
+ैर	alone	æː r
+ंच	alone	n t͡ɕ ə
+सू	alone	s uː
+चव	alone	t͡ɕ ə v
+त्म	alone	t m ə
+चार	alone	t͡ɕ aː r
+ाणी	alone	aː ɳ iː
+ोत	alone	o t
+रह	alone	r ə ɦ
+पद	alone	p ə d
+ून	alone	uː n
+गि	alone	ɡ i
+्यव	alone	् j ə v
+अध	alone	a d̤
+जे	alone	d͡ʑ e
+जु	alone	d͡ʑ u
+भाव	alone	b̤ aː v
+शो	alone	ɕ o
+र्त	alone	r t ə
+ऐ	alone	æː
+हास	alone	ɦ aː s
+्ति	alone	् t i
+रात	alone	r aː t
+ाणा	alone	aː ɳ aː
+दन	alone	d ə n
+नश	alone	n ə ɕ ə
+तो	alone	t o
+ायक	alone	aː j ə k
+ोण	alone	o ɳ
+तळ	alone	t ə ɭ ə
+ख्	alone	kʰ
+ाया	alone	aː j aː
+हण	alone	ɦ ə ɳ
+ताप	alone	t aː p
+खे	alone	kʰ e
+्यं	alone	् j ə n
+ाही	alone	aː ɦ iː
+ोन	alone	o n
+दुर	alone	d u r
+ुर्	alone	u r
+तप	alone	t ə p
+िष्	alone	i ʂ
+खण	alone	kʰ ə ɳ
+काश	alone	k aː ɕ ə
+ग्य	alone	ɡ j ə
+ंस	alone	n s ə
+स्न	alone	s n ə
+चक	alone	t͡ɕ ə k
+अभ	alone	a b̤
+च्	alone	t͡ɕ
+खु	alone	kʰ u
+लव	alone	l ə v
+यु	alone	j u
+ाभ	alone	aː b̤
+्स	alone	् s ə
+धन	alone	d̤ ə n
+ाता	alone	aː t aː
+गंध	alone	ɡ ə n d̤ ə
+साव	alone	s aː v
+ावर	alone	aː v ə r
+मट	alone	m ə ʈ
+िती	alone	i t iː
+ाहि	alone	aː ɦ i
+्पन	alone	् p ə n
+ुमा	alone	u m aː
+तव	alone	t ə v
+शक	alone	ɕ ə k
+ोस	alone	o s
+णि	alone	ɳ i
+्रम	alone	् r ə m
+ेख	alone	e kʰ
+वच	alone	v ə t͡ɕ ə
+द्द	alone	d d ə
+कळ	alone	k ə ɭ ə
+कर्	alone	k ə r
+राम	alone	r aː m
+काव	alone	k aː v
+ांब	alone	aː m b ə
+तीस	alone	t iː s
+राण	alone	r aː ɳ
+ये	alone	j e
+ुब	alone	u b
+वाळ	alone	v aː ɭ ə
+पी	alone	p iː
+्ठ	alone	् ʈʰ ə
+बह	alone	b ə ɦ

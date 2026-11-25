@@ -1,0 +1,1556 @@
+gram	context	phones
+ਾ	between_consonants	ɑ
+ਾ	alone	ɑ
+ਰ	between_vowels	ɾ
+ਰ	between_consonants	ə ɾ ə
+ਰ	alone	ɾ
+ਸ	between_vowels	s
+ਸ	between_consonants	ə s ə
+ਸ	alone	s
+ੀ	between_vowels	i
+ੀ	between_consonants	i
+ੀ	alone	i
+ਤ	between_vowels	t̪
+ਤ	between_consonants	ə t̪ ə
+ਤ	alone	t̪
+ਕ	between_vowels	k
+ਕ	between_consonants	ə k ə
+ਕ	alone	k
+਼	alone	਼
+ੱ	alone	ː
+ਲ	between_vowels	l
+ਲ	alone	l
+ਨ	between_vowels	n
+ਨ	between_consonants	ə n ə
+ਨ	alone	n
+ਿ	between_vowels	ɪ
+ਿ	between_consonants	ɪ
+ਿ	alone	ɪ
+ਮ	between_vowels	m
+ਮ	between_consonants	ə m ə
+ਮ	alone	m
+ਦ	between_vowels	d̪
+ਦ	between_consonants	ə d̪ ə
+ਦ	alone	d̪
+ਹ	between_vowels	ɦ
+ਹ	between_consonants	ə ɦ ə
+ਹ	alone	ɦ
+ੰ	between_consonants	ə̃
+ੰ	alone	̃
+ੁ	between_vowels	ʊ
+ੁ	between_consonants	ʊ
+ੁ	alone	ʊ
+ਬ	between_vowels	b
+ਬ	between_consonants	ə b ə
+ਬ	alone	b
+ਣ	between_vowels	ɳ
+ਣ	between_consonants	ə ɳ ə
+ਣ	alone	ɳ
+ਂ	between_consonants	ə̃
+ਂ	alone	̃
+ਜ	between_vowels	d͡ʒ
+ਜ	between_consonants	ə d͡ʒ ə
+ਜ	alone	d͡ʒ
+ਪ	between_vowels	p
+ਪ	between_consonants	ə p ə
+ਪ	alone	p
+ਵ	between_vowels	ʋ
+ਵ	between_consonants	ə ʋ ə
+ਵ	alone	ʋ
+ੇ	between_vowels	e
+ੇ	between_consonants	e
+ੇ	alone	e
+ਗ	between_vowels	ɡ
+ਗ	between_consonants	ə ɡ ə
+ਗ	alone	ɡ
+ੂ	between_vowels	u
+ੂ	between_consonants	u
+ੂ	alone	u
+ੋ	between_vowels	o
+ੋ	between_consonants	o
+ੋ	alone	o
+ਖ	between_vowels	kʰ
+ਖ	between_consonants	ə kʰ ə
+ਖ	alone	kʰ
+ਣਾ	between_consonants	ə ɳ ɑ
+ਣਾ	alone	ɳ ɑ
+ਆ	between_vowels	ɑ
+ਆ	between_consonants	ɑ
+ਆ	alone	ɑ
+ਡ	between_vowels	ɖ
+ਡ	between_consonants	ə ɖ ə
+ਡ	alone	ɖ
+ੜ	between_vowels	ɽ
+ੜ	between_consonants	ə ɽ ə
+ੜ	alone	ɽ
+ਰਾ	between_consonants	ə ɾ ɑ
+ਰਾ	alone	ɾ ɑ
+ਅ	between_consonants	ə
+ਾਰ	between_consonants	ɑ ɾ ə
+ਾਰ	alone	ɑ ɾ
+ਚ	between_vowels	t͡ʃ
+ਚ	between_consonants	ə t͡ʃ ə
+ਚ	alone	t͡ʃ
+ਸ਼	between_vowels	ʃ
+ਸ਼	between_consonants	ə ʃ ə
+ਸ਼	alone	ʃ
+ਨਾ	between_consonants	ə n ɑ
+ਨਾ	alone	n ɑ
+ਟ	between_vowels	ʈ
+ਟ	between_consonants	ə ʈ ə
+ਟ	alone	ʈ
+ਾਂ	between_consonants	ɑ̃
+ਾਂ	alone	ɑ̃
+ਵਾ	between_consonants	ə ʋ ɑ
+ਵਾ	alone	ʋ ɑ
+ਫ	between_vowels	pʰ
+ਫ	between_consonants	ə pʰ ə
+ਫ	alone	pʰ
+ਦਾ	between_consonants	ə d̪ ɑ
+ਦਾ	alone	d̪ ɑ
+ਤਾ	between_consonants	ə t̪ ɑ
+ਤਾ	alone	t̪ ɑ
+ਾਨ	between_consonants	ɑ n ə
+ਾਨ	alone	ɑ n
+ਉ	between_vowels	ʊ
+ਉ	between_consonants	ʊ
+ਉ	alone	ʊ
+ਮਾ	between_consonants	ə m ɑ
+ਮਾ	alone	m ɑ
+ਭ	between_vowels	p
+ਭ	between_consonants	ə p ə
+ਭ	alone	p
+੍	alone	੍
+ਲ਼	between_vowels	ɭ
+ਲ਼	alone	ɭ
+ੈ	between_vowels	ɛ
+ੈ	between_consonants	ɛ
+ੈ	alone	ɛ
+਼ਾ	alone	਼ ɑ
+ਕਾ	between_consonants	ə k ɑ
+ਕਾ	alone	k ɑ
+ਾਲ	alone	ɑ l
+ਘ	between_vowels	k
+ਘ	between_consonants	ə k ə
+ਘ	alone	k
+ਲਾ	alone	l ɑ
+ਿੱ	between_vowels	ɪː
+ਿੱ	alone	ɪː
+ਿਆ	between_vowels	ɪ ɑ
+ਿਆ	between_consonants	ɪ ɑ
+ਿਆ	alone	ɪ ɑ
+ਥ	between_vowels	t̪ʰ
+ਥ	between_consonants	ə t̪ʰ ə
+ਥ	alone	t̪ʰ
+ਜ਼	between_vowels	z
+ਜ਼	between_consonants	ə z ə
+ਜ਼	alone	z
+ਕਰ	between_vowels	k ɾ
+ਕਰ	between_consonants	ə k ɾ ə
+ਕਰ	alone	k ə ɾ
+ੁੱ	between_vowels	ʊː
+ੁੱ	alone	ʊː
+ਠ	between_vowels	ʈʰ
+ਠ	between_consonants	ə ʈʰ ə
+ਠ	alone	ʈʰ
+ਛ	between_vowels	t͡ʃʰ
+ਛ	between_consonants	ə t͡ʃʰ ə
+ਛ	alone	t͡ʃʰ
+ਜਾ	between_consonants	ə d͡ʒ ɑ
+ਜਾ	alone	d͡ʒ ɑ
+ਯ	between_vowels	j
+ਯ	between_consonants	ə j ə
+ਯ	alone	j
+ਫ਼	between_vowels	f
+ਫ਼	between_consonants	ə f ə
+ਫ਼	alone	f
+ਹਾ	between_consonants	ə ɦ ɑ
+ਹਾ	alone	ɦ ɑ
+ਧ	between_vowels	t̪
+ਧ	between_consonants	ə t̪ ə
+ਧ	alone	t̪
+ਸਾ	between_consonants	ə s ɑ
+ਸਾ	alone	s ɑ
+ਬਾ	between_consonants	ə b ɑ
+ਬਾ	alone	b ɑ
+ੱਤ	between_vowels	t̪ː
+ੱਤ	between_consonants	ə t̪ː ə
+ੱਤ	alone	t̪ː
+ਇ	between_vowels	ɪ
+ਇ	between_consonants	ɪ
+ਇ	alone	ɪ
+ਤੀ	between_vowels	t̪ i
+ਤੀ	between_consonants	ə t̪ i
+ਤੀ	alone	t̪ i
+ਝ	between_vowels	t͡ʃ
+ਝ	between_consonants	ə t͡ʃ ə
+ਝ	alone	t͡ʃ
+਼ੀ	alone	਼ i
+ਰੀ	between_vowels	ɾ i
+ਰੀ	between_consonants	ə ɾ i
+ਰੀ	alone	ɾ i
+ਾਹ	between_consonants	ɑ ɦ ə
+ਾਹ	alone	ɑ ɦ
+ੌ	between_vowels	ɔ
+ੌ	between_consonants	ɔ
+ੌ	alone	ɔ
+ਸਤ	between_vowels	s t̪
+ਸਤ	between_consonants	ə s t̪ ə
+ਸਤ	alone	s ə t̪
+ਤਰ	between_vowels	t̪ ɾ
+ਤਰ	between_consonants	ə t̪ ɾ ə
+ਤਰ	alone	t̪ ə ɾ
+੍ਹ	between_consonants	ɦ ə
+੍ਹ	alone	੍ ɦ
+ੇਰ	between_vowels	e ɾ
+ੇਰ	between_consonants	e ɾ ə
+ੇਰ	alone	e ɾ
+ਈ	between_vowels	i
+ਈ	between_consonants	i
+ਈ	alone	i
+ਹਿ	between_vowels	ɦ ɪ
+ਹਿ	between_consonants	ə ɦ ɪ
+ਹਿ	alone	ɦ ɪ
+ਕ਼	between_vowels	k ə਼
+ਕ਼	between_consonants	ə k ə਼
+ਕ਼	alone	k ə਼
+ੰਡ	between_consonants	ə̃ ɖ ə
+ੰਡ	alone	̃ ɖ
+ੂੰ	between_vowels	ũ
+ੂੰ	between_consonants	ũ
+ੂੰ	alone	ũ
+ਕਿ	between_vowels	k ɪ
+ਕਿ	between_consonants	ə k ɪ
+ਕਿ	alone	k ɪ
+ਿਸ	between_vowels	ɪ s
+ਿਸ	between_consonants	ɪ s ə
+ਿਸ	alone	ɪ s
+ਸਮ	between_vowels	s m
+ਸਮ	between_consonants	ə s m ə
+ਸਮ	alone	s ə m
+ੁਰ	between_vowels	ʊ ɾ
+ੁਰ	between_consonants	ʊ ɾ ə
+ੁਰ	alone	ʊ ɾ
+ੰਦ	between_consonants	ə̃ d̪ ə
+ੰਦ	alone	̃ d̪
+ਾਣ	between_consonants	ɑ ɳ ə
+ਾਣ	alone	ɑ ɳ
+ਦੀ	between_vowels	d̪ i
+ਦੀ	between_consonants	ə d̪ i
+ਦੀ	alone	d̪ i
+ੱਕ	between_vowels	kː
+ੱਕ	between_consonants	ə kː ə
+ੱਕ	alone	kː
+੍ਰ	between_consonants	ɾ ə
+੍ਰ	alone	੍ ɾ
+ੜਾ	between_consonants	ə ɽ ɑ
+ੜਾ	alone	ɽ ɑ
+ੰਜ	between_consonants	ə̃ d͡ʒ ə
+ੰਜ	alone	̃ d͡ʒ
+ੱਲ	between_vowels	lː
+ੱਲ	alone	lː
+ਡਾ	between_consonants	ə ɖ ɑ
+ਡਾ	alone	ɖ ɑ
+ਾਜ	between_consonants	ɑ d͡ʒ ə
+ਾਜ	alone	ɑ d͡ʒ
+ਖਾ	between_consonants	ə kʰ ɑ
+ਖਾ	alone	kʰ ɑ
+ਗੁ	between_vowels	ɡ ʊ
+ਗੁ	between_consonants	ə ɡ ʊ
+ਗੁ	alone	ɡ ʊ
+ਿੰ	between_vowels	ɪ̃
+ਿੰ	between_consonants	ɪ̃
+ਿੰ	alone	ɪ̃
+ਖ਼	between_vowels	x
+ਖ਼	between_consonants	ə x ə
+ਖ਼	alone	x
+ਗਾ	between_consonants	ə ɡ ɑ
+ਗਾ	alone	ɡ ɑ
+ਾਲ਼	between_consonants	ɑ ɭ ə
+ਾਲ਼	alone	ɑ ɭ
+ਾਸ	between_consonants	ɑ s ə
+ਾਸ	alone	ɑ s
+ੰਨ	between_consonants	ə̃ n ə
+ੰਨ	alone	̃ n
+ਾਕ	between_consonants	ɑ k ə
+ਾਕ	alone	ɑ k
+ਾਦ	between_consonants	ɑ d̪ ə
+ਾਦ	alone	ɑ d̪
+ਨੀ	between_vowels	n i
+ਨੀ	between_consonants	ə n i
+ਨੀ	alone	n i
+ੋਲ	between_vowels	o l
+ੋਲ	alone	o l
+ਆਂ	between_vowels	ɑ̃
+ਆਂ	between_consonants	ɑ̃
+ਆਂ	alone	ɑ̃
+ੱਸ	between_vowels	sː
+ੱਸ	between_consonants	ə sː ə
+ੱਸ	alone	sː
+ਿਰ	between_vowels	ɪ ɾ
+ਿਰ	between_consonants	ɪ ɾ ə
+ਿਰ	alone	ɪ ɾ
+ਤਲ	between_vowels	t̪ l
+ਤਲ	alone	t̪ ə l
+ੀਤ	between_vowels	i t̪
+ੀਤ	between_consonants	i t̪ ə
+ੀਤ	alone	i t̪
+ਅੱ	between_vowels	əː
+ਅੱ	alone	əː
+਼ਤ	alone	਼ t̪
+ੜੀ	between_vowels	ɽ i
+ੜੀ	between_consonants	ə ɽ i
+ੜੀ	alone	ɽ i
+ਗਰ	between_vowels	ɡ ɾ
+ਗਰ	between_consonants	ə ɡ ɾ ə
+ਗਰ	alone	ɡ ə ɾ
+ਰਨ	between_vowels	ɾ n
+ਰਨ	between_consonants	ə ɾ n ə
+ਰਨ	alone	ɾ ə n
+ੋਂ	between_vowels	õ
+ੋਂ	between_consonants	õ
+ੋਂ	alone	õ
+ਪਿ	between_vowels	p ɪ
+ਪਿ	between_consonants	ə p ɪ
+ਪਿ	alone	p ɪ
+ੁੰ	between_vowels	ʊ̃
+ੁੰ	between_consonants	ʊ̃
+ੁੰ	alone	ʊ̃
+ਦੁ	between_vowels	d̪ ʊ
+ਦੁ	between_consonants	ə d̪ ʊ
+ਦੁ	alone	d̪ ʊ
+ੱਬ	between_vowels	bː
+ੱਬ	between_consonants	ə bː ə
+ੱਬ	alone	bː
+ਪਾ	between_consonants	ə p ɑ
+ਪਾ	alone	p ɑ
+ਰਿ	between_vowels	ɾ ɪ
+ਰਿ	between_consonants	ə ɾ ɪ
+ਰਿ	alone	ɾ ɪ
+ਲੀ	between_vowels	l i
+ਲੀ	alone	l i
+ਕੁ	between_vowels	k ʊ
+ਕੁ	between_consonants	ə k ʊ
+ਕੁ	alone	k ʊ
+ਭਾ	between_consonants	ə p ɑ
+ਭਾ	alone	p ɑ
+ੰਗ	between_consonants	ə̃ ɡ ə
+ੰਗ	alone	̃ ɡ
+ਲੂ	between_vowels	l u
+ਲੂ	alone	l u
+ਮਸ	between_vowels	m s
+ਮਸ	between_consonants	ə m s ə
+ਮਸ	alone	m ə s
+ਸ਼ਾ	between_consonants	ə ʃ ɑ
+ਸ਼ਾ	alone	ʃ ɑ
+ਢ	between_vowels	ʈ
+ਢ	between_consonants	ə ʈ ə
+ਢ	alone	ʈ
+ਚਾ	between_consonants	ə t͡ʃ ɑ
+ਚਾ	alone	t͡ʃ ɑ
+ੱਟ	between_vowels	ʈː
+ੱਟ	between_consonants	ə ʈː ə
+ੱਟ	alone	ʈː
+ਾਮ	between_consonants	ɑ m ə
+ਾਮ	alone	ɑ m
+ਸੂ	between_vowels	s u
+ਸੂ	between_consonants	ə s u
+ਸੂ	alone	s u
+ਉਣ	between_vowels	ʊ ɳ
+ਉਣ	between_consonants	ʊ ɳ ə
+ਉਣ	alone	ʊ ɳ
+ਪੰ	between_vowels	p ə̃
+ਪੰ	between_consonants	ə p ə̃
+ਪੰ	alone	p ə̃
+ੰਜਾ	between_consonants	ə̃ d͡ʒ ɑ
+ੰਜਾ	alone	̃ d͡ʒ ɑ
+ਦੇ	between_vowels	d̪ e
+ਦੇ	between_consonants	ə d̪ e
+ਦੇ	alone	d̪ e
+ਦਿ	between_vowels	d̪ ɪ
+ਦਿ	between_consonants	ə d̪ ɪ
+ਦਿ	alone	d̪ ɪ
+ਸੀ	between_vowels	s i
+ਸੀ	between_consonants	ə s i
+ਸੀ	alone	s i
+ਕੀ	between_vowels	k i
+ਕੀ	between_consonants	ə k i
+ਕੀ	alone	k i
+਼ੁ	alone	਼ ʊ
+ਬੱ	between_vowels	b əː
+ਬੱ	alone	b əː
+ੈਂ	between_vowels	ɛ̃
+ੈਂ	between_consonants	ɛ̃
+ੈਂ	alone	ɛ̃
+ਸੁ	between_vowels	s ʊ
+ਸੁ	between_consonants	ə s ʊ
+ਸੁ	alone	s ʊ
+ੇਰਾ	between_consonants	e ɾ ɑ
+ੇਰਾ	alone	e ɾ ɑ
+ਡੀ	between_vowels	ɖ i
+ਡੀ	between_consonants	ə ɖ i
+ਡੀ	alone	ɖ i
+ਤਾਲ	between_vowels	t̪ ɑ l
+ਤਾਲ	alone	t̪ ɑ l
+ਲ਼ੀ	between_vowels	ɭ i
+ਲ਼ੀ	alone	ɭ i
+ਤਿ	between_vowels	t̪ ɪ
+ਤਿ	between_consonants	ə t̪ ɪ
+ਤਿ	alone	t̪ ɪ
+ੋਲ਼	between_vowels	o ɭ
+ੋਲ਼	between_consonants	o ɭ ə
+ੋਲ਼	alone	o ɭ
+ਗ਼	between_vowels	ɣ
+ਗ਼	between_consonants	ə ɣ ə
+ਗ਼	alone	ɣ
+ਵਾਂ	between_vowels	ʋ ɑ̃
+ਵਾਂ	between_consonants	ə ʋ ɑ̃
+ਵਾਂ	alone	ʋ ɑ̃
+ਵੇ	between_vowels	ʋ e
+ਵੇ	between_consonants	ə ʋ e
+ਵੇ	alone	ʋ e
+ੀਂ	between_vowels	ĩ
+ੀਂ	between_consonants	ĩ
+ੀਂ	alone	ĩ
+ਸੱ	between_vowels	s əː
+ਸੱ	alone	s əː
+ਹੁ	between_vowels	ɦ ʊ
+ਹੁ	between_consonants	ə ɦ ʊ
+ਹੁ	alone	ɦ ʊ
+ਪੁ	between_vowels	p ʊ
+ਪੁ	between_consonants	ə p ʊ
+ਪੁ	alone	p ʊ
+ਹੋ	between_vowels	ɦ o
+ਹੋ	between_consonants	ə ɦ o
+ਹੋ	alone	ɦ o
+ਤੇ	between_vowels	t̪ e
+ਤੇ	between_consonants	ə t̪ e
+ਤੇ	alone	t̪ e
+ਰਾਂ	between_vowels	ɾ ɑ̃
+ਰਾਂ	between_consonants	ə ɾ ɑ̃
+ਰਾਂ	alone	ɾ ɑ̃
+ੱਡ	between_vowels	ɖː
+ੱਡ	between_consonants	ə ɖː ə
+ੱਡ	alone	ɖː
+ੱਦ	between_vowels	d̪ː
+ੱਦ	between_consonants	ə d̪ː ə
+ੱਦ	alone	d̪ː
+ਸਰ	between_vowels	s ɾ
+ਸਰ	between_consonants	ə s ɾ ə
+ਸਰ	alone	s ə ɾ
+ਠਾ	between_consonants	ə ʈʰ ɑ
+ਠਾ	alone	ʈʰ ɑ
+ਟੋ	between_vowels	ʈ o
+ਟੋ	between_consonants	ə ʈ o
+ਟੋ	alone	ʈ o
+ਪੀ	between_vowels	p i
+ਪੀ	between_consonants	ə p i
+ਪੀ	alone	p i
+ਵੰ	between_vowels	ʋ ə̃
+ਵੰ	between_consonants	ə ʋ ə̃
+ਵੰ	alone	ʋ ə̃
+ਟਾ	between_consonants	ə ʈ ɑ
+ਟਾ	alone	ʈ ɑ
+ਿਕ	between_vowels	ɪ k
+ਿਕ	between_consonants	ɪ k ə
+ਿਕ	alone	ɪ k
+ਸਤਾ	between_consonants	ə s t̪ ɑ
+ਸਤਾ	alone	s ə t̪ ɑ
+ਹੀ	between_vowels	ɦ i
+ਹੀ	between_consonants	ə ɦ i
+ਹੀ	alone	ɦ i
+ੁਆ	between_vowels	ʊ ɑ
+ੁਆ	between_consonants	ʊ ɑ
+ੁਆ	alone	ʊ ɑ
+ਸੰ	between_vowels	s ə̃
+ਸੰ	between_consonants	ə s ə̃
+ਸੰ	alone	s ə̃
+ਵਿ	between_vowels	ʋ ɪ
+ਵਿ	between_consonants	ə ʋ ɪ
+ਵਿ	alone	ʋ ɪ
+ਲਿ	between_vowels	l ɪ
+ਲਿ	alone	l ɪ
+ਰੰ	between_vowels	ɾ ə̃
+ਰੰ	between_consonants	ə ɾ ə̃
+ਰੰ	alone	ɾ ə̃
+ਰਦ	between_vowels	ɾ d̪
+ਰਦ	between_consonants	ə ɾ d̪ ə
+ਰਦ	alone	ɾ ə d̪
+਼ਰ	alone	਼ ɾ
+ਾਈ	between_consonants	ɑ i
+ਾਈ	alone	ɑ i
+ਉਣਾ	between_consonants	ʊ ɳ ɑ
+ਉਣਾ	alone	ʊ ɳ ɑ
+ੱਤੀ	between_vowels	t̪ː i
+ੱਤੀ	between_consonants	ə t̪ː i
+ੱਤੀ	alone	t̪ː i
+ਾਗ	between_consonants	ɑ ɡ ə
+ਾਗ	alone	ɑ ɡ
+ਾੜ	between_consonants	ɑ ɽ ə
+ਾੜ	alone	ɑ ɽ
+ਰਮ	between_vowels	ɾ m
+ਰਮ	between_consonants	ə ɾ m ə
+ਰਮ	alone	ɾ ə m
+ੱਛ	between_vowels	t͡ʃːʰ
+ੱਛ	between_consonants	ə t͡ʃːʰ ə
+ੱਛ	alone	t͡ʃːʰ
+ਤਲਾ	between_consonants	ə t̪ l ɑ
+ਤਲਾ	alone	t̪ ə l ɑ
+ਰਨਾ	between_consonants	ə ɾ n ɑ
+ਰਨਾ	alone	ɾ ə n ɑ
+ਾਰਾ	between_consonants	ɑ ɾ ɑ
+ਾਰਾ	alone	ɑ ɾ ɑ
+ਲ਼ਾ	alone	ɭ ɑ
+ੰਮ	between_consonants	ə̃ m ə
+ੰਮ	alone	̃ m
+ਉੱ	between_vowels	ʊː
+ਉੱ	alone	ʊː
+ਾਤ	between_consonants	ɑ t̪ ə
+ਾਤ	alone	ɑ t̪
+ੋਰ	between_vowels	o ɾ
+ੋਰ	between_consonants	o ɾ ə
+ੋਰ	alone	o ɾ
+ਟੀ	between_vowels	ʈ i
+ਟੀ	between_consonants	ə ʈ i
+ਟੀ	alone	ʈ i
+ਮਾਨ	between_vowels	m ɑ n
+ਮਾਨ	between_consonants	ə m ɑ n ə
+ਮਾਨ	alone	m ɑ n
+ਘਾ	between_consonants	ə k ɑ
+ਘਾ	alone	k ɑ
+ਸੋ	between_vowels	s o
+ਸੋ	between_consonants	ə s o
+ਸੋ	alone	s o
+ਰਤ	between_vowels	ɾ t̪
+ਰਤ	between_consonants	ə ɾ t̪ ə
+ਰਤ	alone	ɾ ə t̪
+ੁਸ	between_vowels	ʊ s
+ੁਸ	between_consonants	ʊ s ə
+ੁਸ	alone	ʊ s
+ਹਾਰ	between_vowels	ɦ ɑ ɾ
+ਹਾਰ	between_consonants	ə ɦ ɑ ɾ ə
+ਹਾਰ	alone	ɦ ɑ ɾ
+ਤਾਰ	between_vowels	t̪ ɑ ɾ
+ਤਾਰ	between_consonants	ə t̪ ɑ ɾ ə
+ਤਾਰ	alone	t̪ ɑ ɾ
+ੀਆ	between_vowels	i ɑ
+ੀਆ	between_consonants	i ɑ
+ੀਆ	alone	i ɑ
+ਾਬ	between_consonants	ɑ b ə
+ਾਬ	alone	ɑ b
+ਕਾਨ	between_vowels	k ɑ n
+ਕਾਨ	between_consonants	ə k ɑ n ə
+ਕਾਨ	alone	k ɑ n
+ੀਨ	between_vowels	i n
+ੀਨ	between_consonants	i n ə
+ੀਨ	alone	i n
+ਿਹ	between_vowels	ɪ ɦ
+ਿਹ	between_consonants	ɪ ɦ ə
+ਿਹ	alone	ɪ ɦ
+ਬਰ	between_vowels	b ɾ
+ਬਰ	between_consonants	ə b ɾ ə
+ਬਰ	alone	b ə ɾ
+ਟੋਲ	between_vowels	ʈ o l
+ਟੋਲ	alone	ʈ o l
+ਮੰ	between_vowels	m ə̃
+ਮੰ	between_consonants	ə m ə̃
+ਮੰ	alone	m ə̃
+ੱਕਰ	between_vowels	kː ə ɾ
+ੱਕਰ	between_consonants	ə kː ə ɾ ə
+ੱਕਰ	alone	kː ə ɾ
+ਬੇ	between_vowels	b e
+ਬੇ	between_consonants	ə b e
+ਬੇ	alone	b e
+ਪੰਜ	between_vowels	p ə̃ d͡ʒ
+ਪੰਜ	between_consonants	ə p ə̃ d͡ʒ ə
+ਪੰਜ	alone	p ə̃ d͡ʒ
+ਂਡ	between_consonants	ə̃ ɖ ə
+ਂਡ	alone	̃ ɖ
+ੱਥ	between_vowels	t̪ːʰ
+ੱਥ	between_consonants	ə t̪ːʰ ə
+ੱਥ	alone	t̪ːʰ
+ਬਲ	between_vowels	b l
+ਬਲ	alone	b ə l
+ਮੈ	between_vowels	m ɛ
+ਮੈ	between_consonants	ə m ɛ
+ਮੈ	alone	m ɛ
+ਖਿ	between_vowels	kʰ ɪ
+ਖਿ	between_consonants	ə kʰ ɪ
+ਖਿ	alone	kʰ ɪ
+ਰੇ	between_vowels	ɾ e
+ਰੇ	between_consonants	ə ɾ e
+ਰੇ	alone	ɾ e
+ਬਿ	between_vowels	b ɪ
+ਬਿ	between_consonants	ə b ɪ
+ਬਿ	alone	b ɪ
+ਵਰ	between_vowels	ʋ ɾ
+ਵਰ	between_consonants	ə ʋ ɾ ə
+ਵਰ	alone	ʋ ə ɾ
+ੁਲ	between_vowels	ʊ l
+ੁਲ	alone	ʊ l
+ੱਚ	between_vowels	t͡ʃː
+ੱਚ	between_consonants	ə t͡ʃː ə
+ੱਚ	alone	t͡ʃː
+ਸਿ	between_vowels	s ɪ
+ਸਿ	between_consonants	ə s ɪ
+ਸਿ	alone	s ɪ
+਼ਿ	alone	਼ ɪ
+ੇਲ	between_vowels	e l
+ੇਲ	alone	e l
+ਅਸ	between_vowels	ə s
+ਅਸ	between_consonants	ə s ə
+ਅਸ	alone	ə s
+ਣੀ	between_vowels	ɳ i
+ਣੀ	between_consonants	ə ɳ i
+ਣੀ	alone	ɳ i
+ਾਰੀ	between_consonants	ɑ ɾ i
+ਾਰੀ	alone	ɑ ɾ i
+ਊ	between_vowels	u
+ਊ	between_consonants	u
+ਊ	alone	u
+ੱਜ	between_vowels	d͡ʒː
+ੱਜ	between_consonants	ə d͡ʒː ə
+ੱਜ	alone	d͡ʒː
+ੱਤਰ	between_vowels	t̪ː ə ɾ
+ੱਤਰ	between_consonants	ə t̪ː ə ɾ ə
+ੱਤਰ	alone	t̪ː ə ɾ
+ਓ	between_vowels	o
+ਓ	between_consonants	o
+ਓ	alone	o
+ਕੱ	between_vowels	k əː
+ਕੱ	alone	k əː
+ਿੱਤ	between_vowels	ɪ t̪ː
+ਿੱਤ	between_consonants	ɪ t̪ː ə
+ਿੱਤ	alone	ɪ t̪ː
+ਅੰ	between_vowels	ə̃
+ਅੰ	between_consonants	ə̃
+ਅੰ	alone	ə̃
+ਮੁ	between_vowels	m ʊ
+ਮੁ	between_consonants	ə m ʊ
+ਮੁ	alone	m ʊ
+ਨਿ	between_vowels	n ɪ
+ਨਿ	between_consonants	ə n ɪ
+ਨਿ	alone	n ɪ
+ਮੀ	between_vowels	m i
+ਮੀ	between_consonants	ə m i
+ਮੀ	alone	m i
+ਮੇ	between_vowels	m e
+ਮੇ	between_consonants	ə m e
+ਮੇ	alone	m e
+ਯਾ	between_consonants	ə j ɑ
+ਯਾ	alone	j ɑ
+ਥਾ	between_consonants	ə t̪ʰ ɑ
+ਥਾ	alone	t̪ʰ ɑ
+ਕੰ	between_vowels	k ə̃
+ਕੰ	between_consonants	ə k ə̃
+ਕੰ	alone	k ə̃
+ਅਰ	between_vowels	ə ɾ
+ਅਰ	between_consonants	ə ɾ ə
+ਅਰ	alone	ə ɾ
+ਾਉ	between_consonants	ɑ ʊ
+ਾਉ	alone	ɑ ʊ
+ਾਉਣ	between_consonants	ɑ ʊ ɳ ə
+ਾਉਣ	alone	ɑ ʊ ɳ
+ਰਕ	between_vowels	ɾ k
+ਰਕ	between_consonants	ə ɾ k ə
+ਰਕ	alone	ɾ ə k
+ਿਤ	between_vowels	ɪ t̪
+ਿਤ	between_consonants	ɪ t̪ ə
+ਿਤ	alone	ɪ t̪
+ਸ਼ੁ	between_vowels	ʃ ʊ
+ਸ਼ੁ	between_consonants	ə ʃ ʊ
+ਸ਼ੁ	alone	ʃ ʊ
+ੁੱਲ	between_vowels	ʊ lː
+ੁੱਲ	alone	ʊ lː
+਼ਨ	alone	਼ n
+ਰੋ	between_vowels	ɾ o
+ਰੋ	between_consonants	ə ɾ o
+ਰੋ	alone	ɾ o
+ਹਿਰ	between_vowels	ɦ ɪ ɾ
+ਹਿਰ	between_consonants	ə ɦ ɪ ɾ ə
+ਹਿਰ	alone	ɦ ɪ ɾ
+ਾਕ਼	between_consonants	ɑ k ə਼
+ਾਕ਼	alone	ɑ k ə਼
+ਿੰਦ	between_vowels	ɪ̃ d̪
+ਿੰਦ	between_consonants	ɪ̃ d̪ ə
+ਿੰਦ	alone	ɪ̃ d̪
+ਾਣਾ	between_consonants	ɑ ɳ ɑ
+ਾਣਾ	alone	ɑ ɳ ɑ
+ਞ	between_vowels	ɲ
+ਞ	between_consonants	ə ɲ ə
+ਞ	alone	ɲ
+਼ਲ	alone	਼ l
+ਂਦ	between_consonants	ə̃ d̪ ə
+ਂਦ	alone	̃ d̪
+ੁਣ	between_vowels	ʊ ɳ
+ੁਣ	between_consonants	ʊ ɳ ə
+ੁਣ	alone	ʊ ɳ
+ਨਾਨ	between_vowels	n ɑ n
+ਨਾਨ	between_consonants	ə n ɑ n ə
+ਨਾਨ	alone	n ɑ n
+ਹਰ	between_vowels	ɦ ɾ
+ਹਰ	between_consonants	ə ɦ ɾ ə
+ਹਰ	alone	ɦ ə ɾ
+ਨੂ	between_vowels	n u
+ਨੂ	between_consonants	ə n u
+ਨੂ	alone	n u
+ੇਂ	between_vowels	ẽ
+ੇਂ	between_consonants	ẽ
+ੇਂ	alone	ẽ
+ਦਰ	between_vowels	d̪ ɾ
+ਦਰ	between_consonants	ə d̪ ɾ ə
+ਦਰ	alone	d̪ ə ɾ
+ਮਤ	between_vowels	m t̪
+ਮਤ	between_consonants	ə m t̪ ə
+ਮਤ	alone	m ə t̪
+ਵਾਰ	between_vowels	ʋ ɑ ɾ
+ਵਾਰ	between_consonants	ə ʋ ɑ ɾ ə
+ਵਾਰ	alone	ʋ ɑ ɾ
+ਿਸਮ	between_vowels	ɪ s m
+ਿਸਮ	between_consonants	ɪ s m ə
+ਿਸਮ	alone	ɪ s ə m
+ੰਬ	between_consonants	ə̃ b ə
+ੰਬ	alone	̃ b
+ਆਦ	between_vowels	ɑ d̪
+ਆਦ	between_consonants	ɑ d̪ ə
+ਆਦ	alone	ɑ d̪
+ਹੱ	between_vowels	ɦ əː
+ਹੱ	alone	ɦ əː
+ਛੱ	between_vowels	t͡ʃʰ əː
+ਛੱ	alone	t͡ʃʰ əː
+ੋਵ	between_vowels	o ʋ
+ੋਵ	between_consonants	o ʋ ə
+ੋਵ	alone	o ʋ
+ਂਗ	between_consonants	ə̃ ɡ ə
+ਂਗ	alone	̃ ɡ
+ਮੂ	between_vowels	m u
+ਮੂ	between_consonants	ə m u
+ਮੂ	alone	m u
+ਂਹ	between_consonants	ə̃ ɦ ə
+ਂਹ	alone	̃ ɦ
+ਕਾਰ	between_vowels	k ɑ ɾ
+ਕਾਰ	between_consonants	ə k ɑ ɾ ə
+ਕਾਰ	alone	k ɑ ɾ
+ਕਸ	between_vowels	k s
+ਕਸ	between_consonants	ə k s ə
+ਕਸ	alone	k ə s
+ੇੜ	between_vowels	e ɽ
+ੇੜ	between_consonants	e ɽ ə
+ੇੜ	alone	e ɽ
+ੜ੍	between_vowels	ɽ
+ੜ੍	between_consonants	ə ɽ
+ੜ੍	alone	ɽ
+ੜ੍ਹ	between_vowels	ɽ ɦ
+ੜ੍ਹ	between_consonants	ə ɽ ɦ ə
+ੜ੍ਹ	alone	ɽ ɦ
+੍ਹਾ	between_consonants	ɦ ɑ
+੍ਹਾ	alone	੍ ɦ ɑ
+ਦਾਰ	between_vowels	d̪ ɑ ɾ
+ਦਾਰ	between_consonants	ə d̪ ɑ ɾ ə
+ਦਾਰ	alone	d̪ ɑ ɾ
+ਸਮਾ	between_consonants	ə s m ɑ
+ਸਮਾ	alone	s ə m ɑ
+ਵੀ	between_vowels	ʋ i
+ਵੀ	between_consonants	ə ʋ i
+ਵੀ	alone	ʋ i
+ਸਵ	between_vowels	s ʋ
+ਸਵ	between_consonants	ə s ʋ ə
+ਸਵ	alone	s ə ʋ
+ਾਵ	between_consonants	ɑ ʋ ə
+ਾਵ	alone	ɑ ʋ
+ਬੀ	between_vowels	b i
+ਬੀ	between_consonants	ə b i
+ਬੀ	alone	b i
+ੱਧ	between_vowels	t̪ː
+ੱਧ	between_consonants	ə t̪ː ə
+ੱਧ	alone	t̪ː
+ਪੱ	between_vowels	p əː
+ਪੱ	alone	p əː
+ਮਕ	between_vowels	m k
+ਮਕ	between_consonants	ə m k ə
+ਮਕ	alone	m ə k
+ਮਕਾ	between_consonants	ə m k ɑ
+ਮਕਾ	alone	m ə k ɑ
+ਮਿ	between_vowels	m ɪ
+ਮਿ	between_consonants	ə m ɪ
+ਮਿ	alone	m ɪ
+ਾਨਾ	between_consonants	ɑ n ɑ
+ਾਨਾ	alone	ɑ n ɑ
+ੱਠ	between_vowels	ʈːʰ
+ੱਠ	between_consonants	ə ʈːʰ ə
+ੱਠ	alone	ʈːʰ
+ਝਾ	between_consonants	ə t͡ʃ ɑ
+ਝਾ	alone	t͡ʃ ɑ
+ੂਹ	between_vowels	u ɦ
+ੂਹ	between_consonants	u ɦ ə
+ੂਹ	alone	u ɦ
+ੜਨ	between_vowels	ɽ n
+ੜਨ	between_consonants	ə ɽ n ə
+ੜਨ	alone	ɽ ə n
+ੜਨਾ	between_consonants	ə ɽ n ɑ
+ੜਨਾ	alone	ɽ ə n ɑ
+ਪਹ	between_vowels	p ɦ
+ਪਹ	between_consonants	ə p ɦ ə
+ਪਹ	alone	p ə ɦ
+ਪੇ	between_vowels	p e
+ਪੇ	between_consonants	ə p e
+ਪੇ	alone	p e
+ਥੇ	between_vowels	t̪ʰ e
+ਥੇ	between_consonants	ə t̪ʰ e
+ਥੇ	alone	t̪ʰ e
+ਹੈ	between_vowels	ɦ ɛ
+ਹੈ	between_consonants	ə ɦ ɛ
+ਹੈ	alone	ɦ ɛ
+ਜਵ	between_vowels	d͡ʒ ʋ
+ਜਵ	between_consonants	ə d͡ʒ ʋ ə
+ਜਵ	alone	d͡ʒ ə ʋ
+ਆਲ	between_vowels	ɑ l
+ਆਲ	alone	ɑ l
+ਿਆਲ	between_vowels	ɪ ɑ l
+ਿਆਲ	alone	ɪ ɑ l
+ਸਣ	between_vowels	s ɳ
+ਸਣ	between_consonants	ə s ɳ ə
+ਸਣ	alone	s ə ɳ
+ੱਸਣ	between_vowels	sː ə ɳ
+ੱਸਣ	between_consonants	ə sː ə ɳ ə
+ੱਸਣ	alone	sː ə ɳ
+ਸਣਾ	between_consonants	ə s ɳ ɑ
+ਸਣਾ	alone	s ə ɳ ɑ
+ਜ਼ਾ	between_consonants	ə z ɑ
+ਜ਼ਾ	alone	z ɑ
+ਿਆਂ	between_vowels	ɪ ɑ̃
+ਿਆਂ	between_consonants	ɪ ɑ̃
+ਿਆਂ	alone	ɪ ɑ̃
+ਲਾਕ	between_vowels	l ɑ k
+ਲਾਕ	alone	l ɑ k
+ਤਾਨ	between_vowels	t̪ ɑ n
+ਤਾਨ	between_consonants	ə t̪ ɑ n ə
+ਤਾਨ	alone	t̪ ɑ n
+ਰੂ	between_vowels	ɾ u
+ਰੂ	between_consonants	ə ɾ u
+ਰੂ	alone	ɾ u
+ਤੁ	between_vowels	t̪ ʊ
+ਤੁ	between_consonants	ə t̪ ʊ
+ਤੁ	alone	t̪ ʊ
+ੌਣ	between_vowels	ɔ ɳ
+ੌਣ	between_consonants	ɔ ɳ ə
+ੌਣ	alone	ɔ ɳ
+ਟਣ	between_vowels	ʈ ɳ
+ਟਣ	between_consonants	ə ʈ ɳ ə
+ਟਣ	alone	ʈ ə ɳ
+ਟਣਾ	between_consonants	ə ʈ ɳ ɑ
+ਟਣਾ	alone	ʈ ə ɳ ɑ
+ਨੂੰ	between_vowels	n ũ
+ਨੂੰ	between_consonants	ə n ũ
+ਨੂੰ	alone	n ũ
+ਡਰ	between_vowels	ɖ ɾ
+ਡਰ	between_consonants	ə ɖ ɾ ə
+ਡਰ	alone	ɖ ə ɾ
+ੰਝ	between_consonants	ə̃ t͡ʃ ə
+ੰਝ	alone	̃ t͡ʃ
+ਥੋ	between_vowels	t̪ʰ o
+ਥੋ	between_consonants	ə t̪ʰ o
+ਥੋ	alone	t̪ʰ o
+ਕੇ	between_vowels	k e
+ਕੇ	between_consonants	ə k e
+ਕੇ	alone	k e
+ਤਵ	between_vowels	t̪ ʋ
+ਤਵ	between_consonants	ə t̪ ʋ ə
+ਤਵ	alone	t̪ ə ʋ
+ਤਰੀ	between_vowels	t̪ ɾ i
+ਤਰੀ	between_consonants	ə t̪ ɾ i
+ਤਰੀ	alone	t̪ ə ɾ i
+ਲੱ	between_vowels	l əː
+ਲੱ	alone	l əː
+ਲ੍	between_vowels	l
+ਲ੍	alone	l
+ਲ੍ਹ	between_vowels	l ɦ
+ਲ੍ਹ	alone	l ɦ
+਼ਮ	alone	਼ m
+ਡਣ	between_vowels	ɖ ɳ
+ਡਣ	between_consonants	ə ɖ ɳ ə
+ਡਣ	alone	ɖ ə ɳ
+ਡਣਾ	between_consonants	ə ɖ ɳ ɑ
+ਡਣਾ	alone	ɖ ə ɳ ɑ
+ੁਹ	between_vowels	ʊ ɦ
+ੁਹ	between_consonants	ʊ ɦ ə
+ੁਹ	alone	ʊ ɦ
+ਰੱ	between_vowels	ɾ əː
+ਰੱ	alone	ɾ əː
+ੱਖ	between_vowels	kːʰ
+ੱਖ	between_consonants	ə kːʰ ə
+ੱਖ	alone	kːʰ
+ਦੁਆ	between_vowels	d̪ ʊ ɑ
+ਦੁਆ	between_consonants	ə d̪ ʊ ɑ
+ਦੁਆ	alone	d̪ ʊ ɑ
+ੰਡਾ	between_consonants	ə̃ ɖ ɑ
+ੰਡਾ	alone	̃ ɖ ɑ
+ਾਜ਼	between_consonants	ɑ z ə
+ਾਜ਼	alone	ɑ z
+ੁਕ	between_vowels	ʊ k
+ੁਕ	between_consonants	ʊ k ə
+ੁਕ	alone	ʊ k
+ਕਤ	between_vowels	k t̪
+ਕਤ	between_consonants	ə k t̪ ə
+ਕਤ	alone	k ə t̪
+ਿਨ	between_vowels	ɪ n
+ਿਨ	between_consonants	ɪ n ə
+ਿਨ	alone	ɪ n
+ਰਖ	between_vowels	ɾ kʰ
+ਰਖ	between_consonants	ə ɾ kʰ ə
+ਰਖ	alone	ɾ ə kʰ
+ਖੰ	between_vowels	kʰ ə̃
+ਖੰ	between_consonants	ə kʰ ə̃
+ਖੰ	alone	kʰ ə̃
+ਯੂ	between_vowels	j u
+ਯੂ	between_consonants	ə j u
+ਯੂ	alone	j u
+ੂਸ	between_vowels	u s
+ੂਸ	between_consonants	u s ə
+ੂਸ	alone	u s
+ਪੁਰ	between_vowels	p ʊ ɾ
+ਪੁਰ	between_consonants	ə p ʊ ɾ ə
+ਪੁਰ	alone	p ʊ ɾ
+ਹੋਵ	between_vowels	ɦ o ʋ
+ਹੋਵ	between_consonants	ə ɦ o ʋ ə
+ਹੋਵ	alone	ɦ o ʋ
+ਾਂਗ	between_consonants	ɑ̃ ɡ ə
+ਾਂਗ	alone	ɑ̃ ɡ
+ਸਾਂ	between_vowels	s ɑ̃
+ਸਾਂ	between_consonants	ə s ɑ̃
+ਸਾਂ	alone	s ɑ̃
+ਜ਼ੀ	between_vowels	z i
+ਜ਼ੀ	between_consonants	ə z i
+ਜ਼ੀ	alone	z i
+ੰਡੀ	between_consonants	ə̃ ɖ i
+ੰਡੀ	alone	̃ ɖ i
+ਰਸ	between_vowels	ɾ s
+ਰਸ	between_consonants	ə ɾ s ə
+ਰਸ	alone	ɾ ə s
+ਫੁ	between_vowels	pʰ ʊ
+ਫੁ	between_consonants	ə pʰ ʊ
+ਫੁ	alone	pʰ ʊ
+ਚੌ	between_vowels	t͡ʃ ɔ
+ਚੌ	between_consonants	ə t͡ʃ ɔ
+ਚੌ	alone	t͡ʃ ɔ
+ੀਰ	between_vowels	i ɾ
+ੀਰ	between_consonants	i ɾ ə
+ੀਰ	alone	i ɾ
+ਕਲ	between_vowels	k l
+ਕਲ	alone	k ə l
+ਫ਼ਤ	between_vowels	f t̪
+ਫ਼ਤ	between_consonants	ə f t̪ ə
+ਫ਼ਤ	alone	f ə t̪
+ਪਰ	between_vowels	p ɾ
+ਪਰ	between_consonants	ə p ɾ ə
+ਪਰ	alone	p ə ɾ
+ੋਹ	between_vowels	o ɦ
+ੋਹ	between_consonants	o ɦ ə
+ੋਹ	alone	o ɦ
+ਕਰਾ	between_consonants	ə k ɾ ɑ
+ਕਰਾ	alone	k ə ɾ ɑ
+ੇਤ	between_vowels	e t̪
+ੇਤ	between_consonants	e t̪ ə
+ੇਤ	alone	e t̪
+਼ਦ	alone	਼ d̪
+ਲ਼ਦ	between_vowels	ɭ d̪
+ਲ਼ਦ	alone	ɭ ə d̪
+ਹੂ	between_vowels	ɦ u
+ਹੂ	between_consonants	ə ɦ u
+ਹੂ	alone	ɦ u
+ੰਤ	between_consonants	ə̃ t̪ ə
+ੰਤ	alone	̃ t̪
+ਦਵ	between_vowels	d̪ ʋ
+ਦਵ	between_consonants	ə d̪ ʋ ə
+ਦਵ	alone	d̪ ə ʋ
+ਦਵਾ	between_consonants	ə d̪ ʋ ɑ
+ਦਵਾ	alone	d̪ ə ʋ ɑ
+ਆਪ	between_vowels	ɑ p
+ਆਪ	between_consonants	ɑ p ə
+ਆਪ	alone	ɑ p
+ਾਖ	between_consonants	ɑ kʰ ə
+ਾਖ	alone	ɑ kʰ
+ੋੜ	between_vowels	o ɽ
+ੋੜ	between_consonants	o ɽ ə
+ੋੜ	alone	o ɽ
+ਡੁ	between_vowels	ɖ ʊ
+ਡੁ	between_consonants	ə ɖ ʊ
+ਡੁ	alone	ɖ ʊ
+ੇਖ	between_vowels	e kʰ
+ੇਖ	between_consonants	e kʰ ə
+ੇਖ	alone	e kʰ
+ਡੂ	between_vowels	ɖ u
+ਡੂ	between_consonants	ə ɖ u
+ਡੂ	alone	ɖ u
+ੰਘ	between_consonants	ə̃ k ə
+ੰਘ	alone	̃ k
+ਇੱ	between_vowels	ɪː
+ਇੱ	alone	ɪː
+ਂਡਾ	between_consonants	ə̃ ɖ ɑ
+ਂਡਾ	alone	̃ ɖ ɑ
+ਾਫ	between_consonants	ɑ pʰ ə
+ਾਫ	alone	ɑ pʰ
+ਜਵਾ	between_consonants	ə d͡ʒ ʋ ɑ
+ਜਵਾ	alone	d͡ʒ ə ʋ ɑ
+ਫ਼ਰ	between_vowels	f ɾ
+ਫ਼ਰ	between_consonants	ə f ɾ ə
+ਫ਼ਰ	alone	f ə ɾ
+ਯਕ	between_vowels	j k
+ਯਕ	between_consonants	ə j k ə
+ਯਕ	alone	j ə k
+ੀਸ	between_vowels	i s
+ੀਸ	between_consonants	i s ə
+ੀਸ	alone	i s
+਼ਨਾ	alone	਼ n ɑ
+ਨੱ	between_vowels	n əː
+ਨੱ	alone	n əː
+ਰਗ	between_vowels	ɾ ɡ
+ਰਗ	between_consonants	ə ɾ ɡ ə
+ਰਗ	alone	ɾ ə ɡ
+ਰਾਜ	between_vowels	ɾ ɑ d͡ʒ
+ਰਾਜ	between_consonants	ə ɾ ɑ d͡ʒ ə
+ਰਾਜ	alone	ɾ ɑ d͡ʒ
+ੇਵ	between_vowels	e ʋ
+ੇਵ	between_consonants	e ʋ ə
+ੇਵ	alone	e ʋ
+ਰਬ	between_vowels	ɾ b
+ਰਬ	between_consonants	ə ɾ b ə
+ਰਬ	alone	ɾ ə b
+ਹਦ	between_vowels	ɦ d̪
+ਹਦ	between_consonants	ə ɦ d̪ ə
+ਹਦ	alone	ɦ ə d̪
+ਚਣ	between_vowels	t͡ʃ ɳ
+ਚਣ	between_consonants	ə t͡ʃ ɳ ə
+ਚਣ	alone	t͡ʃ ə ɳ
+ਚਣਾ	between_consonants	ə t͡ʃ ɳ ɑ
+ਚਣਾ	alone	t͡ʃ ə ɳ ɑ
+ਵੰਜ	between_vowels	ʋ ə̃ d͡ʒ
+ਵੰਜ	between_consonants	ə ʋ ə̃ d͡ʒ ə
+ਵੰਜ	alone	ʋ ə̃ d͡ʒ
+ਜੀ	between_vowels	d͡ʒ i
+ਜੀ	between_consonants	ə d͡ʒ i
+ਜੀ	alone	d͡ʒ i
+ਹਿੰ	between_vowels	ɦ ɪ̃
+ਹਿੰ	between_consonants	ə ɦ ɪ̃
+ਹਿੰ	alone	ɦ ɪ̃
+ਆਰ	between_vowels	ɑ ɾ
+ਆਰ	between_consonants	ɑ ɾ ə
+ਆਰ	alone	ɑ ɾ
+ਿਸ਼	between_vowels	ɪ ʃ
+ਿਸ਼	between_consonants	ɪ ʃ ə
+ਿਸ਼	alone	ɪ ʃ
+ਨਾਮ	between_vowels	n ɑ m
+ਨਾਮ	between_consonants	ə n ɑ m ə
+ਨਾਮ	alone	n ɑ m
+ਾਮਾ	between_consonants	ɑ m ɑ
+ਾਮਾ	alone	ɑ m ɑ
+ਸੇ	between_vowels	s e
+ਸੇ	between_consonants	ə s e
+ਸੇ	alone	s e
+ਗੁਣ	between_vowels	ɡ ʊ ɳ
+ਗੁਣ	between_consonants	ə ɡ ʊ ɳ ə
+ਗੁਣ	alone	ɡ ʊ ɳ
+ਅਠ	between_vowels	ə ʈʰ
+ਅਠ	between_consonants	ə ʈʰ ə
+ਅਠ	alone	ə ʈʰ
+ੂਨ	between_vowels	u n
+ੂਨ	between_consonants	u n ə
+ੂਨ	alone	u n
+ੱਟਣ	between_vowels	ʈː ə ɳ
+ੱਟਣ	between_consonants	ə ʈː ə ɳ ə
+ੱਟਣ	alone	ʈː ə ɳ
+ਜਰ	between_vowels	d͡ʒ ɾ
+ਜਰ	between_consonants	ə d͡ʒ ɾ ə
+ਜਰ	alone	d͡ʒ ə ɾ
+ਨਵ	between_vowels	n ʋ
+ਨਵ	between_consonants	ə n ʋ ə
+ਨਵ	alone	n ə ʋ
+ਚਿ	between_vowels	t͡ʃ ɪ
+ਚਿ	between_consonants	ə t͡ʃ ɪ
+ਚਿ	alone	t͡ʃ ɪ
+ਸਟ	between_vowels	s ʈ
+ਸਟ	between_consonants	ə s ʈ ə
+ਸਟ	alone	s ə ʈ
+ੂਰ	between_vowels	u ɾ
+ੂਰ	between_consonants	u ɾ ə
+ੂਰ	alone	u ɾ
+ੰਨਾ	between_consonants	ə̃ n ɑ
+ੰਨਾ	alone	̃ n ɑ
+ਉਸ	between_vowels	ʊ s
+ਉਸ	between_consonants	ʊ s ə
+ਉਸ	alone	ʊ s
+ਦਲ	between_vowels	d̪ l
+ਦਲ	alone	d̪ ə l
+ਕੂ	between_vowels	k u
+ਕੂ	between_consonants	ə k u
+ਕੂ	alone	k u
+ੀਕ	between_vowels	i k
+ੀਕ	between_consonants	i k ə
+ੀਕ	alone	i k
+ੱਭ	between_vowels	pː
+ੱਭ	between_consonants	ə pː ə
+ੱਭ	alone	pː
+ਖੱ	between_vowels	kʰ əː
+ਖੱ	alone	kʰ əː
+ਗੱ	between_vowels	ɡ əː
+ਗੱ	alone	ɡ əː
+ੱਗ	between_vowels	ɡː
+ੱਗ	between_consonants	ə ɡː ə
+ੱਗ	alone	ɡː
+ਪਿੱ	between_vowels	p ɪː
+ਪਿੱ	alone	p ɪː
+ਮਸ਼	between_vowels	m ʃ
+ਮਸ਼	between_consonants	ə m ʃ ə
+ਮਸ਼	alone	m ə ʃ
+ਕੀਤ	between_vowels	k i t̪
+ਕੀਤ	between_consonants	ə k i t̪ ə
+ਕੀਤ	alone	k i t̪
+ੀਤਾ	between_consonants	i t̪ ɑ
+ੀਤਾ	alone	i t̪ ɑ
+ਜਿ	between_vowels	d͡ʒ ɪ
+ਜਿ	between_consonants	ə d͡ʒ ɪ
+ਜਿ	alone	d͡ʒ ɪ
+ੁੱਕ	between_vowels	ʊ kː
+ੁੱਕ	between_consonants	ʊ kː ə
+ੁੱਕ	alone	ʊ kː
+ਖੰਡ	between_vowels	kʰ ə̃ ɖ
+ਖੰਡ	between_consonants	ə kʰ ə̃ ɖ ə
+ਖੰਡ	alone	kʰ ə̃ ɖ
+ਆਣ	between_vowels	ɑ ɳ
+ਆਣ	between_consonants	ɑ ɳ ə
+ਆਣ	alone	ɑ ɳ
+ਿਆਣ	between_vowels	ɪ ɑ ɳ
+ਿਆਣ	between_consonants	ɪ ɑ ɳ ə
+ਿਆਣ	alone	ɪ ɑ ɳ
+ਗੰ	between_vowels	ɡ ə̃
+ਗੰ	between_consonants	ə ɡ ə̃
+ਗੰ	alone	ɡ ə̃
+ੰਢ	between_consonants	ə̃ ʈ ə
+ੰਢ	alone	̃ ʈ
+ੁਫ	between_vowels	ʊ pʰ
+ੁਫ	between_consonants	ʊ pʰ ə
+ੁਫ	alone	ʊ pʰ
+ਮੋ	between_vowels	m o
+ਮੋ	between_consonants	ə m o
+ਮੋ	alone	m o
+ਮਨ	between_vowels	m n
+ਮਨ	between_consonants	ə m n ə
+ਮਨ	alone	m ə n
+ੀਦ	between_vowels	i d̪
+ੀਦ	between_consonants	i d̪ ə
+ੀਦ	alone	i d̪
+ਬਜ	between_vowels	b d͡ʒ
+ਬਜ	between_consonants	ə b d͡ʒ ə
+ਬਜ	alone	b ə d͡ʒ
+ੱਡੀ	between_vowels	ɖː i
+ੱਡੀ	between_consonants	ə ɖː i
+ੱਡੀ	alone	ɖː i
+ਬਦ	between_vowels	b d̪
+ਬਦ	between_consonants	ə b d̪ ə
+ਬਦ	alone	b ə d̪
+ਕਸ਼	between_vowels	k ʃ
+ਕਸ਼	between_consonants	ə k ʃ ə
+ਕਸ਼	alone	k ə ʃ
+ਸ਼ਤ	between_vowels	ʃ t̪
+ਸ਼ਤ	between_consonants	ə ʃ t̪ ə
+ਸ਼ਤ	alone	ʃ ə t̪
+ਾਲਿ	between_consonants	ɑ l ɪ
+ਾਲਿ	alone	ɑ l ɪ
+ਚੁ	between_vowels	t͡ʃ ʊ
+ਚੁ	between_consonants	ə t͡ʃ ʊ
+ਚੁ	alone	t͡ʃ ʊ
+ਰਦਾ	between_consonants	ə ɾ d̪ ɑ
+ਰਦਾ	alone	ɾ ə d̪ ɑ
+ਾਸ਼	between_consonants	ɑ ʃ ə
+ਾਸ਼	alone	ɑ ʃ
+ਤ੍	between_vowels	t̪
+ਤ੍	between_consonants	ə t̪
+ਤ੍	alone	t̪
+ਤ੍ਰ	between_vowels	t̪ ɾ
+ਤ੍ਰ	between_consonants	ə t̪ ɾ ə
+ਤ੍ਰ	alone	t̪ ɾ
+੍ਰੀ	between_consonants	ɾ i
+੍ਰੀ	alone	੍ ɾ i
+ਸ਼ਰ	between_vowels	ʃ ɾ
+ਸ਼ਰ	between_consonants	ə ʃ ɾ ə
+ਸ਼ਰ	alone	ʃ ə ɾ
+ਗਨ	between_vowels	ɡ n
+ਗਨ	between_consonants	ə ɡ n ə
+ਗਨ	alone	ɡ ə n
+ਾਦਾ	between_consonants	ɑ d̪ ɑ
+ਾਦਾ	alone	ɑ d̪ ɑ
+ਲਮ	between_vowels	l m
+ਲਮ	alone	l ə m
+ਤਿਆ	between_vowels	t̪ ɪ ɑ
+ਤਿਆ	between_consonants	ə t̪ ɪ ɑ
+ਤਿਆ	alone	t̪ ɪ ɑ
+ਿਫ	between_vowels	ɪ pʰ
+ਿਫ	between_consonants	ɪ pʰ ə
+ਿਫ	alone	ɪ pʰ
+ਿਫ਼	between_vowels	ɪ f
+ਿਫ਼	between_consonants	ɪ f ə
+ਿਫ਼	alone	ɪ f
+਼ਤਾ	alone	਼ t̪ ɑ
+ਦੂ	between_vowels	d̪ u
+ਦੂ	between_consonants	ə d̪ u
+ਦੂ	alone	d̪ u
+ੁਰਾ	between_consonants	ʊ ɾ ɑ
+ੁਰਾ	alone	ʊ ɾ ɑ
+ਤਰਾ	between_consonants	ə t̪ ɾ ɑ
+ਤਰਾ	alone	t̪ ə ɾ ɑ
+ਮ੍	between_vowels	m
+ਮ੍	between_consonants	ə m
+ਮ੍	alone	m
+ਹਣ	between_vowels	ɦ ɳ
+ਹਣ	between_consonants	ə ɦ ɳ ə
+ਹਣ	alone	ɦ ə ɳ
+ਬੰ	between_vowels	b ə̃
+ਬੰ	between_consonants	ə b ə̃
+ਬੰ	alone	b ə̃
+ੱਪ	between_vowels	pː
+ੱਪ	between_consonants	ə pː ə
+ੱਪ	alone	pː
+ਹੜ	between_vowels	ɦ ɽ
+ਹੜ	between_consonants	ə ɦ ɽ ə
+ਹੜ	alone	ɦ ə ɽ
+਼ਾਂ	alone	਼ ɑ̃
+ਮੱ	between_vowels	m əː
+ਮੱ	alone	m əː
+ਛੇ	between_vowels	t͡ʃʰ e
+ਛੇ	between_consonants	ə t͡ʃʰ e
+ਛੇ	alone	t͡ʃʰ e
+ਜੋ	between_vowels	d͡ʒ o
+ਜੋ	between_consonants	ə d͡ʒ o
+ਜੋ	alone	d͡ʒ o
+ਬਸ	between_vowels	b s
+ਬਸ	between_consonants	ə b s ə
+ਬਸ	alone	b ə s
+ੇਗ	between_vowels	e ɡ
+ੇਗ	between_consonants	e ɡ ə
+ੇਗ	alone	e ɡ
+ਡੁੱ	between_vowels	ɖ ʊː
+ਡੁੱ	alone	ɖ ʊː
+ੁੱਬ	between_vowels	ʊ bː
+ੁੱਬ	between_consonants	ʊ bː ə
+ੁੱਬ	alone	ʊ bː
+ਾਪ	between_consonants	ɑ p ə
+ਾਪ	alone	ɑ p
+ਬੂ	between_vowels	b u
+ਬੂ	between_consonants	ə b u
+ਬੂ	alone	b u
+ਏ	between_vowels	e
+ਏ	between_consonants	e
+ਏ	alone	e
+ਬ੍	between_vowels	b
+ਬ੍	between_consonants	ə b
+ਬ੍	alone	b
+ੁੱਤ	between_vowels	ʊ t̪ː
+ੁੱਤ	between_consonants	ʊ t̪ː ə
+ੁੱਤ	alone	ʊ t̪ː
+ਸਹ	between_vowels	s ɦ
+ਸਹ	between_consonants	ə s ɦ ə
+ਸਹ	alone	s ə ɦ
+ਮੁੱ	between_vowels	m ʊː
+ਮੁੱ	alone	m ʊː
+ਾਫ਼	between_consonants	ɑ f ə
+ਾਫ਼	alone	ɑ f
+ਖਿਆ	between_vowels	kʰ ɪ ɑ
+ਖਿਆ	between_consonants	ə kʰ ɪ ɑ
+ਖਿਆ	alone	kʰ ɪ ɑ
+ਅਗ	between_vowels	ə ɡ
+ਅਗ	between_consonants	ə ɡ ə
+ਅਗ	alone	ə ɡ
+ੇਹ	between_vowels	e ɦ
+ੇਹ	between_consonants	e ɦ ə
+ੇਹ	alone	e ɦ
+ਾਰਨ	between_consonants	ɑ ɾ n ə
+ਾਰਨ	alone	ɑ ɾ ə n
+ਗਿ	between_vowels	ɡ ɪ
+ਗਿ	between_consonants	ə ɡ ɪ
+ਗਿ	alone	ɡ ɪ
+ਛਾ	between_consonants	ə t͡ʃʰ ɑ
+ਛਾ	alone	t͡ʃʰ ɑ
+ਪਤ	between_vowels	p t̪
+ਪਤ	between_consonants	ə p t̪ ə
+ਪਤ	alone	p ə t̪
+ਗੁਰ	between_vowels	ɡ ʊ ɾ
+ਗੁਰ	between_consonants	ə ɡ ʊ ɾ ə
+ਗੁਰ	alone	ɡ ʊ ɾ
+਼ੂ	alone	਼ u
+ਹਦਾ	between_consonants	ə ɦ d̪ ɑ
+ਹਦਾ	alone	ɦ ə d̪ ɑ
+ਪੈ	between_vowels	p ɛ
+ਪੈ	between_consonants	ə p ɛ
+ਪੈ	alone	p ɛ
+ਨੇ	between_vowels	n e
+ਨੇ	between_consonants	ə n e
+ਨੇ	alone	n e
+ਕਰੀ	between_vowels	k ɾ i
+ਕਰੀ	between_consonants	ə k ɾ i
+ਕਰੀ	alone	k ə ɾ i
+ਨਾਂ	between_vowels	n ɑ̃
+ਨਾਂ	between_consonants	ə n ɑ̃
+ਨਾਂ	alone	n ɑ̃
+ਲਹ	between_vowels	l ɦ
+ਲਹ	alone	l ə ɦ
+ੰਦਾ	between_consonants	ə̃ d̪ ɑ
+ੰਦਾ	alone	̃ d̪ ɑ
+ਿਸਤ	between_vowels	ɪ s t̪
+ਿਸਤ	between_consonants	ɪ s t̪ ə
+ਿਸਤ	alone	ɪ s ə t̪
+ੂਦ	between_vowels	u d̪
+ੂਦ	between_consonants	u d̪ ə
+ੂਦ	alone	u d̪
+ਗੇ	between_vowels	ɡ e
+ਗੇ	between_consonants	ə ɡ e
+ਗੇ	alone	ɡ e
+ਕਰਨ	between_vowels	k ɾ ə n
+ਕਰਨ	between_consonants	ə k ɾ ə n ə
+ਕਰਨ	alone	k ə ɾ ə n
+ਧਾ	between_consonants	ə t̪ ɑ
+ਧਾ	alone	t̪ ɑ
+ਕਰਦ	between_vowels	k ɾ ə d̪
+ਕਰਦ	between_consonants	ə k ɾ ə d̪ ə
+ਕਰਦ	alone	k ə ɾ ə d̪
+ਚੋ	between_vowels	t͡ʃ o
+ਚੋ	between_consonants	ə t͡ʃ o
+ਚੋ	alone	t͡ʃ o
+ਘਿ	between_vowels	k ɪ
+ਘਿ	between_consonants	ə k ɪ
+ਘਿ	alone	k ɪ
+ਖ਼ਤ	between_vowels	x t̪
+ਖ਼ਤ	between_consonants	ə x t̪ ə
+ਖ਼ਤ	alone	x ə t̪
+ੇਵਾ	between_consonants	e ʋ ɑ
+ੇਵਾ	alone	e ʋ ɑ
+ਿੰਨ	between_vowels	ɪ̃ n
+ਿੰਨ	between_consonants	ɪ̃ n ə
+ਿੰਨ	alone	ɪ̃ n
+ਅਨ	between_vowels	ə n
+ਅਨ	between_consonants	ə n ə
+ਅਨ	alone	ə n
+ੁਦ	between_vowels	ʊ d̪
+ੁਦ	between_consonants	ʊ d̪ ə
+ੁਦ	alone	ʊ d̪
+ਰੁ	between_vowels	ɾ ʊ
+ਰੁ	between_consonants	ə ɾ ʊ
+ਰੁ	alone	ɾ ʊ
+ੁੱਟ	between_vowels	ʊ ʈː
+ੁੱਟ	between_consonants	ʊ ʈː ə
+ੁੱਟ	alone	ʊ ʈː
+ਸ਼ੀ	between_vowels	ʃ i
+ਸ਼ੀ	between_consonants	ə ʃ i
+ਸ਼ੀ	alone	ʃ i
+ਦੋ	between_vowels	d̪ o
+ਦੋ	between_consonants	ə d̪ o
+ਦੋ	alone	d̪ o
+ਲਿਸ	between_vowels	l ɪ s
+ਲਿਸ	alone	l ɪ s
+ਬੱਕ	between_vowels	b ə kː
+ਬੱਕ	between_consonants	ə b ə kː ə
+ਬੱਕ	alone	b ə kː
+਼ਸ	alone	਼ s
+਼ਸ਼	alone	਼ ʃ
+ਪੀਤ	between_vowels	p i t̪
+ਪੀਤ	between_consonants	ə p i t̪ ə
+ਪੀਤ	alone	p i t̪
+ਕੜ	between_vowels	k ɽ
+ਕੜ	between_consonants	ə k ɽ ə
+ਕੜ	alone	k ə ɽ
+ਵਿੱ	between_vowels	ʋ ɪː
+ਵਿੱ	alone	ʋ ɪː
+ੰਞ	between_consonants	ə̃ ɲ ə
+ੰਞ	alone	̃ ɲ
+ੌਣਾ	between_consonants	ɔ ɳ ɑ
+ੌਣਾ	alone	ɔ ɳ ɑ
+ਗੋ	between_vowels	ɡ o
+ਗੋ	between_consonants	ə ɡ o
+ਗੋ	alone	ɡ o
+ਰਿਸ	between_vowels	ɾ ɪ s
+ਰਿਸ	between_consonants	ə ɾ ɪ s ə
+ਰਿਸ	alone	ɾ ɪ s
+ਥੋਂ	between_vowels	t̪ʰ õ
+ਥੋਂ	between_consonants	ə t̪ʰ õ
+ਥੋਂ	alone	t̪ʰ õ
+਼ਹ	alone	਼ ɦ
+ਿਲ	between_vowels	ɪ l
+ਿਲ	alone	ɪ l
+ਉਖ	between_vowels	ʊ kʰ
+ਉਖ	between_consonants	ʊ kʰ ə
+ਉਖ	alone	ʊ kʰ
+ਉਖਾ	between_consonants	ʊ kʰ ɑ
+ਉਖਾ	alone	ʊ kʰ ɑ
+ਖਾੜ	between_vowels	kʰ ɑ ɽ
+ਖਾੜ	between_consonants	ə kʰ ɑ ɽ ə
+ਖਾੜ	alone	kʰ ɑ ɽ
+ਾਗ਼	between_consonants	ɑ ɣ ə
+ਾਗ਼	alone	ɑ ɣ
+਼ਜ	alone	਼ d͡ʒ
+ਿਮ	between_vowels	ɪ m
+ਿਮ	between_consonants	ɪ m ə
+ਿਮ	alone	ɪ m
+ੁਬ	between_vowels	ʊ b
+ੁਬ	between_consonants	ʊ b ə
+ੁਬ	alone	ʊ b
+ਉਸਤ	between_vowels	ʊ s t̪
+ਉਸਤ	between_consonants	ʊ s t̪ ə
+ਉਸਤ	alone	ʊ s ə t̪
+ਸਤਵ	between_vowels	s t̪ ə ʋ
+ਸਤਵ	between_consonants	ə s t̪ ə ʋ ə
+ਸਤਵ	alone	s ə t̪ ə ʋ
+ਕਿਸ	between_vowels	k ɪ s
+ਕਿਸ	between_consonants	ə k ɪ s ə
+ਕਿਸ	alone	k ɪ s
+ਘੱ	between_vowels	k əː
+ਘੱ	alone	k əː
+ਲਣ	between_vowels	l ɳ
+ਲਣ	alone	l ə ɳ
+ਲਣਾ	alone	l ə ɳ ɑ
+ਾਹੀ	between_consonants	ɑ ɦ i
+ਾਹੀ	alone	ɑ ɦ i
+ਊਦ	between_vowels	u d̪
+ਊਦ	between_consonants	u d̪ ə
+ਊਦ	alone	u d̪
+ਭਣ	between_vowels	p ɳ
+ਭਣ	between_consonants	ə p ɳ ə
+ਭਣ	alone	p ə ɳ
+ਬਾਜ	between_vowels	b ɑ d͡ʒ
+ਬਾਜ	between_consonants	ə b ɑ d͡ʒ ə
+ਬਾਜ	alone	b ɑ d͡ʒ
+ਾਜਾ	between_consonants	ɑ d͡ʒ ɑ
+ਾਜਾ	alone	ɑ d͡ʒ ɑ
+ਤਲ਼	between_vowels	t̪ ɭ
+ਤਲ਼	between_consonants	ə t̪ ɭ ə
+ਤਲ਼	alone	t̪ ə ɭ
+ਸ਼ਮ	between_vowels	ʃ m
+ਸ਼ਮ	between_consonants	ə ʃ m ə
+ਸ਼ਮ	alone	ʃ ə m
+ਹੰ	between_vowels	ɦ ə̃
+ਹੰ	between_consonants	ə ɦ ə̃
+ਹੰ	alone	ɦ ə̃
+ਖਣ	between_vowels	kʰ ɳ
+ਖਣ	between_consonants	ə kʰ ɳ ə
+ਖਣ	alone	kʰ ə ɳ
+ਖਣਾ	between_consonants	ə kʰ ɳ ɑ
+ਖਣਾ	alone	kʰ ə ɳ ɑ
+ਆਖ	between_vowels	ɑ kʰ
+ਆਖ	between_consonants	ɑ kʰ ə
+ਆਖ	alone	ɑ kʰ
+ੁੰਡ	between_vowels	ʊ̃ ɖ
+ੁੰਡ	between_consonants	ʊ̃ ɖ ə
+ੁੰਡ	alone	ʊ̃ ɖ
+ਸੁਆ	between_vowels	s ʊ ɑ
+ਸੁਆ	between_consonants	ə s ʊ ɑ
+ਸੁਆ	alone	s ʊ ɑ
+ਨਸ	between_vowels	n s
+ਨਸ	between_consonants	ə n s ə
+ਨਸ	alone	n ə s
+ਤਸ	between_vowels	t̪ s
+ਤਸ	between_consonants	ə t̪ s ə
+ਤਸ	alone	t̪ ə s
+਼ਾਹ	alone	਼ ɑ ɦ
+ਆਣਾ	between_consonants	ɑ ɳ ɑ
+ਆਣਾ	alone	ɑ ɳ ɑ
+ਢਾ	between_consonants	ə ʈ ɑ
+ਢਾ	alone	ʈ ɑ
+ਗੰਢ	between_vowels	ɡ ə̃ ʈ
+ਗੰਢ	between_consonants	ə ɡ ə̃ ʈ ə
+ਗੰਢ	alone	ɡ ə̃ ʈ
+ਡੰ	between_vowels	ɖ ə̃
+ਡੰ	between_consonants	ə ɖ ə̃
+ਡੰ	alone	ɖ ə̃
+ਵਲ	between_vowels	ʋ l
+ਵਲ	alone	ʋ ə l
+ਾਇ	between_consonants	ɑ ɪ
+ਾਇ	alone	ɑ ɪ
+ੀਪ	between_vowels	i p
+ੀਪ	between_consonants	i p ə
+ੀਪ	alone	i p
+ੋਵਾ	between_consonants	o ʋ ɑ
+ੋਵਾ	alone	o ʋ ɑ
+ਟੱ	between_vowels	ʈ əː
+ਟੱ	alone	ʈ əː
+ੱਟੀ	between_vowels	ʈː i
+ੱਟੀ	between_consonants	ə ʈː i
+ੱਟੀ	alone	ʈː i
+ਝੀ	between_vowels	t͡ʃ i
+ਝੀ	between_consonants	ə t͡ʃ i
+ਝੀ	alone	t͡ʃ i
+ੂਤ	between_vowels	u t̪
+ੂਤ	between_consonants	u t̪ ə
+ੂਤ	alone	u t̪
+ਾਂਹ	between_consonants	ɑ̃ ɦ ə
+ਾਂਹ	alone	ɑ̃ ɦ
+ੀਜ	between_vowels	i d͡ʒ
+ੀਜ	between_consonants	i d͡ʒ ə
+ੀਜ	alone	i d͡ʒ
+ਵਾਲ	between_vowels	ʋ ɑ l
+ਵਾਲ	alone	ʋ ɑ l
+ਲਿਆ	between_vowels	l ɪ ɑ
+ਲਿਆ	alone	l ɪ ɑ
+ਹੇ	between_vowels	ɦ e
+ਹੇ	between_consonants	ə ɦ e
+ਹੇ	alone	ɦ e
+ਫੁੱ	between_vowels	pʰ ʊː
+ਫੁੱ	alone	pʰ ʊː
+ਾਝ	between_consonants	ɑ t͡ʃ ə
+ਾਝ	alone	ɑ t͡ʃ
+ਕਿੱ	between_vowels	k ɪː
+ਕਿੱ	alone	k ɪː
+ੱਦਾ	between_consonants	ə d̪ː ɑ
+ੱਦਾ	alone	d̪ː ɑ
+ਦਾਂ	between_vowels	d̪ ɑ̃
+ਦਾਂ	between_consonants	ə d̪ ɑ̃
+ਦਾਂ	alone	d̪ ɑ̃
+ਖੁ	between_vowels	kʰ ʊ
+ਖੁ	between_consonants	ə kʰ ʊ
+ਖੁ	alone	kʰ ʊ
+ਰਪ	between_vowels	ɾ p
+ਰਪ	between_consonants	ə ɾ p ə
+ਰਪ	alone	ɾ ə p
+ਘੜ	between_vowels	k ɽ
+ਘੜ	between_consonants	ə k ɽ ə
+ਘੜ	alone	k ə ɽ
+ੀਂਹ	between_vowels	ĩ ɦ
+ੀਂਹ	between_consonants	ĩ ɦ ə
+ੀਂਹ	alone	ĩ ɦ
+ਾਧ	between_consonants	ɑ t̪ ə
+ਾਧ	alone	ɑ t̪
+਼ਰਾ	alone	਼ ɾ ɑ
+ਾਰਤ	between_consonants	ɑ ɾ t̪ ə
+ਾਰਤ	alone	ɑ ɾ ə t̪
+ੀਮ	between_vowels	i m
+ੀਮ	between_consonants	i m ə
+ੀਮ	alone	i m
+ਪਿੰ	between_vowels	p ɪ̃
+ਪਿੰ	between_consonants	ə p ɪ̃
+ਪਿੰ	alone	p ɪ̃
+ਿੰਡ	between_vowels	ɪ̃ ɖ
+ਿੰਡ	between_consonants	ɪ̃ ɖ ə
+ਿੰਡ	alone	ɪ̃ ɖ
+ਦਾਦ	between_vowels	d̪ ɑ d̪
+ਦਾਦ	between_consonants	ə d̪ ɑ d̪ ə
+ਦਾਦ	alone	d̪ ɑ d̪
+ਸਸ	between_vowels	s s
+ਸਸ	between_consonants	ə s s ə
+ਸਸ	alone	s ə s
+ਸਕ	between_vowels	s k
+ਸਕ	between_consonants	ə s k ə
+ਸਕ	alone	s ə k
+ੀਵ	between_vowels	i ʋ
+ੀਵ	between_consonants	i ʋ ə
+ੀਵ	alone	i ʋ
+ੀਵਾ	between_consonants	i ʋ ɑ
+ੀਵਾ	alone	i ʋ ɑ
+ਧੀ	between_vowels	t̪ i
+ਧੀ	between_consonants	ə t̪ i
+ਧੀ	alone	t̪ i
+ੂਕ	between_vowels	u k
+ੂਕ	between_consonants	u k ə
+ੂਕ	alone	u k
+ੰਧ	between_consonants	ə̃ t̪ ə
+ੰਧ	alone	̃ t̪
+੍ਰਿ	between_consonants	ɾ ɪ
+੍ਰਿ	alone	੍ ɾ ɪ
+ਵੱ	between_vowels	ʋ əː
+ਵੱ	alone	ʋ əː

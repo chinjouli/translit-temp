@@ -4,7 +4,8 @@ spelling, from data/<code>/roman.csv (text-pilot's ROMAN, extended); no read-bac
 Continental vowels (a e i o u) with English consonant digraphs (sh zh ch j th ng kh).
 A phone not in the table is tried without its diacritics, length and modifiers
 (kʰ -> k, l̴ -> l), then through data/default/fallback.csv, then as the feature-nearest
-listed phone, so nothing is dropped. An r-coloured vowel is the vowel + r, a nasal
+listed phone, so nothing is dropped. An r-coloured vowel is the vowel + r, a breathy
+stop + h (Hindi धर = dhar), a nasal
 vowel the vowel + n unless a nasal consonant follows (bonzhur, spin). Split-off
 palatalization is y before a back vowel (мясо -> myaso) and nothing elsewhere
 (мартин -> martin); labialization likewise w. Optional pre.txt/subst.csv/post.txt.
@@ -20,6 +21,7 @@ from phones import MODIFIERS, is_vowel
 FRONT = set("ieɪɛ")
 NASAL_MARK, NASALS = "\u0303", set("mnŋɲɱɳ")
 GLIDE = {"ʲ": "y", "ʷ": "w"}
+BREATHY = "\u0324"  # combining diaeresis below: b̤ d̤ ɡ̤
 
 
 def _nfd(text):
@@ -46,6 +48,8 @@ class Roman:
         if "˞" in p:
             vowel = self.letters(p.replace("˞", ""))
             return vowel if vowel.endswith("r") else vowel + "r"
+        if BREATHY in p:  # Hindi breathy-voiced stops: ध = dh, घ = gh, भ = bh
+            return self.letters(p.replace(BREATHY, "")) + "h"
         base = "".join(c for c in p if not unicodedata.combining(c)
                        and c not in MODIFIERS) or p
         if base in self.table:
